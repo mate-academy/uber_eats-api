@@ -1,0 +1,1430 @@
+{
+    "status": "success",
+    "data": {
+        "sectionEntitiesMap": {
+            "8ed4b071-424c-4427-8b54-15d2bab43a35": {
+                "3da0d8c3-d5eb-4be6-8852-c13a727e23c5": {
+                    "description": "Pan-fried scallops glazed with a sweet soy sauce",
+                    "imageUrl": "",
+                    "price": 590,
+                    "title": "Scallop (2pcs)",
+                    "uuid": "3da0d8c3-d5eb-4be6-8852-c13a727e23c5",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "a2a895f8-8d5e-465c-a2ee-33e6d8058a13": {
+                    "description": "Stir fried thick noodles with vegetable",
+                    "imageUrl": "",
+                    "price": 1100,
+                    "title": "Udon Chicken",
+                    "uuid": "a2a895f8-8d5e-465c-a2ee-33e6d8058a13",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "71ac486d-96ce-4386-9389-0b9155944881": {
+                    "description": "Spicy kimchee and spring onion pancake.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/d7d9e4df-0086-488a-baf8-d33c86f0e9e4",
+                    "price": 600,
+                    "title": "Kimchee Jeon",
+                    "uuid": "71ac486d-96ce-4386-9389-0b9155944881",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "endorsement": {
+                        "text": "Hot",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_check@3x.png"
+                    },
+                    "classifications": []
+                },
+                "1832c615-3fb7-4351-99c9-cc15c5f15b1b": {
+                    "description": "A famous Korean dish of chargrilled sliced pork belly served with a wasabi and mustard dip. Served with lettuce wraps and ssamjang chilli sauce.",
+                    "imageUrl": "",
+                    "price": 1090,
+                    "title": "Pork Belly",
+                    "uuid": "1832c615-3fb7-4351-99c9-cc15c5f15b1b",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "4fe49002-5f5d-408a-87b0-01c2b42aa83f": {
+                    "description": "A classic Korean dish similar to beef tartare. Thinly sliced raw beef, sliced Asian pear, cucumber and egg yolk. For those who like a kick, order with chilli sesame sauce\"\n",
+                    "imageUrl": "",
+                    "price": 590,
+                    "title": "Yuk Hwae",
+                    "uuid": "4fe49002-5f5d-408a-87b0-01c2b42aa83f",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": "",
+                    "suspendUntil": 8640000000,
+                    "classifications": []
+                },
+                "24da047d-cbec-4395-a853-9e704747353f": {
+                    "description": "Korean glass noodles served with mixed vegetables with sesame oil",
+                    "imageUrl": "",
+                    "price": 490,
+                    "title": "Jap Chae with Vegetables (V)",
+                    "uuid": "24da047d-cbec-4395-a853-9e704747353f",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "3c5bc53b-e5c3-4baa-9c83-8f2d257aac2e": {
+                    "description": "Rice and fish cakes with vegetables simmered in a sizzling spicy sauce, served with grated cheddar cheese",
+                    "imageUrl": "",
+                    "price": 640,
+                    "title": "Cheese Dduk Bok Gi",
+                    "uuid": "3c5bc53b-e5c3-4baa-9c83-8f2d257aac2e",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "1903b239-f521-471c-83fb-ed9e8bed600c": {
+                    "description": "Chargrilled king prawn drizzled with a sweet soy sauce",
+                    "imageUrl": "",
+                    "price": 400,
+                    "title": "King Prawn (1pcs)",
+                    "uuid": "1903b239-f521-471c-83fb-ed9e8bed600c",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "66952e02-7fb3-4525-9e74-d5c0f0527c6b": {
+                    "description": "Tomatoes and cold tofu with sesame dressing.",
+                    "imageUrl": "",
+                    "price": 380,
+                    "title": "Dubu Salad",
+                    "uuid": "66952e02-7fb3-4525-9e74-d5c0f0527c6b",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "endorsement": {
+                        "text": "Vegetarian",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png"
+                    },
+                    "classifications": []
+                },
+                "f8bc62ff-d129-4e53-b2ad-a20a79e194ab": {
+                    "description": "With lettuce, edameme and chilli vinegar dressing.",
+                    "imageUrl": "",
+                    "price": 380,
+                    "title": "Avocado Salad",
+                    "uuid": "f8bc62ff-d129-4e53-b2ad-a20a79e194ab",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "endorsement": {
+                        "text": "Vegetarian",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png"
+                    },
+                    "classifications": []
+                },
+                "a4e30cef-4bee-4d20-ad2a-0307aa6068fa": {
+                    "description": "Beef in a rich hot pot of spicy fried kimchee, mushrooms and tofu\n",
+                    "imageUrl": "",
+                    "price": 1100,
+                    "title": "Kimchee Jjigae - Beef",
+                    "uuid": "a4e30cef-4bee-4d20-ad2a-0307aa6068fa",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "b3c4c177-43cc-4e84-ae31-17db2b6969e3": {
+                    "description": "A flavourful soup made from cabbage leaves and short beef ribs slowly simmered in a beef rib stock and seasoned with soy bean topped with chilli and spring onion",
+                    "imageUrl": "",
+                    "price": 1110,
+                    "title": "Ugeoji Galbitang",
+                    "uuid": "b3c4c177-43cc-4e84-ae31-17db2b6969e3",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "de4833df-ef7f-478e-af29-6a5c29cbb04c": {
+                    "description": "Pan Fried Pork Dumplings with a light soy dipping sauce.",
+                    "imageUrl": "",
+                    "price": 590,
+                    "title": "Mandu Pork",
+                    "uuid": "de4833df-ef7f-478e-af29-6a5c29cbb04c",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "ac60e2e1-520a-46a0-aa26-d8a4460bf058": {
+                    "description": "Crispy battererd king prawns in a fiery sweet and spicy sauce",
+                    "imageUrl": "",
+                    "price": 750,
+                    "title": "Prawn Chilli",
+                    "uuid": "ac60e2e1-520a-46a0-aa26-d8a4460bf058",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "endorsement": {
+                        "text": "Hot",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_check@3x.png"
+                    },
+                    "classifications": []
+                },
+                "ce965f07-e2c0-4dcf-aa3a-386cd2eeeae0": {
+                    "description": "",
+                    "imageUrl": "",
+                    "price": 450,
+                    "title": "Sparkling 700ml",
+                    "uuid": "ce965f07-e2c0-4dcf-aa3a-386cd2eeeae0",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "465e6e13-c40e-4922-98e1-c47414de3d24": {
+                    "description": "Mackerel fillet cooked in garlic, green and red chillies and soy sauce, served with rice cakes, pickled radish and sesame garnish",
+                    "imageUrl": "",
+                    "price": 590,
+                    "title": "Mackerel Jorim",
+                    "uuid": "465e6e13-c40e-4922-98e1-c47414de3d24",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "1a6e8e54-4024-441c-8e8c-f1e8e0ded2e2": {
+                    "description": "",
+                    "imageUrl": "",
+                    "price": 750,
+                    "title": "Tuigim - Lightly battered king prawns (5pcs)",
+                    "uuid": "1a6e8e54-4024-441c-8e8c-f1e8e0ded2e2",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "599a14f0-c74c-470a-bdee-0932cb1b5901": {
+                    "description": "Thinly sliced beef, rice cakes and vegetables simmered in a sizzling marinated soy sauce",
+                    "imageUrl": "",
+                    "price": 690,
+                    "title": "Bulgogi Dduk Bok Gi",
+                    "uuid": "599a14f0-c74c-470a-bdee-0932cb1b5901",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "393b5f5d-49b8-4bb0-b27f-5e7f8c8c25c3": {
+                    "description": "Mixed seafood and soft tofu in a chilli broth with an egg yolk placed on top that cooks slowly at the table",
+                    "imageUrl": "",
+                    "price": 1050,
+                    "title": "Seafood & Soft Tofu Jigae",
+                    "uuid": "393b5f5d-49b8-4bb0-b27f-5e7f8c8c25c3",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "580fa5b7-9232-43bf-b5b4-4be4385d1440": {
+                    "description": "",
+                    "imageUrl": "",
+                    "price": 550,
+                    "title": "Tuigim - Lightly battered tofu",
+                    "uuid": "580fa5b7-9232-43bf-b5b4-4be4385d1440",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "ed0bd72b-62f8-40f4-b0c1-aa28649fc39a": {
+                    "description": "",
+                    "imageUrl": "",
+                    "price": 450,
+                    "title": "Still Water 700ml",
+                    "uuid": "ed0bd72b-62f8-40f4-b0c1-aa28649fc39a",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "e0e1bbbc-e2e3-4987-a4cf-b07cade268e7": {
+                    "description": "",
+                    "imageUrl": "",
+                    "price": 280,
+                    "title": "Sprite",
+                    "uuid": "e0e1bbbc-e2e3-4987-a4cf-b07cade268e7",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "1ca950cb-99ed-4a07-ae10-4233d5a1c9a2": {
+                    "description": "Traditional soft chocolate rice cake with a light dusting of cocoa powder.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/e1fb994d-385b-454f-87bd-c6976559326c",
+                    "price": 320,
+                    "title": "Chap Ssal Doek",
+                    "uuid": "1ca950cb-99ed-4a07-ae10-4233d5a1c9a2",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "27eef93f-10a3-452e-9f0b-254fc53fb39c": {
+                    "description": "Sticky rice.",
+                    "imageUrl": "",
+                    "price": 290,
+                    "title": "Bap",
+                    "uuid": "27eef93f-10a3-452e-9f0b-254fc53fb39c",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "endorsement": {
+                        "text": "Vegetarian",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png"
+                    },
+                    "classifications": []
+                },
+                "70638110-ba07-45aa-b0b4-d9229ac3530a": {
+                    "description": "Korean glass noodles served with either marinated beef and vegetables with sesame oil",
+                    "imageUrl": "",
+                    "price": 490,
+                    "title": "Jap Chae with Beef and Vegetables",
+                    "uuid": "70638110-ba07-45aa-b0b4-d9229ac3530a",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "a2cd808a-6442-4288-80aa-221d8fd1282e": {
+                    "description": "Rich grilled beef tongue marinated in cumin, sesame oil and red chilli powder.",
+                    "imageUrl": "",
+                    "price": 1110,
+                    "title": "Beef Tongue",
+                    "uuid": "a2cd808a-6442-4288-80aa-221d8fd1282e",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "endorsement": {
+                        "text": "Hot",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_check@3x.png"
+                    },
+                    "classifications": []
+                },
+                "d279b91a-df7d-46d9-a5ca-54f29a853abc": {
+                    "description": "Pan-fried vegetable dumplings served with a light soy dipping sauce.",
+                    "imageUrl": "",
+                    "price": 590,
+                    "title": "Mandu Veg",
+                    "uuid": "d279b91a-df7d-46d9-a5ca-54f29a853abc",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "49e7798d-1d65-4521-a3cb-36087519b4fc": {
+                    "description": "Thinly sliced beef, spicy pork, spicy chicken or mild chicken marinated in a blend of ginger, Korean dark soy and garlic.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/1052edf1-6ea5-493d-88b3-5eec0baa97fd",
+                    "price": 1150,
+                    "title": "Bulgogi",
+                    "uuid": "49e7798d-1d65-4521-a3cb-36087519b4fc",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "d4224673-2b8e-495f-a421-8af3eb5df5bf": {
+                    "description": "Short beef ribs marinated in a blend of ginger and Korean dark soy. Served with lettuce wraps and ssamjang chilli sauce.",
+                    "imageUrl": "",
+                    "price": 1240,
+                    "title": "Galbi",
+                    "uuid": "d4224673-2b8e-495f-a421-8af3eb5df5bf",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "96eb014a-a5c2-496a-8923-2a29f86eca7d": {
+                    "description": "Three kinds of seaweed with vinegar and chilli dressing.",
+                    "imageUrl": "",
+                    "price": 380,
+                    "title": "Miyeok Salad",
+                    "uuid": "96eb014a-a5c2-496a-8923-2a29f86eca7d",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "endorsement": {
+                        "text": "Vegetarian",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png"
+                    },
+                    "classifications": []
+                },
+                "a4c55a60-f985-444c-9e70-b98b48b53777": {
+                    "description": "8 wings and 4 strips with your choice of up to 2 sauces\n ",
+                    "imageUrl": "",
+                    "price": 1190,
+                    "title": "Chimaek-Jung-Gan",
+                    "uuid": "a4c55a60-f985-444c-9e70-b98b48b53777",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "ab075d1b-a99f-4569-b834-4e30b4c7a499": {
+                    "description": "Lightly battered chicken in a sweet chilli sauce, served in a rice paper basket",
+                    "imageUrl": "",
+                    "price": 590,
+                    "title": "Yang Yeum Chicken",
+                    "uuid": "ab075d1b-a99f-4569-b834-4e30b4c7a499",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "ab923d90-cc18-4ae3-b988-8a1c7aecea87": {
+                    "description": "Chilled buckwheat noodles in an authentic fruity, chilli sauce with marinated beef, pickled radish, cucumber, Asian pear and hard boiled egg",
+                    "imageUrl": "",
+                    "price": 990,
+                    "title": "Bibim Naengmyeon (cold dishes)",
+                    "uuid": "ab923d90-cc18-4ae3-b988-8a1c7aecea87",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "946e0f80-a9b2-4ac5-8141-114862049ccb": {
+                    "description": "",
+                    "imageUrl": "",
+                    "price": 260,
+                    "title": "Still Water",
+                    "uuid": "946e0f80-a9b2-4ac5-8141-114862049ccb",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "7aeb1929-40d8-4ad8-aa0a-c9189f1fae46": {
+                    "description": "Chicken in a fiery garlic and chilli sauce\n",
+                    "imageUrl": "",
+                    "price": 600,
+                    "title": "Kanpoongi",
+                    "uuid": "7aeb1929-40d8-4ad8-aa0a-c9189f1fae46",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "bdfd9afe-95de-460e-a7f1-4508cb812475": {
+                    "description": "",
+                    "imageUrl": "",
+                    "price": 550,
+                    "title": "Tuigim - Lightly battered mixed vegetables",
+                    "uuid": "bdfd9afe-95de-460e-a7f1-4508cb812475",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "694ce044-69da-4b49-98ec-0c96670e1c2f": {
+                    "description": "A traditional favourite in Korea – layers of fermented Chinese cabbage with a garlic and chilli kick.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/d50fee2f-1057-4758-b5da-c99120123312",
+                    "price": 350,
+                    "title": "Kimchee",
+                    "uuid": "694ce044-69da-4b49-98ec-0c96670e1c2f",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "endorsement": {
+                        "text": "Hot",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_check@3x.png"
+                    },
+                    "classifications": []
+                },
+                "6225e806-abcd-41d7-a737-e5d81813d2e3": {
+                    "description": "Stir fried thick noodles with vegetable",
+                    "imageUrl": "",
+                    "price": 1150,
+                    "title": "Udon Seafood",
+                    "uuid": "6225e806-abcd-41d7-a737-e5d81813d2e3",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "663e09be-1a70-4d46-8cc6-e16e5a8d9cec": {
+                    "description": "Pork in a rich hot pot of spicy fried kimchee, mushrooms and tofu\n",
+                    "imageUrl": "",
+                    "price": 1100,
+                    "title": "Kimchee Jjigae - Pork",
+                    "uuid": "663e09be-1a70-4d46-8cc6-e16e5a8d9cec",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "29806a29-628e-4242-8c76-855ae105775d": {
+                    "description": "Spicy hot pot of kimchee, tofu, ramen noodles and beef with sausage, baked beans and mushroom\n",
+                    "imageUrl": "",
+                    "price": 1100,
+                    "title": "Budae Jigae",
+                    "uuid": "29806a29-628e-4242-8c76-855ae105775d",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "fa02d4dc-e8a7-4da6-986d-8da95df12184": {
+                    "description": "200 grams. With a wasabi and mustard dip, lettuce wraps and ssamjang chilli sauce.",
+                    "imageUrl": "",
+                    "price": 1370,
+                    "title": "Beef Rib Eye",
+                    "uuid": "fa02d4dc-e8a7-4da6-986d-8da95df12184",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "c90d3a83-6afc-4231-a04d-bceab6b26f64": {
+                    "description": "Stir fried thick noodles with vegetable",
+                    "imageUrl": "",
+                    "price": 1080,
+                    "title": "Udon Tofu",
+                    "uuid": "c90d3a83-6afc-4231-a04d-bceab6b26f64",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "b1ddba64-794b-4de0-a11d-641aa91ff673": {
+                    "description": "Beansprouts, spinach, radish and cucumber lightly seasoned with sesame oil",
+                    "imageUrl": "",
+                    "price": 490,
+                    "title": "Modum Namul",
+                    "uuid": "b1ddba64-794b-4de0-a11d-641aa91ff673",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "endorsement": {
+                        "text": "Vegetarian",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png"
+                    },
+                    "classifications": []
+                },
+                "707b42d2-9ed7-46b8-b1db-e255d94c5b89": {
+                    "description": "Kimchee fried rice with bacon, egg and chorizo.",
+                    "imageUrl": "",
+                    "price": 1010,
+                    "title": "Kimchee Bokkum Bap",
+                    "uuid": "707b42d2-9ed7-46b8-b1db-e255d94c5b89",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "5ef66c98-5f4e-4a2e-84fa-9fa36e0439e7": {
+                    "description": "",
+                    "imageUrl": "",
+                    "price": 295,
+                    "title": "Coca Cola",
+                    "uuid": "5ef66c98-5f4e-4a2e-84fa-9fa36e0439e7",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "c2ad3fd7-2803-4bae-b856-245e785a666b": {
+                    "description": "Pan Fried Tofu, sizzling stir-fried pork and kimchee",
+                    "imageUrl": "",
+                    "price": 590,
+                    "title": "Tofu Kimchee",
+                    "uuid": "c2ad3fd7-2803-4bae-b856-245e785a666b",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "endorsement": {
+                        "text": "Hot",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_check@3x.png"
+                    },
+                    "classifications": []
+                },
+                "94955cec-34e4-4f47-a91d-12fe7e7636e9": {
+                    "description": "  4 wings and 2 strips with your choice  of up to 1 sauce\n  ",
+                    "imageUrl": "",
+                    "price": 690,
+                    "title": "Chimaek- Jag-eun",
+                    "uuid": "94955cec-34e4-4f47-a91d-12fe7e7636e9",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "78b59f5a-6274-4f34-9374-7f5899ffed71": {
+                    "description": "Lightly battered pork strips with a fragant sweet and sour sauce\n",
+                    "imageUrl": "",
+                    "price": 620,
+                    "title": "Tang Su Yuk",
+                    "uuid": "78b59f5a-6274-4f34-9374-7f5899ffed71",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "bcaece44-0752-4984-9f4e-dcf4b4ab4bbb": {
+                    "description": "Broccoli served with a soybean and miso mayo sauce.",
+                    "imageUrl": "",
+                    "price": 380,
+                    "title": "Chargrilled Broccoli",
+                    "uuid": "bcaece44-0752-4984-9f4e-dcf4b4ab4bbb",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "endorsement": {
+                        "text": "Vegetarian",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png"
+                    },
+                    "classifications": []
+                },
+                "0beccb3e-4f76-4b2b-b159-7354f8ab9739": {
+                    "description": "",
+                    "imageUrl": "",
+                    "price": 720,
+                    "title": "Tuigim - Spicy calamari",
+                    "uuid": "0beccb3e-4f76-4b2b-b159-7354f8ab9739",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "8fa4411b-5c8c-48f8-8f8d-37fee4276fb1": {
+                    "description": "Savoury pancake with mixed seafood and spring onion.",
+                    "imageUrl": "",
+                    "price": 690,
+                    "title": "Pa Jeon",
+                    "uuid": "8fa4411b-5c8c-48f8-8f8d-37fee4276fb1",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "57598f69-25de-454a-baca-2bc00dc94017": {
+                    "description": "Pork cooked in a black bean and sesame sauce, served on a bed of noodles.",
+                    "imageUrl": "",
+                    "price": 990,
+                    "title": "Jajang Myeon Pork",
+                    "uuid": "57598f69-25de-454a-baca-2bc00dc94017",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "f927b897-0c4e-4ed7-95ee-2dbb48bc7b77": {
+                    "description": "Thin layers of seasoned crispy seaweed.",
+                    "imageUrl": "",
+                    "price": 260,
+                    "title": "Kim",
+                    "uuid": "f927b897-0c4e-4ed7-95ee-2dbb48bc7b77",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "endorsement": {
+                        "text": "Vegetarian",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png"
+                    },
+                    "classifications": []
+                },
+                "b2a20e8b-dc9d-4082-9147-7bde194dfb75": {
+                    "description": "",
+                    "imageUrl": "",
+                    "price": 0,
+                    "title": "“A popular Korean starter of double fried chicken wings and strips. A perfect way to start your Korean experience.”",
+                    "uuid": "b2a20e8b-dc9d-4082-9147-7bde194dfb75",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 8640000000,
+                    "classifications": []
+                },
+                "93828c7b-bf8a-486d-8d69-7bcdaa7a10c6": {
+                    "description": "Stir-fried mixed seafood, sesame oil and Asian vegetables served with sticky rice.",
+                    "imageUrl": "",
+                    "price": 1250,
+                    "title": "Seafood Japtang Bap",
+                    "uuid": "93828c7b-bf8a-486d-8d69-7bcdaa7a10c6",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "e74da5f5-12c0-4a2f-9e8b-2a24ea26319c": {
+                    "description": "",
+                    "imageUrl": "",
+                    "price": 260,
+                    "title": "Sparkling Water",
+                    "uuid": "e74da5f5-12c0-4a2f-9e8b-2a24ea26319c",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "c6bb9f9d-4377-4105-b75d-5be44eabe121": {
+                    "description": "Buckwheat noodles in a chilled beef broth with sliced beef brisket, pickled radish, cucumber, Asian pear and hard boiled egg",
+                    "imageUrl": "",
+                    "price": 990,
+                    "title": "Mul Naengmyeon (cold dishes)",
+                    "uuid": "c6bb9f9d-4377-4105-b75d-5be44eabe121",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "37fe637e-d75c-46db-90a6-1656fe76c8e1": {
+                    "description": "A delicate soup made from short beef ribs with radish, carrot, egg and glass noodles",
+                    "imageUrl": "",
+                    "price": 1110,
+                    "title": "Galbitang",
+                    "uuid": "37fe637e-d75c-46db-90a6-1656fe76c8e1",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "d7fc574c-a0be-4ee6-afec-88088ccb2d04": {
+                    "description": "Bold and hot - beef brisket, egg, mushrooms and sliced radish with glass noodles in a spiced red chilli broth\n",
+                    "imageUrl": "",
+                    "price": 1110,
+                    "title": "Yukgaejang",
+                    "uuid": "d7fc574c-a0be-4ee6-afec-88088ccb2d04",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "366ebdac-cbae-45ae-b4bd-28ed41f2b3fe": {
+                    "description": "12 wings and 6 strips with your choice of up to 2 sauces\n  ",
+                    "imageUrl": "",
+                    "price": 1690,
+                    "title": "Chimaek-Keun",
+                    "uuid": "366ebdac-cbae-45ae-b4bd-28ed41f2b3fe",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "7674e0ce-4bf7-4bbd-ae19-139dab877acd": {
+                    "description": "Tender strips of succulent chicken, coated in crispy panko breadcrumbs with a katsu sacue.\n",
+                    "imageUrl": "",
+                    "price": 600,
+                    "title": "Chicken Katsu Finger",
+                    "uuid": "7674e0ce-4bf7-4bbd-ae19-139dab877acd",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "550c16dc-a7b1-416f-b197-41d70d02510b": {
+                    "description": "Rice and fish cakes with vegetables simmered in a sizzling spicy sauce",
+                    "imageUrl": "",
+                    "price": 590,
+                    "title": "Dduk Bok Gi",
+                    "uuid": "550c16dc-a7b1-416f-b197-41d70d02510b",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "370f3360-c775-4608-9c93-f799021e71ec": {
+                    "description": "Asparagus skewer served with a yuzu dressing and topped with sesame seeds.",
+                    "imageUrl": "",
+                    "price": 400,
+                    "title": "Asparagus Skewer",
+                    "uuid": "370f3360-c775-4608-9c93-f799021e71ec",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "endorsement": {
+                        "text": "Vegetarian",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png"
+                    },
+                    "classifications": []
+                },
+                "05e02a09-45b6-4792-a8ff-d18211f222bd": {
+                    "description": "Pan Fried Chicken Dumplings with a light soy dipping sauce.",
+                    "imageUrl": "",
+                    "price": 590,
+                    "title": "Mandu Chicken",
+                    "uuid": "05e02a09-45b6-4792-a8ff-d18211f222bd",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "8bf52d9a-05b6-4ec0-8242-6955bd99a606": {
+                    "description": "Spicy mixed seafood noodle soup with vegetables, cooked in a blast fired wok with sesame oil",
+                    "imageUrl": "",
+                    "price": 1130,
+                    "title": "Jjam Bbong",
+                    "uuid": "8bf52d9a-05b6-4ec0-8242-6955bd99a606",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "e54165b0-2e95-4f5d-a2d8-c8e2a110f2be": {
+                    "description": "",
+                    "imageUrl": "",
+                    "price": 280,
+                    "title": "Diet Coke",
+                    "uuid": "e54165b0-2e95-4f5d-a2d8-c8e2a110f2be",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "c65a16e1-ad96-4055-b000-1f501ce9a192": {
+                    "description": "Thin slices of marinated beef, Korean dates, rice cakes, mushroom and spinach with glass noodles in a slow cooked soy, ginger and garlic broth\n",
+                    "imageUrl": "",
+                    "price": 1180,
+                    "title": "Hot Pot Bulgogi",
+                    "uuid": "c65a16e1-ad96-4055-b000-1f501ce9a192",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "32fe1f69-0b86-4769-b88c-2843c81989cb": {
+                    "description": "Served with tofu and vegetables in a traditional soybean and kelp broth\n",
+                    "imageUrl": "",
+                    "price": 1100,
+                    "title": "Dwen Jang Jigae - Beef",
+                    "uuid": "32fe1f69-0b86-4769-b88c-2843c81989cb",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "cd5e4e5c-33a4-4ab9-8177-c9c35a6546e6": {
+                    "description": "Served with tofu and vegetables in a traditional soybean and kelp broth\n",
+                    "imageUrl": "",
+                    "price": 980,
+                    "title": "Dwen Jang Jigae - Spinach & Tofu",
+                    "uuid": "cd5e4e5c-33a4-4ab9-8177-c9c35a6546e6",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                }
+            }
+        },
+        "sections": [
+            {
+                "subsectionUuids": [
+                    "ade19b85-535d-4541-b73d-c6594f3b9cfb",
+                    "5497d1ff-f3be-4f57-8f0b-762defc8ed64",
+                    "fcfef1c5-6811-4706-953c-1a1ffbd01589",
+                    "b12af623-d6b5-45cb-98ff-537c078da9c4",
+                    "4022eff6-81b3-4265-8558-102f1fe97628",
+                    "333e2978-f9a7-4e65-ac3a-d02bcb30e6a0",
+                    "b04f77df-f74e-4457-91e5-c6909a47cd28"
+                ],
+                "title": "Menu",
+                "subtitle": "12:00 PM – 10:30 PM",
+                "uuid": "8ed4b071-424c-4427-8b54-15d2bab43a35",
+                "isTop": true,
+                "isOnSale": true
+            }
+        ],
+        "subsectionsMap": {
+            "b12af623-d6b5-45cb-98ff-537c078da9c4": {
+                "itemUuids": [
+                    "49e7798d-1d65-4521-a3cb-36087519b4fc",
+                    "d4224673-2b8e-495f-a421-8af3eb5df5bf",
+                    "1832c615-3fb7-4351-99c9-cc15c5f15b1b",
+                    "a2cd808a-6442-4288-80aa-221d8fd1282e",
+                    "fa02d4dc-e8a7-4da6-986d-8da95df12184",
+                    "c90d3a83-6afc-4231-a04d-bceab6b26f64",
+                    "a2a895f8-8d5e-465c-a2ee-33e6d8058a13",
+                    "6225e806-abcd-41d7-a737-e5d81813d2e3",
+                    "57598f69-25de-454a-baca-2bc00dc94017",
+                    "93828c7b-bf8a-486d-8d69-7bcdaa7a10c6",
+                    "707b42d2-9ed7-46b8-b1db-e255d94c5b89",
+                    "8bf52d9a-05b6-4ec0-8242-6955bd99a606",
+                    "c6bb9f9d-4377-4105-b75d-5be44eabe121",
+                    "ab923d90-cc18-4ae3-b988-8a1c7aecea87",
+                    "32fe1f69-0b86-4769-b88c-2843c81989cb",
+                    "cd5e4e5c-33a4-4ab9-8177-c9c35a6546e6",
+                    "663e09be-1a70-4d46-8cc6-e16e5a8d9cec",
+                    "a4e30cef-4bee-4d20-ad2a-0307aa6068fa",
+                    "b3c4c177-43cc-4e84-ae31-17db2b6969e3",
+                    "37fe637e-d75c-46db-90a6-1656fe76c8e1",
+                    "d7fc574c-a0be-4ee6-afec-88088ccb2d04",
+                    "c65a16e1-ad96-4055-b000-1f501ce9a192",
+                    "29806a29-628e-4242-8c76-855ae105775d",
+                    "393b5f5d-49b8-4bb0-b27f-5e7f8c8c25c3"
+                ],
+                "subtitle": "",
+                "title": "Mains",
+                "uuid": "b12af623-d6b5-45cb-98ff-537c078da9c4",
+                "displayType": null
+            },
+            "4022eff6-81b3-4265-8558-102f1fe97628": {
+                "itemUuids": [
+                    "f927b897-0c4e-4ed7-95ee-2dbb48bc7b77",
+                    "27eef93f-10a3-452e-9f0b-254fc53fb39c",
+                    "b1ddba64-794b-4de0-a11d-641aa91ff673",
+                    "bcaece44-0752-4984-9f4e-dcf4b4ab4bbb",
+                    "370f3360-c775-4608-9c93-f799021e71ec",
+                    "f8bc62ff-d129-4e53-b2ad-a20a79e194ab",
+                    "66952e02-7fb3-4525-9e74-d5c0f0527c6b",
+                    "96eb014a-a5c2-496a-8923-2a29f86eca7d"
+                ],
+                "subtitle": "",
+                "title": "Sides",
+                "uuid": "4022eff6-81b3-4265-8558-102f1fe97628",
+                "displayType": null
+            },
+            "333e2978-f9a7-4e65-ac3a-d02bcb30e6a0": {
+                "itemUuids": [
+                    "1ca950cb-99ed-4a07-ae10-4233d5a1c9a2"
+                ],
+                "subtitle": "",
+                "title": "Desserts",
+                "uuid": "333e2978-f9a7-4e65-ac3a-d02bcb30e6a0",
+                "displayType": null
+            },
+            "ade19b85-535d-4541-b73d-c6594f3b9cfb": {
+                "itemUuids": [
+                    "b2a20e8b-dc9d-4082-9147-7bde194dfb75",
+                    "94955cec-34e4-4f47-a91d-12fe7e7636e9",
+                    "a4c55a60-f985-444c-9e70-b98b48b53777",
+                    "366ebdac-cbae-45ae-b4bd-28ed41f2b3fe"
+                ],
+                "subtitle": "",
+                "title": "NEW! Chimaek",
+                "uuid": "ade19b85-535d-4541-b73d-c6594f3b9cfb",
+                "displayType": null
+            },
+            "b04f77df-f74e-4457-91e5-c6909a47cd28": {
+                "itemUuids": [
+                    "946e0f80-a9b2-4ac5-8141-114862049ccb",
+                    "e74da5f5-12c0-4a2f-9e8b-2a24ea26319c",
+                    "ed0bd72b-62f8-40f4-b0c1-aa28649fc39a",
+                    "ce965f07-e2c0-4dcf-aa3a-386cd2eeeae0",
+                    "5ef66c98-5f4e-4a2e-84fa-9fa36e0439e7",
+                    "e54165b0-2e95-4f5d-a2d8-c8e2a110f2be",
+                    "e0e1bbbc-e2e3-4987-a4cf-b07cade268e7"
+                ],
+                "subtitle": "",
+                "title": "Drinks",
+                "uuid": "b04f77df-f74e-4457-91e5-c6909a47cd28",
+                "displayType": null
+            },
+            "5497d1ff-f3be-4f57-8f0b-762defc8ed64": {
+                "itemUuids": [
+                    "49e7798d-1d65-4521-a3cb-36087519b4fc",
+                    "71ac486d-96ce-4386-9389-0b9155944881",
+                    "694ce044-69da-4b49-98ec-0c96670e1c2f",
+                    "1ca950cb-99ed-4a07-ae10-4233d5a1c9a2"
+                ],
+                "subtitle": "",
+                "title": "Most Popular",
+                "uuid": "5497d1ff-f3be-4f57-8f0b-762defc8ed64",
+                "displayType": null
+            },
+            "fcfef1c5-6811-4706-953c-1a1ffbd01589": {
+                "itemUuids": [
+                    "8fa4411b-5c8c-48f8-8f8d-37fee4276fb1",
+                    "71ac486d-96ce-4386-9389-0b9155944881",
+                    "05e02a09-45b6-4792-a8ff-d18211f222bd",
+                    "de4833df-ef7f-478e-af29-6a5c29cbb04c",
+                    "d279b91a-df7d-46d9-a5ca-54f29a853abc",
+                    "70638110-ba07-45aa-b0b4-d9229ac3530a",
+                    "24da047d-cbec-4395-a853-9e704747353f",
+                    "c2ad3fd7-2803-4bae-b856-245e785a666b",
+                    "ac60e2e1-520a-46a0-aa26-d8a4460bf058",
+                    "7674e0ce-4bf7-4bbd-ae19-139dab877acd",
+                    "465e6e13-c40e-4922-98e1-c47414de3d24",
+                    "550c16dc-a7b1-416f-b197-41d70d02510b",
+                    "3c5bc53b-e5c3-4baa-9c83-8f2d257aac2e",
+                    "599a14f0-c74c-470a-bdee-0932cb1b5901",
+                    "3da0d8c3-d5eb-4be6-8852-c13a727e23c5",
+                    "4fe49002-5f5d-408a-87b0-01c2b42aa83f",
+                    "1903b239-f521-471c-83fb-ed9e8bed600c",
+                    "ab075d1b-a99f-4569-b834-4e30b4c7a499",
+                    "0beccb3e-4f76-4b2b-b159-7354f8ab9739",
+                    "580fa5b7-9232-43bf-b5b4-4be4385d1440",
+                    "bdfd9afe-95de-460e-a7f1-4508cb812475",
+                    "1a6e8e54-4024-441c-8e8c-f1e8e0ded2e2",
+                    "7aeb1929-40d8-4ad8-aa0a-c9189f1fae46",
+                    "78b59f5a-6274-4f34-9374-7f5899ffed71",
+                    "694ce044-69da-4b49-98ec-0c96670e1c2f"
+                ],
+                "subtitle": "",
+                "title": "Starters",
+                "uuid": "fcfef1c5-6811-4706-953c-1a1ffbd01589",
+                "displayType": null
+            }
+        },
+        "title": "Kimchee (Holborn)",
+        "uuid": "01775d47-0045-4153-9dee-c0cfd617c0c0",
+        "categories": [
+            "₴₴",
+            "Корейська",
+            "Азіатська",
+            "Барбекю"
+        ],
+        "cuisineList": [
+            "Корейська",
+            "Азіатська",
+            "Барбекю"
+        ],
+        "priceBucket": "₴₴",
+        "etaRange": {
+            "text": "35–45 min",
+            "iconUrl": ""
+        },
+        "ratingBadge": {
+            "text": "<span><span style=\"font-family: inherit; color: #3a3a48;\">4.0 <img src=\"https://d1a3f4spazzrp4.cloudfront.net/static/images/Star_Black_Eats_3.png\" width=\"14\" height=\"14\" vertical-align=\"middle\"> </span><span style=\"font-family: inherit; color: #757575;\">(80)</span></span>"
+        },
+        "disclaimerBadge": {
+            "text": "<span style=\"font-family: inherit;\">Allergies, intolerances and dietary requirements: before ordering, please contact the restaurant directly and ask to speak to a member of staff who can assist if you require information about ingredients and help cater for your needs. For more information on food safety and hygiene, please visit the <a href=\"https://www.food.gov.uk/\" style=\"color:#61ad5f;\">Food Standards Agency</a></span>"
+        },
+        "fareBadge": null,
+        "fareInfo": {
+            "serviceFee": 30,
+            "serviceFeeCents": 3000
+        },
+        "promotion": null,
+        "shouldIndex": false,
+        "heroImageUrls": [
+            {
+                "url": "https://duyt4h9nfnj50.cloudfront.net/resized/84676eb79aa6101a102f1c2f7eb9f3fa-w240-ef.jpg",
+                "width": 240
+            },
+            {
+                "url": "https://duyt4h9nfnj50.cloudfront.net/resized/84676eb79aa6101a102f1c2f7eb9f3fa-w550-2e.jpg",
+                "width": 550
+            },
+            {
+                "url": "https://duyt4h9nfnj50.cloudfront.net/resized/84676eb79aa6101a102f1c2f7eb9f3fa-w640-46.jpg",
+                "width": 640
+            },
+            {
+                "url": "https://duyt4h9nfnj50.cloudfront.net/resized/84676eb79aa6101a102f1c2f7eb9f3fa-w750-c2.jpg",
+                "width": 750
+            },
+            {
+                "url": "https://duyt4h9nfnj50.cloudfront.net/resized/84676eb79aa6101a102f1c2f7eb9f3fa-w1080-78.jpg",
+                "width": 1080
+            },
+            {
+                "url": "https://duyt4h9nfnj50.cloudfront.net/resized/84676eb79aa6101a102f1c2f7eb9f3fa-w2880-c2.jpg",
+                "width": 2880
+            }
+        ],
+        "isOpen": true,
+        "currencyCode": "GBP",
+        "closedMessage": "Currently unavailable",
+        "location": {
+            "address": "71 High Holborn, London Wc1v, Uk, England WC1V",
+            "streetAddress": "71 High Holborn",
+            "city": "London",
+            "country": "GB",
+            "postalCode": "WC1V",
+            "region": "England",
+            "latitude": 51.518222,
+            "longitude": -0.115991
+        },
+        "isDeliveryThirdParty": false,
+        "hours": [
+            {
+                "dayRange": "Sunday",
+                "sectionHours": [
+                    {
+                        "startTime": 720,
+                        "endTime": 1320,
+                        "sectionTitle": ""
+                    }
+                ]
+            },
+            {
+                "dayRange": "Monday - Saturday",
+                "sectionHours": [
+                    {
+                        "startTime": 720,
+                        "endTime": 1350,
+                        "sectionTitle": ""
+                    }
+                ]
+            }
+        ],
+        "disableOrderInstruction": false,
+        "disableCheckoutInstruction": false,
+        "nuggets": [],
+        "isWithinDeliveryRange": false,
+        "slug": "kimchee-holborn",
+        "citySlug": "london",
+        "phoneNumber": "+442074300956",
+        "metaJson": "{\"@context\":\"http:\\u002F\\u002Fschema.org\",\"@type\":\"Restaurant\",\"@id\":\"https:\\u002F\\u002Fwww.ubereats.com\\u002Fen-UA\\u002Flondon\\u002Ffood-delivery\\u002Fkimchee-holborn\\u002FAXddRwBFQVOd7sDP1hfAwA\\u002F\",\"name\":\"Kimchee (Holborn)\",\"priceRange\":\"₴₴\",\"potentialAction\":{\"@type\":\"OrderAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\\u002F\\u002Fwww.ubereats.com\\u002Fen-UA\\u002Flondon\\u002Ffood-delivery\\u002Fkimchee-holborn\\u002FAXddRwBFQVOd7sDP1hfAwA\\u002F?utm_campaign=order-action&utm_medium=organic\",\"inLanguage\":\"English\",\"actionPlatform\":[\"http:\\u002F\\u002Fschema.org\\u002FDesktopWebPlatform\",\"http:\\u002F\\u002Fschema.org\\u002FMobileWebPlatform\"]},\"deliveryMethod\":[\"http:\\u002F\\u002Fpurl.org\\u002Fgoodrelations\\u002Fv1#DeliveryModeOwnFleet\"]},\"address\":{\"@type\":\"PostalAddress\",\"addressLocality\":\"London\",\"addressRegion\":\"England\",\"postalCode\":\"WC1V\",\"addressCountry\":\"GB\",\"streetAddress\":\"71 High Holborn\"},\"geo\":{\"@type\":\"GeoCoordinates\",\"latitude\":51.518222,\"longitude\":-0.115991}}",
+        "promoTrackings": [],
+        "suggestedPromotion": {
+            "text": "",
+            "promotionUuid": ""
+        },
+        "supportedDiningModes": [
+            {
+                "mode": "DELIVERY",
+                "title": "Delivery",
+                "isSelected": true,
+                "isAvailable": true
+            }
+        ],
+        "isPreview": false,
+        "pinnedInfo": null
+    }
+}

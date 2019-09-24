@@ -1,0 +1,2314 @@
+{
+    "status": "success",
+    "data": {
+        "sectionEntitiesMap": {
+            "4c3d8d3d-e980-4247-967b-48d7cdc906c3": {
+                "61f5a7fa-3696-4e4e-9b44-1649ae1bbd5f": {
+                    "description": "All kinds of coffee can be made decaffeined or on soy and almond milk (120ml).",
+                    "imageUrl": "",
+                    "price": 2900,
+                    "title": "Americano",
+                    "uuid": "61f5a7fa-3696-4e4e-9b44-1649ae1bbd5f",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "a2b4c9d1-305b-42ff-86fc-95e82e96f523": {
+                    "description": "Avocado, arugula, tomato, Philadelphia or tofu cheese, bell pepper, and pesto sauce (250g).",
+                    "imageUrl": "",
+                    "price": 19900,
+                    "title": "Avo Green Burger",
+                    "uuid": "a2b4c9d1-305b-42ff-86fc-95e82e96f523",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "9e07b244-c34f-4aa4-80fa-0b789507767a": {
+                    "description": "Avocado, chicken, iceberg salad, Cheddar cheese, cucumber, and ayola and pesto sauces (300g).",
+                    "imageUrl": "",
+                    "price": 21900,
+                    "title": "Avo Chicken Burger",
+                    "uuid": "9e07b244-c34f-4aa4-80fa-0b789507767a",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "f2584af5-b9db-4de3-b5bd-94243710bbc3": {
+                    "description": "Salmon, guacamole, tomato, Philadelphia cheese, and arugula (240g).",
+                    "imageUrl": "",
+                    "price": 19900,
+                    "title": "Salmonger Burger",
+                    "uuid": "f2584af5-b9db-4de3-b5bd-94243710bbc3",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "07a0b675-4171-4996-89d0-74f635493dce": {
+                    "description": "Avocado, olive oil, lemon juice, onion, chia and white toast (190g).",
+                    "imageUrl": "",
+                    "price": 10900,
+                    "title": "Guacamole with Chia seeds on crispy toast",
+                    "uuid": "07a0b675-4171-4996-89d0-74f635493dce",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "bab28618-4d90-4c91-b6e3-08fb9ac18050": {
+                    "description": "Chicken filet, avocado, mozzarella cheese, pesto sauce, tomatoes, and microgreen (300g).",
+                    "imageUrl": "",
+                    "price": 18900,
+                    "title": "Avo chicken fillet with mozzarella and pesto sauce",
+                    "uuid": "bab28618-4d90-4c91-b6e3-08fb9ac18050",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "ccf59219-e2fa-4e5d-8432-53c5d2edd7de": {
+                    "description": "400ml.",
+                    "imageUrl": "",
+                    "price": 3900,
+                    "title": "\"Voda.ua\" water",
+                    "uuid": "ccf59219-e2fa-4e5d-8432-53c5d2edd7de",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 8640000000,
+                    "classifications": []
+                },
+                "3c617f2e-e24f-4efb-a012-895421b6cb2b": {
+                    "description": "Mixed salad, roast beef, capers, roasted pepper, tomato concasse, croutons, and vitello sauce (250g).",
+                    "imageUrl": "",
+                    "price": 14900,
+                    "title": "Vitello salad",
+                    "uuid": "3c617f2e-e24f-4efb-a012-895421b6cb2b",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "6fa90e54-0b83-4837-b866-25fee6661432": {
+                    "description": "250мл.",
+                    "imageUrl": "",
+                    "price": 2900,
+                    "title": "Coca Cola",
+                    "uuid": "6fa90e54-0b83-4837-b866-25fee6661432",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "6290f44a-3602-4cfc-9135-21dbc51a09c2": {
+                    "description": "250ml.",
+                    "imageUrl": "",
+                    "price": 2900,
+                    "title": "Cranberry mors",
+                    "uuid": "6290f44a-3602-4cfc-9135-21dbc51a09c2",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "b2b54b30-df04-4a7e-932c-04cd5c5f2d57": {
+                    "description": "Turkey, cheddar cheese, sweet baked pepper, zucchini, lollo biondo, salad, dijon sauce (330g)",
+                    "imageUrl": "",
+                    "price": 16900,
+                    "title": "Burger Pavo",
+                    "uuid": "b2b54b30-df04-4a7e-932c-04cd5c5f2d57",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "5bc62b80-ee54-44ae-ac96-37d329c42594": {
+                    "description": "250ml.",
+                    "imageUrl": "",
+                    "price": 9900,
+                    "title": "Smoothies",
+                    "uuid": "5bc62b80-ee54-44ae-ac96-37d329c42594",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "157b3321-4409-4039-aa17-b70336a2257d": {
+                    "description": "Avocado, benedict egg, cheddar cheese, Prosciutto, and arugula (250g).",
+                    "imageUrl": "",
+                    "price": 20900,
+                    "title": "Avo Benedict Burger",
+                    "uuid": "157b3321-4409-4039-aa17-b70336a2257d",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "f2aebbad-1cd0-475c-93c2-92c529542e37": {
+                    "description": "Greens, avocados, cucumbers, olive oil, tomatoes, and onions (280g).",
+                    "imageUrl": "",
+                    "price": 11900,
+                    "title": "Cold avocado cream soup",
+                    "uuid": "f2aebbad-1cd0-475c-93c2-92c529542e37",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "7d531737-7977-4f4a-91a8-11407cd13dff": {
+                    "description": "250мл.",
+                    "imageUrl": "",
+                    "price": 2900,
+                    "title": "Sprite",
+                    "uuid": "7d531737-7977-4f4a-91a8-11407cd13dff",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "537fdcc4-1487-439d-9235-a72276b8f8c9": {
+                    "description": "250ml.",
+                    "imageUrl": "",
+                    "price": 2900,
+                    "title": "Juice",
+                    "uuid": "537fdcc4-1487-439d-9235-a72276b8f8c9",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "429eeb3c-869e-4f95-8340-317d9a80aa6c": {
+                    "description": "Veal cutlet, confectionery onion, iceberg salad, ayol sauce, and brie cheese (290g).",
+                    "imageUrl": "",
+                    "price": 16900,
+                    "title": "Sweet Beef Burger",
+                    "uuid": "429eeb3c-869e-4f95-8340-317d9a80aa6c",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "bd0217ce-03bb-46c2-97f3-d9414c8c2947": {
+                    "description": "All kinds of coffee can be made decaffeined or on soy and almond milk (250ml).",
+                    "imageUrl": "",
+                    "price": 5900,
+                    "title": "Matcha latte",
+                    "uuid": "bd0217ce-03bb-46c2-97f3-d9414c8c2947",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "b146769a-afb8-4ee1-a44f-0f0738a13a7a": {
+                    "description": "Avocado, tofu cheese, orientl sauce, spinach and dried tomatoes (250g).",
+                    "imageUrl": "",
+                    "price": 19900,
+                    "title": "Avo Tofu Burger",
+                    "uuid": "b146769a-afb8-4ee1-a44f-0f0738a13a7a",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "ec47d6d1-55d5-461f-a5eb-db5add37d8a4": {
+                    "description": "Cottage cheese, avocado, Philadelphia cheese, cherry sauce (200g)",
+                    "imageUrl": "",
+                    "price": 9900,
+                    "title": "Cheesecake",
+                    "uuid": "ec47d6d1-55d5-461f-a5eb-db5add37d8a4",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "27cf3af3-6114-466f-bb0c-3cf5faca20cb": {
+                    "description": "Turkey, avocados, carrots, parmesan cheese, farfalle (350g)",
+                    "imageUrl": "",
+                    "price": 9900,
+                    "title": "Turkey broth",
+                    "uuid": "27cf3af3-6114-466f-bb0c-3cf5faca20cb",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "407ed0f9-a96c-49bd-877e-a8109288ce1a": {
+                    "description": "250ml.",
+                    "imageUrl": "",
+                    "price": 2900,
+                    "title": "Dried friuts uzvar",
+                    "uuid": "407ed0f9-a96c-49bd-877e-a8109288ce1a",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "37c33061-125d-441d-9196-33e881aa3e54": {
+                    "description": "All kinds of coffee can be made decaffeined or on soy and almond milk (60ml).",
+                    "imageUrl": "",
+                    "price": 3900,
+                    "title": "Double espresso",
+                    "uuid": "37c33061-125d-441d-9196-33e881aa3e54",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "703017c5-9237-4cd2-8ce7-b155630e16f6": {
+                    "description": "500ml.",
+                    "imageUrl": "",
+                    "price": 4900,
+                    "title": "Tea",
+                    "uuid": "703017c5-9237-4cd2-8ce7-b155630e16f6",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "d56d5db5-d75a-42af-831b-6666ffc1bdd0": {
+                    "description": "Avocado, chicken egg, and Parmesan cheese (270g).",
+                    "imageUrl": "",
+                    "price": 13900,
+                    "title": "Avocado baked with egg",
+                    "uuid": "d56d5db5-d75a-42af-831b-6666ffc1bdd0",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "46a804a1-d580-4d9f-a2f9-465262d7ab77": {
+                    "description": "All kinds of coffee can be made decaffeined or on soy and almond milk (180ml).",
+                    "imageUrl": "",
+                    "price": 3900,
+                    "title": "Cappuccino",
+                    "uuid": "46a804a1-d580-4d9f-a2f9-465262d7ab77",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "95c381be-5237-47bb-9dfd-c6e81faf885f": {
+                    "description": "500ml.",
+                    "imageUrl": "",
+                    "price": 4900,
+                    "title": "\"Borjomi\" sparkling water",
+                    "uuid": "95c381be-5237-47bb-9dfd-c6e81faf885f",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "6dbaac90-d666-4faf-91c0-32d398541037": {
+                    "description": "100ml.",
+                    "imageUrl": "",
+                    "price": 8900,
+                    "title": "Fresh pomegranate juice",
+                    "uuid": "6dbaac90-d666-4faf-91c0-32d398541037",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 8640000000,
+                    "classifications": []
+                },
+                "36b626a7-18ea-420a-99b4-023dc868b48b": {
+                    "description": "Flavor to choose (250ml).",
+                    "imageUrl": "",
+                    "price": 7900,
+                    "title": "Fresh juice",
+                    "uuid": "36b626a7-18ea-420a-99b4-023dc868b48b",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "f49eacc8-3bf5-42bf-9e19-6ff9bd847d9c": {
+                    "description": "Veal cutlet, Cheddar cheese, tomato, egg, bacon, bionad salad, and ayol and bbq sausec (420g).",
+                    "imageUrl": "",
+                    "price": 19900,
+                    "title": "Big Sam Burger",
+                    "uuid": "f49eacc8-3bf5-42bf-9e19-6ff9bd847d9c",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "71920d9b-34c2-4e87-89b5-741bd37a46a4": {
+                    "description": "Avocado, salmon, Philadephia or tofu cheese, lollo rosso salad, and lemon juice (250g).",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/f84c794f-7373-4a6d-8a49-78a848f282d1",
+                    "price": 22900,
+                    "title": "Avo El Mar Burger",
+                    "uuid": "71920d9b-34c2-4e87-89b5-741bd37a46a4",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "856ebfbf-f21d-4e49-82a7-375f2e7aa04c": {
+                    "description": "Mixed salad, tofu cheese, cucumber, mars onion, olive, orental sauce, dried tomatoes, and balsamic cream (250g).",
+                    "imageUrl": "",
+                    "price": 10900,
+                    "title": "Tofu salad",
+                    "uuid": "856ebfbf-f21d-4e49-82a7-375f2e7aa04c",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "2c63a719-da15-4f02-bf1b-af450b57c7c5": {
+                    "description": "Homemade cheese, sandwiches, and berries (250g).",
+                    "imageUrl": "",
+                    "price": 8900,
+                    "title": "Cheese pudding with berry sauce",
+                    "uuid": "2c63a719-da15-4f02-bf1b-af450b57c7c5",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 8640000000,
+                    "classifications": []
+                },
+                "df0ad945-eac9-4d49-bad9-d8177f12c017": {
+                    "description": "Toast white, guacamole, egg chicken, and mix of lettuce (160g).",
+                    "imageUrl": "",
+                    "price": 10900,
+                    "title": "Toasts with guacamole and benedict eggs",
+                    "uuid": "df0ad945-eac9-4d49-bad9-d8177f12c017",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "e6ae7ad4-d518-4415-bde5-eabba3e65305": {
+                    "description": "130g.",
+                    "imageUrl": "",
+                    "price": 9900,
+                    "title": "Brownies with avocado and larragon saucesa",
+                    "uuid": "e6ae7ad4-d518-4415-bde5-eabba3e65305",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "19303417-b479-4469-b204-42b9b6bf11d8": {
+                    "description": "250g.",
+                    "imageUrl": "",
+                    "price": 15900,
+                    "title": "Avocado Grill with Pesto Sauce ",
+                    "uuid": "19303417-b479-4469-b204-42b9b6bf11d8",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "3255dc14-a082-4375-93a8-6fec6d3973c3": {
+                    "description": "250ml.",
+                    "imageUrl": "",
+                    "price": 2900,
+                    "title": "Fanta",
+                    "uuid": "3255dc14-a082-4375-93a8-6fec6d3973c3",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "c0b6f292-0995-4d50-bc62-da8b10753a86": {
+                    "description": "200 g.",
+                    "imageUrl": "",
+                    "price": 9900,
+                    "title": "Battat Fries",
+                    "uuid": "c0b6f292-0995-4d50-bc62-da8b10753a86",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "84897859-2e73-4550-ba83-7d71dd9bc596": {
+                    "description": "Avocados, mango, fresh seasonal berries, feta cheese, and spinach leaves (250g).",
+                    "imageUrl": "",
+                    "price": 14900,
+                    "title": "Mango Fitness Mix",
+                    "uuid": "84897859-2e73-4550-ba83-7d71dd9bc596",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 8640000000,
+                    "classifications": []
+                },
+                "af5fff28-4098-4684-b700-8bb2add38332": {
+                    "description": "150g.",
+                    "imageUrl": "",
+                    "price": 3900,
+                    "title": "Roasted potato with rosmary",
+                    "uuid": "af5fff28-4098-4684-b700-8bb2add38332",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "2ec02759-87c5-4252-b026-eeaaa858ff3d": {
+                    "description": "Avocado, roasted beef, salad, bell pepper and tomatoes (250g).",
+                    "imageUrl": "",
+                    "price": 21900,
+                    "title": "Avo Beef Burger",
+                    "uuid": "2ec02759-87c5-4252-b026-eeaaa858ff3d",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "4bac28f0-4be3-43bd-88d1-e30196e56559": {
+                    "description": "Veal cutlet, Cheddar cheese, and cherry sauce (300g),",
+                    "imageUrl": "",
+                    "price": 16900,
+                    "title": "Black Mamba Burger",
+                    "uuid": "4bac28f0-4be3-43bd-88d1-e30196e56559",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "60af52da-f202-4864-bb5d-d9b22655d2b1": {
+                    "description": "250ml.",
+                    "imageUrl": "",
+                    "price": 4900,
+                    "title": "\"Burn\" energy drink",
+                    "uuid": "60af52da-f202-4864-bb5d-d9b22655d2b1",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 8640000000,
+                    "classifications": []
+                },
+                "6bf0f753-7ffc-4ec7-b4c6-d5d40a396809": {
+                    "description": "Volume to choose 250ml/1000ml.",
+                    "imageUrl": "",
+                    "price": 5900,
+                    "title": "Lemonades",
+                    "uuid": "6bf0f753-7ffc-4ec7-b4c6-d5d40a396809",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 8640000000,
+                    "classifications": []
+                },
+                "20f495a1-3391-41ab-bcef-c1c71edb54d4": {
+                    "description": "Eggplant, zuccini, champingnons, sweet peppers, tomatoes, and pesto sauce (150g).",
+                    "imageUrl": "",
+                    "price": 8900,
+                    "title": "Grilled vegetables",
+                    "uuid": "20f495a1-3391-41ab-bcef-c1c71edb54d4",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "cac97ce7-0252-4761-be77-401b57b2d92b": {
+                    "description": "Turkey, couscous, tomatoes, basil, rucola (300g)",
+                    "imageUrl": "",
+                    "price": 16900,
+                    "title": "Turkey cutlets with couscousr ",
+                    "uuid": "cac97ce7-0252-4761-be77-401b57b2d92b",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "0de94e25-9270-40a0-8fa2-9b262ae31a21": {
+                    "description": "All kinds of coffee can be made decaffeined or on soy and almond milk (180ml).",
+                    "imageUrl": "",
+                    "price": 4900,
+                    "title": "Flat white",
+                    "uuid": "0de94e25-9270-40a0-8fa2-9b262ae31a21",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "73a98d1f-ded1-4509-a193-cad37e6e29eb": {
+                    "description": "Veal, avocado, lettuce mix, capers, parmesan cheese, dried tomatoes, pesto sauce (250g)",
+                    "imageUrl": "",
+                    "price": 19900,
+                    "title": "Veal Carpaccio",
+                    "uuid": "73a98d1f-ded1-4509-a193-cad37e6e29eb",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "e3eb9c9c-f530-4f1f-a0b7-73d1cfda93ca": {
+                    "description": "200g.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/45fedca7-f40c-451e-a02b-a7a7b6131a12",
+                    "price": 10900,
+                    "title": "Guacamole with nachos chips",
+                    "uuid": "e3eb9c9c-f530-4f1f-a0b7-73d1cfda93ca",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "deb31952-5c8b-4e21-be1f-7bca1da82e6b": {
+                    "description": "Salmon, Philadelphia cheese, avocado, arugula, tomatoes and lemon dressing (270g).",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/732a75cd-ce52-4fa9-b2dd-4f10802aae45",
+                    "price": 18900,
+                    "title": "Philadelphia salad",
+                    "uuid": "deb31952-5c8b-4e21-be1f-7bca1da82e6b",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "a4a20df6-6218-4dd7-a6ba-a518eb452fa4": {
+                    "description": "All kinds of coffee can be made decaffeined or on soy and almond milk (200ml).",
+                    "imageUrl": "",
+                    "price": 4900,
+                    "title": "Latte coffee",
+                    "uuid": "a4a20df6-6218-4dd7-a6ba-a518eb452fa4",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "f92d113c-e5aa-4dd8-9a69-244f8f1ab7f8": {
+                    "description": "All kinds of coffee can be made decaffeined or on soy and almond milk (30ml).",
+                    "imageUrl": "",
+                    "price": 2900,
+                    "title": "Espresso",
+                    "uuid": "f92d113c-e5aa-4dd8-9a69-244f8f1ab7f8",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "306c782c-11b3-46c8-a99b-0a5eb07ea10c": {
+                    "description": "Oatmeal, nuts, dried apricots, raisins, honey, and cinnamon (150/100g).",
+                    "imageUrl": "",
+                    "price": 6900,
+                    "title": "Granola with yogurt",
+                    "uuid": "306c782c-11b3-46c8-a99b-0a5eb07ea10c",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "ceda3111-9312-45e9-ae14-8c71ebe55a91": {
+                    "description": "200ml.",
+                    "imageUrl": "",
+                    "price": 4900,
+                    "title": "Chocolate cacao",
+                    "uuid": "ceda3111-9312-45e9-ae14-8c71ebe55a91",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "67d0fc94-3bef-4c86-b542-55243a9738a0": {
+                    "description": "250ml.",
+                    "imageUrl": "",
+                    "price": 2900,
+                    "title": "Shweppes tonic",
+                    "uuid": "67d0fc94-3bef-4c86-b542-55243a9738a0",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "93b3e4ad-7abd-4b15-88a7-7161c79ca45e": {
+                    "description": "Salmon, avocados, tomatoes, brooms, capers, and leek (220g).",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/9df4e2d1-3aca-45f7-93d9-7f0e18cc1579",
+                    "price": 18900,
+                    "title": "Tartar with salmon and avocado",
+                    "uuid": "93b3e4ad-7abd-4b15-88a7-7161c79ca45e",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "0c962a0a-de30-4643-b3c8-cd9b3c300019": {
+                    "description": "Mushrooms champignons, potatoes, parmesan cheese, basil green, onion, cream, soy sauce (290g)",
+                    "imageUrl": "",
+                    "price": 8900,
+                    "title": "Mushroom Cream Soup",
+                    "uuid": "0c962a0a-de30-4643-b3c8-cd9b3c300019",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "89c85ff8-eeb6-4440-befe-86e797b61472": {
+                    "description": "Mixed salad, grilled chicken, dorblu cheese, pear, and greek walnut (250g).",
+                    "imageUrl": "",
+                    "price": 14900,
+                    "title": "Rockford salad",
+                    "uuid": "89c85ff8-eeb6-4440-befe-86e797b61472",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                }
+            },
+            "67171081-9435-4807-ad86-d5534e07aa74": {
+                "24c21233-e9a0-48fe-a90c-8978a792c551": {
+                    "description": "Авокадо, курка, салат Айсберг, сир Чеддер, огірок, соус айолі та песто (300г).",
+                    "imageUrl": "",
+                    "price": 21900,
+                    "title": "Аво Чікен Бургер",
+                    "uuid": "24c21233-e9a0-48fe-a90c-8978a792c551",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "924c4b78-e09f-400c-9821-64dd3a749001": {
+                    "description": "150г.",
+                    "imageUrl": "",
+                    "price": 5900,
+                    "title": "Картопля фрі",
+                    "uuid": "924c4b78-e09f-400c-9821-64dd3a749001",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "e65c8068-2bed-4860-bd44-78edac9dc22c": {
+                    "description": "250мл.",
+                    "imageUrl": "",
+                    "price": 2900,
+                    "title": "Морс з клюкви",
+                    "uuid": "e65c8068-2bed-4860-bd44-78edac9dc22c",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "7351e618-5f3e-466d-a6f7-8307dcbcc292": {
+                    "description": "250мл.",
+                    "imageUrl": "",
+                    "price": 9900,
+                    "title": "Смузі",
+                    "uuid": "7351e618-5f3e-466d-a6f7-8307dcbcc292",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "b3497a30-c2d8-4c96-bb8f-d7562edc7dec": {
+                    "description": "Лосось, гуакамоле, томат, сир Філадельфія, рукола (240г).",
+                    "imageUrl": "",
+                    "price": 19900,
+                    "title": "Сальмонгер Бургер",
+                    "uuid": "b3497a30-c2d8-4c96-bb8f-d7562edc7dec",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "fdf9e226-5dc6-4cbb-82dc-347bce539804": {
+                    "description": "Котлета з телятини, сир Чеддер, вишневий соус (300г).",
+                    "imageUrl": "",
+                    "price": 16900,
+                    "title": "Чорна Мамба",
+                    "uuid": "fdf9e226-5dc6-4cbb-82dc-347bce539804",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "3d2fd087-e514-4cda-864b-3ee9cd2c9185": {
+                    "description": "Всі види кави можливо зробити без кофеїну або з соєвим чи мигдальним молоком (180мл).",
+                    "imageUrl": "",
+                    "price": 4900,
+                    "title": "Флет Уайт",
+                    "uuid": "3d2fd087-e514-4cda-864b-3ee9cd2c9185",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "ebb785e5-9dc6-4710-9f59-282f5fa3ae09": {
+                    "description": "Авокадо, оливкове масло, сік лимона, цибуля, чіа, білі тости (190г).",
+                    "imageUrl": "",
+                    "price": 10900,
+                    "title": "Гуакамоле з насінням Чіа на хрустких тостах",
+                    "uuid": "ebb785e5-9dc6-4710-9f59-282f5fa3ae09",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "b53adfb8-4aa7-411c-899c-a3bbb82690e3": {
+                    "description": "Авокадо, рукола, томати, сир Філадельфія чи сир Тофу, солодкий перець, соус песто (250г).",
+                    "imageUrl": "",
+                    "price": 19900,
+                    "title": "Аво Грін Бургер",
+                    "uuid": "b53adfb8-4aa7-411c-899c-a3bbb82690e3",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "7a10bb15-f7c7-42fa-8387-3d0298eea490": {
+                    "description": "Вівсянка, горіхи, курага, родзинки, мед, кориця (150/100г).",
+                    "imageUrl": "",
+                    "price": 6900,
+                    "title": "Гранола з йогуртом",
+                    "uuid": "7a10bb15-f7c7-42fa-8387-3d0298eea490",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "ecb71fa7-4d82-4841-aaf9-fe39c0bce8c6": {
+                    "description": "Індичка, сир чеддр, перець болгарський, цукіні, салат лолло біонда, соус діжон,330г",
+                    "imageUrl": "",
+                    "price": 16900,
+                    "title": "Бургер Паво",
+                    "uuid": "ecb71fa7-4d82-4841-aaf9-fe39c0bce8c6",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "fa89c1e6-649c-465b-a36f-2aa0df4c1c05": {
+                    "description": "Всі види кави можливо зробити без кофеїну або з соєвим чи мигдальним молоком (180мл).",
+                    "imageUrl": "",
+                    "price": 3900,
+                    "title": "Капучіно",
+                    "uuid": "fa89c1e6-649c-465b-a36f-2aa0df4c1c05",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "51581927-3b0c-44f3-8229-2db45feddaf3": {
+                    "description": "МІкс салата, ростбіф, каперси, перець печений, томат конкассе, грінки, соус вітелло (250г).",
+                    "imageUrl": "",
+                    "price": 14900,
+                    "title": "Салат Вітелло",
+                    "uuid": "51581927-3b0c-44f3-8229-2db45feddaf3",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "51ca9f31-74bc-49bf-996d-fc3cf4ed41db": {
+                    "description": "200г.",
+                    "imageUrl": "",
+                    "price": 9900,
+                    "title": "Батат фрі",
+                    "uuid": "51ca9f31-74bc-49bf-996d-fc3cf4ed41db",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "5a2e9d80-24a0-457a-b2d5-afbfa8c0ee19": {
+                    "description": "Індичка, кус кус, томати, базилік , рукола (300г)",
+                    "imageUrl": "",
+                    "price": 16900,
+                    "title": "Котлети з індички",
+                    "uuid": "5a2e9d80-24a0-457a-b2d5-afbfa8c0ee19",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "fb29e684-7564-4a0b-80fd-dac14c7046da": {
+                    "description": "Авокадо, лосось слабосолений, сир Філадельфія чи сир Тофу, салат лолло россо, лимонний сік (250г).",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/88c6354c-ee28-4b59-a63c-c6369cc06649",
+                    "price": 22900,
+                    "title": "Аво Ель Мар Бургер",
+                    "uuid": "fb29e684-7564-4a0b-80fd-dac14c7046da",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "159a3ee2-5554-4dab-8341-3bfa748dd404": {
+                    "description": "250мл.",
+                    "imageUrl": "",
+                    "price": 2900,
+                    "title": "Узвар з сухофруктів",
+                    "uuid": "159a3ee2-5554-4dab-8341-3bfa748dd404",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "6fa90e54-0b83-4837-b866-25fee6661432": {
+                    "description": "250мл.",
+                    "imageUrl": "",
+                    "price": 2900,
+                    "title": "Coca Cola",
+                    "uuid": "6fa90e54-0b83-4837-b866-25fee6661432",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "235d78ac-1d91-4e5a-8648-8e1293d84dc9": {
+                    "description": "Авокадо, ростбіф, салат, перець печений, томати (250г).",
+                    "imageUrl": "",
+                    "price": 21900,
+                    "title": "Аво Біф Бургер",
+                    "uuid": "235d78ac-1d91-4e5a-8648-8e1293d84dc9",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "703d1047-2410-4d3b-bfd6-1ea0bd351624": {
+                    "description": "250мл.",
+                    "imageUrl": "",
+                    "price": 4900,
+                    "title": "Енергетичний напій \"Burn\"",
+                    "uuid": "703d1047-2410-4d3b-bfd6-1ea0bd351624",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "8b9b1b22-e3f1-492c-b986-62aec8b38f9e": {
+                    "description": "100мл.",
+                    "imageUrl": "",
+                    "price": 8900,
+                    "title": "Фреш гранатовий",
+                    "uuid": "8b9b1b22-e3f1-492c-b986-62aec8b38f9e",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 8640000000,
+                    "classifications": []
+                },
+                "3255dc14-a082-4375-93a8-6fec6d3973c3": {
+                    "description": "250ml.",
+                    "imageUrl": "",
+                    "price": 2900,
+                    "title": "Fanta",
+                    "uuid": "3255dc14-a082-4375-93a8-6fec6d3973c3",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "fa6fc5a8-8c25-407d-b8d4-f583f5dab736": {
+                    "description": "250мл.",
+                    "imageUrl": "",
+                    "price": 2900,
+                    "title": "Тонік \"Shweppes\"",
+                    "uuid": "fa6fc5a8-8c25-407d-b8d4-f583f5dab736",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "839a09b0-78f2-4dfa-b84a-2fcd52bdb081": {
+                    "description": "Філе курча, авокадо, сир моцарелла, соус Песто, помідори, мікрогрін (300г).",
+                    "imageUrl": "",
+                    "price": 18900,
+                    "title": "Аво курка з моцареллою та соусом Песто",
+                    "uuid": "839a09b0-78f2-4dfa-b84a-2fcd52bdb081",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "05bc2e06-1e7a-40a2-96c5-e7afb5e4dc83": {
+                    "description": "Авокадо, яйце пашот, сир Чеддер, прошутто, рукола (250г).",
+                    "imageUrl": "",
+                    "price": 20900,
+                    "title": "Аво Бенедикт Бургер",
+                    "uuid": "05bc2e06-1e7a-40a2-96c5-e7afb5e4dc83",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "72ec8c0a-83ac-4a12-9b51-8d5641f639eb": {
+                    "description": "Всі види кави можливо зробити без кофеїну або з соєвим чи мигдальним молоком (250мл).",
+                    "imageUrl": "",
+                    "price": 5900,
+                    "title": "Матча Латте",
+                    "uuid": "72ec8c0a-83ac-4a12-9b51-8d5641f639eb",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "46042884-c365-4b2b-884a-aa193cc54228": {
+                    "description": "150г.",
+                    "imageUrl": "",
+                    "price": 3900,
+                    "title": "Картопля запечена з розмарином",
+                    "uuid": "46042884-c365-4b2b-884a-aa193cc54228",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "8ae45b4d-c74a-40f9-a0a7-ac63c2faa28f": {
+                    "description": "Тост білий, гуакамоле, яйце куряче, мікс салата (160г).",
+                    "imageUrl": "",
+                    "price": 10900,
+                    "title": "Грінки з гуакамоле та яйцем пашот",
+                    "uuid": "8ae45b4d-c74a-40f9-a0a7-ac63c2faa28f",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "072dccda-04f8-442c-a4c0-af94567d3ad9": {
+                    "description": "Авокадо, соус інжирний, сир Тофу, шпинат, томати в'ялені (250г).",
+                    "imageUrl": "",
+                    "price": 19900,
+                    "title": "Аво Тофу Бургер",
+                    "uuid": "072dccda-04f8-442c-a4c0-af94567d3ad9",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "4ebd5299-c70c-46a7-b597-174b673e3c7c": {
+                    "description": "Всі види кави можливо зробити без кофеїну або з соєвим чи мигдальним молоком (200мл).",
+                    "imageUrl": "",
+                    "price": 4900,
+                    "title": "Латте",
+                    "uuid": "4ebd5299-c70c-46a7-b597-174b673e3c7c",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "1dd26131-b69d-468a-af19-3af5d603dc8a": {
+                    "description": "Зелень, авокадо, огірок, оливкове масло, томати, лук (280г).",
+                    "imageUrl": "",
+                    "price": 11900,
+                    "title": "Холодний крем-суп з Авокадо",
+                    "uuid": "1dd26131-b69d-468a-af19-3af5d603dc8a",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "1ddc6eb6-f1a0-44d9-86f8-1d5ff4f4956b": {
+                    "description": "Авокадо, куряче яйце, сир Пармезан (270г).",
+                    "imageUrl": "",
+                    "price": 13900,
+                    "title": "Авокадо запечене з яйцем",
+                    "uuid": "1ddc6eb6-f1a0-44d9-86f8-1d5ff4f4956b",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "5e28ccf6-a3f3-4e4f-9d97-b631d2eae06d": {
+                    "description": "Чай на вибір (500мл).",
+                    "imageUrl": "",
+                    "price": 4900,
+                    "title": "Чай",
+                    "uuid": "5e28ccf6-a3f3-4e4f-9d97-b631d2eae06d",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "a2331be2-4511-483b-8817-d3bc00faacd9": {
+                    "description": "Всі види кави можливо зробити без кофеїну або з соєвим чи мигдальним молоком (30мл).",
+                    "imageUrl": "",
+                    "price": 2900,
+                    "title": "Еспрессо",
+                    "uuid": "a2331be2-4511-483b-8817-d3bc00faacd9",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "118e9b30-0cfc-4d35-afbe-6ac0ed4d45d3": {
+                    "description": "500мл.",
+                    "imageUrl": "",
+                    "price": 4900,
+                    "title": "Вода \"Borjomi\"",
+                    "uuid": "118e9b30-0cfc-4d35-afbe-6ac0ed4d45d3",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "7127b3cd-3962-4087-ac6c-1b01dfe317c2": {
+                    "description": "130г.",
+                    "imageUrl": "",
+                    "price": 9900,
+                    "title": "Брауні з помадкою із авокадо та тархуна",
+                    "uuid": "7127b3cd-3962-4087-ac6c-1b01dfe317c2",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "06b260de-520c-40a8-92cf-0e35b15c1a9b": {
+                    "description": "Гриби печериці, картопля, сир пармезан, базилік зелений, цибуля, вершки, соєвий соус (290г)",
+                    "imageUrl": "",
+                    "price": 8900,
+                    "title": "Грибний крем-суп",
+                    "uuid": "06b260de-520c-40a8-92cf-0e35b15c1a9b",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "ebe4cecc-e92f-4df5-aa40-9106fcfa9c22": {
+                    "description": "Всі види кави можливо зробити без кофеїну або з соєвим чи мигдальним молоком (120мл).",
+                    "imageUrl": "",
+                    "price": 2900,
+                    "title": "Американо",
+                    "uuid": "ebe4cecc-e92f-4df5-aa40-9106fcfa9c22",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "f8c26240-c809-4710-8490-6f28eecc6ae7": {
+                    "description": "Смак на вибір (250мл).",
+                    "imageUrl": "",
+                    "price": 7900,
+                    "title": "Фреш",
+                    "uuid": "f8c26240-c809-4710-8490-6f28eecc6ae7",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "c392f51a-c2c3-469e-8798-7e363e3f9c5f": {
+                    "description": "Мікс салата, Тофу сир, огірок, лук марс, оливка, соус східний, томати в'ялені, бальзамік крем (250г).",
+                    "imageUrl": "",
+                    "price": 10900,
+                    "title": "Салат Тофу",
+                    "uuid": "c392f51a-c2c3-469e-8798-7e363e3f9c5f",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "3ca2266d-f5c4-47bb-b632-32b7151668dc": {
+                    "description": "(200мл).",
+                    "imageUrl": "",
+                    "price": 4900,
+                    "title": "Шоколадний какао",
+                    "uuid": "3ca2266d-f5c4-47bb-b632-32b7151668dc",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "7d531737-7977-4f4a-91a8-11407cd13dff": {
+                    "description": "250мл.",
+                    "imageUrl": "",
+                    "price": 2900,
+                    "title": "Sprite",
+                    "uuid": "7d531737-7977-4f4a-91a8-11407cd13dff",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "599e36db-9b86-411e-baed-0aed9a742d2b": {
+                    "description": "Котлета з телятини, лук конфі, салат Айсберг, соус Айолі. сир Брі, булка пшенична (290г).",
+                    "imageUrl": "",
+                    "price": 16900,
+                    "title": "Світ Біф Бургер",
+                    "uuid": "599e36db-9b86-411e-baed-0aed9a742d2b",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "d19ff632-b54a-4a8b-a6c0-71656c142379": {
+                    "description": "Домашній сир, пісочний корж, ягоди (250г).",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/f4050c78-0e04-40e8-8deb-829defa356fd",
+                    "price": 8900,
+                    "title": "Сирний пудинг з ягідним соусом",
+                    "uuid": "d19ff632-b54a-4a8b-a6c0-71656c142379",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 8640000000,
+                    "classifications": []
+                },
+                "e09b0141-60b8-4938-9a54-3560ea91b3fd": {
+                    "description": "Мікс салата, курка гриль, сир дор-блю, груша, горіх грецький (250г).",
+                    "imageUrl": "",
+                    "price": 14900,
+                    "title": "Салат Рокфор",
+                    "uuid": "e09b0141-60b8-4938-9a54-3560ea91b3fd",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "b95022d1-546c-42ea-8cb7-643c2c1062fb": {
+                    "description": "Об'єм на вибір 250мл/1000мл.",
+                    "imageUrl": "",
+                    "price": 5900,
+                    "title": "Лимонад",
+                    "uuid": "b95022d1-546c-42ea-8cb7-643c2c1062fb",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 8640000000,
+                    "classifications": []
+                },
+                "6f2b797b-2761-45f3-b06d-afcfc126700a": {
+                    "description": "250г.",
+                    "imageUrl": "",
+                    "price": 15900,
+                    "title": "Авокадо гриль з соусом песто",
+                    "uuid": "6f2b797b-2761-45f3-b06d-afcfc126700a",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "97783511-3d10-4661-8205-976e4b58b6bb": {
+                    "description": "",
+                    "imageUrl": "",
+                    "price": 9900,
+                    "title": "Чизкейк",
+                    "uuid": "97783511-3d10-4661-8205-976e4b58b6bb",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "b878df65-3b3c-457a-849f-2e622296233b": {
+                    "description": "200г.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/a126651f-f718-46b3-b7b8-620054960438",
+                    "price": 10900,
+                    "title": "Гуакамоле з чіпсами начос",
+                    "uuid": "b878df65-3b3c-457a-849f-2e622296233b",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "0791ebfe-0add-4878-8721-eb4638b80421": {
+                    "description": "Лосось, сир Філадельфія, авокадо, рукола, томати, лимонний дресінг (270г).",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/732a75cd-ce52-4fa9-b2dd-4f10802aae45",
+                    "price": 18900,
+                    "title": "Салат Філадельфія",
+                    "uuid": "0791ebfe-0add-4878-8721-eb4638b80421",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "25c5e318-5be5-4d93-b4c2-e0c9910f97be": {
+                    "description": "Авокадо, свіжі сезонні фрукти та ягоди, сир фета, листя шпинату (250г).",
+                    "imageUrl": "",
+                    "price": 14900,
+                    "title": "Манго Фітнес Мікс",
+                    "uuid": "25c5e318-5be5-4d93-b4c2-e0c9910f97be",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 8640000000,
+                    "classifications": []
+                },
+                "0fd7e0cf-294d-4015-8968-7187a116d987": {
+                    "description": "Телятина, авокадда, мікс салату, каперси, сир пармезан, томати в,'ялені, соус песто(250г)",
+                    "imageUrl": "",
+                    "price": 19900,
+                    "title": "Карпаччо з телятини",
+                    "uuid": "0fd7e0cf-294d-4015-8968-7187a116d987",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "6127c985-e2fc-4d2e-9a0b-83d4ce975129": {
+                    "description": "400мл.",
+                    "imageUrl": "",
+                    "price": 3900,
+                    "title": "Вода \"Voda.ua\"",
+                    "uuid": "6127c985-e2fc-4d2e-9a0b-83d4ce975129",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 8640000000,
+                    "classifications": []
+                },
+                "4a5db759-2150-4388-b44c-a25412696fb6": {
+                    "description": "250мл.",
+                    "imageUrl": "",
+                    "price": 2900,
+                    "title": "Сік",
+                    "uuid": "4a5db759-2150-4388-b44c-a25412696fb6",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "60507883-9a05-408b-baf0-5e833e8a797e": {
+                    "description": "Всі види кави можливо зробити без кофеїну або з соєвим чи мигдальним молоком (60мл).",
+                    "imageUrl": "",
+                    "price": 3900,
+                    "title": "Подвійне еспрессо",
+                    "uuid": "60507883-9a05-408b-baf0-5e833e8a797e",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "a98e5918-f1bb-4c81-947d-509311d98325": {
+                    "description": "Індичка, авокадо, морква, сир пармезан, фарфалле (350г)",
+                    "imageUrl": "",
+                    "price": 9900,
+                    "title": "Бульйон з індички",
+                    "uuid": "a98e5918-f1bb-4c81-947d-509311d98325",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "403dbb57-94ec-43bd-9852-90e8969d8bc4": {
+                    "description": "Котлета з телятини, сир Чеддер, томат, яйце, бекон, салат Бьонда, соуси Айолі та bbq (420г).",
+                    "imageUrl": "",
+                    "price": 19900,
+                    "title": "Великий Сем Бургер",
+                    "uuid": "403dbb57-94ec-43bd-9852-90e8969d8bc4",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "d1795a2e-a836-4477-8681-158e49109589": {
+                    "description": "Лосось, авокадо, томати, рукола, каперси, цибуля порей (220г).",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/e3499755-b07c-4fe4-9fcb-33f8be3b0842",
+                    "price": 18900,
+                    "title": "Тар-Тар з лососем та авокадо",
+                    "uuid": "d1795a2e-a836-4477-8681-158e49109589",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                }
+            }
+        },
+        "sections": [
+            {
+                "subsectionUuids": [
+                    "0d91a5ba-cc02-42c7-9548-a5c4a0a21546",
+                    "7d728d57-2b25-478c-916b-2142c3b80c85",
+                    "dffd27d6-a411-4744-b479-89df35b2afa0",
+                    "576a7ca9-502d-4d10-9354-781969e9dec2",
+                    "ddfeb614-0292-412e-8ce0-4cad2cb6e0ec",
+                    "df636dc9-5354-482d-a3f7-68d7be606f20",
+                    "2ee4d785-362e-48a4-aa07-5cf36c6540ce",
+                    "a93fdb80-078a-47f7-b5bb-85141aa8bc7e",
+                    "cc698a89-12d6-44a5-871e-3ad5f0eb6fec",
+                    "4f367fc5-fa5c-4152-aa49-d03089242e21",
+                    "52efbaaa-e781-4381-8810-cc56e8965906"
+                ],
+                "title": "SWITCH LANGUAGE (UKR)",
+                "subtitle": "10:00 AM – 9:00 PM",
+                "uuid": "67171081-9435-4807-ad86-d5534e07aa74",
+                "isTop": true,
+                "isOnSale": true
+            },
+            {
+                "subsectionUuids": [
+                    "fab6edee-ff9d-4d4c-8aaf-d41cacea5aa4",
+                    "452e1297-1b7c-49c2-a20e-25ee3df1ac8d",
+                    "353037c6-32e4-48b2-bb3f-490dee0f938d",
+                    "ec4c73a4-2d30-4e38-8d0c-bda9f60b713b",
+                    "09596fb2-36e5-4c99-9d15-9c7c25947c3f",
+                    "6436497b-b5cf-45e6-8104-859971f03d02",
+                    "90823d3a-e2e0-4861-a6be-ab2d3a9cec28",
+                    "908f4708-b378-4d78-8f69-9675e02a18a5",
+                    "0a431c19-04f3-459b-b638-4fec5f63e803",
+                    "44d040e0-cfea-4863-a39d-fe03202566dd",
+                    "6b307880-f85d-474f-84fe-8cffeb551af7"
+                ],
+                "title": "SWITCH LANGUAGE (ENG)",
+                "subtitle": "10:00 AM – 9:00 PM",
+                "uuid": "4c3d8d3d-e980-4247-967b-48d7cdc906c3",
+                "isTop": false,
+                "isOnSale": true
+            }
+        ],
+        "subsectionsMap": {
+            "7d728d57-2b25-478c-916b-2142c3b80c85": {
+                "itemUuids": [
+                    "b3497a30-c2d8-4c96-bb8f-d7562edc7dec",
+                    "599e36db-9b86-411e-baed-0aed9a742d2b",
+                    "fdf9e226-5dc6-4cbb-82dc-347bce539804",
+                    "403dbb57-94ec-43bd-9852-90e8969d8bc4",
+                    "ecb71fa7-4d82-4841-aaf9-fe39c0bce8c6"
+                ],
+                "subtitle": "",
+                "title": "Craft Бургери",
+                "uuid": "7d728d57-2b25-478c-916b-2142c3b80c85",
+                "displayType": null
+            },
+            "576a7ca9-502d-4d10-9354-781969e9dec2": {
+                "itemUuids": [
+                    "d1795a2e-a836-4477-8681-158e49109589",
+                    "b878df65-3b3c-457a-849f-2e622296233b",
+                    "ebb785e5-9dc6-4710-9f59-282f5fa3ae09",
+                    "0fd7e0cf-294d-4015-8968-7187a116d987"
+                ],
+                "subtitle": "",
+                "title": "Закуски",
+                "uuid": "576a7ca9-502d-4d10-9354-781969e9dec2",
+                "displayType": null
+            },
+            "6b307880-f85d-474f-84fe-8cffeb551af7": {
+                "itemUuids": [
+                    "537fdcc4-1487-439d-9235-a72276b8f8c9",
+                    "6290f44a-3602-4cfc-9135-21dbc51a09c2",
+                    "407ed0f9-a96c-49bd-877e-a8109288ce1a",
+                    "6fa90e54-0b83-4837-b866-25fee6661432",
+                    "3255dc14-a082-4375-93a8-6fec6d3973c3",
+                    "7d531737-7977-4f4a-91a8-11407cd13dff",
+                    "67d0fc94-3bef-4c86-b542-55243a9738a0",
+                    "ccf59219-e2fa-4e5d-8432-53c5d2edd7de",
+                    "95c381be-5237-47bb-9dfd-c6e81faf885f",
+                    "60af52da-f202-4864-bb5d-d9b22655d2b1",
+                    "6bf0f753-7ffc-4ec7-b4c6-d5d40a396809",
+                    "36b626a7-18ea-420a-99b4-023dc868b48b",
+                    "6dbaac90-d666-4faf-91c0-32d398541037",
+                    "5bc62b80-ee54-44ae-ac96-37d329c42594"
+                ],
+                "subtitle": "",
+                "title": "Non-alcoholic drinks",
+                "uuid": "6b307880-f85d-474f-84fe-8cffeb551af7",
+                "displayType": null
+            },
+            "2ee4d785-362e-48a4-aa07-5cf36c6540ce": {
+                "itemUuids": [
+                    "839a09b0-78f2-4dfa-b84a-2fcd52bdb081",
+                    "5a2e9d80-24a0-457a-b2d5-afbfa8c0ee19"
+                ],
+                "subtitle": "",
+                "title": "М'ясо, птиця, риба на грилі",
+                "uuid": "2ee4d785-362e-48a4-aa07-5cf36c6540ce",
+                "displayType": null
+            },
+            "4f367fc5-fa5c-4152-aa49-d03089242e21": {
+                "itemUuids": [
+                    "4a5db759-2150-4388-b44c-a25412696fb6",
+                    "e65c8068-2bed-4860-bd44-78edac9dc22c",
+                    "159a3ee2-5554-4dab-8341-3bfa748dd404",
+                    "6fa90e54-0b83-4837-b866-25fee6661432",
+                    "3255dc14-a082-4375-93a8-6fec6d3973c3",
+                    "7d531737-7977-4f4a-91a8-11407cd13dff",
+                    "fa6fc5a8-8c25-407d-b8d4-f583f5dab736",
+                    "6127c985-e2fc-4d2e-9a0b-83d4ce975129",
+                    "118e9b30-0cfc-4d35-afbe-6ac0ed4d45d3",
+                    "703d1047-2410-4d3b-bfd6-1ea0bd351624",
+                    "b95022d1-546c-42ea-8cb7-643c2c1062fb",
+                    "f8c26240-c809-4710-8490-6f28eecc6ae7",
+                    "8b9b1b22-e3f1-492c-b986-62aec8b38f9e",
+                    "7351e618-5f3e-466d-a6f7-8307dcbcc292"
+                ],
+                "subtitle": "",
+                "title": "Безалкогольні напої",
+                "uuid": "4f367fc5-fa5c-4152-aa49-d03089242e21",
+                "displayType": null
+            },
+            "6436497b-b5cf-45e6-8104-859971f03d02": {
+                "itemUuids": [
+                    "af5fff28-4098-4684-b700-8bb2add38332",
+                    "20f495a1-3391-41ab-bcef-c1c71edb54d4",
+                    "c0b6f292-0995-4d50-bc62-da8b10753a86",
+                    "19303417-b479-4469-b204-42b9b6bf11d8"
+                ],
+                "subtitle": "",
+                "title": "Garnish",
+                "uuid": "6436497b-b5cf-45e6-8104-859971f03d02",
+                "displayType": null
+            },
+            "908f4708-b378-4d78-8f69-9675e02a18a5": {
+                "itemUuids": [
+                    "bab28618-4d90-4c91-b6e3-08fb9ac18050",
+                    "cac97ce7-0252-4761-be77-401b57b2d92b"
+                ],
+                "subtitle": "",
+                "title": "Griled meat, bird and fish",
+                "uuid": "908f4708-b378-4d78-8f69-9675e02a18a5",
+                "displayType": null
+            },
+            "ddfeb614-0292-412e-8ce0-4cad2cb6e0ec": {
+                "itemUuids": [
+                    "0791ebfe-0add-4878-8721-eb4638b80421",
+                    "c392f51a-c2c3-469e-8798-7e363e3f9c5f",
+                    "51581927-3b0c-44f3-8229-2db45feddaf3",
+                    "e09b0141-60b8-4938-9a54-3560ea91b3fd"
+                ],
+                "subtitle": "",
+                "title": "Салати",
+                "uuid": "ddfeb614-0292-412e-8ce0-4cad2cb6e0ec",
+                "displayType": null
+            },
+            "52efbaaa-e781-4381-8810-cc56e8965906": {
+                "itemUuids": [
+                    "a2331be2-4511-483b-8817-d3bc00faacd9",
+                    "ebe4cecc-e92f-4df5-aa40-9106fcfa9c22",
+                    "60507883-9a05-408b-baf0-5e833e8a797e",
+                    "fa89c1e6-649c-465b-a36f-2aa0df4c1c05",
+                    "4ebd5299-c70c-46a7-b597-174b673e3c7c",
+                    "3d2fd087-e514-4cda-864b-3ee9cd2c9185",
+                    "3ca2266d-f5c4-47bb-b632-32b7151668dc",
+                    "5e28ccf6-a3f3-4e4f-9d97-b631d2eae06d",
+                    "72ec8c0a-83ac-4a12-9b51-8d5641f639eb"
+                ],
+                "subtitle": "",
+                "title": "Гарячі напої",
+                "uuid": "52efbaaa-e781-4381-8810-cc56e8965906",
+                "displayType": null
+            },
+            "df636dc9-5354-482d-a3f7-68d7be606f20": {
+                "itemUuids": [
+                    "1dd26131-b69d-468a-af19-3af5d603dc8a",
+                    "06b260de-520c-40a8-92cf-0e35b15c1a9b",
+                    "a98e5918-f1bb-4c81-947d-509311d98325"
+                ],
+                "subtitle": "",
+                "title": "Супи",
+                "uuid": "df636dc9-5354-482d-a3f7-68d7be606f20",
+                "displayType": null
+            },
+            "353037c6-32e4-48b2-bb3f-490dee0f938d": {
+                "itemUuids": [
+                    "306c782c-11b3-46c8-a99b-0a5eb07ea10c",
+                    "df0ad945-eac9-4d49-bad9-d8177f12c017",
+                    "d56d5db5-d75a-42af-831b-6666ffc1bdd0",
+                    "84897859-2e73-4550-ba83-7d71dd9bc596"
+                ],
+                "subtitle": "",
+                "title": "Breakfasts",
+                "uuid": "353037c6-32e4-48b2-bb3f-490dee0f938d",
+                "displayType": null
+            },
+            "fab6edee-ff9d-4d4c-8aaf-d41cacea5aa4": {
+                "itemUuids": [
+                    "71920d9b-34c2-4e87-89b5-741bd37a46a4",
+                    "b146769a-afb8-4ee1-a44f-0f0738a13a7a",
+                    "a2b4c9d1-305b-42ff-86fc-95e82e96f523",
+                    "157b3321-4409-4039-aa17-b70336a2257d",
+                    "2ec02759-87c5-4252-b026-eeaaa858ff3d",
+                    "9e07b244-c34f-4aa4-80fa-0b789507767a"
+                ],
+                "subtitle": "",
+                "title": "Craft Avo Burgers",
+                "uuid": "fab6edee-ff9d-4d4c-8aaf-d41cacea5aa4",
+                "displayType": null
+            },
+            "0d91a5ba-cc02-42c7-9548-a5c4a0a21546": {
+                "itemUuids": [
+                    "fb29e684-7564-4a0b-80fd-dac14c7046da",
+                    "072dccda-04f8-442c-a4c0-af94567d3ad9",
+                    "b53adfb8-4aa7-411c-899c-a3bbb82690e3",
+                    "05bc2e06-1e7a-40a2-96c5-e7afb5e4dc83",
+                    "235d78ac-1d91-4e5a-8648-8e1293d84dc9",
+                    "24c21233-e9a0-48fe-a90c-8978a792c551"
+                ],
+                "subtitle": "",
+                "title": "Craft Аво Бургери",
+                "uuid": "0d91a5ba-cc02-42c7-9548-a5c4a0a21546",
+                "displayType": null
+            },
+            "dffd27d6-a411-4744-b479-89df35b2afa0": {
+                "itemUuids": [
+                    "7a10bb15-f7c7-42fa-8387-3d0298eea490",
+                    "8ae45b4d-c74a-40f9-a0a7-ac63c2faa28f",
+                    "1ddc6eb6-f1a0-44d9-86f8-1d5ff4f4956b",
+                    "25c5e318-5be5-4d93-b4c2-e0c9910f97be"
+                ],
+                "subtitle": "",
+                "title": "Сніданки",
+                "uuid": "dffd27d6-a411-4744-b479-89df35b2afa0",
+                "displayType": null
+            },
+            "ec4c73a4-2d30-4e38-8d0c-bda9f60b713b": {
+                "itemUuids": [
+                    "e3eb9c9c-f530-4f1f-a0b7-73d1cfda93ca",
+                    "93b3e4ad-7abd-4b15-88a7-7161c79ca45e",
+                    "07a0b675-4171-4996-89d0-74f635493dce",
+                    "73a98d1f-ded1-4509-a193-cad37e6e29eb"
+                ],
+                "subtitle": "",
+                "title": "Appetizers",
+                "uuid": "ec4c73a4-2d30-4e38-8d0c-bda9f60b713b",
+                "displayType": null
+            },
+            "44d040e0-cfea-4863-a39d-fe03202566dd": {
+                "itemUuids": [
+                    "f92d113c-e5aa-4dd8-9a69-244f8f1ab7f8",
+                    "61f5a7fa-3696-4e4e-9b44-1649ae1bbd5f",
+                    "37c33061-125d-441d-9196-33e881aa3e54",
+                    "46a804a1-d580-4d9f-a2f9-465262d7ab77",
+                    "a4a20df6-6218-4dd7-a6ba-a518eb452fa4",
+                    "0de94e25-9270-40a0-8fa2-9b262ae31a21",
+                    "ceda3111-9312-45e9-ae14-8c71ebe55a91",
+                    "703017c5-9237-4cd2-8ce7-b155630e16f6",
+                    "bd0217ce-03bb-46c2-97f3-d9414c8c2947"
+                ],
+                "subtitle": "",
+                "title": "Hot drinks",
+                "uuid": "44d040e0-cfea-4863-a39d-fe03202566dd",
+                "displayType": null
+            },
+            "452e1297-1b7c-49c2-a20e-25ee3df1ac8d": {
+                "itemUuids": [
+                    "429eeb3c-869e-4f95-8340-317d9a80aa6c",
+                    "b2b54b30-df04-4a7e-932c-04cd5c5f2d57",
+                    "4bac28f0-4be3-43bd-88d1-e30196e56559",
+                    "f2584af5-b9db-4de3-b5bd-94243710bbc3",
+                    "f49eacc8-3bf5-42bf-9e19-6ff9bd847d9c"
+                ],
+                "subtitle": "",
+                "title": "Craft Burgers",
+                "uuid": "452e1297-1b7c-49c2-a20e-25ee3df1ac8d",
+                "displayType": null
+            },
+            "cc698a89-12d6-44a5-871e-3ad5f0eb6fec": {
+                "itemUuids": [
+                    "d19ff632-b54a-4a8b-a6c0-71656c142379",
+                    "7127b3cd-3962-4087-ac6c-1b01dfe317c2",
+                    "97783511-3d10-4661-8205-976e4b58b6bb"
+                ],
+                "subtitle": "",
+                "title": "Десерти",
+                "uuid": "cc698a89-12d6-44a5-871e-3ad5f0eb6fec",
+                "displayType": null
+            },
+            "90823d3a-e2e0-4861-a6be-ab2d3a9cec28": {
+                "itemUuids": [
+                    "f2aebbad-1cd0-475c-93c2-92c529542e37",
+                    "0c962a0a-de30-4643-b3c8-cd9b3c300019",
+                    "27cf3af3-6114-466f-bb0c-3cf5faca20cb"
+                ],
+                "subtitle": "",
+                "title": "Soups",
+                "uuid": "90823d3a-e2e0-4861-a6be-ab2d3a9cec28",
+                "displayType": null
+            },
+            "a93fdb80-078a-47f7-b5bb-85141aa8bc7e": {
+                "itemUuids": [
+                    "46042884-c365-4b2b-884a-aa193cc54228",
+                    "924c4b78-e09f-400c-9821-64dd3a749001",
+                    "51ca9f31-74bc-49bf-996d-fc3cf4ed41db",
+                    "6f2b797b-2761-45f3-b06d-afcfc126700a"
+                ],
+                "subtitle": "",
+                "title": "Гарніри",
+                "uuid": "a93fdb80-078a-47f7-b5bb-85141aa8bc7e",
+                "displayType": null
+            },
+            "09596fb2-36e5-4c99-9d15-9c7c25947c3f": {
+                "itemUuids": [
+                    "deb31952-5c8b-4e21-be1f-7bca1da82e6b",
+                    "856ebfbf-f21d-4e49-82a7-375f2e7aa04c",
+                    "3c617f2e-e24f-4efb-a012-895421b6cb2b",
+                    "89c85ff8-eeb6-4440-befe-86e797b61472"
+                ],
+                "subtitle": "",
+                "title": "Salads",
+                "uuid": "09596fb2-36e5-4c99-9d15-9c7c25947c3f",
+                "displayType": null
+            },
+            "0a431c19-04f3-459b-b638-4fec5f63e803": {
+                "itemUuids": [
+                    "2c63a719-da15-4f02-bf1b-af450b57c7c5",
+                    "e6ae7ad4-d518-4415-bde5-eabba3e65305",
+                    "ec47d6d1-55d5-461f-a5eb-db5add37d8a4"
+                ],
+                "subtitle": "",
+                "title": "Deserts",
+                "uuid": "0a431c19-04f3-459b-b638-4fec5f63e803",
+                "displayType": null
+            }
+        },
+        "title": "Avocado (Бессарабська площа)",
+        "uuid": "b963f6d6-40a6-431f-8eb0-4886e6434f64",
+        "categories": [
+            "₴₴",
+            "Європейська",
+            "Для вегетаріанців",
+            "Здорова їжа",
+            "Бургери"
+        ],
+        "cuisineList": [
+            "Європейська",
+            "Для вегетаріанців",
+            "Здорова їжа",
+            "Бургери"
+        ],
+        "priceBucket": "₴₴",
+        "etaRange": {
+            "text": "40–50 min",
+            "iconUrl": ""
+        },
+        "ratingBadge": {
+            "text": "<span><span style=\"font-family: inherit; color: #3a3a48;\">4.3 <img src=\"https://d1a3f4spazzrp4.cloudfront.net/static/images/Star_Black_Eats_3.png\" width=\"14\" height=\"14\" vertical-align=\"middle\"> </span><span style=\"font-family: inherit; color: #757575;\">(66)</span></span>"
+        },
+        "disclaimerBadge": null,
+        "fareBadge": null,
+        "fareInfo": {
+            "serviceFee": 30,
+            "serviceFeeCents": 3000
+        },
+        "promotion": null,
+        "shouldIndex": true,
+        "heroImageUrls": [
+            {
+                "url": "https://d1ralsognjng37.cloudfront.net/4e0f4a62-f420-43c3-9ede-34ec5f8188ef",
+                "width": 240
+            },
+            {
+                "url": "https://d1ralsognjng37.cloudfront.net/877342ff-0c77-40a0-af85-5453ef7ab58b",
+                "width": 550
+            },
+            {
+                "url": "https://d1ralsognjng37.cloudfront.net/95dbcc28-47d9-442f-b7d9-f4838e31c1e4",
+                "width": 640
+            },
+            {
+                "url": "https://d1ralsognjng37.cloudfront.net/d5a78315-96bb-4e27-b9fd-abec1730aa69",
+                "width": 750
+            },
+            {
+                "url": "https://d1ralsognjng37.cloudfront.net/d16f7159-2a5b-4808-8208-6663f0f31081",
+                "width": 1080
+            },
+            {
+                "url": "https://d1ralsognjng37.cloudfront.net/ca8158b6-e58e-4b3a-8ebc-3a363935131f",
+                "width": 2880
+            }
+        ],
+        "isOpen": true,
+        "currencyCode": "UAH",
+        "closedMessage": "Currently unavailable",
+        "location": {
+            "address": "Bessarabs'Ka Square, Kyiv, 02000",
+            "streetAddress": "Bessarabs'ka Square",
+            "city": "Kyiv",
+            "country": "UA",
+            "postalCode": "02000",
+            "region": "",
+            "latitude": 50.442483,
+            "longitude": 30.52093879999999
+        },
+        "isDeliveryThirdParty": false,
+        "hours": [
+            {
+                "dayRange": "Every Day",
+                "sectionHours": [
+                    {
+                        "startTime": 600,
+                        "endTime": 1260,
+                        "sectionTitle": "SWITCH LANGUAGE (UKR)"
+                    },
+                    {
+                        "startTime": 600,
+                        "endTime": 1260,
+                        "sectionTitle": "SWITCH LANGUAGE (ENG)"
+                    }
+                ]
+            }
+        ],
+        "disableOrderInstruction": false,
+        "disableCheckoutInstruction": false,
+        "nuggets": [],
+        "isWithinDeliveryRange": false,
+        "slug": "avocado-бессарабська-площа",
+        "citySlug": "kyiv",
+        "phoneNumber": "+380999550981",
+        "metaJson": "{\"@context\":\"http:\\u002F\\u002Fschema.org\",\"@type\":\"Restaurant\",\"@id\":\"https:\\u002F\\u002Fwww.ubereats.com\\u002Fen-UA\\u002Fkyiv\\u002Ffood-delivery\\u002Favocado-%D0%B1%D0%B5%D1%81%D1%81%D0%B0%D1%80%D0%B0%D0%B1%D1%81%D1%8C%D0%BA%D0%B0-%D0%BF%D0%BB%D0%BE%D1%89%D0%B0\\u002FuWP21kCmQx-OsEiG5kNPZA\\u002F\",\"name\":\"Avocado (Бессарабська площа)\",\"priceRange\":\"₴₴\",\"potentialAction\":{\"@type\":\"OrderAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\\u002F\\u002Fwww.ubereats.com\\u002Fen-UA\\u002Fkyiv\\u002Ffood-delivery\\u002Favocado-%D0%B1%D0%B5%D1%81%D1%81%D0%B0%D1%80%D0%B0%D0%B1%D1%81%D1%8C%D0%BA%D0%B0-%D0%BF%D0%BB%D0%BE%D1%89%D0%B0\\u002FuWP21kCmQx-OsEiG5kNPZA\\u002F?utm_campaign=order-action&utm_medium=organic\",\"inLanguage\":\"English\",\"actionPlatform\":[\"http:\\u002F\\u002Fschema.org\\u002FDesktopWebPlatform\",\"http:\\u002F\\u002Fschema.org\\u002FMobileWebPlatform\"]},\"deliveryMethod\":[\"http:\\u002F\\u002Fpurl.org\\u002Fgoodrelations\\u002Fv1#DeliveryModeOwnFleet\"]},\"address\":{\"@type\":\"PostalAddress\",\"addressLocality\":\"Kyiv\",\"addressRegion\":\"\",\"postalCode\":\"02000\",\"addressCountry\":\"UA\",\"streetAddress\":\"Bessarabs'ka Square\"},\"geo\":{\"@type\":\"GeoCoordinates\",\"latitude\":50.442483,\"longitude\":30.52093879999999}}",
+        "promoTrackings": [],
+        "suggestedPromotion": {
+            "text": "",
+            "promotionUuid": ""
+        },
+        "supportedDiningModes": [
+            {
+                "mode": "DELIVERY",
+                "title": "Delivery",
+                "isSelected": true,
+                "isAvailable": true
+            }
+        ],
+        "isPreview": false,
+        "pinnedInfo": null
+    }
+}

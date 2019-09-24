@@ -1,0 +1,2264 @@
+{
+    "status": "success",
+    "data": {
+        "sectionEntitiesMap": {
+            "f27c76de-d59e-4097-befe-00f42ceb0cea": {
+                "788ba10e-7d85-4e7e-bfaf-a6fb39d42d7b": {
+                    "description": "rice, Nori (seaweed), smoked eel, cucumber, takuan, kanpyo, microgreens, Unagi sauce (185 g)\n",
+                    "imageUrl": null,
+                    "price": 15900,
+                    "title": "Weever with smoked eel",
+                    "uuid": "788ba10e-7d85-4e7e-bfaf-a6fb39d42d7b",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "fff3a273-7336-4776-be19-ba67988c6c77": {
+                    "description": "130 g",
+                    "imageUrl": null,
+                    "price": 5900,
+                    "title": "Baozi with pork",
+                    "uuid": "fff3a273-7336-4776-be19-ba67988c6c77",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "e27d9a23-abe6-46b2-bbd3-d360472c6c33": {
+                    "description": "Oshihari rice, Nori (seaweed), salmon, Buko cheese, cucumber, takuan, kanpyo (165 g)\n",
+                    "imageUrl": null,
+                    "price": 13900,
+                    "title": "Philadelphia with salmon",
+                    "uuid": "e27d9a23-abe6-46b2-bbd3-d360472c6c33",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "a4311b1f-ef4e-4c00-a582-8469c9a9c123": {
+                    "description": "500 ml",
+                    "imageUrl": null,
+                    "price": 3100,
+                    "title": "7 Up",
+                    "uuid": "a4311b1f-ef4e-4c00-a582-8469c9a9c123",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "fa1199a9-0071-457b-851e-9d8b2560cc44": {
+                    "description": "500 ml",
+                    "imageUrl": null,
+                    "price": 3100,
+                    "title": "Pepsi",
+                    "uuid": "fa1199a9-0071-457b-851e-9d8b2560cc44",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "aefb8193-485f-4aa5-be5a-26a5f739cbd8": {
+                    "description": "cucumber, chili, spring onion, lime, basil, Jam-Tem sauce (160 g)\n",
+                    "imageUrl": null,
+                    "price": 6900,
+                    "title": "Jam-Tem salad",
+                    "uuid": "aefb8193-485f-4aa5-be5a-26a5f739cbd8",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "4b728c83-08cf-471c-8586-cfcd16c181da": {
+                    "description": "chicken broth, coconut milk, chicken, tomatoes, broccoli, oyster mushrooms, lime leaves, lemongrass, galangal root (400 gr)\n",
+                    "imageUrl": null,
+                    "price": 13900,
+                    "title": "Tom Kha with chicken",
+                    "uuid": "4b728c83-08cf-471c-8586-cfcd16c181da",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "a42975d0-7bed-4ee6-bc4c-1cd0f63c97bc": {
+                    "description": "330 ml",
+                    "imageUrl": null,
+                    "price": 3500,
+                    "title": "Still mineral water Morshynska",
+                    "uuid": "a42975d0-7bed-4ee6-bc4c-1cd0f63c97bc",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "a65a82e4-79bc-46e8-86da-585bd2333c10": {
+                    "description": "Chicken, red onions, celery, oyster mushrooms, prawns, carrots, cellophane noodles, coriander, and chili Thai sauce (180g).",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/978a13c7-d46d-413a-a8c1-66fa95630bcf",
+                    "price": 10900,
+                    "title": "Fried spring rolls with mushrooms",
+                    "uuid": "a65a82e4-79bc-46e8-86da-585bd2333c10",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "4277bc49-dddd-4730-b823-6a285f2631f2": {
+                    "description": "tiger shrimps, squid, octopus, Oshihari rice, Lollo Bionda lettuce, cucumber, tomatoes, spring onion, garlic, mint, Blue Curaçao, Thai sauce (250 g)\n",
+                    "imageUrl": null,
+                    "price": 13900,
+                    "title": "Salad with seafood",
+                    "uuid": "4277bc49-dddd-4730-b823-6a285f2631f2",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "b16dfbc7-45a3-4681-946c-757ab3dc7a49": {
+                    "description": "Oshihari rice, Nori (seaweed), salmon, Buko cheese, cucumber, takuan, kanpyo, spring onion, masago, Sriracha sauce (165 g)\n",
+                    "imageUrl": null,
+                    "price": 11900,
+                    "title": "Kimchi with salmon",
+                    "uuid": "b16dfbc7-45a3-4681-946c-757ab3dc7a49",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "4691757f-c7bf-465e-a7d2-cc56ef8be592": {
+                    "description": "140 g",
+                    "imageUrl": null,
+                    "price": 7500,
+                    "title": "Chocolate cake with chili",
+                    "uuid": "4691757f-c7bf-465e-a7d2-cc56ef8be592",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "89c83085-f2db-40d5-9bb5-2a2411efd304": {
+                    "description": "210g.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/310173ef-dc3a-4e92-a9f8-4f3e1abe4ca2",
+                    "price": 14900,
+                    "title": "Dim sum assorted",
+                    "uuid": "89c83085-f2db-40d5-9bb5-2a2411efd304",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "15b8809d-322e-4d1b-9e83-502e915c5307": {
+                    "description": "Banh bao, fried tofu, cucumbers, tomatoes, Lollo Bionda lettuce,  curry paste, sesame seeds, sesame sauce\n(200g).",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/ff0c087a-9a56-4ff4-9c2b-668f0436ff07",
+                    "price": 6900,
+                    "title": "Bao burger with tofu and vegetables",
+                    "uuid": "15b8809d-322e-4d1b-9e83-502e915c5307",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "c77365bf-5691-4930-8d3f-0722f2f828e7": {
+                    "description": " 210 g",
+                    "imageUrl": "",
+                    "price": 7900,
+                    "title": "Roasted wontons with chicken",
+                    "uuid": "c77365bf-5691-4930-8d3f-0722f2f828e7",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "9ba53e9f-0487-4c81-90e1-dd56578aa269": {
+                    "description": "500 ml",
+                    "imageUrl": null,
+                    "price": 3100,
+                    "title": "Mirinda",
+                    "uuid": "9ba53e9f-0487-4c81-90e1-dd56578aa269",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "e32e2106-79e5-4fac-a18e-b70032e1af89": {
+                    "description": "160g.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/e55baa12-4b6c-4d15-888c-f9faa8c51faf",
+                    "price": 7500,
+                    "title": "Coconut cake",
+                    "uuid": "e32e2106-79e5-4fac-a18e-b70032e1af89",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "7476d142-6289-472f-b021-55be003957cd": {
+                    "description": "pork, Sweet chili sauce, peanuts, microgreens (200 g)\n",
+                    "imageUrl": null,
+                    "price": 13900,
+                    "title": "Pork in Sweet chili sauce",
+                    "uuid": "7476d142-6289-472f-b021-55be003957cd",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "e68ad2c4-7a4c-4fa9-a18c-5abd22848cf0": {
+                    "description": "(150 gr)",
+                    "imageUrl": null,
+                    "price": 4900,
+                    "title": "Udon with vegetables in Tonkatsu sauce ",
+                    "uuid": "e68ad2c4-7a4c-4fa9-a18c-5abd22848cf0",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "143fc93f-12f5-4cd8-9520-0d031a630ed8": {
+                    "description": "Chicken, red onions, celery, oyster mushrooms, prawns, carrots, cellophane noodles, coriander, and chili Thai sauce (240g).",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/114425c2-2bb3-4668-b935-fe58ce26b10d",
+                    "price": 10900,
+                    "title": "Fried spring rolls with chicken",
+                    "uuid": "143fc93f-12f5-4cd8-9520-0d031a630ed8",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "7a7df533-bf1e-45ed-840d-2dcc15f0ef9b": {
+                    "description": "330 ml",
+                    "imageUrl": null,
+                    "price": 5500,
+                    "title": "Borjomi mineral water ",
+                    "uuid": "7a7df533-bf1e-45ed-840d-2dcc15f0ef9b",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "e54258a5-2e9f-4834-9afc-5dedbd7b1aaf": {
+                    "description": "glass noodles, chicken, oyster mushrooms, green beans, red onion, spring onion, Sukiyaki sauce, sesame seeds (300 g)\n",
+                    "imageUrl": null,
+                    "price": 10900,
+                    "title": "Glass noodles with chicken",
+                    "uuid": "e54258a5-2e9f-4834-9afc-5dedbd7b1aaf",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "e57718a2-c092-44e5-917e-207704ed37f8": {
+                    "description": "Banh bao, shredded duck, cucumber, red cabbage, Lollo Bionda lettuce, spring onion, chili, plum sauce\n(195 g)\n",
+                    "imageUrl": null,
+                    "price": 9500,
+                    "title": "Bao burger with duck",
+                    "uuid": "e57718a2-c092-44e5-917e-207704ed37f8",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "4b8d10cf-1fe8-4347-a5fc-13b196982fb2": {
+                    "description": "Oshihari rice, octopus, squid, mussels, scallops, tiger shrimps, green beans, ginger, cilantro, lemon fresh, spring onion, chili, soy sprouts, soy sauce    (300g).\n",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/a1af30dc-4079-45fb-be6c-4f4909ca73bf",
+                    "price": 16500,
+                    "title": "Fried rice with seafood",
+                    "uuid": "4b8d10cf-1fe8-4347-a5fc-13b196982fb2",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "d637aaa8-607a-47ca-b23c-0e96859c8745": {
+                    "description": "130 g",
+                    "imageUrl": null,
+                    "price": 5900,
+                    "title": "Baozi with chicken",
+                    "uuid": "d637aaa8-607a-47ca-b23c-0e96859c8745",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "83d2c4de-4071-4d99-85b6-11c0eb5a35a1": {
+                    "description": "Miso broth, tofu, oyster mushrooms, marinated Hiyashi Wakame seaweed, sesame seeds\n (400g).",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/562da0de-fe53-4236-9885-e0808d31aeef",
+                    "price": 9900,
+                    "title": "Miso soup",
+                    "uuid": "83d2c4de-4071-4d99-85b6-11c0eb5a35a1",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "6f9f9a63-0a67-4c19-9fc6-09920614ef87": {
+                    "description": "beef, green beans, oyster-garlic sauce, soy sprouts (210 gr)\n",
+                    "imageUrl": null,
+                    "price": 13900,
+                    "title": "Beef with spicy beans in oyster sauce",
+                    "uuid": "6f9f9a63-0a67-4c19-9fc6-09920614ef87",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "d239c4c8-fba6-491e-958f-5e2713a30aef": {
+                    "description": "(aloe/coconut/lychee/mango/passion fruit, 350 ml)",
+                    "imageUrl": null,
+                    "price": 7500,
+                    "title": "Foco Drink",
+                    "uuid": "d239c4c8-fba6-491e-958f-5e2713a30aef",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "bc4a7940-2312-44f8-9c6e-62c288f95ec2": {
+                    "description": "200 g",
+                    "imageUrl": null,
+                    "price": 11900,
+                    "title": "Teriyaki chicken with vegetables in Tonkatsu sauce",
+                    "uuid": "bc4a7940-2312-44f8-9c6e-62c288f95ec2",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "c856ca90-b5c9-497e-9ef8-d23854c67fb5": {
+                    "description": "Tataki salmon, cucumber, kanpyo, tomatoes, edamame beans, red onion, microgreens, sauce (180 gr)\n",
+                    "imageUrl": null,
+                    "price": 11900,
+                    "title": "Salad with Tataki salmon",
+                    "uuid": "c856ca90-b5c9-497e-9ef8-d23854c67fb5",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "c6b78929-f996-4726-b375-95d7fba1392b": {
+                    "description": "rice noodles, pork, chicken egg, broccoli, wood ear mushrooms, chili, spring onion, Pad See Ew sauce (300 gr)\n",
+                    "imageUrl": null,
+                    "price": 11900,
+                    "title": "Pad See Ew with pork",
+                    "uuid": "c6b78929-f996-4726-b375-95d7fba1392b",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "adb92182-e429-495b-b588-8536eabdb88f": {
+                    "description": "chicken, pineapples, sweet and sour sauce, microgreens (200 g)\n",
+                    "imageUrl": null,
+                    "price": 12900,
+                    "title": "Chicken with pineapples in sweet and sour sauce",
+                    "uuid": "adb92182-e429-495b-b588-8536eabdb88f",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "bab8beeb-cad5-4cbc-98cd-94baa5f5739b": {
+                    "description": "crusted rockfish, ,marinated Hiyashi Wakame seaweed, sweet and sour sauce, Sweet chili sauce, microgreens   (200 g)\n",
+                    "imageUrl": null,
+                    "price": 13900,
+                    "title": "Rockfish in Sweet chili sauce",
+                    "uuid": "bab8beeb-cad5-4cbc-98cd-94baa5f5739b",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "806a88f2-77cb-4f54-98d9-e57ef0f589d1": {
+                    "description": "150 gr",
+                    "imageUrl": null,
+                    "price": 4900,
+                    "title": "Fried rice ",
+                    "uuid": "806a88f2-77cb-4f54-98d9-e57ef0f589d1",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "0050ddee-12b7-4ade-8c3c-7f2e03135eac": {
+                    "description": "330 ml",
+                    "imageUrl": null,
+                    "price": 3700,
+                    "title": "Ginger tea",
+                    "uuid": "0050ddee-12b7-4ade-8c3c-7f2e03135eac",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "2d14b864-b893-4fb7-8759-7583ef41f202": {
+                    "description": "190 g",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/e0ee2d68-63d9-446d-8e56-ac1e918e709b",
+                    "price": 9900,
+                    "title": "Dim sum with chicken and vegetables",
+                    "uuid": "2d14b864-b893-4fb7-8759-7583ef41f202",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "4f757926-8c80-4b76-bebb-2b47f1cef817": {
+                    "description": "Udon noodles, beef, sweet pepper, green beans, carrot, red onion, chili, Hoisin sauce\n(300g).",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/d32cc33c-577c-4740-81fd-650d7e9ce4be",
+                    "price": 13900,
+                    "title": "Udon with beef",
+                    "uuid": "4f757926-8c80-4b76-bebb-2b47f1cef817",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "98a0cb4a-0077-4f1f-985a-54f12e495dc7": {
+                    "description": "190 g",
+                    "imageUrl": null,
+                    "price": 19900,
+                    "title": "Dim Sum with shrimps ",
+                    "uuid": "98a0cb4a-0077-4f1f-985a-54f12e495dc7",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "951fd935-5c62-43de-8248-464c4a21a68c": {
+                    "description": "190g",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/c8e13c43-de13-4ded-9cfe-a557a7c4ff0b",
+                    "price": 9900,
+                    "title": "Dim sum with spinach and tofu",
+                    "uuid": "951fd935-5c62-43de-8248-464c4a21a68c",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "08974e6c-21a4-48e4-a2dd-156545ea8a96": {
+                    "description": "lettuce mix, tofu, curry paste, nutty coconut sauce, Yum Woon Sen sauce  \n (185g).",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/7a253d0a-9627-4edb-bd44-a3db3b8af8b8",
+                    "price": 8500,
+                    "title": "Salad with tofu cheese and vegetables",
+                    "uuid": "08974e6c-21a4-48e4-a2dd-156545ea8a96",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "2a2cba90-4486-42ef-a94c-7bc7464004ef": {
+                    "description": "Oshihari rice, pork, chicken egg, carrot, leek, garlic, chili, lemon fresh, cilantro, soy sauce \n (300g).\n",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/6801266d-b7a2-413c-a57d-ce4dab9321fc",
+                    "price": 11900,
+                    "title": "Fried rice with pork ",
+                    "uuid": "2a2cba90-4486-42ef-a94c-7bc7464004ef",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "1d9b4657-6408-415a-a341-0725de6b032d": {
+                    "description": "Oshihari rice, chicken, chicken egg, carrots, red onion, bell pepper, garlic, chili, lemon fresh, cilantro, soy sauce (light)    (300g).",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/a8838c59-e3aa-40f7-9ad8-c73d76eb6d88",
+                    "price": 10900,
+                    "title": "Fried rice with chicken",
+                    "uuid": "1d9b4657-6408-415a-a341-0725de6b032d",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "b94f1f8f-32dc-4745-9ad2-91bf02593e90": {
+                    "description": "rice noodles, chicken, chicken egg, soy sprouts, lemon fresh, cilantro, spring onion,  peanuts, Pad Thai sauce\n (300g).\n",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/30d8abcf-f86e-4315-ba65-9781c68fb13b",
+                    "price": 11900,
+                    "title": "Pad Thai with chicken",
+                    "uuid": "b94f1f8f-32dc-4745-9ad2-91bf02593e90",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "0c1749a9-18a1-4cb2-9f80-e07795eeddee": {
+                    "description": "chicken broth, coconut milk,  tiger shrimps, scallops, tomato concassé, oyster mushrooms, lemongrass, lime leaves, galangal root  (400g)",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/9f17477a-029c-4783-aeb7-230fdf448a50",
+                    "price": 18900,
+                    "title": "Tom Yum with shrimps",
+                    "uuid": "0c1749a9-18a1-4cb2-9f80-e07795eeddee",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "c17a0539-b743-48f3-a522-65f41bccc4ae": {
+                    "description": "330 ml",
+                    "imageUrl": null,
+                    "price": 3500,
+                    "title": "Light sparkling mineral water Morshynska",
+                    "uuid": "c17a0539-b743-48f3-a522-65f41bccc4ae",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "98979f80-262d-4aeb-bbed-f35f2f349b63": {
+                    "description": "(orange/strawberry banana/cherry/multivitamin/tomato)",
+                    "imageUrl": null,
+                    "price": 3500,
+                    "title": "Sandora Juice ",
+                    "uuid": "98979f80-262d-4aeb-bbed-f35f2f349b63",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "07b89ff6-7bb1-46d4-a1e1-1799766b094c": {
+                    "description": "Ramen broth, pork, Ramen noodles, takuan, chicken egg, Nori (seaweed), soy sprouts, spring onion\n (400 g)",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/7e158aeb-c187-4859-a70d-e1a0dcf5baed",
+                    "price": 13900,
+                    "title": "Ramen with pork",
+                    "uuid": "07b89ff6-7bb1-46d4-a1e1-1799766b094c",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "6c8e2ca4-f679-42d9-8d17-6c6221d1fb44": {
+                    "description": "rice noodles, tofu, chicken egg, oyster mushrooms, carrot, spring onion,  peanuts, soy sprouts, Pad Thai sauce\n  (300g).",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/a6f8822f-1db0-4d82-bdf0-43511cc5b78f",
+                    "price": 11900,
+                    "title": "Pad Thai with tofu and vegetables ",
+                    "uuid": "6c8e2ca4-f679-42d9-8d17-6c6221d1fb44",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "52f7b312-67f9-4bbc-a3b4-ffca529977db": {
+                    "description": "Ramen broth, duck, Ramen noodles, takuan, chicken egg, Nori (seaweed), soy sprouts, spring onion\n (400g).\n",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/59a47446-b1af-4f9d-8c1c-074f6604bda9",
+                    "price": 13900,
+                    "title": "Ramen with duck",
+                    "uuid": "52f7b312-67f9-4bbc-a3b4-ffca529977db",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "a615b8fe-7054-4de0-8176-38382751cedf": {
+                    "description": "330 ml",
+                    "imageUrl": null,
+                    "price": 3700,
+                    "title": "Grapefruit tonic",
+                    "uuid": "a615b8fe-7054-4de0-8176-38382751cedf",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "6f1140db-ad36-45f3-aaf4-777dd269531f": {
+                    "description": "90g",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/8a6e1728-0f1e-4780-954a-6e59ee001b11",
+                    "price": 1700,
+                    "title": "Banh Bao",
+                    "uuid": "6f1140db-ad36-45f3-aaf4-777dd269531f",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "ff28b6dc-5a8a-4ae4-9aa2-d4a6356b79a3": {
+                    "description": "140g.",
+                    "imageUrl": "",
+                    "price": 6900,
+                    "title": "Cheesecake",
+                    "uuid": "ff28b6dc-5a8a-4ae4-9aa2-d4a6356b79a3",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "48d9f7c0-93db-42a0-8c42-d872a1943f61": {
+                    "description": "Oshihari rice, Nori (seaweed), smoked eel, cucumber, takuan, kanpyo, microgreens, Unagi sauce (190 g)\n",
+                    "imageUrl": null,
+                    "price": 19900,
+                    "title": "Weever with smoked eel",
+                    "uuid": "48d9f7c0-93db-42a0-8c42-d872a1943f61",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "56341303-1228-4968-bc68-a484a74c9181": {
+                    "description": "mini corns, summer peas, carrot, broccoli, onion, pepper, sweet pepper, napa cabbage, edamame beans, Tonkatsu sauce (150 gr)\n",
+                    "imageUrl": null,
+                    "price": 4900,
+                    "title": "Vegetables fried in Tonkatsu sauce",
+                    "uuid": "56341303-1228-4968-bc68-a484a74c9181",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "1c8b1929-d638-4729-a5f5-dffcdc626359": {
+                    "description": "glass noodles, pork, oyster mushrooms, green beans, red onion, spring onion, Sukiyaki sauce, sesame seeds (300 gr)\n",
+                    "imageUrl": null,
+                    "price": 10900,
+                    "title": "Glass noodles with pork",
+                    "uuid": "1c8b1929-d638-4729-a5f5-dffcdc626359",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "32f7d6c7-d2d7-450c-874d-320380b96487": {
+                    "description": "Banh bao, chicken cutlet, tomatoes, red onion, Lollo Bionda lettuce, sesame seeds, ginger sauce\n (205g).",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/7d86042a-902d-4c3d-ba51-d8f81441370a",
+                    "price": 7500,
+                    "title": "Bao burger with chicken",
+                    "uuid": "32f7d6c7-d2d7-450c-874d-320380b96487",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "88f360ec-faee-4154-9fe6-85f00117080d": {
+                    "description": "Cellophane noodles, chicken, egg, coriander, ginger, sesame, napa (Korean) cabbages, carrots, red onions, celery, and sauce (300g).",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/8cf9f3ad-f16d-44f5-a888-c6e979462937",
+                    "price": 10900,
+                    "title": "Cellophane noodles with chicken",
+                    "uuid": "88f360ec-faee-4154-9fe6-85f00117080d",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "b4fed1e1-98a2-4b0d-a6ca-556178e4d24b": {
+                    "description": "150 gr",
+                    "imageUrl": null,
+                    "price": 4900,
+                    "title": "Steamed rice ",
+                    "uuid": "b4fed1e1-98a2-4b0d-a6ca-556178e4d24b",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "35c00f0e-5dbc-4644-9c6e-874799543124": {
+                    "description": "marinated Hiyashi Wakame seaweed, nutty sauce (130 gr)\n",
+                    "imageUrl": null,
+                    "price": 6900,
+                    "title": "Chuka salad",
+                    "uuid": "35c00f0e-5dbc-4644-9c6e-874799543124",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "46078599-2a00-4b4d-abeb-cb02ace4ecac": {
+                    "description": "iceberg lettuce, Lollo Bionda lettuce, panko-crusted duck, cucumber, microgreens, edamame beans, plum sauce \n(200 gr)\n",
+                    "imageUrl": null,
+                    "price": 11900,
+                    "title": "Salad with duck and plum sauce",
+                    "uuid": "46078599-2a00-4b4d-abeb-cb02ace4ecac",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                }
+            },
+            "c50afca7-7bf2-44db-9ba9-1ff84799e2b2": {
+                "6d092595-b49c-4c7b-b09a-cf89da791f91": {
+                    "description": "локшина \"Удон\", яловичина, перець болгарський, квасоля стручкова, морква, цибуля червона, чилі, соус \"Хойсін\"\n (300г).",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/9850b825-9d45-46b1-a423-7d576d2899db",
+                    "price": 13900,
+                    "title": "Удон з яловичиною",
+                    "uuid": "6d092595-b49c-4c7b-b09a-cf89da791f91",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "19b86f5d-b914-4f52-b07a-adb11f8f93df": {
+                    "description": "Смажений сир тофу, помідори, огірки, салат «Лоло Бьондо», болгарський перець, базилік, м’ята, кінза, перець чилі, соус горіхово-кокосовий (185г).",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/e6a35590-1e18-4aae-b848-a371d5510c0d",
+                    "price": 8500,
+                    "title": "Салат з сиром тофу і овочами",
+                    "uuid": "19b86f5d-b914-4f52-b07a-adb11f8f93df",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "919ced2b-d115-4cb4-b52c-09b2c94a201e": {
+                    "description": "рис \"Ошіхарі\", норі, лосось, сир \"Буко\", огірок, такуан, канпіо, цибуля зелена, ікра масаго, соус \"Ширачі\" (165 гр)\n",
+                    "imageUrl": null,
+                    "price": 11900,
+                    "title": "Кімчі з лососем",
+                    "uuid": "919ced2b-d115-4cb4-b52c-09b2c94a201e",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "94c741a5-4c4e-4a68-800c-30e408aa8dd9": {
+                    "description": "рис \"Ошіхарі\", норі, лосось, сир \"Буко\", огірок, такуан, канпіо, мікрогрін, соус \"Спайсі\" (185 гр)\n",
+                    "imageUrl": null,
+                    "price": 15900,
+                    "title": "Татакі з лососем",
+                    "uuid": "94c741a5-4c4e-4a68-800c-30e408aa8dd9",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "e82ca317-b90e-40cb-9608-3fb36d9fb865": {
+                    "description": "курятина, ананас, соус кисло-солодкий, мікрогрін (200 гр)\n",
+                    "imageUrl": null,
+                    "price": 12900,
+                    "title": "Курка з ананасами у кисло-солодкому соусі",
+                    "uuid": "e82ca317-b90e-40cb-9608-3fb36d9fb865",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "fcd02431-6f36-406a-ad20-92c81cd58eeb": {
+                    "description": "шпинат, бамбук консервований, гриб деревний, яйце куряче, імбир\n (190г).",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/c8e13c43-de13-4ded-9cfe-a557a7c4ff0b",
+                    "price": 9900,
+                    "title": "Дім сам зі шпинатом та тофу",
+                    "uuid": "fcd02431-6f36-406a-ad20-92c81cd58eeb",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "287288d7-1f2b-41c3-83db-ba41d8e42f22": {
+                    "description": "сир \"Каліфорнія\", печиво, вершкове масло, ананас консервований, цедра лайма, цедра апельсина\n(140г)",
+                    "imageUrl": "",
+                    "price": 6900,
+                    "title": "Чізкейк",
+                    "uuid": "287288d7-1f2b-41c3-83db-ba41d8e42f22",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "a9ac749f-d019-46b8-9bf2-1c33e2da20f8": {
+                    "description": "0,5",
+                    "imageUrl": "",
+                    "price": 3100,
+                    "title": "Мірінда ",
+                    "uuid": "a9ac749f-d019-46b8-9bf2-1c33e2da20f8",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "8f98111c-9114-40b2-b8ce-25a5e0999b69": {
+                    "description": "кокосовое молоко, кокосова стружка, солона карамель, згущене молоко, сир \"Каліфорнія\"\n(160г)",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/c41f5f1a-ea68-454b-ae43-0843f714c7f3",
+                    "price": 7500,
+                    "title": "Кокосовий кейк",
+                    "uuid": "8f98111c-9114-40b2-b8ce-25a5e0999b69",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "77c1331b-feb4-46d9-aa97-6e0a014c876e": {
+                    "description": "Курятина, цибуля червона, селера, гриби гливи, морква, скляна локшина, кінза, соус «Тай-чилі» (180г).",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/fa2e0f7f-4724-4680-bee0-d63b63dac489",
+                    "price": 10900,
+                    "title": "Спрінг-роли з грибами",
+                    "uuid": "77c1331b-feb4-46d9-aa97-6e0a014c876e",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "364a9170-d3af-42e6-96aa-3fdc21e3caf1": {
+                    "description": "креветка тигрова, кальмари, восьминоги, рис \"Ошіхарі\", салат \"Лоло Бьондо\",  огірок, помідор, цибуля зелена, часник, м'ята, лікер \"Блю Курасао\", соус \"Тайський\" (250 г)\n",
+                    "imageUrl": null,
+                    "price": 13900,
+                    "title": "Салат з морепродуктами",
+                    "uuid": "364a9170-d3af-42e6-96aa-3fdc21e3caf1",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "42f41770-a61d-47d2-b4fb-ff8e37ea8c53": {
+                    "description": "Холодний грейпфрутовий тонік (330 мл)",
+                    "imageUrl": "",
+                    "price": 3700,
+                    "title": "Грейпфрутовий тонік",
+                    "uuid": "42f41770-a61d-47d2-b4fb-ff8e37ea8c53",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "b47f04e6-0327-4af8-b8e6-a767f302911b": {
+                    "description": "рисова локшина, курятина, яйце куряче, соєві паростки, лимонний фреш, кінза, цибуля зелена, арахіс, соус \"Пад Тай\"  (300г).\n",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/06b7c9bf-50be-4234-b035-1d024febf4f7",
+                    "price": 11900,
+                    "title": "Пад Тай з куркою",
+                    "uuid": "b47f04e6-0327-4af8-b8e6-a767f302911b",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "1c4b46c7-4cd7-46ad-9b26-070b423946f6": {
+                    "description": "міні-кукурудза, горошок цукровий, морква, броколі, цибуля, перець, перець болгарський, капуста пекінська, боби едамаме, соус \"Тонкацу\" (150 гр)\n",
+                    "imageUrl": null,
+                    "price": 4900,
+                    "title": "Смажені овочі у соусі \"Тонкацу\"",
+                    "uuid": "1c4b46c7-4cd7-46ad-9b26-070b423946f6",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "645cfa28-d0c2-4ef6-b305-17a97033969e": {
+                    "description": "бульон \"Рамен\", качка, локшина \"Рамен\",  такуан, яйце куряче, норі, соєві паростки, цибуля зелена\n (400г).\n",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/ac97b955-4d28-46c0-a81a-0289608d6e2d",
+                    "price": 13900,
+                    "title": "Рамен з качкою",
+                    "uuid": "645cfa28-d0c2-4ef6-b305-17a97033969e",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "f718fb26-2aa8-48b3-9393-d17ac77f1707": {
+                    "description": "бульон \"Місо\", тофу, гливи, водорості мариновані \"Хіяші Вакаме\", кунжут  (400г).",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/c8244c3c-d9b8-4c9c-bb59-7e34aa4dfbf8",
+                    "price": 9900,
+                    "title": "Місо-суп",
+                    "uuid": "f718fb26-2aa8-48b3-9393-d17ac77f1707",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "39120e11-ce8c-4f46-8617-0286c5519518": {
+                    "description": "330",
+                    "imageUrl": "",
+                    "price": 3500,
+                    "title": "Мінеральна вода \"Моршинська\", слабогазована ",
+                    "uuid": "39120e11-ce8c-4f46-8617-0286c5519518",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "057b7432-58e3-497a-9e5f-f1a4f419918c": {
+                    "description": "огірок, чилі, цибуля зелена, лайм, базилік, соус \"Ям Тем\" (160 гр)\n",
+                    "imageUrl": null,
+                    "price": 6900,
+                    "title": "Салат Ям Тем",
+                    "uuid": "057b7432-58e3-497a-9e5f-f1a4f419918c",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "d76d4724-cfcd-4e0e-89eb-143838729091": {
+                    "description": "курятина, бамбук консервований, імбир, кінза\n (190г).",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/14b3545f-acaa-4f25-970c-6dbc5a2a3f19",
+                    "price": 9900,
+                    "title": "Дім сам з куркою",
+                    "uuid": "d76d4724-cfcd-4e0e-89eb-143838729091",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "cdd998cc-a8d7-400e-92df-4eab82b5b173": {
+                    "description": "рис \"Ошіхарі\", норі, лосось, сир \"Буко\", огірок, такуан, канпіо\n (165 гр)\n",
+                    "imageUrl": null,
+                    "price": 13900,
+                    "title": "Філадельфія з лососем",
+                    "uuid": "cdd998cc-a8d7-400e-92df-4eab82b5b173",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "1c17831b-07c2-4665-905a-eb4bc108065b": {
+                    "description": "рис \"Ошіхарі\", восьминоги, кальмари, мідії, морський гребінець, креветки тигрові, квасоля стручкова, імбир, кінза, лимонний фреш, цибуля зелена, чилі, соєві паростки, соус соєвий   (300г).\n",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/a1af30dc-4079-45fb-be6c-4f4909ca73bf",
+                    "price": 16500,
+                    "title": "Смажений рис з морепродуктами",
+                    "uuid": "1c17831b-07c2-4665-905a-eb4bc108065b",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "4898ccef-3b44-441f-9a1b-f6676f3137c2": {
+                    "description": "парова булка (90г)",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/8a6e1728-0f1e-4780-954a-6e59ee001b11",
+                    "price": 1700,
+                    "title": "Бань Бао",
+                    "uuid": "4898ccef-3b44-441f-9a1b-f6676f3137c2",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "259fe01b-9d82-4a14-912b-2e9bc9c3085c": {
+                    "description": "рис \"Ошіхарі\", кунжут (150 гр)\n",
+                    "imageUrl": null,
+                    "price": 4900,
+                    "title": "Рис паровий",
+                    "uuid": "259fe01b-9d82-4a14-912b-2e9bc9c3085c",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "1f94f60e-9c5c-403e-9dea-cad435548ceb": {
+                    "description": "парова булка, курятина   (130г).",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/d3bc97c5-d9be-4906-85ff-d5a91df2a291",
+                    "price": 5900,
+                    "title": "Баоцзи з куркою BBQ",
+                    "uuid": "1f94f60e-9c5c-403e-9dea-cad435548ceb",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "cabc45b1-bbc9-4265-b76d-bee6e435d4eb": {
+                    "description": "Бань Бао, шредет з качки BBQ, огірок, червона капуста, салат \"Лоло Бьондо\", зелена цибуля, перець чилі, сливовий соус  (195 гр)\n",
+                    "imageUrl": null,
+                    "price": 9500,
+                    "title": "Бао-бургер з качкою ",
+                    "uuid": "cabc45b1-bbc9-4265-b76d-bee6e435d4eb",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "f24b8f06-b393-4b5c-81a6-36b12a7beb0f": {
+                    "description": "рисова локшина, тофу, яйце куряче, гливи, морква, цибуля зелена, арахіс, соєві паростки, соус \"Пад Тай\"\n (300г).",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/29d23c3c-c209-4adf-8bf4-1d7c25b7457f",
+                    "price": 11900,
+                    "title": "Пад Тай з тофу та овочами",
+                    "uuid": "f24b8f06-b393-4b5c-81a6-36b12a7beb0f",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "8213bf80-5beb-4832-b098-3c957e271057": {
+                    "description": "лосось-татакі, огірок, канпіо, помідор, боби едамаме, цибуля червона, мікрогрін, соус (180 гр)\n",
+                    "imageUrl": null,
+                    "price": 11900,
+                    "title": "Салат з лососем-татакі",
+                    "uuid": "8213bf80-5beb-4832-b098-3c957e271057",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "0547cbf4-37af-4bd6-a21a-098ab65ae6e8": {
+                    "description": "бульон \"Рамен\", свинина, локшина \"Рамен\", такуан, яйце куряче, норі, соєві паростки, цибуля зелена (400 гр)\n",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/c45ec262-3af2-4813-a699-61207b301a84",
+                    "price": 13900,
+                    "title": "Рамен зі свининою",
+                    "uuid": "0547cbf4-37af-4bd6-a21a-098ab65ae6e8",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "449f1756-b012-49f8-9069-7f6079235030": {
+                    "description": "Бань Бао, котлета з курятини, помідор, цибуля червона, салат \"Лоло Бьондо\", кунжут, соус імбирний\n (205г).",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/c77ed781-a81a-4228-89b2-ff22961754c4",
+                    "price": 7500,
+                    "title": "Бао-бургер з куркою",
+                    "uuid": "449f1756-b012-49f8-9069-7f6079235030",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "f37ee41e-3c03-45c1-afda-e29504b6ecdc": {
+                    "description": "водорості мариновані \"Хіяші Вакаме\", соус горіховий (130 гр)\n",
+                    "imageUrl": null,
+                    "price": 6900,
+                    "title": "Салат з чукою",
+                    "uuid": "f37ee41e-3c03-45c1-afda-e29504b6ecdc",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "2896db41-e30e-4301-8672-554b925f4eae": {
+                    "description": "дім сам з креветкою, дім сам з куркою, дім сам зі шпинатом та тофу\n(210г)",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/310173ef-dc3a-4e92-a9f8-4f3e1abe4ca2",
+                    "price": 14900,
+                    "title": "Дім сам асорті",
+                    "uuid": "2896db41-e30e-4301-8672-554b925f4eae",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "5cbf3735-8c2c-463c-a6e8-5640605605ef": {
+                    "description": "0,5",
+                    "imageUrl": "",
+                    "price": 3100,
+                    "title": "Севен Ап ",
+                    "uuid": "5cbf3735-8c2c-463c-a6e8-5640605605ef",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "c3b83c47-c5c9-46d2-a996-eaaaee754846": {
+                    "description": "(апельсиновий/полунично-банановий/вишня/мультивітамін/томат)",
+                    "imageUrl": "",
+                    "price": 3500,
+                    "title": "Сік Sandora в ассортименті",
+                    "uuid": "c3b83c47-c5c9-46d2-a996-eaaaee754846",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "6dd11147-5204-47db-91df-fb529d6fe887": {
+                    "description": "морський окунь зі скоринкою, водорості мариновані \"Хіяші Вакаме\"а, соус кисло-солодкий, соус \"Світ-чилі\", мікрогрін (200 гр)\n",
+                    "imageUrl": null,
+                    "price": 13900,
+                    "title": "Морський окунь у соусі \"Світ-чилі\"",
+                    "uuid": "6dd11147-5204-47db-91df-fb529d6fe887",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "3c89d5ce-4680-4bf4-94f8-bf4d98d3fe9b": {
+                    "description": "0,5",
+                    "imageUrl": "",
+                    "price": 3100,
+                    "title": "Пепсі ",
+                    "uuid": "3c89d5ce-4680-4bf4-94f8-bf4d98d3fe9b",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "887e06ef-fe72-444b-aed6-3724c620b546": {
+                    "description": "курятина, гриби шиітакі, капуста, зелена цибуля, часник \n (210 г).",
+                    "imageUrl": "",
+                    "price": 7900,
+                    "title": "Смажені вонтони з куркою   ",
+                    "uuid": "887e06ef-fe72-444b-aed6-3724c620b546",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "6659fb74-779d-4f04-80c8-dc0427bc8b30": {
+                    "description": "Холодний імбирний чай (330 мл)",
+                    "imageUrl": "",
+                    "price": 3700,
+                    "title": "Чай імбирний",
+                    "uuid": "6659fb74-779d-4f04-80c8-dc0427bc8b30",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "34353b3c-53d0-49ce-8312-5e4be36da3b8": {
+                    "description": "(алое/кокос/лічі/манго/маракуя, 350 мл)",
+                    "imageUrl": "",
+                    "price": 7500,
+                    "title": "Напій Foco в ассортименті",
+                    "uuid": "34353b3c-53d0-49ce-8312-5e4be36da3b8",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "5940ddf1-9388-4d83-aa3a-2e7100fa2900": {
+                    "description": "курятина, міні-кукурудза, горошок цукровий, морква, броколі, цибуля, перець, перець болгарський, капуста пекінська, боби едамаме, соус \"Тонкацу\", соус \"Теріякі\" (200 гр)\n",
+                    "imageUrl": null,
+                    "price": 11900,
+                    "title": "Курка теріякі з овочами",
+                    "uuid": "5940ddf1-9388-4d83-aa3a-2e7100fa2900",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "d76fbc42-294a-4f5f-8e7b-539334616d7e": {
+                    "description": "Бань Бао, помідори, огірки, салат \"Лоло Бьондо\", сир тофу смажений, паста карі, соус соєвий, соус кунжутний (200г).\n",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/a2480988-2dce-499f-a012-bc5f7b974e10",
+                    "price": 6900,
+                    "title": "Бао-бургер з тофу та овочами",
+                    "uuid": "d76fbc42-294a-4f5f-8e7b-539334616d7e",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "2c5f62bc-4b9c-4b80-8c41-ac94528c52f5": {
+                    "description": "рисова локшина, свинина, яйця курячі, броколі, гриб деревний, перець чілі, цибуля зелена, соус \"Пад Сі Ю\" (300 гр)\n",
+                    "imageUrl": null,
+                    "price": 11900,
+                    "title": "Пад Сі Ю зі свининою",
+                    "uuid": "2c5f62bc-4b9c-4b80-8c41-ac94528c52f5",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "4ed974a2-3276-4a0c-a0dc-de3b959eedff": {
+                    "description": "бульон курячий, молоко кокосове, креветка тигрова, морський гребінець, томати конкасе, гливи, лемонграс, листя лайму, коріння галангала\n (400г).",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/72e30c4b-0323-43a7-a0c3-c634108e9b2e",
+                    "price": 18900,
+                    "title": "Том Ям з креветками",
+                    "uuid": "4ed974a2-3276-4a0c-a0dc-de3b959eedff",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "006ea758-6904-496b-bdec-7c1fbd0f63a7": {
+                    "description": "яловичина, квасоля стручкова, соєві паростки, устричний соус (210 гр)\n",
+                    "imageUrl": null,
+                    "price": 13900,
+                    "title": "Яловичина з пряною квасолею в устричному соусі",
+                    "uuid": "006ea758-6904-496b-bdec-7c1fbd0f63a7",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "a14bc6db-0187-4766-b0d1-e90533259b1c": {
+                    "description": "салат \"Айсберг\", салат \"Лоло Бьондо\", качка у паніровці \"Панко\", огірок, мікрогрін, боби едамаме, соус сливовий (200 гр)\n",
+                    "imageUrl": null,
+                    "price": 11900,
+                    "title": "Салат зі смаженою качкою",
+                    "uuid": "a14bc6db-0187-4766-b0d1-e90533259b1c",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "f419265f-1c0d-4c75-9f3a-356274565f60": {
+                    "description": "шоколад 73% какао, кава, крем білковий, сік юзу, чилі (140 гр)\n",
+                    "imageUrl": null,
+                    "price": 7500,
+                    "title": "Шоколадний кейк з чилі",
+                    "uuid": "f419265f-1c0d-4c75-9f3a-356274565f60",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "7dda1cef-267c-40a7-b480-3b6778d84e50": {
+                    "description": "парова булка, свинина   (130г).",
+                    "imageUrl": "",
+                    "price": 5900,
+                    "title": "Баоцзи зі свининою BBQ",
+                    "uuid": "7dda1cef-267c-40a7-b480-3b6778d84e50",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "29f1f887-ad80-48ff-8eee-3a96c31ddf9f": {
+                    "description": "бульон курячий, молоко кокосове, курятина, томати, броколі, гливи, листя лайму, лемонграс, коріння галангала (400 гр)\n",
+                    "imageUrl": null,
+                    "price": 13900,
+                    "title": "Том Кха з куркою",
+                    "uuid": "29f1f887-ad80-48ff-8eee-3a96c31ddf9f",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "129f14ae-c129-4bc1-afa2-390159499596": {
+                    "description": "Курятина, цибуля червона, селера, гриби гливи, морква, скляна локшина, кінза, соус «Тай-чилі» (240г).",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/114425c2-2bb3-4668-b935-fe58ce26b10d",
+                    "price": 10900,
+                    "title": "Спрінг-роли з куркою",
+                    "uuid": "129f14ae-c129-4bc1-afa2-390159499596",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "f79f0c30-faba-44de-bc72-5c24640fb4b5": {
+                    "description": "локшина \"Удон\", міні-кукурудза, горошок цукровий, морква, броколі, цибуля, перець, перець болгарський, капуста пекінська, боби едамаме, соус \"Тонкацу\" (150 гр)\n",
+                    "imageUrl": null,
+                    "price": 4900,
+                    "title": "Удон з овочами",
+                    "uuid": "f79f0c30-faba-44de-bc72-5c24640fb4b5",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "347d3a10-a269-4650-9890-578cce987db4": {
+                    "description": "скляна локшина, курятина, гливи, квасоля стручкова, цибуля червона, цибуля зелена, соус \"Скіякі\", кунжут                \n(300г).",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/4c0246ca-ba2b-4a97-861f-7a5221a1cc42",
+                    "price": 10900,
+                    "title": "Скляна локшина з куркою",
+                    "uuid": "347d3a10-a269-4650-9890-578cce987db4",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "001dc88d-51dd-4498-ab49-2155f85edad3": {
+                    "description": "креветка, бамбук консервований, імбир, цибуля порей (190 г)\n",
+                    "imageUrl": null,
+                    "price": 19900,
+                    "title": "Дім сам з креветкою",
+                    "uuid": "001dc88d-51dd-4498-ab49-2155f85edad3",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "b2e303f4-ca0b-49ed-81e3-dd83c48bc606": {
+                    "description": "свинина, соус \"Світ-чилі\" (200 гр)\n",
+                    "imageUrl": null,
+                    "price": 13900,
+                    "title": "Свинина смажена у соусі \"Світ-чилі\"",
+                    "uuid": "b2e303f4-ca0b-49ed-81e3-dd83c48bc606",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "cab3a641-925a-49dc-848c-b2163ae92c0d": {
+                    "description": "рис \"Ошіхарі\", цибуля зелена, олія кунжутна, соус соєвий (150 гр)\n",
+                    "imageUrl": null,
+                    "price": 4900,
+                    "title": "Рис смажений",
+                    "uuid": "cab3a641-925a-49dc-848c-b2163ae92c0d",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "0b35521e-91d8-4f7c-bb1c-eb876b2b87cc": {
+                    "description": "рис \"Ошіхарі\", свинина, яйце куряче, морква, цибуля порей, часник, чилі, лимонний фреш, кінза, соус соєвий \n (300 г).\n",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/6801266d-b7a2-413c-a57d-ce4dab9321fc",
+                    "price": 11900,
+                    "title": "Смажений рис зі свининою ",
+                    "uuid": "0b35521e-91d8-4f7c-bb1c-eb876b2b87cc",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "bc1b4173-02fc-4582-91c6-8db35433121a": {
+                    "description": "рис \"Ошіхарі\", курятина, яйце куряче, морква, цибуля червона, перець болгарський, часник, чилі, лимонний фреш, кінза, соус соєвий (світлий)     (300г).",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/a499c0b1-ae8c-484a-a3fe-03425da4c7d1",
+                    "price": 10900,
+                    "title": "Смажений рис з куркою",
+                    "uuid": "bc1b4173-02fc-4582-91c6-8db35433121a",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "62e5a12d-d0a4-43bc-a2a3-8d2ef13d4188": {
+                    "description": "скляна локшина, свинина, гливи, квасоля стручкова, цибуля червона, цибуля зелена, соус \"Скіякі\", кунжут   (300 гр)\n",
+                    "imageUrl": null,
+                    "price": 10900,
+                    "title": "Скляна локшина зі свининою",
+                    "uuid": "62e5a12d-d0a4-43bc-a2a3-8d2ef13d4188",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "db12c599-819f-46ad-9374-7d323e7bd372": {
+                    "description": "330",
+                    "imageUrl": "",
+                    "price": 5500,
+                    "title": "Мінеральна вода \"Боржомі\" ",
+                    "uuid": "db12c599-819f-46ad-9374-7d323e7bd372",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "38becf4f-7922-4043-bcd6-d96ea1303b27": {
+                    "description": "330",
+                    "imageUrl": "",
+                    "price": 3500,
+                    "title": "Мінеральна вода \"Моршинська\", негазована",
+                    "uuid": "38becf4f-7922-4043-bcd6-d96ea1303b27",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "012a1533-d7b9-4fd5-a074-05ab3d9aa7b6": {
+                    "description": "рис, норі, вугор копчений, огірок, такуан, канпіо, ікра тобіко чорна, соус \"Унагі\" (190 гр)\n",
+                    "imageUrl": null,
+                    "price": 19900,
+                    "title": "Дракон із копченим вугрем",
+                    "uuid": "012a1533-d7b9-4fd5-a074-05ab3d9aa7b6",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                }
+            }
+        },
+        "sections": [
+            {
+                "subsectionUuids": [
+                    "6b28d702-ddb7-4b1c-bcb0-5f3aa763feaa",
+                    "fa9e94af-32e8-49a6-b6e1-307b1815ef13",
+                    "a83e52d8-515e-4aa3-b889-72708bed596b",
+                    "19561265-e0b4-4169-b951-5f9dd659a050",
+                    "47bda76e-68da-4fd5-bfaf-3e553f107ac7",
+                    "4c31dfd9-ea81-443c-9f7b-ecfc83d6b123",
+                    "6e2530fb-8b69-4759-884a-97419527873f",
+                    "56c395e7-e175-40c0-b4cc-41c93157e436",
+                    "3b43509d-57fc-471c-86c4-963e29dbc365",
+                    "dbbdd68c-44c4-4e9d-b027-3e8bb87c9c4b",
+                    "89a160aa-014c-48d4-a6d3-ed04a832677e",
+                    "7f3af3cb-339f-46ff-b5be-f9d301158ca0"
+                ],
+                "title": "SWITCH LANGUAGE (UKR)",
+                "subtitle": "11:00 AM – 9:45 PM",
+                "uuid": "c50afca7-7bf2-44db-9ba9-1ff84799e2b2",
+                "isTop": true,
+                "isOnSale": true
+            },
+            {
+                "subsectionUuids": [
+                    "e217e32b-c128-44d0-a426-98a13559e892",
+                    "74ce9666-0a78-44f1-bbf8-04fda84ca734",
+                    "cdd7c37f-bd9b-40c4-a005-5711b6e88bdd",
+                    "85d9bbfe-607d-416e-b900-05326f44747a",
+                    "f7aff73e-48cc-4276-97a3-f89e6c70ef39",
+                    "d4e57789-6923-48cd-b009-2afd6c4e8733",
+                    "557332a9-1b5a-4e0a-8287-15ed28232c80",
+                    "987a62fb-209a-41ab-8306-5b27165e4f51",
+                    "385c4b8e-4421-4eb0-a384-9fa910e92d15",
+                    "03d19d9a-135e-4c84-963a-5cec15edaafe",
+                    "60de6ceb-3b1f-4d82-a38e-281a0aaaf090",
+                    "6356385b-51b6-45c0-b954-61217bf25c89"
+                ],
+                "title": "SWITCH LANGUAGE (ENG)",
+                "subtitle": "11:00 AM – 9:45 PM",
+                "uuid": "f27c76de-d59e-4097-befe-00f42ceb0cea",
+                "isTop": false,
+                "isOnSale": true
+            }
+        ],
+        "subsectionsMap": {
+            "60de6ceb-3b1f-4d82-a38e-281a0aaaf090": {
+                "itemUuids": [
+                    "6f9f9a63-0a67-4c19-9fc6-09920614ef87",
+                    "7476d142-6289-472f-b021-55be003957cd",
+                    "adb92182-e429-495b-b588-8536eabdb88f",
+                    "bc4a7940-2312-44f8-9c6e-62c288f95ec2",
+                    "bab8beeb-cad5-4cbc-98cd-94baa5f5739b"
+                ],
+                "subtitle": null,
+                "title": "Main dishes",
+                "uuid": "60de6ceb-3b1f-4d82-a38e-281a0aaaf090",
+                "displayType": null
+            },
+            "3b43509d-57fc-471c-86c4-963e29dbc365": {
+                "itemUuids": [
+                    "6659fb74-779d-4f04-80c8-dc0427bc8b30",
+                    "42f41770-a61d-47d2-b4fb-ff8e37ea8c53",
+                    "34353b3c-53d0-49ce-8312-5e4be36da3b8",
+                    "c3b83c47-c5c9-46d2-a996-eaaaee754846",
+                    "38becf4f-7922-4043-bcd6-d96ea1303b27",
+                    "39120e11-ce8c-4f46-8617-0286c5519518",
+                    "db12c599-819f-46ad-9374-7d323e7bd372",
+                    "3c89d5ce-4680-4bf4-94f8-bf4d98d3fe9b",
+                    "a9ac749f-d019-46b8-9bf2-1c33e2da20f8",
+                    "5cbf3735-8c2c-463c-a6e8-5640605605ef"
+                ],
+                "subtitle": "",
+                "title": "Напої",
+                "uuid": "3b43509d-57fc-471c-86c4-963e29dbc365",
+                "displayType": null
+            },
+            "19561265-e0b4-4169-b951-5f9dd659a050": {
+                "itemUuids": [
+                    "f718fb26-2aa8-48b3-9393-d17ac77f1707",
+                    "645cfa28-d0c2-4ef6-b305-17a97033969e",
+                    "0547cbf4-37af-4bd6-a21a-098ab65ae6e8",
+                    "4ed974a2-3276-4a0c-a0dc-de3b959eedff",
+                    "29f1f887-ad80-48ff-8eee-3a96c31ddf9f"
+                ],
+                "subtitle": "",
+                "title": "Супи",
+                "uuid": "19561265-e0b4-4169-b951-5f9dd659a050",
+                "displayType": null
+            },
+            "56c395e7-e175-40c0-b4cc-41c93157e436": {
+                "itemUuids": [
+                    "8f98111c-9114-40b2-b8ce-25a5e0999b69",
+                    "287288d7-1f2b-41c3-83db-ba41d8e42f22",
+                    "f419265f-1c0d-4c75-9f3a-356274565f60"
+                ],
+                "subtitle": "",
+                "title": "Десерти",
+                "uuid": "56c395e7-e175-40c0-b4cc-41c93157e436",
+                "displayType": null
+            },
+            "557332a9-1b5a-4e0a-8287-15ed28232c80": {
+                "itemUuids": [
+                    "32f7d6c7-d2d7-450c-874d-320380b96487",
+                    "15b8809d-322e-4d1b-9e83-502e915c5307",
+                    "6f1140db-ad36-45f3-aaf4-777dd269531f",
+                    "e57718a2-c092-44e5-917e-207704ed37f8",
+                    "fff3a273-7336-4776-be19-ba67988c6c77",
+                    "d637aaa8-607a-47ca-b23c-0e96859c8745"
+                ],
+                "subtitle": "",
+                "title": "Bao",
+                "uuid": "557332a9-1b5a-4e0a-8287-15ed28232c80",
+                "displayType": null
+            },
+            "85d9bbfe-607d-416e-b900-05326f44747a": {
+                "itemUuids": [
+                    "83d2c4de-4071-4d99-85b6-11c0eb5a35a1",
+                    "52f7b312-67f9-4bbc-a3b4-ffca529977db",
+                    "07b89ff6-7bb1-46d4-a1e1-1799766b094c",
+                    "0c1749a9-18a1-4cb2-9f80-e07795eeddee",
+                    "4b728c83-08cf-471c-8586-cfcd16c181da"
+                ],
+                "subtitle": "",
+                "title": "Soups",
+                "uuid": "85d9bbfe-607d-416e-b900-05326f44747a",
+                "displayType": null
+            },
+            "987a62fb-209a-41ab-8306-5b27165e4f51": {
+                "itemUuids": [
+                    "e32e2106-79e5-4fac-a18e-b70032e1af89",
+                    "ff28b6dc-5a8a-4ae4-9aa2-d4a6356b79a3",
+                    "4691757f-c7bf-465e-a7d2-cc56ef8be592"
+                ],
+                "subtitle": "",
+                "title": "Desserts",
+                "uuid": "987a62fb-209a-41ab-8306-5b27165e4f51",
+                "displayType": null
+            },
+            "7f3af3cb-339f-46ff-b5be-f9d301158ca0": {
+                "itemUuids": [
+                    "cdd998cc-a8d7-400e-92df-4eab82b5b173",
+                    "94c741a5-4c4e-4a68-800c-30e408aa8dd9",
+                    "919ced2b-d115-4cb4-b52c-09b2c94a201e",
+                    "012a1533-d7b9-4fd5-a074-05ab3d9aa7b6"
+                ],
+                "subtitle": null,
+                "title": "Роли",
+                "uuid": "7f3af3cb-339f-46ff-b5be-f9d301158ca0",
+                "displayType": null
+            },
+            "dbbdd68c-44c4-4e9d-b027-3e8bb87c9c4b": {
+                "itemUuids": [
+                    "f79f0c30-faba-44de-bc72-5c24640fb4b5",
+                    "1c4b46c7-4cd7-46ad-9b26-070b423946f6",
+                    "cab3a641-925a-49dc-848c-b2163ae92c0d",
+                    "259fe01b-9d82-4a14-912b-2e9bc9c3085c"
+                ],
+                "subtitle": null,
+                "title": "Гарніри",
+                "uuid": "dbbdd68c-44c4-4e9d-b027-3e8bb87c9c4b",
+                "displayType": null
+            },
+            "fa9e94af-32e8-49a6-b6e1-307b1815ef13": {
+                "itemUuids": [
+                    "6d092595-b49c-4c7b-b09a-cf89da791f91",
+                    "b47f04e6-0327-4af8-b8e6-a767f302911b",
+                    "f24b8f06-b393-4b5c-81a6-36b12a7beb0f",
+                    "347d3a10-a269-4650-9890-578cce987db4",
+                    "62e5a12d-d0a4-43bc-a2a3-8d2ef13d4188",
+                    "2c5f62bc-4b9c-4b80-8c41-ac94528c52f5"
+                ],
+                "subtitle": "",
+                "title": "Локшина",
+                "uuid": "fa9e94af-32e8-49a6-b6e1-307b1815ef13",
+                "displayType": null
+            },
+            "d4e57789-6923-48cd-b009-2afd6c4e8733": {
+                "itemUuids": [
+                    "89c83085-f2db-40d5-9bb5-2a2411efd304",
+                    "2d14b864-b893-4fb7-8759-7583ef41f202",
+                    "951fd935-5c62-43de-8248-464c4a21a68c",
+                    "143fc93f-12f5-4cd8-9520-0d031a630ed8",
+                    "a65a82e4-79bc-46e8-86da-585bd2333c10",
+                    "c77365bf-5691-4930-8d3f-0722f2f828e7",
+                    "98a0cb4a-0077-4f1f-985a-54f12e495dc7"
+                ],
+                "subtitle": "",
+                "title": "Dim sum",
+                "uuid": "d4e57789-6923-48cd-b009-2afd6c4e8733",
+                "displayType": null
+            },
+            "6356385b-51b6-45c0-b954-61217bf25c89": {
+                "itemUuids": [
+                    "e27d9a23-abe6-46b2-bbd3-d360472c6c33",
+                    "788ba10e-7d85-4e7e-bfaf-a6fb39d42d7b",
+                    "b16dfbc7-45a3-4681-946c-757ab3dc7a49",
+                    "48d9f7c0-93db-42a0-8c42-d872a1943f61"
+                ],
+                "subtitle": null,
+                "title": "Rolls",
+                "uuid": "6356385b-51b6-45c0-b954-61217bf25c89",
+                "displayType": null
+            },
+            "47bda76e-68da-4fd5-bfaf-3e553f107ac7": {
+                "itemUuids": [
+                    "19b86f5d-b914-4f52-b07a-adb11f8f93df",
+                    "a14bc6db-0187-4766-b0d1-e90533259b1c",
+                    "8213bf80-5beb-4832-b098-3c957e271057",
+                    "057b7432-58e3-497a-9e5f-f1a4f419918c",
+                    "f37ee41e-3c03-45c1-afda-e29504b6ecdc",
+                    "364a9170-d3af-42e6-96aa-3fdc21e3caf1"
+                ],
+                "subtitle": "",
+                "title": "Салати",
+                "uuid": "47bda76e-68da-4fd5-bfaf-3e553f107ac7",
+                "displayType": null
+            },
+            "4c31dfd9-ea81-443c-9f7b-ecfc83d6b123": {
+                "itemUuids": [
+                    "2896db41-e30e-4301-8672-554b925f4eae",
+                    "d76d4724-cfcd-4e0e-89eb-143838729091",
+                    "fcd02431-6f36-406a-ad20-92c81cd58eeb",
+                    "129f14ae-c129-4bc1-afa2-390159499596",
+                    "77c1331b-feb4-46d9-aa97-6e0a014c876e",
+                    "887e06ef-fe72-444b-aed6-3724c620b546",
+                    "001dc88d-51dd-4498-ab49-2155f85edad3"
+                ],
+                "subtitle": "",
+                "title": "Дім Сами",
+                "uuid": "4c31dfd9-ea81-443c-9f7b-ecfc83d6b123",
+                "displayType": null
+            },
+            "f7aff73e-48cc-4276-97a3-f89e6c70ef39": {
+                "itemUuids": [
+                    "08974e6c-21a4-48e4-a2dd-156545ea8a96",
+                    "46078599-2a00-4b4d-abeb-cb02ace4ecac",
+                    "c856ca90-b5c9-497e-9ef8-d23854c67fb5",
+                    "aefb8193-485f-4aa5-be5a-26a5f739cbd8",
+                    "35c00f0e-5dbc-4644-9c6e-874799543124",
+                    "4277bc49-dddd-4730-b823-6a285f2631f2"
+                ],
+                "subtitle": "",
+                "title": "Salads",
+                "uuid": "f7aff73e-48cc-4276-97a3-f89e6c70ef39",
+                "displayType": null
+            },
+            "6e2530fb-8b69-4759-884a-97419527873f": {
+                "itemUuids": [
+                    "449f1756-b012-49f8-9069-7f6079235030",
+                    "d76fbc42-294a-4f5f-8e7b-539334616d7e",
+                    "7dda1cef-267c-40a7-b480-3b6778d84e50",
+                    "1f94f60e-9c5c-403e-9dea-cad435548ceb",
+                    "4898ccef-3b44-441f-9a1b-f6676f3137c2",
+                    "cabc45b1-bbc9-4265-b76d-bee6e435d4eb"
+                ],
+                "subtitle": "",
+                "title": "Бао",
+                "uuid": "6e2530fb-8b69-4759-884a-97419527873f",
+                "displayType": null
+            },
+            "74ce9666-0a78-44f1-bbf8-04fda84ca734": {
+                "itemUuids": [
+                    "4f757926-8c80-4b76-bebb-2b47f1cef817",
+                    "88f360ec-faee-4154-9fe6-85f00117080d",
+                    "b94f1f8f-32dc-4745-9ad2-91bf02593e90",
+                    "6c8e2ca4-f679-42d9-8d17-6c6221d1fb44",
+                    "1c8b1929-d638-4729-a5f5-dffcdc626359",
+                    "c6b78929-f996-4726-b375-95d7fba1392b",
+                    "e54258a5-2e9f-4834-9afc-5dedbd7b1aaf"
+                ],
+                "subtitle": "",
+                "title": "Noodles",
+                "uuid": "74ce9666-0a78-44f1-bbf8-04fda84ca734",
+                "displayType": null
+            },
+            "a83e52d8-515e-4aa3-b889-72708bed596b": {
+                "itemUuids": [
+                    "0b35521e-91d8-4f7c-bb1c-eb876b2b87cc",
+                    "bc1b4173-02fc-4582-91c6-8db35433121a",
+                    "1c17831b-07c2-4665-905a-eb4bc108065b"
+                ],
+                "subtitle": "",
+                "title": "Рис",
+                "uuid": "a83e52d8-515e-4aa3-b889-72708bed596b",
+                "displayType": null
+            },
+            "6b28d702-ddb7-4b1c-bcb0-5f3aa763feaa": {
+                "itemUuids": [
+                    "1c17831b-07c2-4665-905a-eb4bc108065b",
+                    "d76d4724-cfcd-4e0e-89eb-143838729091",
+                    "0547cbf4-37af-4bd6-a21a-098ab65ae6e8",
+                    "8f98111c-9114-40b2-b8ce-25a5e0999b69",
+                    "2c5f62bc-4b9c-4b80-8c41-ac94528c52f5"
+                ],
+                "subtitle": "",
+                "title": "Популярне",
+                "uuid": "6b28d702-ddb7-4b1c-bcb0-5f3aa763feaa",
+                "displayType": null
+            },
+            "cdd7c37f-bd9b-40c4-a005-5711b6e88bdd": {
+                "itemUuids": [
+                    "2a2cba90-4486-42ef-a94c-7bc7464004ef",
+                    "1d9b4657-6408-415a-a341-0725de6b032d",
+                    "4b8d10cf-1fe8-4347-a5fc-13b196982fb2"
+                ],
+                "subtitle": "",
+                "title": "Rice",
+                "uuid": "cdd7c37f-bd9b-40c4-a005-5711b6e88bdd",
+                "displayType": null
+            },
+            "03d19d9a-135e-4c84-963a-5cec15edaafe": {
+                "itemUuids": [
+                    "56341303-1228-4968-bc68-a484a74c9181",
+                    "e68ad2c4-7a4c-4fa9-a18c-5abd22848cf0",
+                    "806a88f2-77cb-4f54-98d9-e57ef0f589d1",
+                    "b4fed1e1-98a2-4b0d-a6ca-556178e4d24b"
+                ],
+                "subtitle": null,
+                "title": "Side dishes",
+                "uuid": "03d19d9a-135e-4c84-963a-5cec15edaafe",
+                "displayType": null
+            },
+            "89a160aa-014c-48d4-a6d3-ed04a832677e": {
+                "itemUuids": [
+                    "006ea758-6904-496b-bdec-7c1fbd0f63a7",
+                    "b2e303f4-ca0b-49ed-81e3-dd83c48bc606",
+                    "e82ca317-b90e-40cb-9608-3fb36d9fb865",
+                    "5940ddf1-9388-4d83-aa3a-2e7100fa2900",
+                    "6dd11147-5204-47db-91df-fb529d6fe887"
+                ],
+                "subtitle": null,
+                "title": "Основні страви",
+                "uuid": "89a160aa-014c-48d4-a6d3-ed04a832677e",
+                "displayType": null
+            },
+            "385c4b8e-4421-4eb0-a384-9fa910e92d15": {
+                "itemUuids": [
+                    "0050ddee-12b7-4ade-8c3c-7f2e03135eac",
+                    "a615b8fe-7054-4de0-8176-38382751cedf",
+                    "d239c4c8-fba6-491e-958f-5e2713a30aef",
+                    "98979f80-262d-4aeb-bbed-f35f2f349b63",
+                    "a42975d0-7bed-4ee6-bc4c-1cd0f63c97bc",
+                    "c17a0539-b743-48f3-a522-65f41bccc4ae",
+                    "7a7df533-bf1e-45ed-840d-2dcc15f0ef9b",
+                    "fa1199a9-0071-457b-851e-9d8b2560cc44",
+                    "9ba53e9f-0487-4c81-90e1-dd56578aa269",
+                    "a4311b1f-ef4e-4c00-a582-8469c9a9c123"
+                ],
+                "subtitle": null,
+                "title": "Drinks",
+                "uuid": "385c4b8e-4421-4eb0-a384-9fa910e92d15",
+                "displayType": null
+            },
+            "e217e32b-c128-44d0-a426-98a13559e892": {
+                "itemUuids": [
+                    "4b8d10cf-1fe8-4347-a5fc-13b196982fb2",
+                    "e32e2106-79e5-4fac-a18e-b70032e1af89"
+                ],
+                "subtitle": null,
+                "title": "Popular",
+                "uuid": "e217e32b-c128-44d0-a426-98a13559e892",
+                "displayType": null
+            }
+        },
+        "title": "Meiwei (вул. Велика Васильківська)",
+        "uuid": "8476752b-08cb-4280-8066-41bc3c0dca4c",
+        "categories": [
+            "₴₴",
+            "Китайська",
+            "Азіатська"
+        ],
+        "cuisineList": [
+            "Китайська",
+            "Азіатська"
+        ],
+        "priceBucket": "₴₴",
+        "etaRange": {
+            "text": "35–45 min",
+            "iconUrl": ""
+        },
+        "ratingBadge": {
+            "text": "<span><span style=\"font-family: inherit; color: #3a3a48;\">4.7 <img src=\"https://d1a3f4spazzrp4.cloudfront.net/static/images/Star_Yellow_Eats_3.png\" width=\"14\" height=\"14\" vertical-align=\"middle\"> </span><span style=\"font-family: inherit; color: #757575;\">(200+)</span></span>"
+        },
+        "disclaimerBadge": null,
+        "fareBadge": null,
+        "fareInfo": {
+            "serviceFee": 30,
+            "serviceFeeCents": 3000
+        },
+        "promotion": null,
+        "shouldIndex": true,
+        "heroImageUrls": [
+            {
+                "url": "https://d1ralsognjng37.cloudfront.net/4cc3db7f-49f5-4319-9e5f-408256d6c10d",
+                "width": 240
+            },
+            {
+                "url": "https://d1ralsognjng37.cloudfront.net/f51103dd-acd1-4b10-a87c-6a40c2f5884e",
+                "width": 550
+            },
+            {
+                "url": "https://d1ralsognjng37.cloudfront.net/f0ba528d-48a6-48bd-b415-a894cfa3fd6c",
+                "width": 640
+            },
+            {
+                "url": "https://d1ralsognjng37.cloudfront.net/cbb39737-9882-400e-b544-e395ea9b684e",
+                "width": 750
+            },
+            {
+                "url": "https://d1ralsognjng37.cloudfront.net/969f06b3-e82e-4f81-9103-633a7c21419c",
+                "width": 1080
+            },
+            {
+                "url": "https://d1ralsognjng37.cloudfront.net/bec69c7d-acef-4362-ab88-b087721305bd",
+                "width": 2880
+            }
+        ],
+        "isOpen": true,
+        "currencyCode": "UAH",
+        "closedMessage": "Currently unavailable",
+        "location": {
+            "address": "Velyka Vasylkivska St, 23, Kyiv, 02000",
+            "streetAddress": "Velyka Vasylkivska St, 23",
+            "city": "Kyiv",
+            "country": "UA",
+            "postalCode": "02000",
+            "region": "",
+            "latitude": 50.4391605,
+            "longitude": 30.5171764
+        },
+        "isDeliveryThirdParty": false,
+        "hours": [
+            {
+                "dayRange": "Every Day",
+                "sectionHours": [
+                    {
+                        "startTime": 660,
+                        "endTime": 1305,
+                        "sectionTitle": "SWITCH LANGUAGE (UKR)"
+                    },
+                    {
+                        "startTime": 660,
+                        "endTime": 1305,
+                        "sectionTitle": "SWITCH LANGUAGE (ENG)"
+                    }
+                ]
+            }
+        ],
+        "disableOrderInstruction": false,
+        "disableCheckoutInstruction": false,
+        "nuggets": [],
+        "isWithinDeliveryRange": false,
+        "slug": "meiwei-вул-велика-васильківська",
+        "citySlug": "kyiv",
+        "phoneNumber": "+380673113545",
+        "metaJson": "{\"@context\":\"http:\\u002F\\u002Fschema.org\",\"@type\":\"Restaurant\",\"@id\":\"https:\\u002F\\u002Fwww.ubereats.com\\u002Fen-UA\\u002Fkyiv\\u002Ffood-delivery\\u002Fmeiwei-%D0%B2%D1%83%D0%BB-%D0%B2%D0%B5%D0%BB%D0%B8%D0%BA%D0%B0-%D0%B2%D0%B0%D1%81%D0%B8%D0%BB%D1%8C%D0%BA%D1%96%D0%B2%D1%81%D1%8C%D0%BA%D0%B0\\u002FhHZ1KwjLQoCAZkG8PA3KTA\\u002F\",\"name\":\"Meiwei (вул. Велика Васильківська)\",\"priceRange\":\"₴₴\",\"potentialAction\":{\"@type\":\"OrderAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\\u002F\\u002Fwww.ubereats.com\\u002Fen-UA\\u002Fkyiv\\u002Ffood-delivery\\u002Fmeiwei-%D0%B2%D1%83%D0%BB-%D0%B2%D0%B5%D0%BB%D0%B8%D0%BA%D0%B0-%D0%B2%D0%B0%D1%81%D0%B8%D0%BB%D1%8C%D0%BA%D1%96%D0%B2%D1%81%D1%8C%D0%BA%D0%B0\\u002FhHZ1KwjLQoCAZkG8PA3KTA\\u002F?utm_campaign=order-action&utm_medium=organic\",\"inLanguage\":\"English\",\"actionPlatform\":[\"http:\\u002F\\u002Fschema.org\\u002FDesktopWebPlatform\",\"http:\\u002F\\u002Fschema.org\\u002FMobileWebPlatform\"]},\"deliveryMethod\":[\"http:\\u002F\\u002Fpurl.org\\u002Fgoodrelations\\u002Fv1#DeliveryModeOwnFleet\"]},\"address\":{\"@type\":\"PostalAddress\",\"addressLocality\":\"Kyiv\",\"addressRegion\":\"\",\"postalCode\":\"02000\",\"addressCountry\":\"UA\",\"streetAddress\":\"Velyka Vasylkivska St, 23\"},\"geo\":{\"@type\":\"GeoCoordinates\",\"latitude\":50.4391605,\"longitude\":30.5171764}}",
+        "promoTrackings": [],
+        "suggestedPromotion": {
+            "text": "",
+            "promotionUuid": ""
+        },
+        "supportedDiningModes": [
+            {
+                "mode": "DELIVERY",
+                "title": "Delivery",
+                "isSelected": true,
+                "isAvailable": true
+            }
+        ],
+        "isPreview": false,
+        "pinnedInfo": null
+    }
+}

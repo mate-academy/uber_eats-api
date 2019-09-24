@@ -1,0 +1,2018 @@
+{
+    "status": "success",
+    "data": {
+        "sectionEntitiesMap": {
+            "1856806a-9848-44c3-91f2-fbca35b1b0ac": {
+                "5dc86ccb-895b-4cd4-bcc6-9b206deb2059": {
+                    "description": "Flat bread, nori seaweed, suluguni smoked cheese, baked paneer cheese, fresh cucumbers, ginger, sesame sauce, vegan mayonnaise.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/5d35c1e0-8043-40c9-92fc-482dbc58e7e8",
+                    "price": 10000,
+                    "title": "Smoke + nori",
+                    "uuid": "5dc86ccb-895b-4cd4-bcc6-9b206deb2059",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "f1e62495-46ce-49b6-a674-c988cbe02755": {
+                    "description": "Flat bread, soy steak, pickled cucumbers, iceberg lettuce, Dijon mustard, ketchup sauce, vegan mayonnaise.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/4cc51ea7-c829-422e-99fb-59ebed7af0a2",
+                    "price": 7800,
+                    "title": "Steak + dijon",
+                    "uuid": "f1e62495-46ce-49b6-a674-c988cbe02755",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 8640000000,
+                    "classifications": []
+                },
+                "fa22f1e4-3830-4bb2-ab6c-1b1d3c880ec7": {
+                    "description": "Banana, carob, milk, fructose, and water.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/5aaeadc0-57f8-4102-bd47-617c52d5ce5d",
+                    "price": 6000,
+                    "title": "Carob + banana",
+                    "uuid": "fa22f1e4-3830-4bb2-ab6c-1b1d3c880ec7",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "d4c450da-b4ae-48fd-b3be-e5987f4de3ea": {
+                    "description": "Pineapple, grapefruit, apples, honey, water.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/3244a92f-5911-4f16-996b-431cddaa7e2a",
+                    "price": 7500,
+                    "title": "Grapefruit + pineapple",
+                    "uuid": "d4c450da-b4ae-48fd-b3be-e5987f4de3ea",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "3259bc5a-40e8-44af-90fb-b81cffe24f89": {
+                    "description": "Shortcrust dough, hazelnuts, walnuts, condensed milk, boiled condensed milk, dry milk, carob.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/744ca0f3-1d6a-4ff8-a265-fbdaa2c8cc26",
+                    "price": 2500,
+                    "title": "Nuts + caramel",
+                    "uuid": "3259bc5a-40e8-44af-90fb-b81cffe24f89",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "9a104797-790d-41ff-98b2-25f7f43e1a9b": {
+                    "description": "Homemade bun, nori seaweed, baked tofu cheese, tomatoes, pickled cucumbers, iceberg lettuce, ginger, sesame sauce, vegan mayonnaise.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/3acbd6c0-ceca-4b9b-b8a7-df9233e27ea9",
+                    "price": 8500,
+                    "title": "Tofu + nori",
+                    "uuid": "9a104797-790d-41ff-98b2-25f7f43e1a9b",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "bed51fc6-832b-4c2e-8dd8-ac2e132d5757": {
+                    "description": "Pomegranate, blueberries, banana, apples, lemon, water.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/30f5975d-0d45-4e8e-83d1-d5baf6acb998",
+                    "price": 7000,
+                    "title": "Blueberry + pomegranate",
+                    "uuid": "bed51fc6-832b-4c2e-8dd8-ac2e132d5757",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "da258b83-c85f-47e9-b671-17c19ef8e0d1": {
+                    "description": "Homemade bun, baked paneer cheese, tomatoes, pickled cucumbers, iceberg lettuce, pesto sauce, vegan mayonnaise.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/d3352ded-03c5-4f73-922c-65efb925799d",
+                    "price": 11000,
+                    "title": "Paneer + pesto",
+                    "uuid": "da258b83-c85f-47e9-b671-17c19ef8e0d1",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "bd0879bd-e771-4308-9f9b-107237ce8456": {
+                    "description": "Hemp seeds, pineapple, coconut milk, banana, honey, lemon, water.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/5e226bd6-e225-42dd-b0c6-3a883e325078",
+                    "price": 7500,
+                    "title": "Hemp + coconut",
+                    "uuid": "bd0879bd-e771-4308-9f9b-107237ce8456",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "6eb08aa7-c167-49d7-9509-fcb1a527c1ca": {
+                    "description": "Caramelized tofu cheese, kaiso seaweed, sesame seeds, fresh cucumbers, iceberg lettuce, olive oil.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/3ef99929-71be-4f3f-b45d-d82e21a15201",
+                    "price": 8000,
+                    "title": "Tofu + kaiso",
+                    "uuid": "6eb08aa7-c167-49d7-9509-fcb1a527c1ca",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "43fc927e-1c46-4eaf-ad45-49b94979d728": {
+                    "description": "Cashew, sunflower seeds, dates, orange, chia seeds, sesame, lemon.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/a4d116ab-480b-4db0-a2c2-c4060965c618",
+                    "price": 2000,
+                    "title": "Keshew + orange",
+                    "uuid": "43fc927e-1c46-4eaf-ad45-49b94979d728",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 8640000000,
+                    "classifications": []
+                },
+                "0588d387-1a84-42cc-8dba-e92ac5f79f49": {
+                    "description": "Rosehip, aniseed, fructose, water.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/ab79fdfe-593e-4bcf-b1a3-a02dbe338ac6",
+                    "price": 4000,
+                    "title": "Rosehip + aniseed",
+                    "uuid": "0588d387-1a84-42cc-8dba-e92ac5f79f49",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "62f19fd8-d7d3-46bf-ad2a-0c00913a91dc": {
+                    "description": "Viburnum, raspberries, water.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/c333e056-00c5-4ee9-b2a7-b40dcad46511",
+                    "price": 4000,
+                    "title": "Viburnum + raspberry",
+                    "uuid": "62f19fd8-d7d3-46bf-ad2a-0c00913a91dc",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 8640000000,
+                    "classifications": []
+                },
+                "d9d536d2-dac6-43d5-8895-37968e5db79d": {
+                    "description": "Condensed milk, coconut shavings.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/bfc47a26-4379-496f-b2c2-54ee91a67d03",
+                    "price": 2500,
+                    "title": "Coconut + milk",
+                    "uuid": "d9d536d2-dac6-43d5-8895-37968e5db79d",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "d806af35-92b9-4567-b7de-aa7c489b5148": {
+                    "description": "Mango, chia seeds, coconut milk, apple topping, lemon juice, fructose.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/b6ec6ef5-31c8-4c23-91b8-50ae29adf1d4",
+                    "price": 7500,
+                    "title": "Chia + mango",
+                    "uuid": "d806af35-92b9-4567-b7de-aa7c489b5148",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "a3a663dd-ba7f-477f-8f3b-3f70566ef42a": {
+                    "description": "Sesame seeds, chickpea, spices, sunflower oil, fresh cucumbers, lemon juice, carrots, celery stalk, cracker with sesame seeds, olive oil.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/a6b8c2b2-c7f7-4d9e-a9be-92972a10db68",
+                    "price": 6000,
+                    "title": "Humus + vegetables",
+                    "uuid": "a3a663dd-ba7f-477f-8f3b-3f70566ef42a",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "bb2c4dff-fce7-4c2f-88a7-63a9149f5658": {
+                    "description": "Ginger root, lemon juice, water.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/96c7bbf4-b17d-4e43-8d21-e5549426020b",
+                    "price": 3500,
+                    "title": "Ginger + lemon",
+                    "uuid": "bb2c4dff-fce7-4c2f-88a7-63a9149f5658",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "5ae1dfdd-4b87-4bd9-a9f4-312f1bba9d38": {
+                    "description": "Homemade bun, baked falafel, tomatoes, baked eggplant, iceberg lettuce, ketchup sauce, vegan mayonnaise.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/56ac58e1-2431-4843-9954-ebfac45e0605",
+                    "price": 9000,
+                    "title": "Falafel + eggplant",
+                    "uuid": "5ae1dfdd-4b87-4bd9-a9f4-312f1bba9d38",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "ba41a0e5-8a61-4aa4-8518-c7cc45c72b09": {
+                    "description": "Mango, orange, banana, honey, lemon, water.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/4071c915-4701-4041-8f2c-0b2ba1d2eaf0",
+                    "price": 8000,
+                    "title": "Mango + orange",
+                    "uuid": "ba41a0e5-8a61-4aa4-8518-c7cc45c72b09",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "3af87965-16b8-459e-9422-1434fc99a39e": {
+                    "description": "Flat bread, baked seitan, tomatoes, pickled cucumbers, iceberg lettuce, parsley, ketchup sauce, vegan mayonnaise.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/6011332d-dc02-43c6-99c7-b520970be990",
+                    "price": 7500,
+                    "title": "Shawarma + seitan",
+                    "uuid": "3af87965-16b8-459e-9422-1434fc99a39e",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "ca9b03e3-7e0a-4f07-85cf-7fa9bf5e689b": {
+                    "description": "Pineapple, spirulina seaweed, banana, apples, ginger root, lemon, water.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/b62be919-2686-4618-b158-a37d6c68527c",
+                    "price": 7500,
+                    "title": "Pineapple + spirulina",
+                    "uuid": "ca9b03e3-7e0a-4f07-85cf-7fa9bf5e689b",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "8dcd3680-5ab2-456d-98f0-f38264169a2f": {
+                    "description": "Homemade bun, baked tofu cheese, fresh paprika, fresh cucumbers, fresh lettuce, mango sauce, vegan mayonnaise.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/96854880-15ad-4784-bca5-7d85d162be01",
+                    "price": 8500,
+                    "title": "Tofu + mango",
+                    "uuid": "8dcd3680-5ab2-456d-98f0-f38264169a2f",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "2b66155a-d83b-4f71-bc33-1598dc62694e": {
+                    "description": "Puff pastry, coconut milk, non dairy cream, black currants, vanilla sugar, fructose.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/da2158f5-ea1b-4b14-bb1c-a5a70e4a09e8",
+                    "price": 7500,
+                    "title": "Coconut puff",
+                    "uuid": "2b66155a-d83b-4f71-bc33-1598dc62694e",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "9747ff08-401f-4323-8b81-7ee3d26dd659": {
+                    "description": "Soup of Monday - Borscht.\nSoup of Tuesday - Mushroom cream soup.\nSoup of Wednesday - Solyanka.\nSoup of Thursday - Vegetable cream soup.\nSoup of Friday - Cheese soup.\nSoup of Saturday - Lentil dahl.\nSoup of Sunday - Pumpkin cream soup.",
+                    "imageUrl": "",
+                    "price": 6500,
+                    "title": "Soup of the day",
+                    "uuid": "9747ff08-401f-4323-8b81-7ee3d26dd659",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": "",
+                    "suspendUntil": 8640000000,
+                    "classifications": []
+                },
+                "eee5ce2d-6b39-456d-8362-16463234690d": {
+                    "description": "Homemade bun, baked seitan, tomatoes, pickled cucumbers, iceberg lettuce, BBQ sauce, vegan mayonnaise.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/835dbb3b-a1df-44fa-8b94-eb4215fd550b",
+                    "price": 7500,
+                    "title": "Seitan + BBQ",
+                    "uuid": "eee5ce2d-6b39-456d-8362-16463234690d",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 8640000000,
+                    "classifications": []
+                },
+                "4c3039ea-ceef-4407-90b0-75ac1efee596": {
+                    "description": "Basil, lemon, lime, fructose, and water.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/ae57daaf-8e64-4713-be1e-817959ed7ecf",
+                    "price": 5500,
+                    "title": "Basil + lemonade",
+                    "uuid": "4c3039ea-ceef-4407-90b0-75ac1efee596",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                }
+            },
+            "a334586b-bce5-4ec7-9831-292a978f151f": {
+                "9899ebd9-a154-49ef-8205-e89f6f62cc82": {
+                    "description": "Манго, насіння чіа, кокосове молоко, яблучний топінг, лимонний сік, фруктоза.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/2a7b7b69-c623-4489-9898-b90eae8e7b0a",
+                    "price": 7500,
+                    "title": "Чіа + манго",
+                    "uuid": "9899ebd9-a154-49ef-8205-e89f6f62cc82",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "047d0536-01bb-49df-930a-16b1b4303a01": {
+                    "description": "Грасс, ананас, банан, мед (300г).",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/57bcc473-b1b5-475f-9be1-6b9fea099cc2.jpeg",
+                    "price": 9000,
+                    "title": "Грасс + ананас",
+                    "uuid": "047d0536-01bb-49df-930a-16b1b4303a01",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "1900ae41-2152-4d30-b38b-da0a462debb2": {
+                    "description": "Томати в соці, томати в'ялені, сіль, тобаско, асафетида, стебло селери (300г).",
+                    "imageUrl": "",
+                    "price": 5500,
+                    "title": "Томати + тобаско",
+                    "uuid": "1900ae41-2152-4d30-b38b-da0a462debb2",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "c725798e-a047-4253-8ae9-8b6f8b250455": {
+                    "description": "домашняя булочка\nсоевый стейк\nпаприка свежая\nсолёный огурец\nсалат айсберг\nсоус барбекю\nвеганский майонез",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/48aa13ab-2b47-4983-8709-a41474a1d60e.jpeg",
+                    "price": 7500,
+                    "title": "Стейк + барбекю",
+                    "uuid": "c725798e-a047-4253-8ae9-8b6f8b250455",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "07505419-f5ee-4c0b-b5e2-538b02ec93b5": {
+                    "description": "Гранат, чорниця, банан, яблуко, лимон, вода.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/b2c483d5-e072-4617-9dad-44bc8ea85157",
+                    "price": 7000,
+                    "title": "Чорниця + гранат",
+                    "uuid": "07505419-f5ee-4c0b-b5e2-538b02ec93b5",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "c1e059d3-be0f-4bf9-8321-2f491cf321e1": {
+                    "description": "Лаваш, водорості норі, копчений сир сулугуні, запечений сир панір, огірок свіжий, імбирно-кунжутний соус, веганський майонез.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/66600bcf-a47c-4983-8c2b-518e8cbb54a3",
+                    "price": 10000,
+                    "title": "Дим + норі",
+                    "uuid": "c1e059d3-be0f-4bf9-8321-2f491cf321e1",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "eb5f0b6e-3abf-4c9f-9a54-5e8ac01c9649": {
+                    "description": "Домашня булочка, запечений сир панір, помідор, солоний огірок, салат айсберг, соус песто, веганський майонез.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/58fbadf3-0159-42d7-81ab-b7ae803eb0c5",
+                    "price": 11000,
+                    "title": "Панір + песто",
+                    "uuid": "eb5f0b6e-3abf-4c9f-9a54-5e8ac01c9649",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "e3a5f632-7863-4f51-83cb-2cae834fc94f": {
+                    "description": "Корінь імбиру, сік лимонний, вода.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/96c7bbf4-b17d-4e43-8d21-e5549426020b",
+                    "price": 3500,
+                    "title": "Імбир + лимон",
+                    "uuid": "e3a5f632-7863-4f51-83cb-2cae834fc94f",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "1501e6b4-27b4-459c-9c71-496dfa677ff7": {
+                    "description": "Пітахайя, банан, лимон, мед (300г).",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/f453d72d-9d1f-49a5-9c07-dc38c7ba34dd.jpeg",
+                    "price": 8000,
+                    "title": "Пітахайя + банан",
+                    "uuid": "1501e6b4-27b4-459c-9c71-496dfa677ff7",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "2945d053-0d47-4f98-9e82-a1552133038a": {
+                    "description": "Згущене молоко, кокосова стружка.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/bfc47a26-4379-496f-b2c2-54ee91a67d03",
+                    "price": 2500,
+                    "title": "Кокос + молоко",
+                    "uuid": "2945d053-0d47-4f98-9e82-a1552133038a",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "9bc81db9-d1b8-4e17-8df7-385e3135b94a": {
+                    "description": "Домашня булочка, горіховий соус, веганський майонез, салат Ромен, помідор, халумі, огірок свіжий (285г).",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/b12ab7c1-63ea-457c-a0df-281a8efb1ad7.jpeg",
+                    "price": 9000,
+                    "title": "Халумі + горіх",
+                    "uuid": "9bc81db9-d1b8-4e17-8df7-385e3135b94a",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "7ef49e0c-460b-468c-96c4-405a6f99542b": {
+                    "description": "Суп дня понеділок - Борщ.\nСуп дня вівторок - Грибний крем-суп.\nСуп дня середа - Солянка.\nСуп дня четвер - Окрошка.\nСуп дня п'ятниця - Сирний суп.\nСуп дня субота - Крем-суп із кабачків.\nСуп дня неділя - Буряковий суп.",
+                    "imageUrl": "",
+                    "price": 12000,
+                    "title": "Сендвіч стейк + барбекю та Суп дня",
+                    "uuid": "7ef49e0c-460b-468c-96c4-405a6f99542b",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": "",
+                    "suspendUntil": 8640000000,
+                    "classifications": []
+                },
+                "fa3e07dd-efd7-4d71-8358-c5b380a0c264": {
+                    "description": "Домашня булочка, печений сир тофу, паприка свіжа, огірок свіжий, салат свіжий, манговий соус, веганський майонез.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/fafcd521-7960-4d1b-9e85-c6bc0de1c27a",
+                    "price": 8500,
+                    "title": "Тофу + манго",
+                    "uuid": "fa3e07dd-efd7-4d71-8358-c5b380a0c264",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "51c95cc7-dc46-42fb-87c6-0ac38ce72d3e": {
+                    "description": "",
+                    "imageUrl": "",
+                    "price": 12000,
+                    "title": "Сендвіч шаурма + сейтан та Салат Хумус + Овочі",
+                    "uuid": "51c95cc7-dc46-42fb-87c6-0ac38ce72d3e",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "9284095e-35c0-4694-a771-de5c27e405cb": {
+                    "description": "Домашня булочка, водорості норі, печений сир тофу, помідор, солоний огірок, салат айсберг, імбирно-кунжутний соус, веганський майонез.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/581ec896-ec70-4290-9473-2d1e9b6a52d0",
+                    "price": 8500,
+                    "title": "Тофу + норі",
+                    "uuid": "9284095e-35c0-4694-a771-de5c27e405cb",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "ee32e8db-c26b-4a68-a79d-5138c2c2eb64": {
+                    "description": "Манго, апельсин, банан, мед, лимон, вода.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/1daa7aa3-7843-48b5-94fd-bab1360b2c72",
+                    "price": 8000,
+                    "title": "Манго + апельсин",
+                    "uuid": "ee32e8db-c26b-4a68-a79d-5138c2c2eb64",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "819d9885-f471-4957-aeab-58ecc56c160d": {
+                    "description": "Шипшина, бодян, фруктоза, вода.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/2899aa8c-c935-4949-b472-4c4eaaa6acb9",
+                    "price": 4000,
+                    "title": "Шипшина + бодян",
+                    "uuid": "819d9885-f471-4957-aeab-58ecc56c160d",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 8640000000,
+                    "classifications": []
+                },
+                "938fd517-8e91-4594-8cbc-dc3f460e0530": {
+                    "description": "Домашня булочка, печений фалафель, помідор, печений баклажан, салат айсберг, соус кетчуп, веганський майонез.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/16a5f41c-58c5-4840-a501-6d511dfa5758",
+                    "price": 9000,
+                    "title": "Фалафель + баклажан",
+                    "uuid": "938fd517-8e91-4594-8cbc-dc3f460e0530",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "00738fb1-ad49-4d93-805f-fb1122cd97be": {
+                    "description": "зеленый горох\nспеции\nсвежий огурец\nморковь\nкрекер с кунжутом\nоливковое масло\nподсолнечное масло",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/ca9417f3-7010-4a86-973e-bd828d2caa77",
+                    "price": 6000,
+                    "title": "Зелений хумус",
+                    "uuid": "00738fb1-ad49-4d93-805f-fb1122cd97be",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "19b711dd-c08a-4122-b507-dc1be2a1fad2": {
+                    "description": "Пісочне тісто, фундук, волоський горіх, згущене молоко, згущене молоко варене, молоко сухе, кероб.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/744ca0f3-1d6a-4ff8-a265-fbdaa2c8cc26",
+                    "price": 2500,
+                    "title": "Горіхи + карамель",
+                    "uuid": "19b711dd-c08a-4122-b507-dc1be2a1fad2",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "89a49996-5765-4b9d-9e90-1ca33fd48607": {
+                    "description": "Домашня булочка, запечений сейтан, авокадо, салат Ромен, соус песто веган, майонез веган",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/2b274286-6364-42c2-83a0-08144fae607c.jpeg",
+                    "price": 10000,
+                    "title": "Сейтан + авокадо",
+                    "uuid": "89a49996-5765-4b9d-9e90-1ca33fd48607",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "8c6e1ef7-39e8-4a2b-b2fd-0c5149d56ebe": {
+                    "description": "Сирий мигдаль, молоко, мед (300г).",
+                    "imageUrl": "",
+                    "price": 4500,
+                    "title": "Молоко + мигдаль",
+                    "uuid": "8c6e1ef7-39e8-4a2b-b2fd-0c5149d56ebe",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "80958f15-d62f-42ab-8997-1186b315570b": {
+                    "description": "Сир тофу карамелізований, водорості кайсо, кунжут, свіжий огірок, салат айсберг, оливкова олія.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/95ef61f2-01c4-42c3-ab2e-12adf3347530",
+                    "price": 8000,
+                    "title": "Тофу + кайсо",
+                    "uuid": "80958f15-d62f-42ab-8997-1186b315570b",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "ffb5a31d-46ab-449f-9240-6f47f3025d15": {
+                    "description": "пн. Борщ\nвт. Крем суп брокколі - горошок \nср. Солянка\nчт. Моркв’яний крем суп \nпт. Сирный суп\nсб. Грибний крем суп\nнд. Дал з сочевиці",
+                    "imageUrl": "",
+                    "price": 6500,
+                    "title": "Суп дня",
+                    "uuid": "ffb5a31d-46ab-449f-9240-6f47f3025d15",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": "",
+                    "suspendUntil": 8640000000,
+                    "classifications": []
+                },
+                "c4c81994-38bd-4ae2-ac6d-5ef771b00718": {
+                    "description": "Шпинат, авокадо, квасоля, оливки, насіння конопель, соус песто веган",
+                    "imageUrl": "",
+                    "price": 10000,
+                    "title": "Авокадо + квасоля",
+                    "uuid": "c4c81994-38bd-4ae2-ac6d-5ef771b00718",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "a33eda55-048b-4b4b-8d3e-3df456c4ff16": {
+                    "description": "Насіння конопель, ананас, кокосове молоко, банан, мед, лимон, вода.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/5e226bd6-e225-42dd-b0c6-3a883e325078",
+                    "price": 7500,
+                    "title": "Конопля + кокос",
+                    "uuid": "a33eda55-048b-4b4b-8d3e-3df456c4ff16",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "6c11c931-2d9d-44d5-b1e7-b2a1eb9c845d": {
+                    "description": "Лаваш, салат Ромен, темпе, помідор, паприка свіжа, соус місо, веганський майонез, смажений кунжут (300г).",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/f3823556-d15d-40d6-bc0d-dba404721d9a.jpeg",
+                    "price": 10000,
+                    "title": "Темпе + Місо",
+                    "uuid": "6c11c931-2d9d-44d5-b1e7-b2a1eb9c845d",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": "",
+                    "suspendUntil": 8640000000,
+                    "classifications": []
+                },
+                "203aa13e-6877-4c97-8adb-a55ffcc310f5": {
+                    "description": "Ананас, грейпфрут, яблуко, мед, вода.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/3244a92f-5911-4f16-996b-431cddaa7e2a",
+                    "price": 7500,
+                    "title": "Грейпфрут + ананас",
+                    "uuid": "203aa13e-6877-4c97-8adb-a55ffcc310f5",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "6bda8335-0d77-41d0-903a-1d4b14e82143": {
+                    "description": "Базилік, лимон, лайм, фруктоза, вода.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/ae57daaf-8e64-4713-be1e-817959ed7ecf",
+                    "price": 5500,
+                    "title": "Базилік + лимонад",
+                    "uuid": "6bda8335-0d77-41d0-903a-1d4b14e82143",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "ff1d1cb5-256a-4c04-8c25-b8389865e242": {
+                    "description": "Лаваш, запечений сейтан, помідор, солоний огірок, салат айсберг, петрушка, соус кетчуп, веганський майонез.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/6011332d-dc02-43c6-99c7-b520970be990",
+                    "price": 7500,
+                    "title": "Шаурма + сейтан",
+                    "uuid": "ff1d1cb5-256a-4c04-8c25-b8389865e242",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "ec7c94b3-e1a5-4521-bc57-1b9f51f8438e": {
+                    "description": "Кунжут, нут, спеції, соняшникова олія, свіжий огірок, сік лимонний, морква, стебло селери, крекер із кунжутом, оливкова олія.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/cffc2987-2950-44a8-9366-5ea08d92d14b",
+                    "price": 6000,
+                    "title": "Хумус + овочі",
+                    "uuid": "ec7c94b3-e1a5-4521-bc57-1b9f51f8438e",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "00a09aff-177d-4f22-be98-85387f09cccd": {
+                    "description": "арахісовая паста\nрослинні вершки\nсоевое молоко\nжарений арахіс\nлимонный сок\nсахар\nсоль",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/aac85668-128c-4287-a7d5-dddd2bda435c",
+                    "price": 8500,
+                    "title": "Арахіс + карамель",
+                    "uuid": "00a09aff-177d-4f22-be98-85387f09cccd",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "5f18ca9b-b9bf-454c-bbd7-4a6ff0b1a48b": {
+                    "description": "манго\nмаракуйя\nгазированная вода\nфруктоза",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/35aa53ec-a68e-49d7-875d-ecb96521f278.jpeg",
+                    "price": 5500,
+                    "title": "Манго + маракуя",
+                    "uuid": "5f18ca9b-b9bf-454c-bbd7-4a6ff0b1a48b",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "e7ba9b8c-548e-47ff-b22e-e3ac66777045": {
+                    "description": "",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/53deeac9-a327-40bb-9124-a599ebe9d64a",
+                    "price": 7500,
+                    "title": "Стейк + барбекю",
+                    "uuid": "e7ba9b8c-548e-47ff-b22e-e3ac66777045",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "374ab162-3f0b-4797-94b9-8f5f89fbcda7": {
+                    "description": "Ананас, водорості спіруліна, банан, яблуко, корінь імбиру, лимон, вода.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/201dd3c2-3ba6-4163-96bd-8170c261fb81",
+                    "price": 7500,
+                    "title": "Ананас + спіруліна",
+                    "uuid": "374ab162-3f0b-4797-94b9-8f5f89fbcda7",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "bb5a843c-4f09-41fd-b865-b1d2915efb41": {
+                    "description": "Листкове тісто, кокосове молоко, рослинні вершки, чорна смородина, ванільний цукор, фруктоза.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/a3e98dab-7368-46f6-aabe-0d8d46baaed2",
+                    "price": 7500,
+                    "title": "Кокосовий пафф",
+                    "uuid": "bb5a843c-4f09-41fd-b865-b1d2915efb41",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "62f43e50-e636-4cbd-adbb-e9a9ea56fbf8": {
+                    "description": "Горіховий соус, салат Ромен, печений баклажан, помідори черрі, темпе, насіння соняшника (170г).",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/53a10f27-ac53-4f82-a99f-804387f6292c.jpeg",
+                    "price": 9000,
+                    "title": "Темпе + Горіх",
+                    "uuid": "62f43e50-e636-4cbd-adbb-e9a9ea56fbf8",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": "",
+                    "suspendUntil": 8640000000,
+                    "classifications": []
+                },
+                "7550a198-954f-4262-b074-79f17cb61e1c": {
+                    "description": "клубника\nкокосовое молоко\nбанан\nэкстракт ванили\nфруктоза\nвода",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/5bc44f69-f810-4010-906f-56655f09dd54",
+                    "price": 8000,
+                    "title": "Полуниця + кокос",
+                    "uuid": "7550a198-954f-4262-b074-79f17cb61e1c",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "a09e6773-dc85-47cf-8392-8a17a8e07669": {
+                    "description": "",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/088106f5-5863-4642-95e1-3bb90471054c",
+                    "price": 2500,
+                    "title": "Горіхи + шоколад",
+                    "uuid": "a09e6773-dc85-47cf-8392-8a17a8e07669",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 8640000000,
+                    "classifications": []
+                }
+            },
+            "2cec78ff-a3a2-4ebe-be73-3476bdf67ade": {
+                "203aa13e-6877-4c97-8adb-a55ffcc310f5": {
+                    "description": "Ананас, грейпфрут, яблуко, мед, вода.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/3244a92f-5911-4f16-996b-431cddaa7e2a",
+                    "price": 7500,
+                    "title": "Грейпфрут + ананас",
+                    "uuid": "203aa13e-6877-4c97-8adb-a55ffcc310f5",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "c1e059d3-be0f-4bf9-8321-2f491cf321e1": {
+                    "description": "Лаваш, водорості норі, копчений сир сулугуні, запечений сир панір, огірок свіжий, імбирно-кунжутний соус, веганський майонез.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/66600bcf-a47c-4983-8c2b-518e8cbb54a3",
+                    "price": 10000,
+                    "title": "Дим + норі",
+                    "uuid": "c1e059d3-be0f-4bf9-8321-2f491cf321e1",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "c4c81994-38bd-4ae2-ac6d-5ef771b00718": {
+                    "description": "Шпинат, авокадо, квасоля, оливки, насіння конопель, соус песто веган",
+                    "imageUrl": "",
+                    "price": 10000,
+                    "title": "Авокадо + квасоля",
+                    "uuid": "c4c81994-38bd-4ae2-ac6d-5ef771b00718",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "a09e6773-dc85-47cf-8392-8a17a8e07669": {
+                    "description": "",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/088106f5-5863-4642-95e1-3bb90471054c",
+                    "price": 2500,
+                    "title": "Горіхи + шоколад",
+                    "uuid": "a09e6773-dc85-47cf-8392-8a17a8e07669",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 8640000000,
+                    "classifications": []
+                },
+                "6c11c931-2d9d-44d5-b1e7-b2a1eb9c845d": {
+                    "description": "Лаваш, салат Ромен, темпе, помідор, паприка свіжа, соус місо, веганський майонез, смажений кунжут (300г).",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/f3823556-d15d-40d6-bc0d-dba404721d9a.jpeg",
+                    "price": 10000,
+                    "title": "Темпе + Місо",
+                    "uuid": "6c11c931-2d9d-44d5-b1e7-b2a1eb9c845d",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": "",
+                    "suspendUntil": 8640000000,
+                    "classifications": []
+                },
+                "bb5a843c-4f09-41fd-b865-b1d2915efb41": {
+                    "description": "Листкове тісто, кокосове молоко, рослинні вершки, чорна смородина, ванільний цукор, фруктоза.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/a3e98dab-7368-46f6-aabe-0d8d46baaed2",
+                    "price": 7500,
+                    "title": "Кокосовий пафф",
+                    "uuid": "bb5a843c-4f09-41fd-b865-b1d2915efb41",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "1501e6b4-27b4-459c-9c71-496dfa677ff7": {
+                    "description": "Пітахайя, банан, лимон, мед (300г).",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/f453d72d-9d1f-49a5-9c07-dc38c7ba34dd.jpeg",
+                    "price": 8000,
+                    "title": "Пітахайя + банан",
+                    "uuid": "1501e6b4-27b4-459c-9c71-496dfa677ff7",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "9899ebd9-a154-49ef-8205-e89f6f62cc82": {
+                    "description": "Манго, насіння чіа, кокосове молоко, яблучний топінг, лимонний сік, фруктоза.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/2a7b7b69-c623-4489-9898-b90eae8e7b0a",
+                    "price": 7500,
+                    "title": "Чіа + манго",
+                    "uuid": "9899ebd9-a154-49ef-8205-e89f6f62cc82",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "eb5f0b6e-3abf-4c9f-9a54-5e8ac01c9649": {
+                    "description": "Домашня булочка, запечений сир панір, помідор, солоний огірок, салат айсберг, соус песто, веганський майонез.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/58fbadf3-0159-42d7-81ab-b7ae803eb0c5",
+                    "price": 11000,
+                    "title": "Панір + песто",
+                    "uuid": "eb5f0b6e-3abf-4c9f-9a54-5e8ac01c9649",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "e3a5f632-7863-4f51-83cb-2cae834fc94f": {
+                    "description": "Корінь імбиру, сік лимонний, вода.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/96c7bbf4-b17d-4e43-8d21-e5549426020b",
+                    "price": 3500,
+                    "title": "Імбир + лимон",
+                    "uuid": "e3a5f632-7863-4f51-83cb-2cae834fc94f",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "ec7c94b3-e1a5-4521-bc57-1b9f51f8438e": {
+                    "description": "Кунжут, нут, спеції, соняшникова олія, свіжий огірок, сік лимонний, морква, стебло селери, крекер із кунжутом, оливкова олія.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/cffc2987-2950-44a8-9366-5ea08d92d14b",
+                    "price": 6000,
+                    "title": "Хумус + овочі",
+                    "uuid": "ec7c94b3-e1a5-4521-bc57-1b9f51f8438e",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "5f18ca9b-b9bf-454c-bbd7-4a6ff0b1a48b": {
+                    "description": "манго\nмаракуйя\nгазированная вода\nфруктоза",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/35aa53ec-a68e-49d7-875d-ecb96521f278.jpeg",
+                    "price": 5500,
+                    "title": "Манго + маракуя",
+                    "uuid": "5f18ca9b-b9bf-454c-bbd7-4a6ff0b1a48b",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "62f43e50-e636-4cbd-adbb-e9a9ea56fbf8": {
+                    "description": "Горіховий соус, салат Ромен, печений баклажан, помідори черрі, темпе, насіння соняшника (170г).",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/53a10f27-ac53-4f82-a99f-804387f6292c.jpeg",
+                    "price": 9000,
+                    "title": "Темпе + Горіх",
+                    "uuid": "62f43e50-e636-4cbd-adbb-e9a9ea56fbf8",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": "",
+                    "suspendUntil": 8640000000,
+                    "classifications": []
+                },
+                "9284095e-35c0-4694-a771-de5c27e405cb": {
+                    "description": "Домашня булочка, водорості норі, печений сир тофу, помідор, солоний огірок, салат айсберг, імбирно-кунжутний соус, веганський майонез.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/581ec896-ec70-4290-9473-2d1e9b6a52d0",
+                    "price": 8500,
+                    "title": "Тофу + норі",
+                    "uuid": "9284095e-35c0-4694-a771-de5c27e405cb",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "c725798e-a047-4253-8ae9-8b6f8b250455": {
+                    "description": "домашняя булочка\nсоевый стейк\nпаприка свежая\nсолёный огурец\nсалат айсберг\nсоус барбекю\nвеганский майонез",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/48aa13ab-2b47-4983-8709-a41474a1d60e.jpeg",
+                    "price": 7500,
+                    "title": "Стейк + барбекю",
+                    "uuid": "c725798e-a047-4253-8ae9-8b6f8b250455",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "7550a198-954f-4262-b074-79f17cb61e1c": {
+                    "description": "клубника\nкокосовое молоко\nбанан\nэкстракт ванили\nфруктоза\nвода",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/5bc44f69-f810-4010-906f-56655f09dd54",
+                    "price": 8000,
+                    "title": "Полуниця + кокос",
+                    "uuid": "7550a198-954f-4262-b074-79f17cb61e1c",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "047d0536-01bb-49df-930a-16b1b4303a01": {
+                    "description": "Грасс, ананас, банан, мед (300г).",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/57bcc473-b1b5-475f-9be1-6b9fea099cc2.jpeg",
+                    "price": 9000,
+                    "title": "Грасс + ананас",
+                    "uuid": "047d0536-01bb-49df-930a-16b1b4303a01",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "2945d053-0d47-4f98-9e82-a1552133038a": {
+                    "description": "Згущене молоко, кокосова стружка.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/bfc47a26-4379-496f-b2c2-54ee91a67d03",
+                    "price": 2500,
+                    "title": "Кокос + молоко",
+                    "uuid": "2945d053-0d47-4f98-9e82-a1552133038a",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "80958f15-d62f-42ab-8997-1186b315570b": {
+                    "description": "Сир тофу карамелізований, водорості кайсо, кунжут, свіжий огірок, салат айсберг, оливкова олія.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/95ef61f2-01c4-42c3-ab2e-12adf3347530",
+                    "price": 8000,
+                    "title": "Тофу + кайсо",
+                    "uuid": "80958f15-d62f-42ab-8997-1186b315570b",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "19b711dd-c08a-4122-b507-dc1be2a1fad2": {
+                    "description": "Пісочне тісто, фундук, волоський горіх, згущене молоко, згущене молоко варене, молоко сухе, кероб.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/744ca0f3-1d6a-4ff8-a265-fbdaa2c8cc26",
+                    "price": 2500,
+                    "title": "Горіхи + карамель",
+                    "uuid": "19b711dd-c08a-4122-b507-dc1be2a1fad2",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "e7ba9b8c-548e-47ff-b22e-e3ac66777045": {
+                    "description": "",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/53deeac9-a327-40bb-9124-a599ebe9d64a",
+                    "price": 7500,
+                    "title": "Стейк + барбекю",
+                    "uuid": "e7ba9b8c-548e-47ff-b22e-e3ac66777045",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "fa3e07dd-efd7-4d71-8358-c5b380a0c264": {
+                    "description": "Домашня булочка, печений сир тофу, паприка свіжа, огірок свіжий, салат свіжий, манговий соус, веганський майонез.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/fafcd521-7960-4d1b-9e85-c6bc0de1c27a",
+                    "price": 8500,
+                    "title": "Тофу + манго",
+                    "uuid": "fa3e07dd-efd7-4d71-8358-c5b380a0c264",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "a33eda55-048b-4b4b-8d3e-3df456c4ff16": {
+                    "description": "Насіння конопель, ананас, кокосове молоко, банан, мед, лимон, вода.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/5e226bd6-e225-42dd-b0c6-3a883e325078",
+                    "price": 7500,
+                    "title": "Конопля + кокос",
+                    "uuid": "a33eda55-048b-4b4b-8d3e-3df456c4ff16",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "ffb5a31d-46ab-449f-9240-6f47f3025d15": {
+                    "description": "пн. Борщ\nвт. Крем суп брокколі - горошок \nср. Солянка\nчт. Моркв’яний крем суп \nпт. Сирный суп\nсб. Грибний крем суп\nнд. Дал з сочевиці",
+                    "imageUrl": "",
+                    "price": 6500,
+                    "title": "Суп дня",
+                    "uuid": "ffb5a31d-46ab-449f-9240-6f47f3025d15",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": "",
+                    "suspendUntil": 8640000000,
+                    "classifications": []
+                },
+                "00a09aff-177d-4f22-be98-85387f09cccd": {
+                    "description": "арахісовая паста\nрослинні вершки\nсоевое молоко\nжарений арахіс\nлимонный сок\nсахар\nсоль",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/aac85668-128c-4287-a7d5-dddd2bda435c",
+                    "price": 8500,
+                    "title": "Арахіс + карамель",
+                    "uuid": "00a09aff-177d-4f22-be98-85387f09cccd",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "9bc81db9-d1b8-4e17-8df7-385e3135b94a": {
+                    "description": "Домашня булочка, горіховий соус, веганський майонез, салат Ромен, помідор, халумі, огірок свіжий (285г).",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/b12ab7c1-63ea-457c-a0df-281a8efb1ad7.jpeg",
+                    "price": 9000,
+                    "title": "Халумі + горіх",
+                    "uuid": "9bc81db9-d1b8-4e17-8df7-385e3135b94a",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "00738fb1-ad49-4d93-805f-fb1122cd97be": {
+                    "description": "зеленый горох\nспеции\nсвежий огурец\nморковь\nкрекер с кунжутом\nоливковое масло\nподсолнечное масло",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/ca9417f3-7010-4a86-973e-bd828d2caa77",
+                    "price": 6000,
+                    "title": "Зелений хумус",
+                    "uuid": "00738fb1-ad49-4d93-805f-fb1122cd97be",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "ff1d1cb5-256a-4c04-8c25-b8389865e242": {
+                    "description": "Лаваш, запечений сейтан, помідор, солоний огірок, салат айсберг, петрушка, соус кетчуп, веганський майонез.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/6011332d-dc02-43c6-99c7-b520970be990",
+                    "price": 7500,
+                    "title": "Шаурма + сейтан",
+                    "uuid": "ff1d1cb5-256a-4c04-8c25-b8389865e242",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "89a49996-5765-4b9d-9e90-1ca33fd48607": {
+                    "description": "Домашня булочка, запечений сейтан, авокадо, салат Ромен, соус песто веган, майонез веган",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/2b274286-6364-42c2-83a0-08144fae607c.jpeg",
+                    "price": 10000,
+                    "title": "Сейтан + авокадо",
+                    "uuid": "89a49996-5765-4b9d-9e90-1ca33fd48607",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "1900ae41-2152-4d30-b38b-da0a462debb2": {
+                    "description": "Томати в соці, томати в'ялені, сіль, тобаско, асафетида, стебло селери (300г).",
+                    "imageUrl": "",
+                    "price": 5500,
+                    "title": "Томати + тобаско",
+                    "uuid": "1900ae41-2152-4d30-b38b-da0a462debb2",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "938fd517-8e91-4594-8cbc-dc3f460e0530": {
+                    "description": "Домашня булочка, печений фалафель, помідор, печений баклажан, салат айсберг, соус кетчуп, веганський майонез.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/16a5f41c-58c5-4840-a501-6d511dfa5758",
+                    "price": 9000,
+                    "title": "Фалафель + баклажан",
+                    "uuid": "938fd517-8e91-4594-8cbc-dc3f460e0530",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "8c6e1ef7-39e8-4a2b-b2fd-0c5149d56ebe": {
+                    "description": "Сирий мигдаль, молоко, мед (300г).",
+                    "imageUrl": "",
+                    "price": 4500,
+                    "title": "Молоко + мигдаль",
+                    "uuid": "8c6e1ef7-39e8-4a2b-b2fd-0c5149d56ebe",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "07505419-f5ee-4c0b-b5e2-538b02ec93b5": {
+                    "description": "Гранат, чорниця, банан, яблуко, лимон, вода.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/b2c483d5-e072-4617-9dad-44bc8ea85157",
+                    "price": 7000,
+                    "title": "Чорниця + гранат",
+                    "uuid": "07505419-f5ee-4c0b-b5e2-538b02ec93b5",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "819d9885-f471-4957-aeab-58ecc56c160d": {
+                    "description": "Шипшина, бодян, фруктоза, вода.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/2899aa8c-c935-4949-b472-4c4eaaa6acb9",
+                    "price": 4000,
+                    "title": "Шипшина + бодян",
+                    "uuid": "819d9885-f471-4957-aeab-58ecc56c160d",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 8640000000,
+                    "classifications": []
+                },
+                "6bda8335-0d77-41d0-903a-1d4b14e82143": {
+                    "description": "Базилік, лимон, лайм, фруктоза, вода.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/ae57daaf-8e64-4713-be1e-817959ed7ecf",
+                    "price": 5500,
+                    "title": "Базилік + лимонад",
+                    "uuid": "6bda8335-0d77-41d0-903a-1d4b14e82143",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "374ab162-3f0b-4797-94b9-8f5f89fbcda7": {
+                    "description": "Ананас, водорості спіруліна, банан, яблуко, корінь імбиру, лимон, вода.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/201dd3c2-3ba6-4163-96bd-8170c261fb81",
+                    "price": 7500,
+                    "title": "Ананас + спіруліна",
+                    "uuid": "374ab162-3f0b-4797-94b9-8f5f89fbcda7",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "ee32e8db-c26b-4a68-a79d-5138c2c2eb64": {
+                    "description": "Манго, апельсин, банан, мед, лимон, вода.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/1daa7aa3-7843-48b5-94fd-bab1360b2c72",
+                    "price": 8000,
+                    "title": "Манго + апельсин",
+                    "uuid": "ee32e8db-c26b-4a68-a79d-5138c2c2eb64",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                }
+            }
+        },
+        "sections": [
+            {
+                "subsectionUuids": [
+                    "52583d9d-7c40-4fda-8ba3-29316ad2697d",
+                    "bb6ece9a-a121-4e22-8a2e-161a0cb5e2f9",
+                    "6b8c2c6a-da19-4a9c-a6eb-d8b75b653e06",
+                    "54432172-7490-4f87-9c4a-e6df554e90e7",
+                    "bd6e624f-2f12-40cb-83c1-b78bf8310fde",
+                    "f174ef67-8bb8-40b5-85c9-7346911000cf"
+                ],
+                "title": "SWITCH LANGUAGE (UKR)",
+                "subtitle": "4:00 PM – 9:30 PM",
+                "uuid": "2cec78ff-a3a2-4ebe-be73-3476bdf67ade",
+                "isTop": true,
+                "isOnSale": true
+            },
+            {
+                "subsectionUuids": [
+                    "fcc472a5-89b6-40f4-826c-a85cb9fd26e7",
+                    "194dbcbc-c729-4f1d-a391-2d7b3d7d1e21",
+                    "2ae70b5e-9e14-41f8-8f33-2e5de3becd8a",
+                    "1b624545-30a7-4768-b66f-b681313a3d4e",
+                    "d00b861e-79ca-4982-a001-09b92dcc4f7d",
+                    "05d7df30-a4f5-42c9-9bc9-7c7cb00a515f"
+                ],
+                "title": "SWITCH LANGUAGE (ENG)",
+                "subtitle": "4:00 PM – 9:30 PM",
+                "uuid": "1856806a-9848-44c3-91f2-fbca35b1b0ac",
+                "isTop": false,
+                "isOnSale": true
+            },
+            {
+                "subsectionUuids": [
+                    "52583d9d-7c40-4fda-8ba3-29316ad2697d",
+                    "6b8c2c6a-da19-4a9c-a6eb-d8b75b653e06",
+                    "54432172-7490-4f87-9c4a-e6df554e90e7",
+                    "bd6e624f-2f12-40cb-83c1-b78bf8310fde",
+                    "f174ef67-8bb8-40b5-85c9-7346911000cf",
+                    "bb6ece9a-a121-4e22-8a2e-161a0cb5e2f9",
+                    "8f81c7f2-a455-4c15-8d7a-36e830143a60"
+                ],
+                "title": "Ланч меню",
+                "subtitle": "Fri 12:00 PM – 3:59 PM",
+                "uuid": "a334586b-bce5-4ec7-9831-292a978f151f",
+                "isTop": false,
+                "isOnSale": false
+            }
+        ],
+        "subsectionsMap": {
+            "52583d9d-7c40-4fda-8ba3-29316ad2697d": {
+                "itemUuids": [
+                    "eb5f0b6e-3abf-4c9f-9a54-5e8ac01c9649",
+                    "9284095e-35c0-4694-a771-de5c27e405cb",
+                    "938fd517-8e91-4594-8cbc-dc3f460e0530",
+                    "c1e059d3-be0f-4bf9-8321-2f491cf321e1",
+                    "89a49996-5765-4b9d-9e90-1ca33fd48607",
+                    "c725798e-a047-4253-8ae9-8b6f8b250455",
+                    "6c11c931-2d9d-44d5-b1e7-b2a1eb9c845d",
+                    "9bc81db9-d1b8-4e17-8df7-385e3135b94a",
+                    "ff1d1cb5-256a-4c04-8c25-b8389865e242",
+                    "fa3e07dd-efd7-4d71-8358-c5b380a0c264"
+                ],
+                "subtitle": "",
+                "title": "Сендвічі",
+                "uuid": "52583d9d-7c40-4fda-8ba3-29316ad2697d",
+                "displayType": null
+            },
+            "2ae70b5e-9e14-41f8-8f33-2e5de3becd8a": {
+                "itemUuids": [
+                    "d4c450da-b4ae-48fd-b3be-e5987f4de3ea",
+                    "bed51fc6-832b-4c2e-8dd8-ac2e132d5757",
+                    "ba41a0e5-8a61-4aa4-8518-c7cc45c72b09",
+                    "bd0879bd-e771-4308-9f9b-107237ce8456",
+                    "ca9b03e3-7e0a-4f07-85cf-7fa9bf5e689b",
+                    "62f19fd8-d7d3-46bf-ad2a-0c00913a91dc"
+                ],
+                "subtitle": "",
+                "title": "Smoothies",
+                "uuid": "2ae70b5e-9e14-41f8-8f33-2e5de3becd8a",
+                "displayType": null
+            },
+            "fcc472a5-89b6-40f4-826c-a85cb9fd26e7": {
+                "itemUuids": [
+                    "da258b83-c85f-47e9-b671-17c19ef8e0d1",
+                    "9a104797-790d-41ff-98b2-25f7f43e1a9b",
+                    "5ae1dfdd-4b87-4bd9-a9f4-312f1bba9d38",
+                    "8dcd3680-5ab2-456d-98f0-f38264169a2f",
+                    "f1e62495-46ce-49b6-a674-c988cbe02755",
+                    "eee5ce2d-6b39-456d-8362-16463234690d",
+                    "5dc86ccb-895b-4cd4-bcc6-9b206deb2059",
+                    "3af87965-16b8-459e-9422-1434fc99a39e"
+                ],
+                "subtitle": "",
+                "title": "Sandwiches",
+                "uuid": "fcc472a5-89b6-40f4-826c-a85cb9fd26e7",
+                "displayType": null
+            },
+            "8f81c7f2-a455-4c15-8d7a-36e830143a60": {
+                "itemUuids": [
+                    "7ef49e0c-460b-468c-96c4-405a6f99542b",
+                    "51c95cc7-dc46-42fb-87c6-0ac38ce72d3e"
+                ],
+                "subtitle": "",
+                "title": "Ланч",
+                "uuid": "8f81c7f2-a455-4c15-8d7a-36e830143a60",
+                "displayType": null
+            },
+            "bb6ece9a-a121-4e22-8a2e-161a0cb5e2f9": {
+                "itemUuids": [
+                    "ffb5a31d-46ab-449f-9240-6f47f3025d15"
+                ],
+                "subtitle": "",
+                "title": "Супи",
+                "uuid": "bb6ece9a-a121-4e22-8a2e-161a0cb5e2f9",
+                "displayType": null
+            },
+            "05d7df30-a4f5-42c9-9bc9-7c7cb00a515f": {
+                "itemUuids": [
+                    "9747ff08-401f-4323-8b81-7ee3d26dd659"
+                ],
+                "subtitle": "",
+                "title": "Soups",
+                "uuid": "05d7df30-a4f5-42c9-9bc9-7c7cb00a515f",
+                "displayType": null
+            },
+            "1b624545-30a7-4768-b66f-b681313a3d4e": {
+                "itemUuids": [
+                    "d806af35-92b9-4567-b7de-aa7c489b5148",
+                    "2b66155a-d83b-4f71-bc33-1598dc62694e",
+                    "3259bc5a-40e8-44af-90fb-b81cffe24f89",
+                    "d9d536d2-dac6-43d5-8895-37968e5db79d",
+                    "43fc927e-1c46-4eaf-ad45-49b94979d728"
+                ],
+                "subtitle": "",
+                "title": "Desserts",
+                "uuid": "1b624545-30a7-4768-b66f-b681313a3d4e",
+                "displayType": null
+            },
+            "194dbcbc-c729-4f1d-a391-2d7b3d7d1e21": {
+                "itemUuids": [
+                    "6eb08aa7-c167-49d7-9509-fcb1a527c1ca",
+                    "a3a663dd-ba7f-477f-8f3b-3f70566ef42a"
+                ],
+                "subtitle": "",
+                "title": "Salads",
+                "uuid": "194dbcbc-c729-4f1d-a391-2d7b3d7d1e21",
+                "displayType": null
+            },
+            "bd6e624f-2f12-40cb-83c1-b78bf8310fde": {
+                "itemUuids": [
+                    "9899ebd9-a154-49ef-8205-e89f6f62cc82",
+                    "bb5a843c-4f09-41fd-b865-b1d2915efb41",
+                    "19b711dd-c08a-4122-b507-dc1be2a1fad2",
+                    "2945d053-0d47-4f98-9e82-a1552133038a",
+                    "00a09aff-177d-4f22-be98-85387f09cccd",
+                    "a09e6773-dc85-47cf-8392-8a17a8e07669"
+                ],
+                "subtitle": "",
+                "title": "Десерти",
+                "uuid": "bd6e624f-2f12-40cb-83c1-b78bf8310fde",
+                "displayType": null
+            },
+            "f174ef67-8bb8-40b5-85c9-7346911000cf": {
+                "itemUuids": [
+                    "819d9885-f471-4957-aeab-58ecc56c160d",
+                    "e3a5f632-7863-4f51-83cb-2cae834fc94f",
+                    "6bda8335-0d77-41d0-903a-1d4b14e82143",
+                    "1900ae41-2152-4d30-b38b-da0a462debb2",
+                    "8c6e1ef7-39e8-4a2b-b2fd-0c5149d56ebe",
+                    "5f18ca9b-b9bf-454c-bbd7-4a6ff0b1a48b"
+                ],
+                "subtitle": "",
+                "title": "Напої",
+                "uuid": "f174ef67-8bb8-40b5-85c9-7346911000cf",
+                "displayType": null
+            },
+            "d00b861e-79ca-4982-a001-09b92dcc4f7d": {
+                "itemUuids": [
+                    "0588d387-1a84-42cc-8dba-e92ac5f79f49",
+                    "bb2c4dff-fce7-4c2f-88a7-63a9149f5658",
+                    "4c3039ea-ceef-4407-90b0-75ac1efee596",
+                    "fa22f1e4-3830-4bb2-ab6c-1b1d3c880ec7"
+                ],
+                "subtitle": "",
+                "title": "Drinks",
+                "uuid": "d00b861e-79ca-4982-a001-09b92dcc4f7d",
+                "displayType": null
+            },
+            "54432172-7490-4f87-9c4a-e6df554e90e7": {
+                "itemUuids": [
+                    "203aa13e-6877-4c97-8adb-a55ffcc310f5",
+                    "07505419-f5ee-4c0b-b5e2-538b02ec93b5",
+                    "ee32e8db-c26b-4a68-a79d-5138c2c2eb64",
+                    "a33eda55-048b-4b4b-8d3e-3df456c4ff16",
+                    "374ab162-3f0b-4797-94b9-8f5f89fbcda7",
+                    "1501e6b4-27b4-459c-9c71-496dfa677ff7",
+                    "047d0536-01bb-49df-930a-16b1b4303a01",
+                    "7550a198-954f-4262-b074-79f17cb61e1c"
+                ],
+                "subtitle": "",
+                "title": "Смузі",
+                "uuid": "54432172-7490-4f87-9c4a-e6df554e90e7",
+                "displayType": null
+            },
+            "6b8c2c6a-da19-4a9c-a6eb-d8b75b653e06": {
+                "itemUuids": [
+                    "80958f15-d62f-42ab-8997-1186b315570b",
+                    "ec7c94b3-e1a5-4521-bc57-1b9f51f8438e",
+                    "c4c81994-38bd-4ae2-ac6d-5ef771b00718",
+                    "e7ba9b8c-548e-47ff-b22e-e3ac66777045",
+                    "00738fb1-ad49-4d93-805f-fb1122cd97be",
+                    "62f43e50-e636-4cbd-adbb-e9a9ea56fbf8"
+                ],
+                "subtitle": "",
+                "title": "Салати",
+                "uuid": "6b8c2c6a-da19-4a9c-a6eb-d8b75b653e06",
+                "displayType": null
+            }
+        },
+        "title": "ORANG+UTAN (вул. Січових Стрільців)",
+        "uuid": "a8508733-5ce2-4fb7-93b5-df6fda348a4a",
+        "categories": [
+            "₴",
+            "Здорова їжа",
+            "Для вегетаріанців",
+            "Для веганів"
+        ],
+        "cuisineList": [
+            "Здорова їжа",
+            "Для вегетаріанців",
+            "Для веганів"
+        ],
+        "priceBucket": "₴",
+        "etaRange": {
+            "text": "35–45 min",
+            "iconUrl": ""
+        },
+        "ratingBadge": {
+            "text": "<span><span style=\"font-family: inherit; color: #3a3a48;\">4.9 <img src=\"https://d1a3f4spazzrp4.cloudfront.net/static/images/Star_Yellow_Eats_3.png\" width=\"14\" height=\"14\" vertical-align=\"middle\"> </span><span style=\"font-family: inherit; color: #757575;\">(200+)</span></span>"
+        },
+        "disclaimerBadge": null,
+        "fareBadge": null,
+        "fareInfo": {
+            "serviceFee": 30,
+            "serviceFeeCents": 3000
+        },
+        "promotion": null,
+        "shouldIndex": true,
+        "heroImageUrls": [
+            {
+                "url": "https://d1ralsognjng37.cloudfront.net/13cd930e-5dab-4ffc-9e3f-f8439e0e829c",
+                "width": 240
+            },
+            {
+                "url": "https://d1ralsognjng37.cloudfront.net/34dc8252-ba7e-441c-9fc0-87d3e1ba0304",
+                "width": 550
+            },
+            {
+                "url": "https://d1ralsognjng37.cloudfront.net/8863abd2-bb87-42d7-9351-e6d9481dfef4",
+                "width": 640
+            },
+            {
+                "url": "https://d1ralsognjng37.cloudfront.net/9673a43d-3999-421f-86f7-410a5f59ed9a",
+                "width": 750
+            },
+            {
+                "url": "https://d1ralsognjng37.cloudfront.net/90c7a091-907e-40c9-b70e-c8caf19e3e4c",
+                "width": 1080
+            },
+            {
+                "url": "https://d1ralsognjng37.cloudfront.net/1c6a4cfe-40eb-4eb7-baeb-4dc94d39310c",
+                "width": 2880
+            }
+        ],
+        "isOpen": true,
+        "currencyCode": "UAH",
+        "closedMessage": "Currently unavailable",
+        "location": {
+            "address": "Sichovykh Striltsiv St, 72, Kyiv, 04050",
+            "streetAddress": "Sichovykh Striltsiv St, 72",
+            "city": "Kyiv",
+            "country": "UA",
+            "postalCode": "04050",
+            "region": "",
+            "latitude": 50.4573465,
+            "longitude": 30.4884302
+        },
+        "isDeliveryThirdParty": false,
+        "hours": [
+            {
+                "dayRange": "Sunday",
+                "sectionHours": [
+                    {
+                        "startTime": 600,
+                        "endTime": 1290,
+                        "sectionTitle": "SWITCH LANGUAGE (UKR)"
+                    },
+                    {
+                        "startTime": 600,
+                        "endTime": 1290,
+                        "sectionTitle": "SWITCH LANGUAGE (ENG)"
+                    }
+                ]
+            },
+            {
+                "dayRange": "Monday - Friday",
+                "sectionHours": [
+                    {
+                        "startTime": 600,
+                        "endTime": 719,
+                        "sectionTitle": "SWITCH LANGUAGE (UKR)"
+                    },
+                    {
+                        "startTime": 960,
+                        "endTime": 1290,
+                        "sectionTitle": "SWITCH LANGUAGE (UKR)"
+                    },
+                    {
+                        "startTime": 600,
+                        "endTime": 719,
+                        "sectionTitle": "SWITCH LANGUAGE (ENG)"
+                    },
+                    {
+                        "startTime": 960,
+                        "endTime": 1290,
+                        "sectionTitle": "SWITCH LANGUAGE (ENG)"
+                    },
+                    {
+                        "startTime": 720,
+                        "endTime": 959,
+                        "sectionTitle": "Ланч меню"
+                    }
+                ]
+            },
+            {
+                "dayRange": "Saturday",
+                "sectionHours": [
+                    {
+                        "startTime": 600,
+                        "endTime": 1290,
+                        "sectionTitle": "SWITCH LANGUAGE (UKR)"
+                    },
+                    {
+                        "startTime": 600,
+                        "endTime": 1290,
+                        "sectionTitle": "SWITCH LANGUAGE (ENG)"
+                    }
+                ]
+            }
+        ],
+        "disableOrderInstruction": false,
+        "disableCheckoutInstruction": false,
+        "nuggets": [],
+        "isWithinDeliveryRange": false,
+        "slug": "orang+utan-вул-січових-стрільців",
+        "citySlug": "kyiv",
+        "phoneNumber": "+380961804871",
+        "metaJson": "{\"@context\":\"http:\\u002F\\u002Fschema.org\",\"@type\":\"Restaurant\",\"@id\":\"https:\\u002F\\u002Fwww.ubereats.com\\u002Fen-UA\\u002Fkyiv\\u002Ffood-delivery\\u002Forang%2Butan-%D0%B2%D1%83%D0%BB-%D1%81%D1%96%D1%87%D0%BE%D0%B2%D0%B8%D1%85-%D1%81%D1%82%D1%80%D1%96%D0%BB%D1%8C%D1%86%D1%96%D0%B2\\u002FqFCHM1ziT7eTtd9v2jSKSg\\u002F\",\"name\":\"ORANG+UTAN (вул. Січових Стрільців)\",\"priceRange\":\"₴\",\"potentialAction\":{\"@type\":\"OrderAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\\u002F\\u002Fwww.ubereats.com\\u002Fen-UA\\u002Fkyiv\\u002Ffood-delivery\\u002Forang%2Butan-%D0%B2%D1%83%D0%BB-%D1%81%D1%96%D1%87%D0%BE%D0%B2%D0%B8%D1%85-%D1%81%D1%82%D1%80%D1%96%D0%BB%D1%8C%D1%86%D1%96%D0%B2\\u002FqFCHM1ziT7eTtd9v2jSKSg\\u002F?utm_campaign=order-action&utm_medium=organic\",\"inLanguage\":\"English\",\"actionPlatform\":[\"http:\\u002F\\u002Fschema.org\\u002FDesktopWebPlatform\",\"http:\\u002F\\u002Fschema.org\\u002FMobileWebPlatform\"]},\"deliveryMethod\":[\"http:\\u002F\\u002Fpurl.org\\u002Fgoodrelations\\u002Fv1#DeliveryModeOwnFleet\"]},\"address\":{\"@type\":\"PostalAddress\",\"addressLocality\":\"Kyiv\",\"addressRegion\":\"\",\"postalCode\":\"04050\",\"addressCountry\":\"UA\",\"streetAddress\":\"Sichovykh Striltsiv St, 72\"},\"geo\":{\"@type\":\"GeoCoordinates\",\"latitude\":50.4573465,\"longitude\":30.4884302}}",
+        "promoTrackings": [],
+        "suggestedPromotion": {
+            "text": "",
+            "promotionUuid": ""
+        },
+        "supportedDiningModes": [
+            {
+                "mode": "DELIVERY",
+                "title": "Delivery",
+                "isSelected": true,
+                "isAvailable": true
+            }
+        ],
+        "isPreview": false,
+        "pinnedInfo": null
+    }
+}

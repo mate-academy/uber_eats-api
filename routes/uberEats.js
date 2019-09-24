@@ -1,10 +1,4 @@
 const router = require('express').Router();
-const getData = require('../data/getData');
-
-router.get('/refresh', (req, res) => {
-  getData();
-  res.sendStatus(200);
-});
 
 router.get('/locations', (req, res) => {
   res.sendStatus(200);

@@ -1,0 +1,560 @@
+{
+    "status": "success",
+    "data": {
+        "sectionEntitiesMap": {
+            "15afb527-26c7-48ee-8847-e6fb00e08a26": {
+                "c022687f-a09e-4dc4-8aa8-f7ad7a1476be": {
+                    "description": "100% Halal beef served in a Greek pita with lettuce and tomato.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/5c815d86-a647-4822-9a02-a1591ec5aaa0",
+                    "price": 599,
+                    "title": "Beef Gyro Sandwich",
+                    "uuid": "c022687f-a09e-4dc4-8aa8-f7ad7a1476be",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "eaa51ec0-3d84-417b-a8cf-5d100bff0030": {
+                    "description": "NEW: Succulent spicy lamb served in a warm Greek pita with lettuce, tomato and our signature white sauce",
+                    "imageUrl": null,
+                    "price": 799,
+                    "title": "Spicy Lamb Sandwich",
+                    "uuid": "eaa51ec0-3d84-417b-a8cf-5d100bff0030",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "6e5f3fbd-d39b-4b33-b20f-dcac3bf1bde1": {
+                    "description": "",
+                    "imageUrl": "",
+                    "price": 300,
+                    "title": "Hummus Large",
+                    "uuid": "6e5f3fbd-d39b-4b33-b20f-dcac3bf1bde1",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "d52a3410-fdbb-49b6-a3e9-f8a1e14bf321": {
+                    "description": "",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/3c00562d-404c-4fd6-9579-705ebbd95b90",
+                    "price": 100,
+                    "title": "Hummus",
+                    "uuid": "d52a3410-fdbb-49b6-a3e9-f8a1e14bf321",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "3474ddc6-17ba-428b-9362-73beaf9d37a0": {
+                    "description": "Served with rice, lettuce, tomato, and pita.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/adeeba8d-4b96-4c1b-9046-84da96302e44",
+                    "price": 799,
+                    "title": "Beef Gyro Platter",
+                    "uuid": "3474ddc6-17ba-428b-9362-73beaf9d37a0",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "a4589d48-fb3f-459f-8f72-339d75645240": {
+                    "description": "",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/3d787b01-2dc2-4ffb-ab49-ab4244e55979",
+                    "price": 300,
+                    "title": "Baba Ghanoush",
+                    "uuid": "a4589d48-fb3f-459f-8f72-339d75645240",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "8d79b509-b5ee-410e-8e35-6bfa5974d742": {
+                    "description": "Falafel served with rice, lettuce, tomato, and pita. ",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/4f08b805-9e60-4134-8f42-9ac81b37755b",
+                    "price": 799,
+                    "title": "Falafel Platter",
+                    "uuid": "8d79b509-b5ee-410e-8e35-6bfa5974d742",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "34277a44-4067-4077-be81-57dac861e52f": {
+                    "description": "",
+                    "imageUrl": null,
+                    "price": 100,
+                    "title": "Tahini",
+                    "uuid": "34277a44-4067-4077-be81-57dac861e52f",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "e7911715-9b45-4a39-999d-258f196dd3ee": {
+                    "description": "Chocolate chip.",
+                    "imageUrl": "",
+                    "price": 125,
+                    "title": "Cookies",
+                    "uuid": "e7911715-9b45-4a39-999d-258f196dd3ee",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "a4deb575-eff1-4330-9fbf-134ada8ce1cb": {
+                    "description": "",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/5f5ffc74-9e14-41e4-b550-48c781786fdf",
+                    "price": 150,
+                    "title": "Bottled Water",
+                    "uuid": "a4deb575-eff1-4330-9fbf-134ada8ce1cb",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "e3fd6fc7-d6bf-483b-a8e0-e3498f96daa5": {
+                    "description": "",
+                    "imageUrl": "",
+                    "price": 250,
+                    "title": "Bottled Drinks",
+                    "uuid": "e3fd6fc7-d6bf-483b-a8e0-e3498f96daa5",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "f666cf63-7dea-4e5f-9330-21d54e56d526": {
+                    "description": "NEW: Platter with succulent spicy lamb over rice, lettuce & tomato withy our famous white sauce",
+                    "imageUrl": null,
+                    "price": 999,
+                    "title": "Spicy Lamb",
+                    "uuid": "f666cf63-7dea-4e5f-9330-21d54e56d526",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "36ff7a83-f3e6-46b9-b3b3-fae5e062ccdf": {
+                    "description": "",
+                    "imageUrl": "",
+                    "price": 25,
+                    "title": "Hot Sauce",
+                    "uuid": "36ff7a83-f3e6-46b9-b3b3-fae5e062ccdf",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "endorsement": {
+                        "text": "Hot",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png"
+                    },
+                    "classifications": []
+                },
+                "ccca9808-de5d-40e7-afef-4207ae6dfb3b": {
+                    "description": "",
+                    "imageUrl": "",
+                    "price": 50,
+                    "title": "Extra White Sauce",
+                    "uuid": "ccca9808-de5d-40e7-afef-4207ae6dfb3b",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "e30d666f-b5e9-4e34-853d-0769334e6a0d": {
+                    "description": "Served with rice, lettuce, tomato, and pita. Chicken and beef gyro.",
+                    "imageUrl": "",
+                    "price": 799,
+                    "title": "Combo Platter",
+                    "uuid": "e30d666f-b5e9-4e34-853d-0769334e6a0d",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "eae98236-fd95-4ed1-8544-963b60bb7d84": {
+                    "description": "",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/589628ae-8990-41fb-b5a6-0fc3c7900c53",
+                    "price": 300,
+                    "title": "Fries",
+                    "uuid": "eae98236-fd95-4ed1-8544-963b60bb7d84",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "a40a38fc-f7d3-4e5c-b1af-6d23e29959e0": {
+                    "description": "Falafel served in a Greek pita, with lettuce and tomato.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/6429f644-7538-404a-9e9f-d518474a3bae",
+                    "price": 599,
+                    "title": "Falafel Sandwich",
+                    "uuid": "a40a38fc-f7d3-4e5c-b1af-6d23e29959e0",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "4fbb09e9-2424-4e78-bd27-2f04c2c24e74": {
+                    "description": "Serving size 2.",
+                    "imageUrl": "",
+                    "price": 150,
+                    "title": "Falafel",
+                    "uuid": "4fbb09e9-2424-4e78-bd27-2f04c2c24e74",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "3d7520f5-cf86-4c08-860b-cc4fe154aac2": {
+                    "description": "",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/5f93d167-8fc4-42d9-9dde-80b208b289ec",
+                    "price": 300,
+                    "title": "Baklava",
+                    "uuid": "3d7520f5-cf86-4c08-860b-cc4fe154aac2",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "1a98781b-a250-4352-aadc-71154f604486": {
+                    "description": "Chicken and beef gyro. Served with pita, lettuce, and tomato.",
+                    "imageUrl": "",
+                    "price": 599,
+                    "title": "Combo Sandwich",
+                    "uuid": "1a98781b-a250-4352-aadc-71154f604486",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "9691e291-95fd-4e4f-9675-1c71eddc2a94": {
+                    "description": "Served with pita, lettuce, and tomato.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/2be02b1f-e7db-460a-8c0e-7d59bc59a11a",
+                    "price": 599,
+                    "title": "Chicken Sandwich",
+                    "uuid": "9691e291-95fd-4e4f-9675-1c71eddc2a94",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "c198e38e-a1fd-4ec2-8d9e-d1599f8171e7": {
+                    "description": "Served with rice, lettuce, tomato, and pita.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/996a5143-a920-4d4f-988c-1572537afb64",
+                    "price": 799,
+                    "title": "Chicken Platter",
+                    "uuid": "c198e38e-a1fd-4ec2-8d9e-d1599f8171e7",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                }
+            }
+        },
+        "sections": [
+            {
+                "subsectionUuids": [
+                    "2894822e-27a9-4da9-87ae-525c5b886263",
+                    "e313ee7d-ed52-40ae-9342-b1fb44f1ea4a",
+                    "3e0c8c58-078a-44a2-bfd3-00b7bc46560d",
+                    "808123ca-a4cb-48c9-8b01-3eb83e14b14b",
+                    "b4740d86-dfed-4797-8dac-880bd691c5ea",
+                    "0793da7d-7d2c-4c0b-9352-46977706c785"
+                ],
+                "title": "Menu",
+                "subtitle": "11:00 AM – 11:45 PM",
+                "uuid": "15afb527-26c7-48ee-8847-e6fb00e08a26",
+                "isTop": true,
+                "isOnSale": true
+            }
+        ],
+        "subsectionsMap": {
+            "808123ca-a4cb-48c9-8b01-3eb83e14b14b": {
+                "itemUuids": [
+                    "6e5f3fbd-d39b-4b33-b20f-dcac3bf1bde1",
+                    "4fbb09e9-2424-4e78-bd27-2f04c2c24e74",
+                    "a4589d48-fb3f-459f-8f72-339d75645240",
+                    "eae98236-fd95-4ed1-8544-963b60bb7d84",
+                    "d52a3410-fdbb-49b6-a3e9-f8a1e14bf321"
+                ],
+                "subtitle": "",
+                "title": "Sides",
+                "uuid": "808123ca-a4cb-48c9-8b01-3eb83e14b14b",
+                "displayType": null
+            },
+            "b4740d86-dfed-4797-8dac-880bd691c5ea": {
+                "itemUuids": [
+                    "e3fd6fc7-d6bf-483b-a8e0-e3498f96daa5",
+                    "a4deb575-eff1-4330-9fbf-134ada8ce1cb"
+                ],
+                "subtitle": "",
+                "title": "Beverages",
+                "uuid": "b4740d86-dfed-4797-8dac-880bd691c5ea",
+                "displayType": null
+            },
+            "2894822e-27a9-4da9-87ae-525c5b886263": {
+                "itemUuids": [
+                    "c198e38e-a1fd-4ec2-8d9e-d1599f8171e7",
+                    "3474ddc6-17ba-428b-9362-73beaf9d37a0",
+                    "e30d666f-b5e9-4e34-853d-0769334e6a0d",
+                    "8d79b509-b5ee-410e-8e35-6bfa5974d742",
+                    "f666cf63-7dea-4e5f-9330-21d54e56d526"
+                ],
+                "subtitle": "",
+                "title": "Platters",
+                "uuid": "2894822e-27a9-4da9-87ae-525c5b886263",
+                "displayType": null
+            },
+            "e313ee7d-ed52-40ae-9342-b1fb44f1ea4a": {
+                "itemUuids": [
+                    "9691e291-95fd-4e4f-9675-1c71eddc2a94",
+                    "c022687f-a09e-4dc4-8aa8-f7ad7a1476be",
+                    "1a98781b-a250-4352-aadc-71154f604486",
+                    "a40a38fc-f7d3-4e5c-b1af-6d23e29959e0",
+                    "eaa51ec0-3d84-417b-a8cf-5d100bff0030"
+                ],
+                "subtitle": "",
+                "title": "Sandwiches",
+                "uuid": "e313ee7d-ed52-40ae-9342-b1fb44f1ea4a",
+                "displayType": null
+            },
+            "0793da7d-7d2c-4c0b-9352-46977706c785": {
+                "itemUuids": [
+                    "3d7520f5-cf86-4c08-860b-cc4fe154aac2",
+                    "e7911715-9b45-4a39-999d-258f196dd3ee"
+                ],
+                "subtitle": "",
+                "title": "Desserts",
+                "uuid": "0793da7d-7d2c-4c0b-9352-46977706c785",
+                "displayType": null
+            },
+            "3e0c8c58-078a-44a2-bfd3-00b7bc46560d": {
+                "itemUuids": [
+                    "ccca9808-de5d-40e7-afef-4207ae6dfb3b",
+                    "36ff7a83-f3e6-46b9-b3b3-fae5e062ccdf",
+                    "34277a44-4067-4077-be81-57dac861e52f"
+                ],
+                "subtitle": "",
+                "title": "Sauces",
+                "uuid": "3e0c8c58-078a-44a2-bfd3-00b7bc46560d",
+                "displayType": null
+            }
+        },
+        "title": "The Halal Guys",
+        "uuid": "bf329378-427b-4018-a2e5-93e0fe9deaba",
+        "categories": [
+            "₴",
+            "Здорова їжа",
+            "Фастфуд",
+            "Халяль"
+        ],
+        "cuisineList": [
+            "Здорова їжа",
+            "Фастфуд",
+            "Халяль"
+        ],
+        "priceBucket": "₴",
+        "etaRange": {
+            "text": "25–35 min",
+            "iconUrl": ""
+        },
+        "ratingBadge": {
+            "text": "<span><span style=\"font-family: inherit; color: #3a3a48;\">4.0 <img src=\"https://d1a3f4spazzrp4.cloudfront.net/static/images/Star_Black_Eats_3.png\" width=\"14\" height=\"14\" vertical-align=\"middle\"> </span><span style=\"font-family: inherit; color: #757575;\">(200+)</span></span>"
+        },
+        "disclaimerBadge": null,
+        "fareBadge": null,
+        "fareInfo": {
+            "serviceFee": 30,
+            "serviceFeeCents": 3000
+        },
+        "promotion": null,
+        "shouldIndex": false,
+        "heroImageUrls": [
+            {
+                "url": "https://d1ralsognjng37.cloudfront.net/0e410abb-7125-4d0f-91e1-ef65f2a511f8",
+                "width": 240
+            },
+            {
+                "url": "https://d1ralsognjng37.cloudfront.net/fd0a24cd-314c-4671-8655-18938b465d88",
+                "width": 550
+            },
+            {
+                "url": "https://d1ralsognjng37.cloudfront.net/1e76dfd9-c544-46bc-929c-de0713ef9475",
+                "width": 640
+            },
+            {
+                "url": "https://d1ralsognjng37.cloudfront.net/a8848100-2b41-4f89-ad45-4b2efae6dd5c",
+                "width": 750
+            },
+            {
+                "url": "https://d1ralsognjng37.cloudfront.net/ea33fd33-33e6-4700-b793-d277e004b4ca",
+                "width": 1080
+            },
+            {
+                "url": "https://d1ralsognjng37.cloudfront.net/159b0408-7989-4964-a689-b306320cb337",
+                "width": 2880
+            }
+        ],
+        "isOpen": true,
+        "currencyCode": "GBP",
+        "closedMessage": "Currently unavailable",
+        "location": {
+            "address": "14 Irving St, London Wc2h 7af, Uk, 14-15, England WC2H 7AF",
+            "streetAddress": "14 Irving St",
+            "city": "",
+            "country": "GB",
+            "postalCode": "WC2H 7AF",
+            "region": "England",
+            "latitude": 51.5098456,
+            "longitude": -0.1288772
+        },
+        "isDeliveryThirdParty": false,
+        "hours": [
+            {
+                "dayRange": "Sunday",
+                "sectionHours": [
+                    {
+                        "startTime": 660,
+                        "endTime": 1365,
+                        "sectionTitle": ""
+                    }
+                ]
+            },
+            {
+                "dayRange": "Monday - Saturday",
+                "sectionHours": [
+                    {
+                        "startTime": 660,
+                        "endTime": 1425,
+                        "sectionTitle": ""
+                    }
+                ]
+            }
+        ],
+        "disableOrderInstruction": false,
+        "disableCheckoutInstruction": false,
+        "nuggets": [],
+        "isWithinDeliveryRange": false,
+        "slug": "the-halal-guys",
+        "citySlug": "london",
+        "phoneNumber": "+442087060307",
+        "metaJson": "{\"@context\":\"http:\\u002F\\u002Fschema.org\",\"@type\":\"Restaurant\",\"@id\":\"https:\\u002F\\u002Fwww.ubereats.com\\u002Fen-UA\\u002Flondon\\u002Ffood-delivery\\u002Fthe-halal-guys\\u002FvzKTeEJ7QBii5ZPg_p3qug\\u002F\",\"name\":\"The Halal Guys\",\"priceRange\":\"₴\",\"potentialAction\":{\"@type\":\"OrderAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\\u002F\\u002Fwww.ubereats.com\\u002Fen-UA\\u002Flondon\\u002Ffood-delivery\\u002Fthe-halal-guys\\u002FvzKTeEJ7QBii5ZPg_p3qug\\u002F?utm_campaign=order-action&utm_medium=organic\",\"inLanguage\":\"English\",\"actionPlatform\":[\"http:\\u002F\\u002Fschema.org\\u002FDesktopWebPlatform\",\"http:\\u002F\\u002Fschema.org\\u002FMobileWebPlatform\"]},\"deliveryMethod\":[\"http:\\u002F\\u002Fpurl.org\\u002Fgoodrelations\\u002Fv1#DeliveryModeOwnFleet\"]},\"geo\":{\"@type\":\"GeoCoordinates\",\"latitude\":51.5098456,\"longitude\":-0.1288772}}",
+        "promoTrackings": [],
+        "suggestedPromotion": {
+            "text": "",
+            "promotionUuid": ""
+        },
+        "supportedDiningModes": [
+            {
+                "mode": "DELIVERY",
+                "title": "Delivery",
+                "isSelected": true,
+                "isAvailable": true
+            }
+        ],
+        "isPreview": false,
+        "pinnedInfo": null
+    }
+}

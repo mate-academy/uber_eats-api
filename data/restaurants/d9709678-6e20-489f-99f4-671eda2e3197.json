@@ -1,0 +1,1555 @@
+{
+    "status": "success",
+    "data": {
+        "sectionEntitiesMap": {
+            "d7e7cd40-dc60-4725-b590-9227e06087b0": {
+                "f1e7a313-0e84-4767-abaf-11b76f206d6e": {
+                    "description": "",
+                    "imageUrl": "",
+                    "price": 100,
+                    "title": "Pita",
+                    "uuid": "f1e7a313-0e84-4767-abaf-11b76f206d6e",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "2acd3c33-5626-4309-8f37-cee5a7c87bd2": {
+                    "description": "Handmade dip from Greek feta cheese, mild pepper & spices, served with pitta bread.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/ae22e08b-beb8-40f7-a47a-5de1a549e0e6.jpeg",
+                    "price": 400,
+                    "title": "Tyrokafteri (V)",
+                    "uuid": "2acd3c33-5626-4309-8f37-cee5a7c87bd2",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "0b9ba08d-b350-4d23-ba36-406976c88f24": {
+                    "description": "",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/f7ab531b-d95b-4d9e-9f78-2d992e47704d.jpeg",
+                    "price": 300,
+                    "title": "Marinated Kalamata Giant Olives (V)",
+                    "uuid": "0b9ba08d-b350-4d23-ba36-406976c88f24",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "cc43cdee-8c3b-4e8e-aa94-dcc55a90f599": {
+                    "description": "Greek Bougatsa recipe (Custard Pie with Phyllo and ground Cinnamon) Golden and creamy perfection! Is a traditional Greek dessert made with the most creamy custard wrapped in golden brown crispy phyllo, sprinkled with melted butter and garnished with icing sugar and cinammon.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/ed114d9e-9413-45c2-835c-cf4a61bda057.jpeg",
+                    "price": 500,
+                    "title": "Bougatsa",
+                    "uuid": "cc43cdee-8c3b-4e8e-aa94-dcc55a90f599",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "fa3efc0b-f316-4f50-9c90-9a2f9b27f2bd": {
+                    "description": "A traditional Greek orange & phyllo cake, called portokalopita, is a sweetly delicious celebration of orange season.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/a7c7fe7f-ae13-4908-9e3b-8ffd1aa6e766.jpeg",
+                    "price": 500,
+                    "title": "Orange Cake",
+                    "uuid": "fa3efc0b-f316-4f50-9c90-9a2f9b27f2bd",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "cb721791-8c04-487e-9d3c-e7d02cd0ea46": {
+                    "description": "Greek vegetarian dish of spinach, rice and herbs.",
+                    "imageUrl": "https://resizer.deliverect.com/TVvpLI9y4FaaecJ0VIfInqj4dtW62zlz-x_01vJPKSQ/fill/1024/1024/sm/0/aHR0cDovL2V1dzMucG9zaW9zLmNvbS9wb3NpbWFnZXMvZ3JlZWtyZXN0YXVyYW50QHBhei1sYWJzLmNvbV81MzczMi9pbWFnZXMvcHJvZHVjdHMvZjM2ZTg5MDQ3ZWU3NDUzNWFjMDRlM2FjMzg1MWI5MDcuanBn",
+                    "price": 900,
+                    "title": "Spanakorizo (V)",
+                    "uuid": "cb721791-8c04-487e-9d3c-e7d02cd0ea46",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "426fe5f6-fcf4-4f1f-951c-93648b39aca4": {
+                    "description": "",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/9054712b-d71e-4b43-aeb8-7afac5adeff3.jpeg",
+                    "price": 200,
+                    "title": "Coca Cola",
+                    "uuid": "426fe5f6-fcf4-4f1f-951c-93648b39aca4",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "fee23173-807a-483b-bfc1-1e21aaa78e35": {
+                    "description": "Green salad mixed with grilled Chicken Fillet, Cherry Tomatoes, Caesar Sauce & Grated Parmesan.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/0f1bb85a-9358-497f-9a7d-72d1ce4c3f13.jpeg",
+                    "price": 1000,
+                    "title": "Our Caesar Salad",
+                    "uuid": "fee23173-807a-483b-bfc1-1e21aaa78e35",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "75f5bac6-a847-46c4-9550-1a9a945af145": {
+                    "description": "Chocolate pie with our secret recipe and the best ingredients!",
+                    "imageUrl": "https://resizer.deliverect.com/PdQ3W4vhsN-e-O7-O_Q-A4HvoI_9zw31FqohQtl5UHk/fill/1024/1024/sm/0/aHR0cDovL2V1dzMucG9zaW9zLmNvbS9wb3NpbWFnZXMvZ3JlZWtyZXN0YXVyYW50QHBhei1sYWJzLmNvbV81MzczMi9pbWFnZXMvcHJvZHVjdHMvNWU4NTMzMmM3NDY5NDVkNTlhYjczZGU2NzU1YTllZmQuanBn",
+                    "price": 600,
+                    "title": "Sokolatopita",
+                    "uuid": "75f5bac6-a847-46c4-9550-1a9a945af145",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": "",
+                    "suspendUntil": 1568933999,
+                    "classifications": []
+                },
+                "c6cb1695-c3a9-48b7-b13f-5bd569de9405": {
+                    "description": "",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/8f5e2c67-8c53-45cf-9c7e-31455855e5a8.jpeg",
+                    "price": 200,
+                    "title": "Coca Cola Diet",
+                    "uuid": "c6cb1695-c3a9-48b7-b13f-5bd569de9405",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "33efdf1e-eb0d-4961-861c-18ea4c8f98ec": {
+                    "description": "Homemade lo pastry with feta cheese & mint.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/35c93c63-eb33-4989-8dd8-603d60e7f0f7.jpeg",
+                    "price": 500,
+                    "title": "Cheese Pie (V)",
+                    "uuid": "33efdf1e-eb0d-4961-861c-18ea4c8f98ec",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "9bed747e-0572-4281-97b2-12be7d925f5f": {
+                    "description": "Grilled tender pork fillets topped with an oregano and lemon sauce. Served with fries.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/063d7518-3b5a-487a-bdab-45d4cfdb26e6.jpeg",
+                    "price": 1300,
+                    "title": "Pork Fillets",
+                    "uuid": "9bed747e-0572-4281-97b2-12be7d925f5f",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "13b2e99b-ad6c-406d-8185-b40ec98611a5": {
+                    "description": "Beer. Cool, light, refreshing",
+                    "imageUrl": "https://resizer.deliverect.com/bm97Hn4lxNc9tDUtmI3CCfq6b3E9sPyj5s9PCUr5MQg/fill/1024/1024/sm/0/aHR0cDovL2V1dzMucG9zaW9zLmNvbS9wb3NpbWFnZXMvZ3JlZWtyZXN0YXVyYW50QHBhei1sYWJzLmNvbV81MzczMi9pbWFnZXMvcHJvZHVjdHMvYWMxOTI4MDMzZmJjNDM4Mzk1MjY4ZDI4OGNjMmUxZTMucG5n",
+                    "price": 400,
+                    "title": "Alpha",
+                    "uuid": "13b2e99b-ad6c-406d-8185-b40ec98611a5",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": "",
+                    "suspendUntil": 1568933999,
+                    "classifications": []
+                },
+                "349351fd-63c3-4724-b5b3-c115a8a9a7ba": {
+                    "description": "Gently Sparkling Apple Juice",
+                    "imageUrl": "https://resizer.deliverect.com/aYOHFP3XQZQaWQS8L_1EQYI5ikRasAp5b_uVsTvOfHQ/fill/1024/1024/sm/0/aHR0cDovL2V1dzMucG9zaW9zLmNvbS9wb3NpbWFnZXMvZ3JlZWtyZXN0YXVyYW50QHBhei1sYWJzLmNvbV81MzczMi9pbWFnZXMvcHJvZHVjdHMvY2I5OGVlYmI5MWFkNDAxZDlmNjRiZTRhMTI5NTY5YjkuanBn",
+                    "price": 200,
+                    "title": "Appletiser",
+                    "uuid": "349351fd-63c3-4724-b5b3-c115a8a9a7ba",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": "",
+                    "suspendUntil": 1568933999,
+                    "classifications": []
+                },
+                "280b4116-31c4-4c0b-ab53-aae69eb127f6": {
+                    "description": "Three skewers. Homemade souvlaki is taken from the best part of the meat to create the perfect succulent grilled experience. Served with fries and pitta bread.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/df697ba8-0bd6-4857-a183-9cc1624ddc4e.jpeg",
+                    "price": 1300,
+                    "title": "Pork Souvlaki (3)",
+                    "uuid": "280b4116-31c4-4c0b-ab53-aae69eb127f6",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "81c575be-23b8-4c88-8484-7bc720300e4c": {
+                    "description": "A classic Greek recipe, consisting of giant beans baked in a tomato sauce along with plenty of fresh herbs.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/9f61b639-6399-44f1-9314-b409229f7d06.jpeg",
+                    "price": 400,
+                    "title": "Gigantes Starter (V)",
+                    "uuid": "81c575be-23b8-4c88-8484-7bc720300e4c",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "2e558b3f-97a3-4e08-8f20-35b797f252b3": {
+                    "description": "Authentic Greek yoghurt, blended with mint, garlic, dill & other herbs. The Greek’s favourite dip, served with pitta bread.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/cf2f31a8-1b04-404f-a323-6671c70f4138.jpeg",
+                    "price": 400,
+                    "title": "Tzatziki (V)",
+                    "uuid": "2e558b3f-97a3-4e08-8f20-35b797f252b3",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "82ed08b2-449a-44ac-aa60-c7037aaf60ce": {
+                    "description": "",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/e536e9a0-c261-4399-9e0a-e3fb28c1bcf9.jpeg",
+                    "price": 200,
+                    "title": "Loux Lemonade",
+                    "uuid": "82ed08b2-449a-44ac-aa60-c7037aaf60ce",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "359ff8f9-4fa3-46cf-91f6-441f9a8512f5": {
+                    "description": "Grilled hallumi cheese combined with tzatziki sauce, hand cut fries, tomato, and onion all wrapped in pitta bread.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/4021a8df-541b-45c8-8929-41fb0dad6e36.jpeg",
+                    "price": 550,
+                    "title": "Halloumi Pitta Wrap",
+                    "uuid": "359ff8f9-4fa3-46cf-91f6-441f9a8512f5",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "f52e03b5-5861-46fc-8ef8-decf2e5d4b62": {
+                    "description": "Pitta bread & olives, tzatziki, tirokafteri, grilled halloumi, Price / person grape mustard pork belly, Greek salad, lamb cutlets, 2 skewers of pork, 2 skewers of chicken, kebabs, fries & homemade mustard. Comes with Dessert. The price is for a generous 2 people portion.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/f5244cf0-62f8-46ce-a47a-03c0ef562cb8.jpeg",
+                    "price": 5000,
+                    "title": "Set Menu for 2 People",
+                    "uuid": "f52e03b5-5861-46fc-8ef8-decf2e5d4b62",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "c3b8b22c-3dc0-4c03-909b-26a9ccf1c633": {
+                    "description": "Baby kale, tender baby leaves and a mix of strong and crunchy radicchio, lamb’s lettuce and crisp frisee, pomegranate and dry figs. Sautéed with balsamic and honey sauce",
+                    "imageUrl": "https://resizer.deliverect.com/Ocekji9g3nR7fsAVokR6bbi1tEnrkuuKFXC4vOtQreU/fill/1024/1024/sm/0/aHR0cDovL2V1dzMucG9zaW9zLmNvbS9wb3NpbWFnZXMvZ3JlZWtyZXN0YXVyYW50QHBhei1sYWJzLmNvbV81MzczMi9pbWFnZXMvcHJvZHVjdHMvYzg5YjczODU2MDc1NGI3YjhhMGJlNjI3OGJjZGQ1YjcuanBn",
+                    "price": 950,
+                    "title": "Its All Greek To Me Salad",
+                    "uuid": "c3b8b22c-3dc0-4c03-909b-26a9ccf1c633",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": "",
+                    "suspendUntil": 1568933999,
+                    "classifications": []
+                },
+                "32d261e7-2f8d-41a1-813b-6b6f12840475": {
+                    "description": "Bottled at the source at the famous Zagorochoria. area mountains in Greece!",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/768c70de-7f11-479e-843b-5daa2362034a.jpeg",
+                    "price": 200,
+                    "title": "Zagori 330ml natural sparkling water",
+                    "uuid": "32d261e7-2f8d-41a1-813b-6b6f12840475",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "5ea9501f-9763-4570-baac-73ed8caf3bb6": {
+                    "description": "Rose Wine",
+                    "imageUrl": "",
+                    "price": 450,
+                    "title": "Vin de Crete Rose Glass",
+                    "uuid": "5ea9501f-9763-4570-baac-73ed8caf3bb6",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "b2c0d8c4-7537-4b00-bb56-c2567ee2d2de": {
+                    "description": "The favourite Cypriot cheese served with lemon slices & fresh mint.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/1f611754-037a-459a-a13a-e87a400e5ea3.jpeg",
+                    "price": 500,
+                    "title": "Grilled Halloumi (V)",
+                    "uuid": "b2c0d8c4-7537-4b00-bb56-c2567ee2d2de",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "b0ba98b5-15c1-4498-b49b-3b3c85fe0835": {
+                    "description": "Two large grilled sausages from Thrace served with mustard or lemon dressing. Served with fries.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/3dcea7d3-3cae-41b4-a4a4-6b1651bc4987.jpeg",
+                    "price": 950,
+                    "title": "Village Sausages",
+                    "uuid": "b0ba98b5-15c1-4498-b49b-3b3c85fe0835",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "4be31ca4-a4b8-4859-95a8-e246ae94553e": {
+                    "description": "Grilled tender chicken fillets topped with an oregano and lemon sauce. Served with fries.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/37bbc479-2057-4148-966f-f205198f487a.jpeg",
+                    "price": 1300,
+                    "title": "Chicken Fillets",
+                    "uuid": "4be31ca4-a4b8-4859-95a8-e246ae94553e",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": "",
+                    "suspendUntil": 1568933999,
+                    "classifications": []
+                },
+                "004b00d9-23fa-4440-b2c5-d71552d66205": {
+                    "description": "Rose Wine",
+                    "imageUrl": "",
+                    "price": 2000,
+                    "title": "Roze Wine Bottle Vin De Crete",
+                    "uuid": "004b00d9-23fa-4440-b2c5-d71552d66205",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "d1da0fe0-ef9c-496a-ad5e-d5c2346855ad": {
+                    "description": "Natural Mineral Water which is concentrated beneath the surface of the earth in natural aquifer basins on the slopes of the Pindos mountain ranges.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/cf8c8723-2608-4d27-bfa8-040557922ad3.jpeg",
+                    "price": 150,
+                    "title": "Zagori 500ml natural mineral still water",
+                    "uuid": "d1da0fe0-ef9c-496a-ad5e-d5c2346855ad",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "3d01d1b0-407a-4581-83b4-e6bb0f3c342d": {
+                    "description": "Red Wine. Nemea, Peloponnese. Full bodied & long lasting taste",
+                    "imageUrl": "",
+                    "price": 2500,
+                    "title": "Nemea Agiorgitiko Red Bottle",
+                    "uuid": "3d01d1b0-407a-4581-83b4-e6bb0f3c342d",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": "",
+                    "suspendUntil": 1568933999,
+                    "classifications": []
+                },
+                "b24b5eba-1f60-406e-8c20-229e1b5aae51": {
+                    "description": "Homemade burger from beef mince served with fries.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/3fbf48e5-433d-4c64-a1db-3ff1a631aad4.jpeg",
+                    "price": 1300,
+                    "title": "Burger",
+                    "uuid": "b24b5eba-1f60-406e-8c20-229e1b5aae51",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "7eabd6b3-e78f-4751-a29a-b89c18404b88": {
+                    "description": "A very nutritious traditional Greek vegan soup with carrots, potatoes, celery, fresh onions, peppers, and zucchini.",
+                    "imageUrl": "",
+                    "price": 700,
+                    "title": "Vegetarian Soup",
+                    "uuid": "7eabd6b3-e78f-4751-a29a-b89c18404b88",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": "",
+                    "suspendUntil": 1568933999,
+                    "classifications": []
+                },
+                "54d8635b-4170-4c82-b98c-afdeeb90fc78": {
+                    "description": "White Wine. Malagouzia is one of the most famous Greek grapes. The Queen of the Greek vineyards, fruity wine. Beautiful, clear colour",
+                    "imageUrl": "",
+                    "price": 3000,
+                    "title": "Karamitros White Bottle",
+                    "uuid": "54d8635b-4170-4c82-b98c-afdeeb90fc78",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": "",
+                    "suspendUntil": 1568933999,
+                    "classifications": []
+                },
+                "a0ff649b-a618-42d8-932e-1f25a3a46719": {
+                    "description": "Sliced courgettes lightly coated in our & fried, sprinkled with salt & oregano.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/dc5edb51-bc01-44da-8386-11327622cddc.jpeg",
+                    "price": 600,
+                    "title": "Fried Courgettes (V)",
+                    "uuid": "a0ff649b-a618-42d8-932e-1f25a3a46719",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "e19f4349-34ae-4038-a3f2-d8bf9fd0c890": {
+                    "description": "",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/ae6ae771-25c0-4840-ac08-e6326379525f.jpeg",
+                    "price": 1050,
+                    "title": "Double Souvliaki Pitta Wrap Offer",
+                    "uuid": "e19f4349-34ae-4038-a3f2-d8bf9fd0c890",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "2c94ca21-1ab3-410b-a024-2b8092da1cf8": {
+                    "description": "Rose Wine",
+                    "imageUrl": "",
+                    "price": 2000,
+                    "title": "Aegean Islands Rose Bottle",
+                    "uuid": "2c94ca21-1ab3-410b-a024-2b8092da1cf8",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "351c4f2c-5520-4907-812b-6dad58088a7b": {
+                    "description": "",
+                    "imageUrl": "",
+                    "price": 100,
+                    "title": "Pita",
+                    "uuid": "351c4f2c-5520-4907-812b-6dad58088a7b",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "d7d5e7d0-151d-41b6-9299-6d0ef852d73b": {
+                    "description": "Baked potatoes, aubergines, mushrooms in red sauce all layered & topped with a rich béchamel sauce, then grilled with some Greek kefalograviera on top just to give you the best taste possible.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/6149ae35-42ae-4313-a330-4b7c119e262d.jpeg",
+                    "price": 1100,
+                    "title": "Vegetarian Moussaka (V)",
+                    "uuid": "d7d5e7d0-151d-41b6-9299-6d0ef852d73b",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": "",
+                    "suspendUntil": 1568933999,
+                    "classifications": []
+                },
+                "58790646-f3bc-4f48-b758-4dd930bfaa5a": {
+                    "description": "Shots",
+                    "imageUrl": "",
+                    "price": 1600,
+                    "title": "Tsipouro Caraf - Bottle",
+                    "uuid": "58790646-f3bc-4f48-b758-4dd930bfaa5a",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": "",
+                    "suspendUntil": 1568933999,
+                    "classifications": []
+                },
+                "3a6eaa8f-e5d4-4d8f-a91d-66471fd00b3b": {
+                    "description": "Marinated lamb slow baked on the bone. Served with oregano roasted potatoes.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/9f419f34-cddc-4a8f-8379-e444aba5d7ec.jpeg",
+                    "price": 1600,
+                    "title": "Kleftiko",
+                    "uuid": "3a6eaa8f-e5d4-4d8f-a91d-66471fd00b3b",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "9ea938a3-d5d9-4895-a66d-ee1008c90b27": {
+                    "description": "Our yogurt is prepared in-house using our fresh Greek yogurt, so it’s rich in protein and probiotics, and lower in sugars and calories. With honey to enjoy this healthy snack!",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/e972e16e-c81a-4825-890c-80f25c094ceb.jpeg",
+                    "price": 500,
+                    "title": "Yogurt",
+                    "uuid": "9ea938a3-d5d9-4895-a66d-ee1008c90b27",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "0d023f48-bbd1-4ed5-83cd-73fcbd7fdec3": {
+                    "description": "A mouthwatering Greek walnut cake recipe, scented with the aromas and blends of cinnamon and grounded clove. This is the traditional Greek walnut cake recipe.",
+                    "imageUrl": "https://resizer.deliverect.com/7HhlZDPyKpsR_b1c99mh8tCMOuWWVTvVOnrnZWcVBdQ/fill/1024/1024/sm/0/aHR0cDovL2V1dzMucG9zaW9zLmNvbS9wb3NpbWFnZXMvZ3JlZWtyZXN0YXVyYW50QHBhei1sYWJzLmNvbV81MzczMi9pbWFnZXMvcHJvZHVjdHMvYzY2M2Y1NzBkYjc1NDhlNDhlM2JkMzcxNzAzODNlMDkuanBn",
+                    "price": 500,
+                    "title": "Nut Cake in Syrup",
+                    "uuid": "0d023f48-bbd1-4ed5-83cd-73fcbd7fdec3",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": "",
+                    "suspendUntil": 1568933999,
+                    "classifications": []
+                },
+                "3d3aeda4-6b39-4847-ac9f-ba69230100c2": {
+                    "description": "Greek feta in extra virgin olive oil, dusted with oregano.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/98efcb1a-8667-4bc2-a33f-0a4a56853880.jpeg",
+                    "price": 500,
+                    "title": "Feta Cheese with Olive Oil & Oregano (V)",
+                    "uuid": "3d3aeda4-6b39-4847-ac9f-ba69230100c2",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "ea7ac42b-211e-477a-ad88-6db391bd4d58": {
+                    "description": "Two souvlaki pitta wraps with your choice of pork, chicken or halloumi. Served with greek salad, greek donuts and soft drinks. 18% discount.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/a7bd4b26-3eea-4fdc-bf84-20f5e58e413e.jpeg",
+                    "price": 2400,
+                    "title": "Meal Deal to Share",
+                    "uuid": "ea7ac42b-211e-477a-ad88-6db391bd4d58",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "55b8df69-9509-48cf-98ef-5624035291b2": {
+                    "description": "Red Wine. Medium Bodied and Long Lasting Taste",
+                    "imageUrl": "",
+                    "price": 2000,
+                    "title": "Aegean Islands Red Bottle",
+                    "uuid": "55b8df69-9509-48cf-98ef-5624035291b2",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "4d6cca09-f34c-425e-8ec5-9ea2b9a0c448": {
+                    "description": "",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/2a10cb67-f9d9-4c34-8871-9764fe1eca72.jpeg",
+                    "price": 200,
+                    "title": "Coca Cola Zero",
+                    "uuid": "4d6cca09-f34c-425e-8ec5-9ea2b9a0c448",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "3aef66a4-3a20-45a1-94b8-f0f98b0c530b": {
+                    "description": "Tomato, cucumber, green pepper, onion, olives, Greek feta & olive oil.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/c17d28af-0f6d-4fa7-a2f7-1418d3384266.jpeg",
+                    "price": 750,
+                    "title": "Greek Salad (V)",
+                    "uuid": "3aef66a4-3a20-45a1-94b8-f0f98b0c530b",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "7721fc13-f039-4dcc-bb91-0c424e16276b": {
+                    "description": "Beer. Our Must Try Hot Seller",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/0a36dde0-045e-4df4-af58-daec9a5af172.jpeg",
+                    "price": 400,
+                    "title": "Mythos",
+                    "uuid": "7721fc13-f039-4dcc-bb91-0c424e16276b",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "1a0d0099-e430-4942-b7cb-38b9d4f5c7b2": {
+                    "description": "The Greek version of lasagne with tube pasta.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/3e67320f-8569-457a-9ae4-3623ed160687.jpeg",
+                    "price": 1300,
+                    "title": "Pastitsio",
+                    "uuid": "1a0d0099-e430-4942-b7cb-38b9d4f5c7b2",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "827c7dd6-7697-4232-b3a1-5d55d4c77170": {
+                    "description": "",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/b682f50a-14d6-489a-a4d1-a6c256be3110.jpeg",
+                    "price": 200,
+                    "title": "Loux Orange",
+                    "uuid": "827c7dd6-7697-4232-b3a1-5d55d4c77170",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "f50de670-100a-41ed-b9ac-67a2a08fc5f3": {
+                    "description": "Smooth, richly textured with an elegant citrus acidity, that provides a good balance, prolonging the refreshing finish",
+                    "imageUrl": "",
+                    "price": 2000,
+                    "title": "White Wine Bottle Vin De Crete",
+                    "uuid": "f50de670-100a-41ed-b9ac-67a2a08fc5f3",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "a6ab2056-4098-40cf-ac81-15164fa9ee7c": {
+                    "description": "Red Wine. Medium Bodied and Long Lasting Taste",
+                    "imageUrl": "",
+                    "price": 2000,
+                    "title": "Red Wine Bottle Vine De Crete",
+                    "uuid": "a6ab2056-4098-40cf-ac81-15164fa9ee7c",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "e6183f34-d8f7-46b1-baae-46df53706124": {
+                    "description": "Feta cheese wrapped in filo pastry with honey and sesame.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/a3c07147-353a-4051-aa75-ab621daffb1d.jpeg",
+                    "price": 600,
+                    "title": "Baked Feta Cheese With Honey and Sesame",
+                    "uuid": "e6183f34-d8f7-46b1-baae-46df53706124",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "01a03543-9359-456b-9e17-59d30a837201": {
+                    "description": "Pitta bread & olives, fava, tzatziki, cheese pie, vegetarian moussaka, spanakopita, yemista, Greek salad & roast potatoes. Yoghurt with honey. The price is for a generous 2 people portion.",
+                    "imageUrl": "",
+                    "price": 4000,
+                    "title": "Vegetarian Set Menu for 2 People",
+                    "uuid": "01a03543-9359-456b-9e17-59d30a837201",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "1a343a8f-16ea-4b08-a17c-41307d4655a8": {
+                    "description": "Shots",
+                    "imageUrl": "",
+                    "price": 1600,
+                    "title": "Ouzo Caraf - Bottle",
+                    "uuid": "1a343a8f-16ea-4b08-a17c-41307d4655a8",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": "",
+                    "suspendUntil": 1568933999,
+                    "classifications": []
+                },
+                "281e26bd-1f43-4be3-90c7-dd0f5f0524f0": {
+                    "description": "Juicy pork cubes and mild spicy sausages. Takes it’s name by the pan that is cooked in",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/2b4353f0-b353-417f-b828-9acd54a3ce5e.jpeg",
+                    "price": 1200,
+                    "title": "Tigania Pork",
+                    "uuid": "281e26bd-1f43-4be3-90c7-dd0f5f0524f0",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "93d32846-2202-4454-9157-bf3da19bbeef": {
+                    "description": "Beer. The original Italian lager",
+                    "imageUrl": "https://resizer.deliverect.com/PrfxoY-qtp4xKCnoI19LXB-sRB1rROm0tjZtRrV1E3M/fill/1024/1024/sm/0/aHR0cDovL2V1dzMucG9zaW9zLmNvbS9wb3NpbWFnZXMvZ3JlZWtyZXN0YXVyYW50QHBhei1sYWJzLmNvbV81MzczMi9pbWFnZXMvcHJvZHVjdHMvZTU1YWVmMjhiODBmNGIxMmJlYjM5ZjE3MGFhODk4ZTMuanBlZw==",
+                    "price": 400,
+                    "title": "Peroni",
+                    "uuid": "93d32846-2202-4454-9157-bf3da19bbeef",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": "",
+                    "suspendUntil": 1568933999,
+                    "classifications": []
+                },
+                "a8557f8d-e559-4693-b774-ecc11a9312c9": {
+                    "description": "It's a tasty soul-soothing bean, carrots and celery soup",
+                    "imageUrl": "https://resizer.deliverect.com/9G25TTwYgppA7a4EjjKT09MRWR5swrq_W6tuJbDaofM/fill/1024/1024/sm/0/aHR0cDovL2V1dzMucG9zaW9zLmNvbS9wb3NpbWFnZXMvZ3JlZWtyZXN0YXVyYW50QHBhei1sYWJzLmNvbV81MzczMi9pbWFnZXMvcHJvZHVjdHMvMGM4ZDdhNWYxMDJlNDYwNzk3OWY2MTBkNDQxYzA4ZTQuanBn",
+                    "price": 800,
+                    "title": "Bean Soup - Fasolada",
+                    "uuid": "a8557f8d-e559-4693-b774-ecc11a9312c9",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": "",
+                    "suspendUntil": 1568933999,
+                    "classifications": []
+                },
+                "9f0866cf-7df0-45c2-93d8-106444e8e274": {
+                    "description": "Marinated Kalamata Giant Olives, Tyrokafteri, White Taramosalata and Tzatziki",
+                    "imageUrl": "",
+                    "price": 1000,
+                    "title": "Starter Combo",
+                    "uuid": "9f0866cf-7df0-45c2-93d8-106444e8e274",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "f61717fb-55d7-4acc-960f-49d669d493d8": {
+                    "description": "Authentic Santorini Island yellow split pea puree. Served with capers and a variety of mixed onions.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/f7cd05d8-6beb-4b8f-800b-8f956aeee827.jpeg",
+                    "price": 400,
+                    "title": "Fava Starter (V)",
+                    "uuid": "f61717fb-55d7-4acc-960f-49d669d493d8",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "1985d516-1500-451f-a3c1-4af23b0047cb": {
+                    "description": "A classic Greek recipe, consisting of 'giant' beans baked in a tomato sauce along with plenty of fresh herbs.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/a9e5278b-fcde-4f5b-9777-736de7164aa7.jpeg",
+                    "price": 700,
+                    "title": "Gigantes",
+                    "uuid": "1985d516-1500-451f-a3c1-4af23b0047cb",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "52f04957-ab73-475d-bb59-50c7ef892209": {
+                    "description": "Authentic Santorini island yellow split-pea puree served with capers and a variety of mixed onions",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/8566d74b-7902-42b7-8cba-b9c7495d7e07.jpeg",
+                    "price": 700,
+                    "title": "Fava (V)",
+                    "uuid": "52f04957-ab73-475d-bb59-50c7ef892209",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "b986b403-2087-40ca-b398-6645ea253ec1": {
+                    "description": "Rich, creamy, made fresh with cod roe, lemon juice, and extra virgin olive oil. Served with pitta bread.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/90f383a8-c74b-4c47-8f18-b214df48906f.jpeg",
+                    "price": 400,
+                    "title": "White Taramosalata",
+                    "uuid": "b986b403-2087-40ca-b398-6645ea253ec1",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "66a48640-3dd8-460b-a389-144be03a14d5": {
+                    "description": "Baked potatoes, aubergines, 100% beef mince in red sauce all layered & topped with a rich béchamel sauce, then grilled with some Greek kefalograviera on top just to give you the best taste possible.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/4bd4130a-36aa-4882-8bae-e547ebc3788e.jpeg",
+                    "price": 1400,
+                    "title": "Moussaka",
+                    "uuid": "66a48640-3dd8-460b-a389-144be03a14d5",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "1cc39b52-158f-41b2-8d20-a08aaa037e6f": {
+                    "description": "Tender lamb cutlets grilled to perfection and served with fries.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/fac01c16-703e-417c-88ed-8b051bdee503.jpeg",
+                    "price": 1600,
+                    "title": "Lamb Cutlets",
+                    "uuid": "1cc39b52-158f-41b2-8d20-a08aaa037e6f",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "61d64864-5e90-4c47-b7b7-befcf5385bfd": {
+                    "description": "A Greek dish with baked chicken in tomato sauce and then hylopites, egg noodles, are cooked in the sauce.",
+                    "imageUrl": "https://resizer.deliverect.com/wcKtP58StxF1LExBLQqbplgeVaLUfO5ejYQjfKJXNPs/fill/1024/1024/sm/0/aHR0cDovL2V1dzMucG9zaW9zLmNvbS9wb3NpbWFnZXMvZ3JlZWtyZXN0YXVyYW50QHBhei1sYWJzLmNvbV81MzczMi9pbWFnZXMvcHJvZHVjdHMvNDQwMzNlODgzNzJkNDhlOWI5NTZlOTliOWM0YzQ3ZWYuanBn",
+                    "price": 1000,
+                    "title": "Chicken with Hilopites",
+                    "uuid": "61d64864-5e90-4c47-b7b7-befcf5385bfd",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": "",
+                    "suspendUntil": 8640000000,
+                    "classifications": []
+                },
+                "6f3e5149-a544-4b40-ab42-0700fcddaacd": {
+                    "description": "Chicken souvlaki combined with tzatziki sauce, fries, tomato, and onion all wrapped in pitta bread.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/7e22865d-9334-4124-bca1-44bcbdd64b84.jpeg",
+                    "price": 650,
+                    "title": "Chicken Souvlaki Pitta Wrap",
+                    "uuid": "6f3e5149-a544-4b40-ab42-0700fcddaacd",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "e36fd308-3040-4c0e-aa31-82f30284323d": {
+                    "description": "Crunchy fries dusted with coarse salt & oregano.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/3f1cdfa6-ef27-4686-9b5c-2951f9a2acd5.jpeg",
+                    "price": 400,
+                    "title": "Fries (V)",
+                    "uuid": "e36fd308-3040-4c0e-aa31-82f30284323d",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "2848c728-18c6-4275-a151-315005ef7823": {
+                    "description": "Florina sweet peppers stuffed with feta cheese and herbs.",
+                    "imageUrl": "https://resizer.deliverect.com/R6MMc3QXyBNAH-FsDDMjngvcZOr94mF3YxBV1Gr9Pek/fill/1024/1024/sm/0/aHR0cDovL2V1dzMucG9zaW9zLmNvbS9wb3NpbWFnZXMvZ3JlZWtyZXN0YXVyYW50QHBhei1sYWJzLmNvbV81MzczMi9pbWFnZXMvcHJvZHVjdHMvMzhjZWE3NTE3ZDFkNGVmYWI3NGFiMDlhNDk0NDg5NjUuanBn",
+                    "price": 600,
+                    "title": "Stuffed Red Peppers (V)",
+                    "uuid": "2848c728-18c6-4275-a151-315005ef7823",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": "",
+                    "suspendUntil": 1568933999,
+                    "classifications": []
+                },
+                "d6fb6676-da71-402b-b286-999e512bd2ba": {
+                    "description": "Small donut balls, traditionally drenched in nutella. Always made fresh to order.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/b20f8d6c-cd14-4c34-ae7c-00ed15dfd246.jpeg",
+                    "price": 500,
+                    "title": "Loukoumades",
+                    "uuid": "d6fb6676-da71-402b-b286-999e512bd2ba",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "b084e3c7-900e-4cda-9e3f-973d9b57ae19": {
+                    "description": "Red Wine. Macedonia, Syrah 60%, Me riot 40% Intense aromas of cherry, violet & plum, wrapped up in a velvety texture with a pleasant aftertaste Syrah-Cabernet Sav. Limniona",
+                    "imageUrl": "",
+                    "price": 2800,
+                    "title": "N. Lazaridi Red Bottle",
+                    "uuid": "b084e3c7-900e-4cda-9e3f-973d9b57ae19",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": "",
+                    "suspendUntil": 1568933999,
+                    "classifications": []
+                },
+                "df8f4aed-0ef9-482e-9a05-c860114a5db1": {
+                    "description": "Homemade lo pastry with spinach and feta cheese.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/c7694bc3-75d0-49d5-8aa5-97d4609f23a7.jpeg",
+                    "price": 500,
+                    "title": "Spinach Pie (V)",
+                    "uuid": "df8f4aed-0ef9-482e-9a05-c860114a5db1",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "a9287f0f-ce4a-49f9-aca5-28e744b115ca": {
+                    "description": "A lovely summer dish, tomatoes & peppers stuffed with rice, a mixture of fresh herbs & tomato hearts... enjoy!",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/49699066-cf3f-4fb5-a7b2-b3cad7bff099.jpeg",
+                    "price": 1200,
+                    "title": "Gemista (V)",
+                    "uuid": "a9287f0f-ce4a-49f9-aca5-28e744b115ca",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "a1ab9f5d-71c4-45e6-8c95-af2b30a2302b": {
+                    "description": "Juicy chicken cubes and mild spicy sausages. Takes it’s name by the pan that is cooked in.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/a46e8eb6-091b-4ede-a4db-42aeaaaa01d5.jpeg",
+                    "price": 1200,
+                    "title": "Tigania Chicken",
+                    "uuid": "a1ab9f5d-71c4-45e6-8c95-af2b30a2302b",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "f5861a1f-7fa0-4fb1-8f25-fc613df66d55": {
+                    "description": "Pork souvlaki combined with tzatziki sauce, fries, tomato, and onion all wrapped in pitta bread.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/2b1ddf96-6454-490f-aa8c-908e351af365.jpeg",
+                    "price": 650,
+                    "title": "Pork Souvlaki Pitta Wrap",
+                    "uuid": "f5861a1f-7fa0-4fb1-8f25-fc613df66d55",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "993db72b-8fc4-4e9a-a8fd-ae86a1711179": {
+                    "description": "",
+                    "imageUrl": "",
+                    "price": 200,
+                    "title": "7up",
+                    "uuid": "993db72b-8fc4-4e9a-a8fd-ae86a1711179",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "2517506d-4dd9-457d-992a-5c8f78303a6a": {
+                    "description": "Sliced aubergines lightly coated in our & fried, sprinkled with salt & oregano.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/9e30e594-7f53-48db-9a2d-93317f24918e.jpeg",
+                    "price": 600,
+                    "title": "Fried Aubergines (V)",
+                    "uuid": "2517506d-4dd9-457d-992a-5c8f78303a6a",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "12c0fede-3f0b-4f1a-9cf4-fa5eba8f9261": {
+                    "description": "A delightful white wine. Bright, gold colour, aromas of fresh fruit",
+                    "imageUrl": "",
+                    "price": 2500,
+                    "title": "5 Senses White Bottle",
+                    "uuid": "12c0fede-3f0b-4f1a-9cf4-fa5eba8f9261",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": "",
+                    "suspendUntil": 1568933999,
+                    "classifications": []
+                },
+                "45dcee7d-3f16-4a2a-9ef0-c1b344ca63eb": {
+                    "description": "Our baklawa is a rich, sweet pastry. It is made of layers of phyllo dough filled with chopped nuts, such as walnuts, almonds, or pistachios, and sweetened with syrup or honey.",
+                    "imageUrl": "",
+                    "price": 500,
+                    "title": "Baklava",
+                    "uuid": "45dcee7d-3f16-4a2a-9ef0-c1b344ca63eb",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "4c7b5641-b433-4b62-a3f8-263c2b00f5cf": {
+                    "description": "White Wine. Peloponnese dry white wine. A rich, refreshing & exquisitely balanced taste",
+                    "imageUrl": "",
+                    "price": 2300,
+                    "title": "White Wine Bottle Avarino",
+                    "uuid": "4c7b5641-b433-4b62-a3f8-263c2b00f5cf",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "1cc279e4-5d8a-43b2-b44f-ac691155a27d": {
+                    "description": "Cretan rusk soaked in Greek extra virgin olive oil, topped with chopped tomato, feta cheese, olives, spring onion & oregano.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/f5f86615-443f-4bb3-a40e-7077729a5d77.jpeg",
+                    "price": 850,
+                    "title": "Cretan Dakos Salad (V)",
+                    "uuid": "1cc279e4-5d8a-43b2-b44f-ac691155a27d",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "093022c2-b475-4b5d-ab77-abd531e90efe": {
+                    "description": "One souvlaki pitta wrap with your choice of pork, chicken or halloumi. Served with side salad, greek donuts and soft drink. 18% discount.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/ef5704d2-0c20-42b9-b80a-b5a1b49e94ba.jpeg",
+                    "price": 1350,
+                    "title": "Meal Deal for One",
+                    "uuid": "093022c2-b475-4b5d-ab77-abd531e90efe",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "dad9b59c-9497-43f9-bb59-98766c81f885": {
+                    "description": "Beer. Premium Greek Beer",
+                    "imageUrl": "https://resizer.deliverect.com/D4dOGZjOX818gJMw7IdIJJ4l6zMjysp60V768-zsvps/fill/1024/1024/sm/0/aHR0cDovL2V1dzMucG9zaW9zLmNvbS9wb3NpbWFnZXMvZ3JlZWtyZXN0YXVyYW50QHBhei1sYWJzLmNvbV81MzczMi9pbWFnZXMvcHJvZHVjdHMvMjY2ODQ5MjFmMTQ5NGYwYmEzYTQxODMxNzhlMTkyNTAuanBn",
+                    "price": 400,
+                    "title": "Fix",
+                    "uuid": "dad9b59c-9497-43f9-bb59-98766c81f885",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": "",
+                    "suspendUntil": 1568933999,
+                    "classifications": []
+                },
+                "39340f00-f323-410a-8d58-7f5b5a391234": {
+                    "description": "Traditional beef meatballs oven cooked in a rich tomato sauce served with fries just like our yiayia used to make.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/0a196a97-4306-4a65-a9b8-bd41ca614dae.jpeg",
+                    "price": 1200,
+                    "title": "Grandma’s Meatballs With Fries",
+                    "uuid": "39340f00-f323-410a-8d58-7f5b5a391234",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "7b9f6c82-64a2-40e7-8257-88050be21c67": {
+                    "description": "Lettuce, tomato, caesar sauce, cheese and pomegranate.",
+                    "imageUrl": "",
+                    "price": 300,
+                    "title": "Side Salad",
+                    "uuid": "7b9f6c82-64a2-40e7-8257-88050be21c67",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "5e0a969b-6da4-4db9-92ae-504f736ef09a": {
+                    "description": "White wine. Smooth, richly textured with an elegant citrus acidity, that provides a good balance, prolonging the refreshing finish",
+                    "imageUrl": "",
+                    "price": 2000,
+                    "title": "Aegean Islands White Bottle",
+                    "uuid": "5e0a969b-6da4-4db9-92ae-504f736ef09a",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "3334e77c-55f9-4589-8a85-271bf47df468": {
+                    "description": "Handmade fried beef meatballs, served with hand cut fries.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/1329f2cb-3986-4726-8f80-ba25aa98a2ed.jpeg",
+                    "price": 800,
+                    "title": "Meatballs",
+                    "uuid": "3334e77c-55f9-4589-8a85-271bf47df468",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "7462f8eb-87c6-4e33-914e-83f0d87b9ab3": {
+                    "description": "Ekmek kantaifi is traditional “kantaifi” with a lot of chopped nuts, handmade fresh butter with syrup, covered with a layer of patisserie cream and a layer of freshly whipped cream.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/b90418fd-e76d-422d-a701-2a6f4ee5cb16.jpeg",
+                    "price": 600,
+                    "title": "Ekmek",
+                    "uuid": "7462f8eb-87c6-4e33-914e-83f0d87b9ab3",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": "",
+                    "suspendUntil": 1568933999,
+                    "classifications": []
+                },
+                "7686fe69-9668-4808-8c27-f9af25c21d61": {
+                    "description": "Three skewers. Chicken fillet pieces created into a healthy version of a souvlaki and always grilled. Served with fries and pitta bread.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/7dbf7a66-eb14-4cf1-987c-688fc83fbcce.jpeg",
+                    "price": 1300,
+                    "title": "Chicken Souvlaki (3)",
+                    "uuid": "7686fe69-9668-4808-8c27-f9af25c21d61",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "ae454049-7fb7-4d29-add3-c84b1140d647": {
+                    "description": "The Avarino Red is a dry wine that comes from the region of Messinia amid luscious vineyards and olive groves, consisting of 50% Grenache Rouge 50%, Merlot and 20% Cabernet.",
+                    "imageUrl": "",
+                    "price": 2300,
+                    "title": "Red Wine Bottle Avarino",
+                    "uuid": "ae454049-7fb7-4d29-add3-c84b1140d647",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                }
+            }
+        },
+        "sections": [
+            {
+                "subsectionUuids": [
+                    "818dcf97-8f50-4710-8582-69f0be2b1e34",
+                    "6a1a080d-41b2-454e-a91f-3ecbf9548f78",
+                    "fd3b7a08-ce3e-41d4-9584-3ca44aba420b",
+                    "1a77f4ad-a63e-412a-ab31-691f14a267b8",
+                    "0a7a2e58-a26d-410d-af38-0ed053c13fd7",
+                    "f1226fcf-cded-4ba8-8b6c-c194196985f2",
+                    "850459fb-f0c9-4c3f-b11e-82fde8ff6f62",
+                    "7e337657-09cf-469b-8c04-ffd782559249",
+                    "9a742c13-80c7-47eb-86d5-cedb400afc5d",
+                    "40808c24-3ce8-42a3-8fed-ea61d901ae4c",
+                    "a073921f-dfb5-428f-8aed-75d38c72d959",
+                    "755d46b8-9be5-4246-b1ad-0b8a4f2e524e",
+                    "19106c7b-954c-446a-8ca6-05b85fa055e4"
+                ],
+                "title": "Its All Greek to Me Menu",
+                "subtitle": "12:00 PM – 11:59 PM",
+                "uuid": "d7e7cd40-dc60-4725-b590-9227e06087b0",
+                "isTop": true,
+                "isOnSale": true
+            }
+        ],
+        "subsectionsMap": {
+            "40808c24-3ce8-42a3-8fed-ea61d901ae4c": {
+                "itemUuids": [
+                    "426fe5f6-fcf4-4f1f-951c-93648b39aca4",
+                    "c6cb1695-c3a9-48b7-b13f-5bd569de9405",
+                    "4d6cca09-f34c-425e-8ec5-9ea2b9a0c448",
+                    "827c7dd6-7697-4232-b3a1-5d55d4c77170",
+                    "82ed08b2-449a-44ac-aa60-c7037aaf60ce",
+                    "349351fd-63c3-4724-b5b3-c115a8a9a7ba",
+                    "993db72b-8fc4-4e9a-a8fd-ae86a1711179",
+                    "d1da0fe0-ef9c-496a-ad5e-d5c2346855ad",
+                    "32d261e7-2f8d-41a1-813b-6b6f12840475"
+                ],
+                "subtitle": null,
+                "title": "Soft Drinks",
+                "uuid": "40808c24-3ce8-42a3-8fed-ea61d901ae4c",
+                "displayType": null
+            },
+            "1a77f4ad-a63e-412a-ab31-691f14a267b8": {
+                "itemUuids": [
+                    "66a48640-3dd8-460b-a389-144be03a14d5",
+                    "1a0d0099-e430-4942-b7cb-38b9d4f5c7b2",
+                    "a9287f0f-ce4a-49f9-aca5-28e744b115ca",
+                    "3a6eaa8f-e5d4-4d8f-a91d-66471fd00b3b",
+                    "d7d5e7d0-151d-41b6-9299-6d0ef852d73b",
+                    "39340f00-f323-410a-8d58-7f5b5a391234",
+                    "cb721791-8c04-487e-9d3c-e7d02cd0ea46",
+                    "52f04957-ab73-475d-bb59-50c7ef892209",
+                    "1985d516-1500-451f-a3c1-4af23b0047cb",
+                    "a1ab9f5d-71c4-45e6-8c95-af2b30a2302b",
+                    "281e26bd-1f43-4be3-90c7-dd0f5f0524f0"
+                ],
+                "subtitle": null,
+                "title": "Main Dishes",
+                "uuid": "1a77f4ad-a63e-412a-ab31-691f14a267b8",
+                "displayType": null
+            },
+            "a073921f-dfb5-428f-8aed-75d38c72d959": {
+                "itemUuids": [
+                    "7721fc13-f039-4dcc-bb91-0c424e16276b",
+                    "dad9b59c-9497-43f9-bb59-98766c81f885",
+                    "93d32846-2202-4454-9157-bf3da19bbeef",
+                    "13b2e99b-ad6c-406d-8185-b40ec98611a5",
+                    "1a343a8f-16ea-4b08-a17c-41307d4655a8",
+                    "58790646-f3bc-4f48-b758-4dd930bfaa5a"
+                ],
+                "subtitle": null,
+                "title": "Alcohol",
+                "uuid": "a073921f-dfb5-428f-8aed-75d38c72d959",
+                "displayType": null
+            },
+            "818dcf97-8f50-4710-8582-69f0be2b1e34": {
+                "itemUuids": [
+                    "e19f4349-34ae-4038-a3f2-d8bf9fd0c890",
+                    "093022c2-b475-4b5d-ab77-abd531e90efe",
+                    "ea7ac42b-211e-477a-ad88-6db391bd4d58",
+                    "9f0866cf-7df0-45c2-93d8-106444e8e274",
+                    "f52e03b5-5861-46fc-8ef8-decf2e5d4b62",
+                    "01a03543-9359-456b-9e17-59d30a837201"
+                ],
+                "subtitle": null,
+                "title": "Offers - Meal Deals",
+                "uuid": "818dcf97-8f50-4710-8582-69f0be2b1e34",
+                "displayType": null
+            },
+            "755d46b8-9be5-4246-b1ad-0b8a4f2e524e": {
+                "itemUuids": [
+                    "d6fb6676-da71-402b-b286-999e512bd2ba",
+                    "75f5bac6-a847-46c4-9550-1a9a945af145",
+                    "0d023f48-bbd1-4ed5-83cd-73fcbd7fdec3",
+                    "45dcee7d-3f16-4a2a-9ef0-c1b344ca63eb",
+                    "fa3efc0b-f316-4f50-9c90-9a2f9b27f2bd",
+                    "9ea938a3-d5d9-4895-a66d-ee1008c90b27",
+                    "7462f8eb-87c6-4e33-914e-83f0d87b9ab3",
+                    "cc43cdee-8c3b-4e8e-aa94-dcc55a90f599"
+                ],
+                "subtitle": null,
+                "title": "Desserts",
+                "uuid": "755d46b8-9be5-4246-b1ad-0b8a4f2e524e",
+                "displayType": null
+            },
+            "0a7a2e58-a26d-410d-af38-0ed053c13fd7": {
+                "itemUuids": [
+                    "4be31ca4-a4b8-4859-95a8-e246ae94553e",
+                    "9bed747e-0572-4281-97b2-12be7d925f5f",
+                    "b24b5eba-1f60-406e-8c20-229e1b5aae51",
+                    "1cc39b52-158f-41b2-8d20-a08aaa037e6f",
+                    "b0ba98b5-15c1-4498-b49b-3b3c85fe0835",
+                    "351c4f2c-5520-4907-812b-6dad58088a7b"
+                ],
+                "subtitle": null,
+                "title": "From The Grill",
+                "uuid": "0a7a2e58-a26d-410d-af38-0ed053c13fd7",
+                "displayType": null
+            },
+            "7e337657-09cf-469b-8c04-ffd782559249": {
+                "itemUuids": [
+                    "b2c0d8c4-7537-4b00-bb56-c2567ee2d2de",
+                    "e36fd308-3040-4c0e-aa31-82f30284323d",
+                    "e6183f34-d8f7-46b1-baae-46df53706124",
+                    "2517506d-4dd9-457d-992a-5c8f78303a6a",
+                    "a0ff649b-a618-42d8-932e-1f25a3a46719",
+                    "3334e77c-55f9-4589-8a85-271bf47df468",
+                    "81c575be-23b8-4c88-8484-7bc720300e4c",
+                    "f61717fb-55d7-4acc-960f-49d669d493d8"
+                ],
+                "subtitle": null,
+                "title": "Hot Starters",
+                "uuid": "7e337657-09cf-469b-8c04-ffd782559249",
+                "displayType": null
+            },
+            "850459fb-f0c9-4c3f-b11e-82fde8ff6f62": {
+                "itemUuids": [
+                    "2e558b3f-97a3-4e08-8f20-35b797f252b3",
+                    "2acd3c33-5626-4309-8f37-cee5a7c87bd2",
+                    "b986b403-2087-40ca-b398-6645ea253ec1",
+                    "0b9ba08d-b350-4d23-ba36-406976c88f24",
+                    "2848c728-18c6-4275-a151-315005ef7823",
+                    "3d3aeda4-6b39-4847-ac9f-ba69230100c2"
+                ],
+                "subtitle": null,
+                "title": "Cold Starters",
+                "uuid": "850459fb-f0c9-4c3f-b11e-82fde8ff6f62",
+                "displayType": null
+            },
+            "9a742c13-80c7-47eb-86d5-cedb400afc5d": {
+                "itemUuids": [
+                    "df8f4aed-0ef9-482e-9a05-c860114a5db1",
+                    "33efdf1e-eb0d-4961-861c-18ea4c8f98ec"
+                ],
+                "subtitle": null,
+                "title": "Pies",
+                "uuid": "9a742c13-80c7-47eb-86d5-cedb400afc5d",
+                "displayType": null
+            },
+            "f1226fcf-cded-4ba8-8b6c-c194196985f2": {
+                "itemUuids": [
+                    "3aef66a4-3a20-45a1-94b8-f0f98b0c530b",
+                    "1cc279e4-5d8a-43b2-b44f-ac691155a27d",
+                    "7b9f6c82-64a2-40e7-8257-88050be21c67",
+                    "c3b8b22c-3dc0-4c03-909b-26a9ccf1c633",
+                    "fee23173-807a-483b-bfc1-1e21aaa78e35"
+                ],
+                "subtitle": null,
+                "title": "Salads",
+                "uuid": "f1226fcf-cded-4ba8-8b6c-c194196985f2",
+                "displayType": null
+            },
+            "6a1a080d-41b2-454e-a91f-3ecbf9548f78": {
+                "itemUuids": [
+                    "a8557f8d-e559-4693-b774-ecc11a9312c9",
+                    "61d64864-5e90-4c47-b7b7-befcf5385bfd",
+                    "7eabd6b3-e78f-4751-a29a-b89c18404b88"
+                ],
+                "subtitle": null,
+                "title": "Specials",
+                "uuid": "6a1a080d-41b2-454e-a91f-3ecbf9548f78",
+                "displayType": null
+            },
+            "fd3b7a08-ce3e-41d4-9584-3ca44aba420b": {
+                "itemUuids": [
+                    "7686fe69-9668-4808-8c27-f9af25c21d61",
+                    "280b4116-31c4-4c0b-ab53-aae69eb127f6",
+                    "6f3e5149-a544-4b40-ab42-0700fcddaacd",
+                    "f5861a1f-7fa0-4fb1-8f25-fc613df66d55",
+                    "359ff8f9-4fa3-46cf-91f6-441f9a8512f5",
+                    "f1e7a313-0e84-4767-abaf-11b76f206d6e"
+                ],
+                "subtitle": null,
+                "title": "Souvlaki",
+                "uuid": "fd3b7a08-ce3e-41d4-9584-3ca44aba420b",
+                "displayType": null
+            },
+            "19106c7b-954c-446a-8ca6-05b85fa055e4": {
+                "itemUuids": [
+                    "f50de670-100a-41ed-b9ac-67a2a08fc5f3",
+                    "5e0a969b-6da4-4db9-92ae-504f736ef09a",
+                    "4c7b5641-b433-4b62-a3f8-263c2b00f5cf",
+                    "12c0fede-3f0b-4f1a-9cf4-fa5eba8f9261",
+                    "54d8635b-4170-4c82-b98c-afdeeb90fc78",
+                    "5ea9501f-9763-4570-baac-73ed8caf3bb6",
+                    "004b00d9-23fa-4440-b2c5-d71552d66205",
+                    "2c94ca21-1ab3-410b-a024-2b8092da1cf8",
+                    "a6ab2056-4098-40cf-ac81-15164fa9ee7c",
+                    "55b8df69-9509-48cf-98ef-5624035291b2",
+                    "3d01d1b0-407a-4581-83b4-e6bb0f3c342d",
+                    "b084e3c7-900e-4cda-9e3f-973d9b57ae19",
+                    "ae454049-7fb7-4d29-add3-c84b1140d647"
+                ],
+                "subtitle": null,
+                "title": "Wines",
+                "uuid": "19106c7b-954c-446a-8ca6-05b85fa055e4",
+                "displayType": null
+            }
+        },
+        "title": "Its All Greek to Me",
+        "uuid": "d9709678-6e20-489f-99f4-671eda2e3197",
+        "categories": [
+            "₴",
+            "Грецька",
+            "Для вегетаріанців",
+            "Середземноморська"
+        ],
+        "cuisineList": [
+            "Грецька",
+            "Для вегетаріанців",
+            "Середземноморська"
+        ],
+        "priceBucket": "₴",
+        "etaRange": {
+            "text": "30–40 min",
+            "iconUrl": ""
+        },
+        "ratingBadge": {
+            "text": "<span><span style=\"font-family: inherit; color: #3a3a48;\">4.4 <img src=\"https://d1a3f4spazzrp4.cloudfront.net/static/images/Star_Black_Eats_3.png\" width=\"14\" height=\"14\" vertical-align=\"middle\"> </span><span style=\"font-family: inherit; color: #757575;\">(200+)</span></span>"
+        },
+        "disclaimerBadge": {
+            "text": "<span style=\"font-family: inherit;\">Allergies, intolerances and dietary requirements: before ordering, please contact the restaurant directly and ask to speak to a member of staff who can assist if you require information about ingredients and help cater for your needs. For more information on food safety and hygiene, please visit the <a href=\"http://ratings.food.gov.uk/\" style=\"color:#61ad5f;\">Food Standards Agency</a></span>"
+        },
+        "fareBadge": null,
+        "fareInfo": {
+            "serviceFee": 30,
+            "serviceFeeCents": 3000
+        },
+        "promotion": null,
+        "shouldIndex": false,
+        "heroImageUrls": [],
+        "isOpen": true,
+        "currencyCode": "GBP",
+        "closedMessage": "Currently unavailable",
+        "location": {
+            "address": "Praed St, London, England W2 1NT",
+            "streetAddress": "Praed St",
+            "city": "London",
+            "country": "GB",
+            "postalCode": "W2 1NT",
+            "region": "England",
+            "latitude": 51.517239,
+            "longitude": -0.172391
+        },
+        "isDeliveryThirdParty": false,
+        "hours": [
+            {
+                "dayRange": "Every Day",
+                "sectionHours": [
+                    {
+                        "startTime": 720,
+                        "endTime": 1439,
+                        "sectionTitle": ""
+                    }
+                ]
+            }
+        ],
+        "disableOrderInstruction": false,
+        "disableCheckoutInstruction": true,
+        "nuggets": [],
+        "isWithinDeliveryRange": false,
+        "slug": "its-all-greek-to-me",
+        "citySlug": "london",
+        "phoneNumber": "+447900145934",
+        "metaJson": "{\"@context\":\"http:\\u002F\\u002Fschema.org\",\"@type\":\"Restaurant\",\"@id\":\"https:\\u002F\\u002Fwww.ubereats.com\\u002Fen-UA\\u002Flondon\\u002Ffood-delivery\\u002Fits-all-greek-to-me\\u002F2XCWeG4gSJ-Z9Gce2i4xlw\\u002F\",\"name\":\"Its All Greek to Me\",\"priceRange\":\"₴\",\"potentialAction\":{\"@type\":\"OrderAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\\u002F\\u002Fwww.ubereats.com\\u002Fen-UA\\u002Flondon\\u002Ffood-delivery\\u002Fits-all-greek-to-me\\u002F2XCWeG4gSJ-Z9Gce2i4xlw\\u002F?utm_campaign=order-action&utm_medium=organic\",\"inLanguage\":\"English\",\"actionPlatform\":[\"http:\\u002F\\u002Fschema.org\\u002FDesktopWebPlatform\",\"http:\\u002F\\u002Fschema.org\\u002FMobileWebPlatform\"]},\"deliveryMethod\":[\"http:\\u002F\\u002Fpurl.org\\u002Fgoodrelations\\u002Fv1#DeliveryModeOwnFleet\"]},\"address\":{\"@type\":\"PostalAddress\",\"addressLocality\":\"London\",\"addressRegion\":\"England\",\"postalCode\":\"W2 1NT\",\"addressCountry\":\"GB\",\"streetAddress\":\"Praed St\"},\"geo\":{\"@type\":\"GeoCoordinates\",\"latitude\":51.517239,\"longitude\":-0.172391}}",
+        "promoTrackings": [],
+        "suggestedPromotion": {
+            "text": "",
+            "promotionUuid": ""
+        },
+        "supportedDiningModes": [
+            {
+                "mode": "DELIVERY",
+                "title": "Delivery",
+                "isSelected": true,
+                "isAvailable": true
+            }
+        ],
+        "isPreview": false,
+        "pinnedInfo": null
+    }
+}

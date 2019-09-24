@@ -1,0 +1,1982 @@
+{
+    "status": "success",
+    "data": {
+        "sectionEntitiesMap": {
+            "15e95e37-4dcf-4425-af8d-a3dab5cab0fb": {
+                "37460721-1af7-43fe-8af5-267714c3bc22": {
+                    "description": null,
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/5dffd3dc-078a-45a3-a55b-0b7297b3ee7a.jpeg",
+                    "price": 24800,
+                    "title": "Mediterranean Fish Soup ",
+                    "uuid": "37460721-1af7-43fe-8af5-267714c3bc22",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "dee786e0-86ba-4b80-8196-f25a87faa79f": {
+                    "description": null,
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/6704fc41-7af4-4ba5-bde4-166f1672bc88.jpeg",
+                    "price": 4500,
+                    "title": "Pain PAUL",
+                    "uuid": "dee786e0-86ba-4b80-8196-f25a87faa79f",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "cdbd2ea5-8ef0-48ec-a9dc-aaeafc66869f": {
+                    "description": "",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/18e93918-6cc8-4304-9aab-40a8e3db176a.jpeg",
+                    "price": 30600,
+                    "title": "Pasta with curry shrimp, tomatoes, and zucchini",
+                    "uuid": "cdbd2ea5-8ef0-48ec-a9dc-aaeafc66869f",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "a7d4d996-9e6d-49a5-b252-e09008d11b79": {
+                    "description": "",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/439a1392-e024-4ed4-ac93-7baad10b276b.jpeg",
+                    "price": 11000,
+                    "title": "Minestrone",
+                    "uuid": "a7d4d996-9e6d-49a5-b252-e09008d11b79",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "4c008963-7b7b-4cd4-8302-d0a4ef9a4573": {
+                    "description": "",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/82dba28c-4da7-49f3-99e9-6d5b48f0350b.jpeg",
+                    "price": 24700,
+                    "title": "Four Tomato Salad",
+                    "uuid": "4c008963-7b7b-4cd4-8302-d0a4ef9a4573",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "e3b6b468-2c9c-456a-a72e-94328f8aa378": {
+                    "description": null,
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/3b0fb621-ba00-41e9-b313-38fc6b375901.png",
+                    "price": 7500,
+                    "title": "Millefeuille ",
+                    "uuid": "e3b6b468-2c9c-456a-a72e-94328f8aa378",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "77bae0e7-9ca7-486b-8179-bac3111ddeaf": {
+                    "description": "",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/a0f201de-dd3b-4d4b-ba07-ccb060272f68.jpeg",
+                    "price": 36500,
+                    "title": "Zander cutlets with warm vegetables",
+                    "uuid": "77bae0e7-9ca7-486b-8179-bac3111ddeaf",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "4696456c-52ce-452f-9d19-6a01b8cc7105": {
+                    "description": null,
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/82058a6e-0017-46fb-b1c7-20d6ef47053e.jpeg",
+                    "price": 6000,
+                    "title": "Palmier ",
+                    "uuid": "4696456c-52ce-452f-9d19-6a01b8cc7105",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "a7de73a1-e213-41b4-9d87-2f49094b0744": {
+                    "description": "",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/82e43372-e5fe-4043-9c51-388a99ba817a.jpeg",
+                    "price": 11500,
+                    "title": "Croissant with omelette and ham",
+                    "uuid": "a7de73a1-e213-41b4-9d87-2f49094b0744",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "81e1ad32-47bf-4eb6-8ca7-3e4d23f1d4d7": {
+                    "description": null,
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/6025f88e-308b-4fb4-8207-f2e6e04b29b3.jpeg",
+                    "price": 13500,
+                    "title": "Smoothie ",
+                    "uuid": "81e1ad32-47bf-4eb6-8ca7-3e4d23f1d4d7",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": "",
+                    "suspendUntil": 8640000000,
+                    "classifications": []
+                },
+                "2dcb808d-4bf5-4adb-968e-73b5a8c433a4": {
+                    "description": "",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/7dec7ff6-7a3c-4b74-a155-c838e1c3ee3d.jpeg",
+                    "price": 20500,
+                    "title": "Quiche with salmon and broccoli",
+                    "uuid": "2dcb808d-4bf5-4adb-968e-73b5a8c433a4",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "46e95674-f025-4e8a-a1e0-2a1678852efa": {
+                    "description": "",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/b91be8b6-b8bd-4e56-b949-67c203ac6a04.jpeg",
+                    "price": 8500,
+                    "title": "Yogurt",
+                    "uuid": "46e95674-f025-4e8a-a1e0-2a1678852efa",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "36e20a77-ecf3-4e09-8f68-cf810bd28fd1": {
+                    "description": "",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/3d465b08-b3a5-433f-a7e3-9ce629d2d941.jpeg",
+                    "price": 11000,
+                    "title": "Croissant with ham and cheese",
+                    "uuid": "36e20a77-ecf3-4e09-8f68-cf810bd28fd1",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "c32afdfa-07a4-401e-b225-872838b43ced": {
+                    "description": "",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/ff14b7e4-51c3-4523-8beb-03a007aa76f5.jpeg",
+                    "price": 28500,
+                    "title": "Lasagna Bolognese",
+                    "uuid": "c32afdfa-07a4-401e-b225-872838b43ced",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "c11d739a-43f1-4e06-8528-badedf294110": {
+                    "description": "Poppy Baguette",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/a6bdc7ef-03ef-430e-9786-bf061f56fd31.jpeg",
+                    "price": 20500,
+                    "title": "Sandwich with Grilled Chicken",
+                    "uuid": "c11d739a-43f1-4e06-8528-badedf294110",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "55b23438-a7b5-47c2-b7a5-ec739e80d4a4": {
+                    "description": "",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/9addb6b9-2c8d-4b70-80d5-8d7890dd3220.jpeg",
+                    "price": 9500,
+                    "title": "Bird's Milk",
+                    "uuid": "55b23438-a7b5-47c2-b7a5-ec739e80d4a4",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "71a6cbdf-b7da-4ebf-90eb-6a5c847e4051": {
+                    "description": "",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/2b279853-cb85-4944-afec-6ee176fcbb09.jpeg",
+                    "price": 10500,
+                    "title": "Honey cake",
+                    "uuid": "71a6cbdf-b7da-4ebf-90eb-6a5c847e4051",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "a2fa9f13-bf99-427b-a379-47d30c9c8f0d": {
+                    "description": null,
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/652ee062-3f41-45dd-a004-adec8a3d1fe0.jpeg",
+                    "price": 14500,
+                    "title": "Quinoa with dried banana, cranberries and honey ",
+                    "uuid": "a2fa9f13-bf99-427b-a379-47d30c9c8f0d",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "3a4fe95f-276e-47f9-9296-4f193eaa93e3": {
+                    "description": "3 Delicate Flavors - Serving 100g",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/ee6a5094-fba2-4514-86f9-fdb118059aa4.jpeg",
+                    "price": 7800,
+                    "title": "PAUL Classic Eclair",
+                    "uuid": "3a4fe95f-276e-47f9-9296-4f193eaa93e3",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "318bbd49-9fca-48aa-9f7f-b3927e32629c": {
+                    "description": "",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/12e3e46d-9f77-4356-af2a-1ed982a089e9.jpeg",
+                    "price": 23800,
+                    "title": "Chicken cutlets with mushroom sauceand mashed potatoes or rice",
+                    "uuid": "318bbd49-9fca-48aa-9f7f-b3927e32629c",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "062effcd-cf70-4b94-9ceb-2ceb4721c683": {
+                    "description": "",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/eda9338f-4286-4a6d-b61f-dcf6c4129726.jpeg",
+                    "price": 17000,
+                    "title": "Baked Sweet Potato Fries",
+                    "uuid": "062effcd-cf70-4b94-9ceb-2ceb4721c683",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "6c5d87d2-d374-4cf2-85d4-b68563a4b846": {
+                    "description": "4 Tempting Flavors - Serving 80g",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/64983fbb-9ecd-43f8-ab57-63c83e056fdf.jpeg",
+                    "price": 10000,
+                    "title": "PAUL Classic Macaron",
+                    "uuid": "6c5d87d2-d374-4cf2-85d4-b68563a4b846",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "96a8020f-caac-4821-8de5-7f86bc680711": {
+                    "description": "",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/dade4b75-f330-4f6c-a45c-5bbb04b54c42.jpeg",
+                    "price": 32000,
+                    "title": "Salad with quinoa and salmon",
+                    "uuid": "96a8020f-caac-4821-8de5-7f86bc680711",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "6393591a-a45e-4ce9-b783-0d1969fabd0c": {
+                    "description": "",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/b74d52cd-686e-4d50-9d08-7dd8d28ee153.jpeg",
+                    "price": 22500,
+                    "title": "Scrambled eggs with avocado and salmon",
+                    "uuid": "6393591a-a45e-4ce9-b783-0d1969fabd0c",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "3119c3fa-8bce-4831-9da8-495105abff91": {
+                    "description": null,
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/522ba01b-4b84-486a-8faa-c47668ed7ffa.png",
+                    "price": 6500,
+                    "title": "Apple Pastry",
+                    "uuid": "3119c3fa-8bce-4831-9da8-495105abff91",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "b5998388-39ff-4337-a717-b34e2fd36b87": {
+                    "description": "",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/20cc9280-5826-4028-ac82-57e9c9de7ee3.jpeg",
+                    "price": 6800,
+                    "title": "Fruit Jello",
+                    "uuid": "b5998388-39ff-4337-a717-b34e2fd36b87",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "468a4cef-c798-4545-8c8d-e10e02564f07": {
+                    "description": "",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/0ab70d78-c844-4a29-b19a-3e9ac1f98407.jpeg",
+                    "price": 12000,
+                    "title": "Hummus",
+                    "uuid": "468a4cef-c798-4545-8c8d-e10e02564f07",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "9bce375b-2901-438f-903a-d6dd16494f2a": {
+                    "description": "",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/9103f8da-7b05-424a-bf71-695e5927d31f.jpeg",
+                    "price": 46300,
+                    "title": "Avocado burger with salmon and pikeperch",
+                    "uuid": "9bce375b-2901-438f-903a-d6dd16494f2a",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "9db71ea8-39c8-4929-9f06-2f2edf477631": {
+                    "description": null,
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/f70d0e50-9964-4a2e-b6e6-84f81f8ca84d.jpeg",
+                    "price": 4000,
+                    "title": "PAUL Classic Baguette",
+                    "uuid": "9db71ea8-39c8-4929-9f06-2f2edf477631",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "f32d9ad1-e192-4023-8efd-beaa295bdd91": {
+                    "description": "",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/e7f1020b-2674-4ce1-971d-ee3262b69e29.jpeg",
+                    "price": 7500,
+                    "title": "Lemonade",
+                    "uuid": "f32d9ad1-e192-4023-8efd-beaa295bdd91",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "97aa5685-bc5e-484a-a941-de9b87c743dd": {
+                    "description": "Served with Orange jam - Serving 65g",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/d184c522-74e7-4e67-a1a7-26db6cace277.jpeg",
+                    "price": 7300,
+                    "title": "Croissant",
+                    "uuid": "97aa5685-bc5e-484a-a941-de9b87c743dd",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "e348520d-b06d-433f-bbb0-0c6e21690a51": {
+                    "description": null,
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/b6114a45-1530-430e-b377-462c78d0127a.jpeg",
+                    "price": 12500,
+                    "title": "Protein omelette with spinach ",
+                    "uuid": "e348520d-b06d-433f-bbb0-0c6e21690a51",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "a0dd415c-715f-41ee-8cfe-9944e6d2f8e4": {
+                    "description": "",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/01d5acdc-f4e6-4df5-80a7-36fd2a312142.jpeg",
+                    "price": 32200,
+                    "title": "PAUL Burger with veal and cheese",
+                    "uuid": "a0dd415c-715f-41ee-8cfe-9944e6d2f8e4",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "da31487b-e0fa-4acb-b0d7-3c33d0d93cf7": {
+                    "description": "Serving 65g",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/87894392-716e-4e7c-b54d-3b67f8d0a340.jpeg",
+                    "price": 6700,
+                    "title": "Pain Chocolat",
+                    "uuid": "da31487b-e0fa-4acb-b0d7-3c33d0d93cf7",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "e3876836-6bc0-4062-bf39-221677ceade2": {
+                    "description": "Served with almonds, jam, and butter",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/79e10ddf-8dd4-4f6c-bce9-db8a31b32e8e.jpeg",
+                    "price": 11800,
+                    "title": "French toast",
+                    "uuid": "e3876836-6bc0-4062-bf39-221677ceade2",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "2f95ef5d-f381-45e9-a05b-03c631a6f80d": {
+                    "description": "Cheese Baguette",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/f615e5b8-41c1-4c67-a271-f90db48bc27a.jpeg",
+                    "price": 16500,
+                    "title": "Sandwich with Salami and Cornichons",
+                    "uuid": "2f95ef5d-f381-45e9-a05b-03c631a6f80d",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "fa646b9c-1b6a-47ed-8cd0-820a8faaf089": {
+                    "description": null,
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/ec4f8ad7-d36d-4e54-b83c-80f823fd9d29.jpeg",
+                    "price": 6000,
+                    "title": "Pain Multigraines ",
+                    "uuid": "fa646b9c-1b6a-47ed-8cd0-820a8faaf089",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "facb2ebe-23e9-45eb-8213-403bbd29b70a": {
+                    "description": null,
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/ef30fe02-0b21-43a0-a492-cd0b048bdb82.png",
+                    "price": 9000,
+                    "title": "Lemon tartlet",
+                    "uuid": "facb2ebe-23e9-45eb-8213-403bbd29b70a",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "a1e30cd3-7acc-4e07-8645-0f4287a5e102": {
+                    "description": null,
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/664340e6-2579-4418-99b2-be0ec7570e5c.jpeg",
+                    "price": 19500,
+                    "title": "Sandwich with roast beef and pickles",
+                    "uuid": "a1e30cd3-7acc-4e07-8645-0f4287a5e102",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "58701bf5-ea1c-46ff-b380-099bad30cd9a": {
+                    "description": "Served with jam and sour cream",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/f363aa8c-39f8-47d3-8a5c-ebed201e36ae.jpeg",
+                    "price": 17500,
+                    "title": "Sirniki (Farmer’s Cheese Pancakes)",
+                    "uuid": "58701bf5-ea1c-46ff-b380-099bad30cd9a",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "549fd557-c3de-4ced-9af9-3ca1cf7aa80f": {
+                    "description": "",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/42ff7bcc-d6e0-4cf7-ad71-5abb0052aabf.jpeg",
+                    "price": 23700,
+                    "title": "Fitness Salad",
+                    "uuid": "549fd557-c3de-4ced-9af9-3ca1cf7aa80f",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "ccdcc586-f69f-4861-803b-a62f124d56cd": {
+                    "description": "",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/49bb5642-aa5a-4b66-b1b2-915c67879092.jpeg",
+                    "price": 10500,
+                    "title": "Chicken meatball soup",
+                    "uuid": "ccdcc586-f69f-4861-803b-a62f124d56cd",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "6b95c7ce-50d1-4b35-a65f-69164349dcc1": {
+                    "description": "",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/e1e058c8-0d99-4b2a-bc86-ad4be9407612.jpeg",
+                    "price": 8700,
+                    "title": "Chia Pudding",
+                    "uuid": "6b95c7ce-50d1-4b35-a65f-69164349dcc1",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "1a62f1ed-b91e-4d87-8e24-1b94d7cd816f": {
+                    "description": "Classic Baguette",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/981dfb38-b3b8-44f1-b029-dac7b35373d6.jpeg",
+                    "price": 21000,
+                    "title": "Sandwich with Tuna ",
+                    "uuid": "1a62f1ed-b91e-4d87-8e24-1b94d7cd816f",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "3e2843cf-f3d8-4acf-b651-d0fa75c17760": {
+                    "description": "Served with Nutella and Maple syrup",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/559642fc-e515-4ff2-896a-f79eb04d3c37.jpeg",
+                    "price": 11800,
+                    "title": "Belgian waffles",
+                    "uuid": "3e2843cf-f3d8-4acf-b651-d0fa75c17760",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "72528472-5373-401f-afdf-8d1e02033248": {
+                    "description": "2 Oven-Baked monsieurs",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/69248274-8987-42bd-a1ee-d9283970b9fe.jpeg",
+                    "price": 4500,
+                    "title": "French PAUL Fougasse",
+                    "uuid": "72528472-5373-401f-afdf-8d1e02033248",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "035433da-c6f1-4dfe-a26e-d0d06f36d2dc": {
+                    "description": "Sesame Baguette",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/31f6bc56-0f9a-47d4-b636-aa5e67d292dc.jpeg",
+                    "price": 19000,
+                    "title": "Sandwich with Camembert cheese ",
+                    "uuid": "035433da-c6f1-4dfe-a26e-d0d06f36d2dc",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "488e8c7f-e9ff-4725-a891-b606b2f317a6": {
+                    "description": "",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/9ac2bffa-435e-473f-84e5-c8d56292a9f3.jpeg",
+                    "price": 21000,
+                    "title": "Zucchini Fritters with Mozzarella",
+                    "uuid": "488e8c7f-e9ff-4725-a891-b606b2f317a6",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "c2403058-222c-41ed-8dae-d55788b99cf5": {
+                    "description": "Serving 100g",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/ae62de53-bd47-4cfb-958e-e3772a362498.jpeg",
+                    "price": 6800,
+                    "title": "Escargot Raisin",
+                    "uuid": "c2403058-222c-41ed-8dae-d55788b99cf5",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "0a26c657-22ec-4fcd-b25e-7b345371eff2": {
+                    "description": "",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/eb21f065-0c41-461a-9bb2-58364e3756cb.jpeg",
+                    "price": 10500,
+                    "title": "Napoleon",
+                    "uuid": "0a26c657-22ec-4fcd-b25e-7b345371eff2",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                }
+            },
+            "a00fa25a-bb6a-4106-a3f7-d605bd608dfb": {
+                "a01438f2-37dc-43ea-8f56-6e37cf4b934a": {
+                    "description": "",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/55fad3c0-4c82-47c5-8bbb-257d03c6a88f.jpeg",
+                    "price": 11500,
+                    "title": "Круасан з омлетом з шинкою",
+                    "uuid": "a01438f2-37dc-43ea-8f56-6e37cf4b934a",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "aba3c8b0-8a37-4688-9cd2-01ca8cb18240": {
+                    "description": "",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/d8686e7e-3ed4-4e42-b176-71aa4c4f7310.jpeg",
+                    "price": 20500,
+                    "title": "Кіш з сьомгою та брокколі",
+                    "uuid": "aba3c8b0-8a37-4688-9cd2-01ca8cb18240",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "0983fbe8-24b8-41b3-9ffd-3e0002893722": {
+                    "description": "Маковий Багет",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/a59f4a12-6d03-4279-bc55-367c862de0d3.jpeg",
+                    "price": 20500,
+                    "title": "Сендвіч з Куркою гриль",
+                    "uuid": "0983fbe8-24b8-41b3-9ffd-3e0002893722",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "d0f03003-2b92-4ebd-a473-6f0440d98faf": {
+                    "description": "",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/42cd5ea7-76d7-4231-9468-56a478760b01.jpeg",
+                    "price": 10500,
+                    "title": "Медовик",
+                    "uuid": "d0f03003-2b92-4ebd-a473-6f0440d98faf",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "907398ce-68f2-4f7b-8b2c-8f42bde4df51": {
+                    "description": null,
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/698944bc-1032-4708-8705-434a0aab8dd0.jpeg",
+                    "price": 14500,
+                    "title": "Кіноа з сушеним бананом, журавлиною та медом ",
+                    "uuid": "907398ce-68f2-4f7b-8b2c-8f42bde4df51",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "e80b83c5-2e9e-4781-a8de-f3c01a8d037e": {
+                    "description": "",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/f4d1a1ab-0056-415a-9745-66950bed9a3f.jpeg",
+                    "price": 7500,
+                    "title": "Лимонад",
+                    "uuid": "e80b83c5-2e9e-4781-a8de-f3c01a8d037e",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "639d71f0-1228-4c9a-b583-f560edbbb75e": {
+                    "description": "",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/80786e68-073c-4bdf-b28a-1bbc0358e32e.jpeg",
+                    "price": 30600,
+                    "title": "Паста з креветками каррі, помідорами і цукіні ",
+                    "uuid": "639d71f0-1228-4c9a-b583-f560edbbb75e",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "18bb338c-2a1f-4881-a003-740dcca565f3": {
+                    "description": "",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/d0f60f16-53c0-439f-9d6d-374f0820653a.jpeg",
+                    "price": 12000,
+                    "title": "Хумус",
+                    "uuid": "18bb338c-2a1f-4881-a003-740dcca565f3",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "206ee6e0-56a2-4b45-9c6a-a21e4f008c2f": {
+                    "description": "",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/d9729bd5-837e-46ea-a773-cfc3e17b01ae.jpeg",
+                    "price": 32200,
+                    "title": "PAUL Бургер з телятиною та сиром",
+                    "uuid": "206ee6e0-56a2-4b45-9c6a-a21e4f008c2f",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "43751b1f-0837-4073-baed-d1a29172ed91": {
+                    "description": "",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/b92b9f64-4916-49d9-996a-4341b5a011be.jpeg",
+                    "price": 36500,
+                    "title": "Котлети із судака з теплими овочами",
+                    "uuid": "43751b1f-0837-4073-baed-d1a29172ed91",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "e3c0b3bd-e66a-4fc8-a2f6-9e52859e16d1": {
+                    "description": "",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/f37f2f63-0e40-4180-8b35-cea5cdc422e0.jpeg",
+                    "price": 23800,
+                    "title": "Курячі котлети з грибним соусом та картопляним пюре або рисом",
+                    "uuid": "e3c0b3bd-e66a-4fc8-a2f6-9e52859e16d1",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "cc67bcf7-1ca4-4217-b7b4-e3c0343ca8dd": {
+                    "description": "",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/0b2e28ae-a32f-4a0e-b72d-48c18d8ae02b.jpeg",
+                    "price": 32000,
+                    "title": "Салат з кіноа та лососем",
+                    "uuid": "cc67bcf7-1ca4-4217-b7b4-e3c0343ca8dd",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "89ee2a7c-33ff-43d9-92e3-0c1f84679744": {
+                    "description": "",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/ef3fad91-2aea-480d-9713-79f101f44d07.jpeg",
+                    "price": 23700,
+                    "title": "Салат Фітнес",
+                    "uuid": "89ee2a7c-33ff-43d9-92e3-0c1f84679744",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "8b79de9e-eff2-40ce-9031-dd748d0e18a5": {
+                    "description": "Подаються з джемом та сметаною",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/02013545-ea1b-44a3-b98f-eaaff488378d.jpeg",
+                    "price": 17500,
+                    "title": "Сирники з фермерського сиру",
+                    "uuid": "8b79de9e-eff2-40ce-9031-dd748d0e18a5",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "a48fc7f9-8556-4923-bb87-c0ff80499a85": {
+                    "description": null,
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/65c93406-db9e-4705-b721-e15d8e5d9d4f.jpeg",
+                    "price": 13500,
+                    "title": "Смузі ",
+                    "uuid": "a48fc7f9-8556-4923-bb87-c0ff80499a85",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": "",
+                    "suspendUntil": 8640000000,
+                    "classifications": []
+                },
+                "c507e9bd-a320-4dd4-b438-4a6e35b69109": {
+                    "description": "Сезам Багет",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/b3bd31c3-e6f0-4665-aa9f-38b01fbfdc58.jpeg",
+                    "price": 19000,
+                    "title": "Сендвіч з Сиром Камамбер ",
+                    "uuid": "c507e9bd-a320-4dd4-b438-4a6e35b69109",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "ebb16ff7-2293-4c90-8cba-3d6394e43a7e": {
+                    "description": "",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/1a5a6227-ae86-462f-ab09-53fbc68c34bd.jpeg",
+                    "price": 4500,
+                    "title": "Французький фугас PAUL",
+                    "uuid": "ebb16ff7-2293-4c90-8cba-3d6394e43a7e",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "c2446c3d-ec96-4b6d-9bbf-7f23087832b0": {
+                    "description": "",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/2302502f-921b-435e-bd93-fc1cbff390d4.jpeg",
+                    "price": 9500,
+                    "title": "Пташине молоко",
+                    "uuid": "c2446c3d-ec96-4b6d-9bbf-7f23087832b0",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "f3b06115-869d-4408-8dd9-2d8a2928ce44": {
+                    "description": "Сирний Багет",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/cf416d29-c972-4f52-8b48-705bcb17a43b.jpeg",
+                    "price": 16500,
+                    "title": "Сендвіч з Салямі та корнішонами ",
+                    "uuid": "f3b06115-869d-4408-8dd9-2d8a2928ce44",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "022d2684-c814-4cc5-9a77-392d07cfbe90": {
+                    "description": "3 Ніжні смаки - Порція 100г",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/d640252c-956a-4da4-82f4-a34b65b59f2b.jpeg",
+                    "price": 7800,
+                    "title": "Класичний эклер PAUL",
+                    "uuid": "022d2684-c814-4cc5-9a77-392d07cfbe90",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "62c1f4c4-b6eb-47d0-920c-132084bb2f8e": {
+                    "description": "",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/998f73d3-958f-4511-8a35-0ee16b049417.jpeg",
+                    "price": 10500,
+                    "title": "Курячий суп з фрикадельками",
+                    "uuid": "62c1f4c4-b6eb-47d0-920c-132084bb2f8e",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "bf5a9ae5-3cc3-400c-86e0-207dd771204e": {
+                    "description": "Порція 65г",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/93e0b0dd-f7b1-44b6-acf2-d6dcc6972cef.jpeg",
+                    "price": 6700,
+                    "title": "Подушка з шоколадом",
+                    "uuid": "bf5a9ae5-3cc3-400c-86e0-207dd771204e",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "f396c3c6-fb7c-4750-a467-a7beaf4dd4a8": {
+                    "description": "Класичний Багет",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/ba208837-7b52-4991-afa6-2bbc5e0b426e.jpeg",
+                    "price": 21000,
+                    "title": "Сендвіч з Тунцем",
+                    "uuid": "f396c3c6-fb7c-4750-a467-a7beaf4dd4a8",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "4fcaf063-8322-4f91-ba29-4ceacae0d92d": {
+                    "description": null,
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/91d3f8ec-3012-4c8a-af1c-7bc1160fc7e3.jpeg",
+                    "price": 4500,
+                    "title": "Хліб PAUL ",
+                    "uuid": "4fcaf063-8322-4f91-ba29-4ceacae0d92d",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "47f57b48-58a5-47fe-a827-d8308f25f699": {
+                    "description": null,
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/844acfcc-de3a-4d50-91e8-92920cad30e7.jpeg",
+                    "price": 6000,
+                    "title": "Мультизлаковий ",
+                    "uuid": "47f57b48-58a5-47fe-a827-d8308f25f699",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "1fccab35-84c4-4ecd-ae4c-58120e1d9c38": {
+                    "description": "Порція 100г",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/712a73ed-9181-40d5-8706-562b9b3ac313.jpeg",
+                    "price": 6800,
+                    "title": "Равлик з родзинкам",
+                    "uuid": "1fccab35-84c4-4ecd-ae4c-58120e1d9c38",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "18764e11-2e26-428f-a981-4cc9e4a48847": {
+                    "description": "",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/353389a7-3b53-4bb6-a5d0-31f495dda423.jpeg",
+                    "price": 6800,
+                    "title": "Фруктове желе",
+                    "uuid": "18764e11-2e26-428f-a981-4cc9e4a48847",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "3117d867-b7bf-483c-a25f-ae2bdc8a467c": {
+                    "description": "",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/97bebcc1-73cd-4217-b10c-e7d32a30dcd3.jpeg",
+                    "price": 10500,
+                    "title": "Наполеон",
+                    "uuid": "3117d867-b7bf-483c-a25f-ae2bdc8a467c",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "af0d3b60-ba14-45ee-9911-a71593f72ac1": {
+                    "description": null,
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/d4afc7fd-ddb9-44bf-92a5-f58a0551e940.jpeg",
+                    "price": 19500,
+                    "title": "Бутерброд з ростбіфом та солоним огірком",
+                    "uuid": "af0d3b60-ba14-45ee-9911-a71593f72ac1",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "6c420c02-bb1c-4b9c-b8ea-17f0008fdbac": {
+                    "description": "4 Спокусливих смаки - Порція 80г",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/3374656c-b32a-4227-8d9f-f69a1514a4ea.jpeg",
+                    "price": 10000,
+                    "title": "Класичний макарон PAUL",
+                    "uuid": "6c420c02-bb1c-4b9c-b8ea-17f0008fdbac",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "c01c26e6-8c52-4234-8af8-08d03d4beb20": {
+                    "description": "На вибір, класична або з меренгою.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/af0e3485-18d2-49c6-a0d6-05216446b3ef.png",
+                    "price": 9000,
+                    "title": "Лимонна тарталетка",
+                    "uuid": "c01c26e6-8c52-4234-8af8-08d03d4beb20",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "214ff82e-3ede-4f26-a0b7-284cc53a5b2f": {
+                    "description": null,
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/c78e4c5e-3f90-4575-971f-3d8b312e8e38.png",
+                    "price": 7500,
+                    "title": "Мільфей",
+                    "uuid": "214ff82e-3ede-4f26-a0b7-284cc53a5b2f",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "9a5352e9-538a-4aa3-9382-35a69e22b13e": {
+                    "description": "",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/8bc37fc0-3d2d-4066-a716-de5740628ef7.jpeg",
+                    "price": 11000,
+                    "title": "Круасан з шинкою та сиром",
+                    "uuid": "9a5352e9-538a-4aa3-9382-35a69e22b13e",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "f9b9f9ed-7de2-4e24-a928-582501fac29a": {
+                    "description": "",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/0c9321a1-80c2-444b-a4dd-4e5a6b49b11c.jpeg",
+                    "price": 21000,
+                    "title": "Оладки з цукіні та моцарелою",
+                    "uuid": "f9b9f9ed-7de2-4e24-a928-582501fac29a",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "160958df-e56d-47fd-a994-780543eb8999": {
+                    "description": null,
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/a7d725a8-b4f2-4784-90bd-c55622814477.jpeg",
+                    "price": 6000,
+                    "title": "Пальм’є ",
+                    "uuid": "160958df-e56d-47fd-a994-780543eb8999",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "e543670b-f3bd-4417-b83a-828721a5fd52": {
+                    "description": "Порція 65г",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/881895dc-610c-4523-b08c-f5627b890d7d.jpeg",
+                    "price": 7300,
+                    "title": "Класичний круасан",
+                    "uuid": "e543670b-f3bd-4417-b83a-828721a5fd52",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "54f09fdd-ef6e-4731-9f15-ebbc6b7e9b45": {
+                    "description": "",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/51c0fa97-68a9-41e0-9e97-11b564c39e7e.jpeg",
+                    "price": 22500,
+                    "title": "Скрембл з авокадо та лососем",
+                    "uuid": "54f09fdd-ef6e-4731-9f15-ebbc6b7e9b45",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "fec91905-cf56-42ab-8a26-d9fabacffcc5": {
+                    "description": "Подаються з мигдалем, джемом та маслом",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/e6158b61-32f6-472e-8a53-6afe6a9154ec.jpeg",
+                    "price": 11800,
+                    "title": "Французькі тости",
+                    "uuid": "fec91905-cf56-42ab-8a26-d9fabacffcc5",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "68c7d2ed-bacb-48ab-843c-d977f6e42309": {
+                    "description": null,
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/1abfa271-2a29-425d-88a2-59895ce753e4.jpeg",
+                    "price": 4000,
+                    "title": "PAUL Класичний Багет",
+                    "uuid": "68c7d2ed-bacb-48ab-843c-d977f6e42309",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "090d4f98-bf9c-49d5-9edb-e4a8352d4dc7": {
+                    "description": "",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/f17a485c-3575-42cc-ad08-350d63310187.jpeg",
+                    "price": 28500,
+                    "title": "Лазанья Болоньезе",
+                    "uuid": "090d4f98-bf9c-49d5-9edb-e4a8352d4dc7",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "3622e709-5548-41c5-b75e-649eee90da69": {
+                    "description": "",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/5892660e-b2dd-4059-b379-93d4de893e37.jpeg",
+                    "price": 11000,
+                    "title": "Мінестроне",
+                    "uuid": "3622e709-5548-41c5-b75e-649eee90da69",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "93723eef-3e2f-4928-945e-10926d5c8aad": {
+                    "description": null,
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/0f132a15-32a6-4365-9141-c3b50976ce1f.jpeg",
+                    "price": 24800,
+                    "title": "Середземноморський рибний суп ",
+                    "uuid": "93723eef-3e2f-4928-945e-10926d5c8aad",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "d667f012-2921-421d-8f16-04cf08cd7cb6": {
+                    "description": "",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/8d393baf-5f10-472e-9629-2bd561b6c237.jpeg",
+                    "price": 46300,
+                    "title": "Авокадо-бургер з лососем та судаком",
+                    "uuid": "d667f012-2921-421d-8f16-04cf08cd7cb6",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "63450319-2726-4f1e-a37b-ea3355a0e1c9": {
+                    "description": "",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/5b769531-ab68-4fdf-a3d6-4cea216345b6.jpeg",
+                    "price": 8500,
+                    "title": "Йогурт",
+                    "uuid": "63450319-2726-4f1e-a37b-ea3355a0e1c9",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "2f2f165a-bb8d-4a65-8eab-9392329541fe": {
+                    "description": "",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/c9bced3e-1e0a-4a70-8c4e-c83946a5e89b.jpeg",
+                    "price": 8700,
+                    "title": "Чіа-Пудинг",
+                    "uuid": "2f2f165a-bb8d-4a65-8eab-9392329541fe",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "f3d1edc7-b9ac-4a4c-810d-dcdaa8a2bcf5": {
+                    "description": "На вибір: Сітка з яблуком, Шассон або Англес з яблуком. ",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/39777728-bc4f-4086-a71a-d85710478c6d.png",
+                    "price": 6500,
+                    "title": "Слойка з яблуком",
+                    "uuid": "f3d1edc7-b9ac-4a4c-810d-dcdaa8a2bcf5",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "d65862d1-6513-49dc-b1da-07faa2f8df81": {
+                    "description": "",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/b09ff57a-2e1b-4534-9f58-02d90d845baa.jpeg",
+                    "price": 17000,
+                    "title": "Батат Фрі",
+                    "uuid": "d65862d1-6513-49dc-b1da-07faa2f8df81",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "ddafa7dd-fd10-4cb4-94cd-c0bca643f659": {
+                    "description": "",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/a596a97f-9e9c-42eb-99ea-b935302e0f83.jpeg",
+                    "price": 24700,
+                    "title": "Салат з чотирьох видів томатів",
+                    "uuid": "ddafa7dd-fd10-4cb4-94cd-c0bca643f659",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "f08e2fef-2f18-4305-a37c-cbe760428395": {
+                    "description": null,
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/4423db46-3d6c-47a3-b24e-d24d41b185b2.jpeg",
+                    "price": 12500,
+                    "title": "Білковий омлет зі шпинатом ",
+                    "uuid": "f08e2fef-2f18-4305-a37c-cbe760428395",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                }
+            }
+        },
+        "sections": [
+            {
+                "subsectionUuids": [
+                    "8b79aa93-b66f-464a-bce3-ca6c3d76d028",
+                    "813750ef-5ad1-4191-87d6-b6b9dbf68c46",
+                    "5779e03d-ce1e-4b94-89cd-9941c7dded61",
+                    "86964f42-57d4-4b33-9dec-3cfce9519b0e",
+                    "e4cdf03f-592d-4ed2-8899-a3dd49c1b98f",
+                    "e4d0b515-db3c-4892-bf6d-d44fd3a5aa28",
+                    "b000ec74-cfdf-44cd-9395-162bca927ad9",
+                    "d44d9e1b-94d9-41d7-8935-45bdbe6bc33a",
+                    "75f75d8a-2469-4137-9963-72232e3cc7f4",
+                    "46b5a7eb-1448-4675-bfd2-118f48422106",
+                    "ab80a3f5-34b5-460c-bd77-4a38388057d5"
+                ],
+                "title": "SWITCH LANGUAGE (UKR)",
+                "subtitle": "10:00 AM – 10:00 PM",
+                "uuid": "a00fa25a-bb6a-4106-a3f7-d605bd608dfb",
+                "isTop": true,
+                "isOnSale": true
+            },
+            {
+                "subsectionUuids": [
+                    "44a8c450-91f6-4885-a271-a8745fc494ad",
+                    "54ba60c6-b54e-4c90-ba2b-2213e451d6c7",
+                    "8cb7e75b-eda8-4b77-aeb2-70028dce59e2",
+                    "648c827e-f4ec-409a-b2ff-4c3765d5f995",
+                    "9d22a007-8a73-435e-8ced-26329afc11c8",
+                    "444e140b-90fa-499f-a6e8-150f99a04dac",
+                    "f5a416bf-f8c2-486c-97f1-a62f5bbc32d3",
+                    "63a5bbf8-44fa-47d7-b037-3d3720d7103e",
+                    "69f8b1a4-6af1-41e6-b554-2aac175ab10b",
+                    "ec39fd21-6872-4c84-9905-f18ee638f4cb",
+                    "b238edd0-f2f2-4ba6-9f6f-0b3dfb50f59d"
+                ],
+                "title": "SWITCH LANGUAGE (ENG)",
+                "subtitle": "10:00 AM – 10:00 PM",
+                "uuid": "15e95e37-4dcf-4425-af8d-a3dab5cab0fb",
+                "isTop": false,
+                "isOnSale": true
+            }
+        ],
+        "subsectionsMap": {
+            "75f75d8a-2469-4137-9963-72232e3cc7f4": {
+                "itemUuids": [
+                    "d0f03003-2b92-4ebd-a473-6f0440d98faf",
+                    "3117d867-b7bf-483c-a25f-ae2bdc8a467c",
+                    "c2446c3d-ec96-4b6d-9bbf-7f23087832b0"
+                ],
+                "subtitle": "",
+                "title": "Десерти",
+                "uuid": "75f75d8a-2469-4137-9963-72232e3cc7f4",
+                "displayType": null
+            },
+            "86964f42-57d4-4b33-9dec-3cfce9519b0e": {
+                "itemUuids": [
+                    "89ee2a7c-33ff-43d9-92e3-0c1f84679744",
+                    "ddafa7dd-fd10-4cb4-94cd-c0bca643f659",
+                    "cc67bcf7-1ca4-4217-b7b4-e3c0343ca8dd"
+                ],
+                "subtitle": "",
+                "title": "Салати",
+                "uuid": "86964f42-57d4-4b33-9dec-3cfce9519b0e",
+                "displayType": null
+            },
+            "63a5bbf8-44fa-47d7-b037-3d3720d7103e": {
+                "itemUuids": [
+                    "6b95c7ce-50d1-4b35-a65f-69164349dcc1",
+                    "46e95674-f025-4e8a-a1e0-2a1678852efa",
+                    "b5998388-39ff-4337-a717-b34e2fd36b87"
+                ],
+                "subtitle": "",
+                "title": "PAUL Energy Pots",
+                "uuid": "63a5bbf8-44fa-47d7-b037-3d3720d7103e",
+                "displayType": null
+            },
+            "8b79aa93-b66f-464a-bce3-ca6c3d76d028": {
+                "itemUuids": [
+                    "e543670b-f3bd-4417-b83a-828721a5fd52",
+                    "bf5a9ae5-3cc3-400c-86e0-207dd771204e",
+                    "160958df-e56d-47fd-a994-780543eb8999",
+                    "1fccab35-84c4-4ecd-ae4c-58120e1d9c38",
+                    "c01c26e6-8c52-4234-8af8-08d03d4beb20",
+                    "214ff82e-3ede-4f26-a0b7-284cc53a5b2f",
+                    "f3d1edc7-b9ac-4a4c-810d-dcdaa8a2bcf5",
+                    "6c420c02-bb1c-4b9c-b8ea-17f0008fdbac",
+                    "022d2684-c814-4cc5-9a77-392d07cfbe90"
+                ],
+                "subtitle": "",
+                "title": "Солодка випічка",
+                "uuid": "8b79aa93-b66f-464a-bce3-ca6c3d76d028",
+                "displayType": null
+            },
+            "44a8c450-91f6-4885-a271-a8745fc494ad": {
+                "itemUuids": [
+                    "97aa5685-bc5e-484a-a941-de9b87c743dd",
+                    "da31487b-e0fa-4acb-b0d7-3c33d0d93cf7",
+                    "4696456c-52ce-452f-9d19-6a01b8cc7105",
+                    "c2403058-222c-41ed-8dae-d55788b99cf5",
+                    "facb2ebe-23e9-45eb-8213-403bbd29b70a",
+                    "e3b6b468-2c9c-456a-a72e-94328f8aa378",
+                    "3119c3fa-8bce-4831-9da8-495105abff91",
+                    "6c5d87d2-d374-4cf2-85d4-b68563a4b846",
+                    "3a4fe95f-276e-47f9-9296-4f193eaa93e3"
+                ],
+                "subtitle": "",
+                "title": "Patisseries",
+                "uuid": "44a8c450-91f6-4885-a271-a8745fc494ad",
+                "displayType": null
+            },
+            "d44d9e1b-94d9-41d7-8935-45bdbe6bc33a": {
+                "itemUuids": [
+                    "2f2f165a-bb8d-4a65-8eab-9392329541fe",
+                    "63450319-2726-4f1e-a37b-ea3355a0e1c9",
+                    "18764e11-2e26-428f-a981-4cc9e4a48847"
+                ],
+                "subtitle": "",
+                "title": "Paul Energy Pots",
+                "uuid": "d44d9e1b-94d9-41d7-8935-45bdbe6bc33a",
+                "displayType": null
+            },
+            "9d22a007-8a73-435e-8ced-26329afc11c8": {
+                "itemUuids": [
+                    "2dcb808d-4bf5-4adb-968e-73b5a8c433a4",
+                    "36e20a77-ecf3-4e09-8f68-cf810bd28fd1",
+                    "a1e30cd3-7acc-4e07-8645-0f4287a5e102",
+                    "2f95ef5d-f381-45e9-a05b-03c631a6f80d",
+                    "035433da-c6f1-4dfe-a26e-d0d06f36d2dc",
+                    "c11d739a-43f1-4e06-8528-badedf294110",
+                    "1a62f1ed-b91e-4d87-8e24-1b94d7cd816f"
+                ],
+                "subtitle": "",
+                "title": "Sandwiches and Quiches",
+                "uuid": "9d22a007-8a73-435e-8ced-26329afc11c8",
+                "displayType": null
+            },
+            "648c827e-f4ec-409a-b2ff-4c3765d5f995": {
+                "itemUuids": [
+                    "549fd557-c3de-4ced-9af9-3ca1cf7aa80f",
+                    "4c008963-7b7b-4cd4-8302-d0a4ef9a4573",
+                    "96a8020f-caac-4821-8de5-7f86bc680711"
+                ],
+                "subtitle": "",
+                "title": "Salads",
+                "uuid": "648c827e-f4ec-409a-b2ff-4c3765d5f995",
+                "displayType": null
+            },
+            "5779e03d-ce1e-4b94-89cd-9941c7dded61": {
+                "itemUuids": [
+                    "62c1f4c4-b6eb-47d0-920c-132084bb2f8e",
+                    "3622e709-5548-41c5-b75e-649eee90da69",
+                    "93723eef-3e2f-4928-945e-10926d5c8aad"
+                ],
+                "subtitle": "",
+                "title": "Супи",
+                "uuid": "5779e03d-ce1e-4b94-89cd-9941c7dded61",
+                "displayType": null
+            },
+            "54ba60c6-b54e-4c90-ba2b-2213e451d6c7": {
+                "itemUuids": [
+                    "468a4cef-c798-4545-8c8d-e10e02564f07",
+                    "062effcd-cf70-4b94-9ceb-2ceb4721c683",
+                    "488e8c7f-e9ff-4725-a891-b606b2f317a6"
+                ],
+                "subtitle": "",
+                "title": "Appetizers",
+                "uuid": "54ba60c6-b54e-4c90-ba2b-2213e451d6c7",
+                "displayType": null
+            },
+            "8cb7e75b-eda8-4b77-aeb2-70028dce59e2": {
+                "itemUuids": [
+                    "ccdcc586-f69f-4861-803b-a62f124d56cd",
+                    "a7d4d996-9e6d-49a5-b252-e09008d11b79",
+                    "37460721-1af7-43fe-8af5-267714c3bc22"
+                ],
+                "subtitle": "",
+                "title": "Soups",
+                "uuid": "8cb7e75b-eda8-4b77-aeb2-70028dce59e2",
+                "displayType": null
+            },
+            "ec39fd21-6872-4c84-9905-f18ee638f4cb": {
+                "itemUuids": [
+                    "9db71ea8-39c8-4929-9f06-2f2edf477631",
+                    "72528472-5373-401f-afdf-8d1e02033248",
+                    "dee786e0-86ba-4b80-8196-f25a87faa79f",
+                    "fa646b9c-1b6a-47ed-8cd0-820a8faaf089"
+                ],
+                "subtitle": "",
+                "title": "Bread",
+                "uuid": "ec39fd21-6872-4c84-9905-f18ee638f4cb",
+                "displayType": null
+            },
+            "e4d0b515-db3c-4892-bf6d-d44fd3a5aa28": {
+                "itemUuids": [
+                    "206ee6e0-56a2-4b45-9c6a-a21e4f008c2f",
+                    "d667f012-2921-421d-8f16-04cf08cd7cb6",
+                    "090d4f98-bf9c-49d5-9edb-e4a8352d4dc7",
+                    "639d71f0-1228-4c9a-b583-f560edbbb75e",
+                    "e3c0b3bd-e66a-4fc8-a2f6-9e52859e16d1",
+                    "43751b1f-0837-4073-baed-d1a29172ed91"
+                ],
+                "subtitle": "",
+                "title": "Основні страви",
+                "uuid": "e4d0b515-db3c-4892-bf6d-d44fd3a5aa28",
+                "displayType": null
+            },
+            "e4cdf03f-592d-4ed2-8899-a3dd49c1b98f": {
+                "itemUuids": [
+                    "aba3c8b0-8a37-4688-9cd2-01ca8cb18240",
+                    "9a5352e9-538a-4aa3-9382-35a69e22b13e",
+                    "af0d3b60-ba14-45ee-9911-a71593f72ac1",
+                    "f396c3c6-fb7c-4750-a467-a7beaf4dd4a8",
+                    "c507e9bd-a320-4dd4-b438-4a6e35b69109",
+                    "f3b06115-869d-4408-8dd9-2d8a2928ce44",
+                    "0983fbe8-24b8-41b3-9ffd-3e0002893722"
+                ],
+                "subtitle": "",
+                "title": "Сендвічі та Кіши",
+                "uuid": "e4cdf03f-592d-4ed2-8899-a3dd49c1b98f",
+                "displayType": null
+            },
+            "813750ef-5ad1-4191-87d6-b6b9dbf68c46": {
+                "itemUuids": [
+                    "18bb338c-2a1f-4881-a003-740dcca565f3",
+                    "d65862d1-6513-49dc-b1da-07faa2f8df81",
+                    "f9b9f9ed-7de2-4e24-a928-582501fac29a"
+                ],
+                "subtitle": "",
+                "title": "Закуски",
+                "uuid": "813750ef-5ad1-4191-87d6-b6b9dbf68c46",
+                "displayType": null
+            },
+            "b238edd0-f2f2-4ba6-9f6f-0b3dfb50f59d": {
+                "itemUuids": [
+                    "f32d9ad1-e192-4023-8efd-beaa295bdd91",
+                    "81e1ad32-47bf-4eb6-8ca7-3e4d23f1d4d7"
+                ],
+                "subtitle": "",
+                "title": "Drinks",
+                "uuid": "b238edd0-f2f2-4ba6-9f6f-0b3dfb50f59d",
+                "displayType": null
+            },
+            "69f8b1a4-6af1-41e6-b554-2aac175ab10b": {
+                "itemUuids": [
+                    "71a6cbdf-b7da-4ebf-90eb-6a5c847e4051",
+                    "0a26c657-22ec-4fcd-b25e-7b345371eff2",
+                    "55b23438-a7b5-47c2-b7a5-ec739e80d4a4"
+                ],
+                "subtitle": "",
+                "title": "Desserts",
+                "uuid": "69f8b1a4-6af1-41e6-b554-2aac175ab10b",
+                "displayType": null
+            },
+            "b000ec74-cfdf-44cd-9395-162bca927ad9": {
+                "itemUuids": [
+                    "fec91905-cf56-42ab-8a26-d9fabacffcc5",
+                    "8b79de9e-eff2-40ce-9031-dd748d0e18a5",
+                    "a01438f2-37dc-43ea-8f56-6e37cf4b934a",
+                    "54f09fdd-ef6e-4731-9f15-ebbc6b7e9b45",
+                    "f08e2fef-2f18-4305-a37c-cbe760428395",
+                    "907398ce-68f2-4f7b-8b2c-8f42bde4df51"
+                ],
+                "subtitle": "",
+                "title": "Сніданок",
+                "uuid": "b000ec74-cfdf-44cd-9395-162bca927ad9",
+                "displayType": null
+            },
+            "f5a416bf-f8c2-486c-97f1-a62f5bbc32d3": {
+                "itemUuids": [
+                    "3e2843cf-f3d8-4acf-b651-d0fa75c17760",
+                    "e3876836-6bc0-4062-bf39-221677ceade2",
+                    "58701bf5-ea1c-46ff-b380-099bad30cd9a",
+                    "a7de73a1-e213-41b4-9d87-2f49094b0744",
+                    "6393591a-a45e-4ce9-b783-0d1969fabd0c",
+                    "e348520d-b06d-433f-bbb0-0c6e21690a51",
+                    "a2fa9f13-bf99-427b-a379-47d30c9c8f0d"
+                ],
+                "subtitle": "",
+                "title": "Breakfast",
+                "uuid": "f5a416bf-f8c2-486c-97f1-a62f5bbc32d3",
+                "displayType": null
+            },
+            "ab80a3f5-34b5-460c-bd77-4a38388057d5": {
+                "itemUuids": [
+                    "e80b83c5-2e9e-4781-a8de-f3c01a8d037e",
+                    "a48fc7f9-8556-4923-bb87-c0ff80499a85"
+                ],
+                "subtitle": "",
+                "title": "Напої",
+                "uuid": "ab80a3f5-34b5-460c-bd77-4a38388057d5",
+                "displayType": null
+            },
+            "444e140b-90fa-499f-a6e8-150f99a04dac": {
+                "itemUuids": [
+                    "a0dd415c-715f-41ee-8cfe-9944e6d2f8e4",
+                    "9bce375b-2901-438f-903a-d6dd16494f2a",
+                    "c32afdfa-07a4-401e-b225-872838b43ced",
+                    "cdbd2ea5-8ef0-48ec-a9dc-aaeafc66869f",
+                    "318bbd49-9fca-48aa-9f7f-b3927e32629c",
+                    "77bae0e7-9ca7-486b-8179-bac3111ddeaf"
+                ],
+                "subtitle": "",
+                "title": "Main courses",
+                "uuid": "444e140b-90fa-499f-a6e8-150f99a04dac",
+                "displayType": null
+            },
+            "46b5a7eb-1448-4675-bfd2-118f48422106": {
+                "itemUuids": [
+                    "68c7d2ed-bacb-48ab-843c-d977f6e42309",
+                    "ebb16ff7-2293-4c90-8cba-3d6394e43a7e",
+                    "4fcaf063-8322-4f91-ba29-4ceacae0d92d",
+                    "47f57b48-58a5-47fe-a827-d8308f25f699"
+                ],
+                "subtitle": "",
+                "title": "Хліб",
+                "uuid": "46b5a7eb-1448-4675-bfd2-118f48422106",
+                "displayType": null
+            }
+        },
+        "title": "PAUL (вул. Ярославів Вал)",
+        "uuid": "2ee46d06-63e2-42df-90bd-52a601047345",
+        "categories": [
+            "₴₴",
+            "Європейська",
+            "Випічка",
+            "Сніданок і бранч",
+            "Здорова їжа"
+        ],
+        "cuisineList": [
+            "Європейська",
+            "Випічка",
+            "Сніданок і бранч",
+            "Здорова їжа"
+        ],
+        "priceBucket": "₴₴",
+        "etaRange": {
+            "text": "45–55 min",
+            "iconUrl": ""
+        },
+        "ratingBadge": {
+            "text": "<span><span style=\"font-family: inherit; color: #3a3a48;\">4.5 <img src=\"https://d1a3f4spazzrp4.cloudfront.net/static/images/Star_Yellow_Eats_3.png\" width=\"14\" height=\"14\" vertical-align=\"middle\"> </span><span style=\"font-family: inherit; color: #757575;\">(11)</span></span>"
+        },
+        "disclaimerBadge": null,
+        "fareBadge": null,
+        "fareInfo": {
+            "serviceFee": 30,
+            "serviceFeeCents": 3000
+        },
+        "promotion": null,
+        "shouldIndex": true,
+        "heroImageUrls": [
+            {
+                "url": "https://d1ralsognjng37.cloudfront.net/caf1cfa9-ae9b-4b1c-9506-389575c96c39.jpeg",
+                "width": 240
+            },
+            {
+                "url": "https://d1ralsognjng37.cloudfront.net/7edd575a-eda2-4594-942b-009f65b240b6.jpeg",
+                "width": 550
+            },
+            {
+                "url": "https://d1ralsognjng37.cloudfront.net/40e1f949-4a78-49f0-b500-72d2ed2e8697.jpeg",
+                "width": 640
+            },
+            {
+                "url": "https://d1ralsognjng37.cloudfront.net/d506ff0b-79b2-4ed8-9a8f-a32f88088880.jpeg",
+                "width": 750
+            },
+            {
+                "url": "https://d1ralsognjng37.cloudfront.net/cdce7b18-0dc0-4ce6-bc34-e18eec94b46a.jpeg",
+                "width": 1080
+            },
+            {
+                "url": "https://d1ralsognjng37.cloudfront.net/08707074-d763-4ed6-bd54-cec554dd7acc.jpeg",
+                "width": 2880
+            }
+        ],
+        "isOpen": true,
+        "currencyCode": "UAH",
+        "closedMessage": "Currently unavailable",
+        "location": {
+            "address": "Yaroslaviv Val St, 26, Kyiv, 02000",
+            "streetAddress": "Yaroslaviv Val St, 26",
+            "city": "Kyiv",
+            "country": "UA",
+            "postalCode": "02000",
+            "region": "",
+            "latitude": 50.451942945674155,
+            "longitude": 30.50914985396751
+        },
+        "isDeliveryThirdParty": false,
+        "hours": [
+            {
+                "dayRange": "Sunday",
+                "sectionHours": [
+                    {
+                        "startTime": 600,
+                        "endTime": 1260,
+                        "sectionTitle": "SWITCH LANGUAGE (UKR)"
+                    },
+                    {
+                        "startTime": 600,
+                        "endTime": 1260,
+                        "sectionTitle": "SWITCH LANGUAGE (ENG)"
+                    }
+                ]
+            },
+            {
+                "dayRange": "Monday - Saturday",
+                "sectionHours": [
+                    {
+                        "startTime": 600,
+                        "endTime": 1320,
+                        "sectionTitle": "SWITCH LANGUAGE (UKR)"
+                    },
+                    {
+                        "startTime": 600,
+                        "endTime": 1320,
+                        "sectionTitle": "SWITCH LANGUAGE (ENG)"
+                    }
+                ]
+            }
+        ],
+        "disableOrderInstruction": false,
+        "disableCheckoutInstruction": false,
+        "nuggets": [],
+        "isWithinDeliveryRange": false,
+        "slug": "paul-вул-ярославів-вал",
+        "citySlug": "kyiv",
+        "phoneNumber": "+380442812493",
+        "metaJson": "{\"@context\":\"http:\\u002F\\u002Fschema.org\",\"@type\":\"Restaurant\",\"@id\":\"https:\\u002F\\u002Fwww.ubereats.com\\u002Fen-UA\\u002Fkyiv\\u002Ffood-delivery\\u002Fpaul-%D0%B2%D1%83%D0%BB-%D1%8F%D1%80%D0%BE%D1%81%D0%BB%D0%B0%D0%B2%D1%96%D0%B2-%D0%B2%D0%B0%D0%BB\\u002FLuRtBmPiQt-QvVKmAQRzRQ\\u002F\",\"name\":\"PAUL (вул. Ярославів Вал)\",\"priceRange\":\"₴₴\",\"potentialAction\":{\"@type\":\"OrderAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\\u002F\\u002Fwww.ubereats.com\\u002Fen-UA\\u002Fkyiv\\u002Ffood-delivery\\u002Fpaul-%D0%B2%D1%83%D0%BB-%D1%8F%D1%80%D0%BE%D1%81%D0%BB%D0%B0%D0%B2%D1%96%D0%B2-%D0%B2%D0%B0%D0%BB\\u002FLuRtBmPiQt-QvVKmAQRzRQ\\u002F?utm_campaign=order-action&utm_medium=organic\",\"inLanguage\":\"English\",\"actionPlatform\":[\"http:\\u002F\\u002Fschema.org\\u002FDesktopWebPlatform\",\"http:\\u002F\\u002Fschema.org\\u002FMobileWebPlatform\"]},\"deliveryMethod\":[\"http:\\u002F\\u002Fpurl.org\\u002Fgoodrelations\\u002Fv1#DeliveryModeOwnFleet\"]},\"address\":{\"@type\":\"PostalAddress\",\"addressLocality\":\"Kyiv\",\"addressRegion\":\"\",\"postalCode\":\"02000\",\"addressCountry\":\"UA\",\"streetAddress\":\"Yaroslaviv Val St, 26\"},\"geo\":{\"@type\":\"GeoCoordinates\",\"latitude\":50.451942945674155,\"longitude\":30.50914985396751}}",
+        "promoTrackings": [],
+        "suggestedPromotion": {
+            "text": "",
+            "promotionUuid": ""
+        },
+        "supportedDiningModes": [
+            {
+                "mode": "DELIVERY",
+                "title": "Delivery",
+                "isSelected": true,
+                "isAvailable": true
+            }
+        ],
+        "isPreview": false,
+        "pinnedInfo": null
+    }
+}

@@ -1,0 +1,1244 @@
+{
+    "status": "success",
+    "data": {
+        "sectionEntitiesMap": {
+            "706232c1-548e-4c65-8a66-17302e9e33b2": {
+                "a7a21a24-4767-4d65-80c6-f92990d6bc0b": {
+                    "description": "Vibrant Vietnamese mango & green papaya salad consisting of kohlrabi, carrots, basil, mint, coriander and crispy shallots dressed with tangy vinaigrette.",
+                    "imageUrl": null,
+                    "price": 875,
+                    "title": "Goi Xoai",
+                    "uuid": "a7a21a24-4767-4d65-80c6-f92990d6bc0b",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "1a33a664-140f-4025-af0a-a1e72d16e52f": {
+                    "description": "Jasmine rice served with chargrilled lemongrass pork and salad",
+                    "imageUrl": null,
+                    "price": 900,
+                    "title": "Com Thit Nuong (Rice)",
+                    "uuid": "1a33a664-140f-4025-af0a-a1e72d16e52f",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": "",
+                    "suspendUntil": 1568933999,
+                    "classifications": []
+                },
+                "3c2c65a5-e627-45ac-b85d-938df899059a": {
+                    "description": "Salt & Chilli Tofu",
+                    "imageUrl": null,
+                    "price": 725,
+                    "title": "Tofu Muoi",
+                    "uuid": "3c2c65a5-e627-45ac-b85d-938df899059a",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "endorsement": {
+                        "text": "Vegetarian",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png"
+                    },
+                    "classifications": []
+                },
+                "c15f6b28-5734-4911-b33d-2b847cb6c2f6": {
+                    "description": "Jasmine rice served with chargrilled limeleaf chicken and salad",
+                    "imageUrl": null,
+                    "price": 900,
+                    "title": "Com Thit Ga Nuong (Rice)",
+                    "uuid": "c15f6b28-5734-4911-b33d-2b847cb6c2f6",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": "",
+                    "suspendUntil": 1568933999,
+                    "classifications": []
+                },
+                "db6e571e-e5ba-4e02-8783-f3d31f6e9f66": {
+                    "description": "Thin vermicelli noodle salad with chargrilled beef",
+                    "imageUrl": null,
+                    "price": 925,
+                    "title": "Bun Bo Nuong (Noodle Salad)",
+                    "uuid": "db6e571e-e5ba-4e02-8783-f3d31f6e9f66",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": "",
+                    "suspendUntil": 1568933999,
+                    "classifications": []
+                },
+                "6670dbd1-0dca-4a3c-bdf8-63a648aa2405": {
+                    "description": "Non-spicy 18hr broth served with flat rice noodle.",
+                    "imageUrl": null,
+                    "price": 975,
+                    "title": "Pho Ga (Chicken)",
+                    "uuid": "6670dbd1-0dca-4a3c-bdf8-63a648aa2405",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "84325ffb-ff54-40ae-bad5-909ca07b0781": {
+                    "description": "Milk based Assam tea.",
+                    "imageUrl": null,
+                    "price": 375,
+                    "title": "Matcha",
+                    "uuid": "84325ffb-ff54-40ae-bad5-909ca07b0781",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "37348c73-f75e-406b-84e8-05171400406c": {
+                    "description": null,
+                    "imageUrl": null,
+                    "price": 450,
+                    "title": "Hanoi Beer",
+                    "uuid": "37348c73-f75e-406b-84e8-05171400406c",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "349fed4f-81cb-4383-bbd8-405a26a46122": {
+                    "description": "Fruit based jasmine tea.",
+                    "imageUrl": null,
+                    "price": 375,
+                    "title": "Passion Fruit",
+                    "uuid": "349fed4f-81cb-4383-bbd8-405a26a46122",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "48b48e0b-91d2-46d9-993f-67552e824dc0": {
+                    "description": "",
+                    "imageUrl": null,
+                    "price": 250,
+                    "title": "Appletiser",
+                    "uuid": "48b48e0b-91d2-46d9-993f-67552e824dc0",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "38c541f2-f099-498e-a7ae-bff7e1fd1ec5": {
+                    "description": "",
+                    "imageUrl": null,
+                    "price": 280,
+                    "title": "Orange Juice",
+                    "uuid": "38c541f2-f099-498e-a7ae-bff7e1fd1ec5",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "67db67cf-85d8-4d9a-826c-fa145653c02e": {
+                    "description": "Imperial Spring Rolls",
+                    "imageUrl": null,
+                    "price": 450,
+                    "title": "Cha Gio",
+                    "uuid": "67db67cf-85d8-4d9a-826c-fa145653c02e",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "82f4efea-7418-4cf6-b779-52cd6c267a47": {
+                    "description": "Vietnamese steamed buns, served with spicy mayo and salad.",
+                    "imageUrl": null,
+                    "price": 400,
+                    "title": "Chargrilled Lemongrass Pork Bao",
+                    "uuid": "82f4efea-7418-4cf6-b779-52cd6c267a47",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "e15d4ec3-8829-4966-9f8e-557997367c23": {
+                    "description": "Steam buns with fried tofu steak served with sweet chilli sauce, pickled mooli & carrots, cucumber and lettuce",
+                    "imageUrl": null,
+                    "price": 400,
+                    "title": "Fried Tofu Bao",
+                    "uuid": "e15d4ec3-8829-4966-9f8e-557997367c23",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "9b6d0c28-bbad-498e-a953-65878aadc4e5": {
+                    "description": "",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/d394d225-0d4e-4f57-ab68-c4d32d510a00",
+                    "price": 720,
+                    "title": "Bang Spicy Wings",
+                    "uuid": "9b6d0c28-bbad-498e-a953-65878aadc4e5",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "f9de9577-ce0e-4e56-8673-0d61ba452137": {
+                    "description": "Deep fried tofu steaks drizzled with sweet soy sauce infused with chilli, garlic and ginger. ",
+                    "imageUrl": null,
+                    "price": 850,
+                    "title": "Bun Dau Hu (Noodle Salad)",
+                    "uuid": "f9de9577-ce0e-4e56-8673-0d61ba452137",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "endorsement": {
+                        "text": "Vegetarian",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png"
+                    },
+                    "classifications": []
+                },
+                "36a1eb58-979f-487d-8520-1707bd0bca7e": {
+                    "description": "Fruit based jasmine tea.",
+                    "imageUrl": null,
+                    "price": 375,
+                    "title": "Mango",
+                    "uuid": "36a1eb58-979f-487d-8520-1707bd0bca7e",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "5a446637-a1e4-4d35-bb78-abbbf6745f8a": {
+                    "description": "Thin vermicelli noodle salad with chargrilled tiger prawns",
+                    "imageUrl": null,
+                    "price": 925,
+                    "title": "Bun Tom Nuong (Noodle Salad)",
+                    "uuid": "5a446637-a1e4-4d35-bb78-abbbf6745f8a",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": "",
+                    "suspendUntil": 1568933999,
+                    "classifications": []
+                },
+                "72f30417-ffd5-48e0-aa84-600c0b6d2cf2": {
+                    "description": "Fruit Based Jasmine Tea.",
+                    "imageUrl": null,
+                    "price": 375,
+                    "title": "Lychee",
+                    "uuid": "72f30417-ffd5-48e0-aa84-600c0b6d2cf2",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "f49da62c-3b28-4755-b44b-2deca1b10758": {
+                    "description": "Vietnamese steamed buns, served with spicy mayo and salad.",
+                    "imageUrl": null,
+                    "price": 400,
+                    "title": "Beef Stew Bao",
+                    "uuid": "f49da62c-3b28-4755-b44b-2deca1b10758",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "f77df5d6-af39-4369-aff2-4b4978726948": {
+                    "description": "Prawn and Pork",
+                    "imageUrl": null,
+                    "price": 550,
+                    "title": "Imperial Spring Rolls",
+                    "uuid": "f77df5d6-af39-4369-aff2-4b4978726948",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "835cb637-557d-4eef-a858-a680ca5d674d": {
+                    "description": null,
+                    "imageUrl": null,
+                    "price": 450,
+                    "title": "Rekorderlig Cider (Strawberry & Lime)",
+                    "uuid": "835cb637-557d-4eef-a858-a680ca5d674d",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "84bbb990-f325-4343-9af8-82078385f22e": {
+                    "description": "Glazed Sweet & Spicy Wings",
+                    "imageUrl": null,
+                    "price": 775,
+                    "title": "Canh Ga Nuoc Mam",
+                    "uuid": "84bbb990-f325-4343-9af8-82078385f22e",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "endorsement": {
+                        "text": "Spicy",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_check@3x.png"
+                    },
+                    "classifications": []
+                },
+                "02a59e21-e19c-4c79-a99f-6fc77600f0c4": {
+                    "description": "Stir-fry Pak Choi w/ garlic and vegetarian oyster sauce",
+                    "imageUrl": null,
+                    "price": 700,
+                    "title": "Pak Choi",
+                    "uuid": "02a59e21-e19c-4c79-a99f-6fc77600f0c4",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "94cc148d-cc38-4331-8032-00c9069b697c": {
+                    "description": "Spicy 18hr broth served with thick vermicelli noodles.",
+                    "imageUrl": null,
+                    "price": 995,
+                    "title": "Bun Tom Hue (Tiger Prawn)",
+                    "uuid": "94cc148d-cc38-4331-8032-00c9069b697c",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "endorsement": {
+                        "text": "Spicy",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_check@3x.png"
+                    },
+                    "classifications": []
+                },
+                "5a631aac-a265-4115-ab97-9775dc8b2748": {
+                    "description": "",
+                    "imageUrl": null,
+                    "price": 300,
+                    "title": "Coconut Juice",
+                    "uuid": "5a631aac-a265-4115-ab97-9775dc8b2748",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": "",
+                    "suspendUntil": 1568933999,
+                    "classifications": []
+                },
+                "6856a2c7-f1b4-452d-bc2e-4eba2eaedca6": {
+                    "description": "Salt & Chilli Ribs",
+                    "imageUrl": null,
+                    "price": 775,
+                    "title": "Suon Muoi",
+                    "uuid": "6856a2c7-f1b4-452d-bc2e-4eba2eaedca6",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "deb1e36b-3310-4c6e-bec4-4414df3da81e": {
+                    "description": "Milk based Assam tea.",
+                    "imageUrl": null,
+                    "price": 375,
+                    "title": "Classic",
+                    "uuid": "deb1e36b-3310-4c6e-bec4-4414df3da81e",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "04378c18-1f25-444a-a65f-41f8ef7487d2": {
+                    "description": "Non-spicy 18hr broth served with flat rice noodle.",
+                    "imageUrl": null,
+                    "price": 985,
+                    "title": "Pho Bo Kho (Beef Stew)",
+                    "uuid": "04378c18-1f25-444a-a65f-41f8ef7487d2",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "dcc91209-449b-427d-9b3f-02c5d773d44c": {
+                    "description": "Vietnamese steamed buns, served with spicy mayo and salad.",
+                    "imageUrl": null,
+                    "price": 450,
+                    "title": "Butterfly Prawn Bao",
+                    "uuid": "dcc91209-449b-427d-9b3f-02c5d773d44c",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "e946ab4e-57a7-42b5-a443-24aaac1d4a9b": {
+                    "description": null,
+                    "imageUrl": null,
+                    "price": 450,
+                    "title": "Rekorderlig Cider (Wild Berry)",
+                    "uuid": "e946ab4e-57a7-42b5-a443-24aaac1d4a9b",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "d412bd2d-c8fd-41ea-8be7-2f36984c10d7": {
+                    "description": "Thin vermicelli noodle salad with chargrilled lemongrass pork.",
+                    "imageUrl": null,
+                    "price": 900,
+                    "title": "Bun Thit Nuong (Noodle Salad)",
+                    "uuid": "d412bd2d-c8fd-41ea-8be7-2f36984c10d7",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": "",
+                    "suspendUntil": 1568933999,
+                    "classifications": []
+                },
+                "135b8565-1381-42e0-87ec-8a6ef700f06e": {
+                    "description": "Salt & Chilli Squid",
+                    "imageUrl": null,
+                    "price": 875,
+                    "title": "Muc Rang Muoi",
+                    "uuid": "135b8565-1381-42e0-87ec-8a6ef700f06e",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "28df3305-cdc0-48f9-ab9f-53e7d579cb7a": {
+                    "description": "",
+                    "imageUrl": null,
+                    "price": 200,
+                    "title": "Jasmine Rice",
+                    "uuid": "28df3305-cdc0-48f9-ab9f-53e7d579cb7a",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "endorsement": {
+                        "text": "Vegetarian",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png"
+                    },
+                    "classifications": []
+                },
+                "9e26b324-6438-4abb-a649-fdf377eb1308": {
+                    "description": "Chilli Salted Squid",
+                    "imageUrl": null,
+                    "price": 850,
+                    "title": "Muc Rang Muoi",
+                    "uuid": "9e26b324-6438-4abb-a649-fdf377eb1308",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "ac3ffedb-866a-4a0f-a287-d6bd2128e9ed": {
+                    "description": "Spicy 18hr broth served with thick vermicelli noodles.",
+                    "imageUrl": null,
+                    "price": 975,
+                    "title": "Bun Bo Hue (Beef Brisket)",
+                    "uuid": "ac3ffedb-866a-4a0f-a287-d6bd2128e9ed",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "endorsement": {
+                        "text": "Spicy",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_check@3x.png"
+                    },
+                    "classifications": []
+                },
+                "840c4d9b-38bd-4989-8fe2-f20fa7b78484": {
+                    "description": "Spicy 18hr broth served with thick vermicelli noodles.",
+                    "imageUrl": null,
+                    "price": 975,
+                    "title": "Bun Ga Hue (Chicken)",
+                    "uuid": "840c4d9b-38bd-4989-8fe2-f20fa7b78484",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "endorsement": {
+                        "text": "Spicy",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png"
+                    },
+                    "classifications": []
+                },
+                "3413bf51-e811-4d02-b4fc-42e6e47e4c4b": {
+                    "description": "Milk based Assam tea.",
+                    "imageUrl": null,
+                    "price": 375,
+                    "title": "Taro",
+                    "uuid": "3413bf51-e811-4d02-b4fc-42e6e47e4c4b",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "3c2e023b-3fa0-411a-aa9f-aad911e02b69": {
+                    "description": null,
+                    "imageUrl": null,
+                    "price": 450,
+                    "title": "Saigon Beer",
+                    "uuid": "3c2e023b-3fa0-411a-aa9f-aad911e02b69",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "f47c5b91-65e5-4905-9293-325433f99210": {
+                    "description": "Rice served with a mild Vietnamese Chicken Curry.",
+                    "imageUrl": null,
+                    "price": 900,
+                    "title": "Ga Cari (Chicken)",
+                    "uuid": "f47c5b91-65e5-4905-9293-325433f99210",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "511addff-8775-49a1-9e68-e220a1292b7d": {
+                    "description": "Non-spicy 18hr broth served with flat rice noodle",
+                    "imageUrl": null,
+                    "price": 1025,
+                    "title": "Pho Bo Tai (Rare Beef)",
+                    "uuid": "511addff-8775-49a1-9e68-e220a1292b7d",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "d3378f5b-3738-407d-b879-b8b10703cc0b": {
+                    "description": "Vietnamese steamed buns, served with spicy mayo and salad.",
+                    "imageUrl": null,
+                    "price": 400,
+                    "title": "Chargrilled Lime Leaf Chicken Bao",
+                    "uuid": "d3378f5b-3738-407d-b879-b8b10703cc0b",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "dd13095a-6cb9-484c-814a-2fd4a20fc460": {
+                    "description": "",
+                    "imageUrl": null,
+                    "price": 250,
+                    "title": "Sprite",
+                    "uuid": "dd13095a-6cb9-484c-814a-2fd4a20fc460",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "c19ec081-2b88-4cb9-bd4d-515ae6fa5175": {
+                    "description": "Summer rolls - Prawn (Peanut Sauce), Crispy Duck (Hoisin Sauce) or Tofu & Shitake Mushroom (Soy Sauce w/ Garlic & Chilli)",
+                    "imageUrl": null,
+                    "price": 525,
+                    "title": "Goi Cuon",
+                    "uuid": "c19ec081-2b88-4cb9-bd4d-515ae6fa5175",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "endorsement": {
+                        "text": "Vegetarian",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png"
+                    },
+                    "classifications": []
+                },
+                "df847efb-0960-4531-b87c-84c3033eef71": {
+                    "description": "Stir-fried morning glory with garlic and fermented bean curd.",
+                    "imageUrl": null,
+                    "price": 700,
+                    "title": "Rau Muong",
+                    "uuid": "df847efb-0960-4531-b87c-84c3033eef71",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "endorsement": {
+                        "text": "Vegetarian",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png"
+                    },
+                    "classifications": []
+                },
+                "c11f0533-4a28-49da-b158-1f66879d58cf": {
+                    "description": "Non-spicy 18hr broth served with flat rice noodle.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/ab09c8c2-4362-47b2-bd9a-a9f8479bb56f",
+                    "price": 1125,
+                    "title": "Pho Dac Biet (Chicken, Rare Beef & Tiger Prawn)",
+                    "uuid": "c11f0533-4a28-49da-b158-1f66879d58cf",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "e5006d26-e89f-4b48-b90c-580881fa4ad8": {
+                    "description": "Salt & Chilli Wings",
+                    "imageUrl": null,
+                    "price": 775,
+                    "title": "Canh Ga Muoi",
+                    "uuid": "e5006d26-e89f-4b48-b90c-580881fa4ad8",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "fd3f4d44-8a00-45ae-a526-4408edcb2078": {
+                    "description": "Glazed Sweet & Spicy Squid",
+                    "imageUrl": null,
+                    "price": 875,
+                    "title": "Muc Cay",
+                    "uuid": "fd3f4d44-8a00-45ae-a526-4408edcb2078",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "dc6df0f0-04b6-4153-a6d4-c1e1428c1d77": {
+                    "description": "",
+                    "imageUrl": null,
+                    "price": 280,
+                    "title": "Apple Juice",
+                    "uuid": "dc6df0f0-04b6-4153-a6d4-c1e1428c1d77",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "88ecc54e-55c1-492b-b215-1acac46561b3": {
+                    "description": "Vegetable dumplings, pak choi, Chinese leaf, and mushroom in spicy vegetarian soup served with thick vermicelli noodles.",
+                    "imageUrl": null,
+                    "price": 1050,
+                    "title": "Bun Chay Hue (Spicy Vegetarian)",
+                    "uuid": "88ecc54e-55c1-492b-b215-1acac46561b3",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "endorsement": {
+                        "text": "Spicy and Veggie",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_check@3x.png"
+                    },
+                    "classifications": []
+                },
+                "11786799-cb4b-4d33-b9cb-e8cfc69319eb": {
+                    "description": "",
+                    "imageUrl": null,
+                    "price": 250,
+                    "title": "Thirsty Planet Still Water",
+                    "uuid": "11786799-cb4b-4d33-b9cb-e8cfc69319eb",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "6bfe9a52-a4b0-4a4b-b73e-a81c2cc7613c": {
+                    "description": "Jasmine rice served with chargrilled beef skewers and salad",
+                    "imageUrl": null,
+                    "price": 925,
+                    "title": "Com Bo Nuong (Rice)",
+                    "uuid": "6bfe9a52-a4b0-4a4b-b73e-a81c2cc7613c",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": "",
+                    "suspendUntil": 1568933999,
+                    "classifications": []
+                },
+                "37fab44c-dc2b-46e2-8558-15e50f97981b": {
+                    "description": null,
+                    "imageUrl": null,
+                    "price": 450,
+                    "title": "Rekorderlig Cider (Apple)",
+                    "uuid": "37fab44c-dc2b-46e2-8558-15e50f97981b",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "1fd03c30-98e3-40a7-96d5-51b28a04ce75": {
+                    "description": "Spicy 18hr broth served with thick vermicelli noodles.",
+                    "imageUrl": null,
+                    "price": 1125,
+                    "title": "Bun Dac Biet Hue (Rare Beef, Vietnamese Sausage & Tiger Prawn)",
+                    "uuid": "1fd03c30-98e3-40a7-96d5-51b28a04ce75",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "endorsement": {
+                        "text": "Spicy",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png"
+                    },
+                    "classifications": []
+                },
+                "739079ad-90f8-4c79-a851-adbc485f4bd5": {
+                    "description": "Chicken, beef brisket, and tiger prawns. Non spicy soup, served with flat rice noodle.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/0542c6a0-5580-4e82-96fd-c94c7f4d54e1",
+                    "price": 1075,
+                    "title": "Pho Dac Biet",
+                    "uuid": "739079ad-90f8-4c79-a851-adbc485f4bd5",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "d2ff68c4-4672-4c13-837d-a6df0352ae00": {
+                    "description": "Vegetable dumplings, pak choi, Chinese leaf, and mushroom served with vegetarian broth and flat rice noodle.  Non spicy.",
+                    "imageUrl": null,
+                    "price": 1050,
+                    "title": "Pho Chay (Vegetarian)",
+                    "uuid": "d2ff68c4-4672-4c13-837d-a6df0352ae00",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "endorsement": {
+                        "text": "Vegetarian",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png"
+                    },
+                    "classifications": []
+                },
+                "a2d8b3f3-d7df-4cbf-817a-788fffab7e79": {
+                    "description": "",
+                    "imageUrl": null,
+                    "price": 250,
+                    "title": "Prawn Crackers",
+                    "uuid": "a2d8b3f3-d7df-4cbf-817a-788fffab7e79",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "endorsement": {
+                        "text": "Vegetarian",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png"
+                    },
+                    "classifications": []
+                },
+                "2b1c8955-f3a0-4c6e-9750-883708ff4244": {
+                    "description": "",
+                    "imageUrl": null,
+                    "price": 250,
+                    "title": "Coke",
+                    "uuid": "2b1c8955-f3a0-4c6e-9750-883708ff4244",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "5df9ec73-3320-4ca0-b81b-d6a45fd52a1f": {
+                    "description": "Thin vermicelli noodle salad with chargrilled limeleaf chicken",
+                    "imageUrl": null,
+                    "price": 900,
+                    "title": "Bun Thit Ga Nuong (Noodle Salad)",
+                    "uuid": "5df9ec73-3320-4ca0-b81b-d6a45fd52a1f",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": "",
+                    "suspendUntil": 1568933999,
+                    "classifications": []
+                },
+                "131749fb-68b6-44c5-920c-768b0a0d442f": {
+                    "description": "Non-spicy 18hr broth served with flat rice noodle",
+                    "imageUrl": null,
+                    "price": 995,
+                    "title": "Pho Tom (Tiger Prawn)",
+                    "uuid": "131749fb-68b6-44c5-920c-768b0a0d442f",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "d8fce4b4-45b8-417a-9177-eac7083037c9": {
+                    "description": "Jasmine rice served with chargrilled tiger prawns and salad",
+                    "imageUrl": null,
+                    "price": 925,
+                    "title": "Com Tom Nuong (Rice)",
+                    "uuid": "d8fce4b4-45b8-417a-9177-eac7083037c9",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": "",
+                    "suspendUntil": 1568933999,
+                    "classifications": []
+                },
+                "a0d1aef9-ac30-4033-ba66-958b3d8ae5da": {
+                    "description": "Rice served with tofu & aubergine stir-fry with betal leaf and perilla leaf.",
+                    "imageUrl": null,
+                    "price": 875,
+                    "title": "Dau Hu La Lot",
+                    "uuid": "a0d1aef9-ac30-4033-ba66-958b3d8ae5da",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "f4ee7f04-d0e4-44a3-bcc1-1c8ace5a0e97": {
+                    "description": "",
+                    "imageUrl": null,
+                    "price": 250,
+                    "title": "Coke Zero",
+                    "uuid": "f4ee7f04-d0e4-44a3-bcc1-1c8ace5a0e97",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                }
+            }
+        },
+        "sections": [
+            {
+                "subsectionUuids": [
+                    "4a8a141c-7369-4ccf-8423-86a97adf2e78",
+                    "b2fb01e3-284c-49fa-9933-43abe6dab309",
+                    "49d29471-56cf-4fc8-a8ed-81db6af938b0",
+                    "39b977d0-f049-4cd7-98d5-6d898f0f29c1",
+                    "24ca5a13-be97-4e3c-a1de-c5b6b32cdfa1",
+                    "4a6aece2-c17a-41a5-a2b9-5a8764519e57",
+                    "292ff65b-d4d4-49ab-9108-d5c681d39700",
+                    "74748846-12bb-478a-b8ca-4cd6fb4eca8f",
+                    "5931b101-61d0-406c-bf01-d966e3c04674",
+                    "d66f70d0-cb24-4da9-824f-e34227090b16",
+                    "5d2a31bb-39ba-4f6e-a34c-117ba426f43d"
+                ],
+                "title": "Menu",
+                "subtitle": "5:00 PM – 9:55 PM",
+                "uuid": "706232c1-548e-4c65-8a66-17302e9e33b2",
+                "isTop": true,
+                "isOnSale": false
+            }
+        ],
+        "subsectionsMap": {
+            "39b977d0-f049-4cd7-98d5-6d898f0f29c1": {
+                "itemUuids": [
+                    "6670dbd1-0dca-4a3c-bdf8-63a648aa2405",
+                    "511addff-8775-49a1-9e68-e220a1292b7d",
+                    "131749fb-68b6-44c5-920c-768b0a0d442f",
+                    "c11f0533-4a28-49da-b158-1f66879d58cf",
+                    "d2ff68c4-4672-4c13-837d-a6df0352ae00",
+                    "04378c18-1f25-444a-a65f-41f8ef7487d2"
+                ],
+                "subtitle": null,
+                "title": "Pho",
+                "uuid": "39b977d0-f049-4cd7-98d5-6d898f0f29c1",
+                "displayType": null
+            },
+            "49d29471-56cf-4fc8-a8ed-81db6af938b0": {
+                "itemUuids": [
+                    "82f4efea-7418-4cf6-b779-52cd6c267a47",
+                    "d3378f5b-3738-407d-b879-b8b10703cc0b",
+                    "f49da62c-3b28-4755-b44b-2deca1b10758",
+                    "dcc91209-449b-427d-9b3f-02c5d773d44c",
+                    "e15d4ec3-8829-4966-9f8e-557997367c23"
+                ],
+                "subtitle": null,
+                "title": "Bang Bang Bao",
+                "uuid": "49d29471-56cf-4fc8-a8ed-81db6af938b0",
+                "displayType": null
+            },
+            "5d2a31bb-39ba-4f6e-a34c-117ba426f43d": {
+                "itemUuids": [
+                    "11786799-cb4b-4d33-b9cb-e8cfc69319eb",
+                    "38c541f2-f099-498e-a7ae-bff7e1fd1ec5",
+                    "dc6df0f0-04b6-4153-a6d4-c1e1428c1d77",
+                    "48b48e0b-91d2-46d9-993f-67552e824dc0",
+                    "2b1c8955-f3a0-4c6e-9750-883708ff4244",
+                    "f4ee7f04-d0e4-44a3-bcc1-1c8ace5a0e97",
+                    "dd13095a-6cb9-484c-814a-2fd4a20fc460",
+                    "5a631aac-a265-4115-ab97-9775dc8b2748",
+                    "3c2e023b-3fa0-411a-aa9f-aad911e02b69",
+                    "37348c73-f75e-406b-84e8-05171400406c",
+                    "835cb637-557d-4eef-a858-a680ca5d674d",
+                    "37fab44c-dc2b-46e2-8558-15e50f97981b",
+                    "e946ab4e-57a7-42b5-a443-24aaac1d4a9b"
+                ],
+                "subtitle": null,
+                "title": "Beverages",
+                "uuid": "5d2a31bb-39ba-4f6e-a34c-117ba426f43d",
+                "displayType": null
+            },
+            "d66f70d0-cb24-4da9-824f-e34227090b16": {
+                "itemUuids": [
+                    "28df3305-cdc0-48f9-ab9f-53e7d579cb7a",
+                    "a2d8b3f3-d7df-4cbf-817a-788fffab7e79"
+                ],
+                "subtitle": null,
+                "title": "Sides",
+                "uuid": "d66f70d0-cb24-4da9-824f-e34227090b16",
+                "displayType": null
+            },
+            "b2fb01e3-284c-49fa-9933-43abe6dab309": {
+                "itemUuids": [
+                    "c19ec081-2b88-4cb9-bd4d-515ae6fa5175",
+                    "6856a2c7-f1b4-452d-bc2e-4eba2eaedca6",
+                    "f77df5d6-af39-4369-aff2-4b4978726948",
+                    "02a59e21-e19c-4c79-a99f-6fc77600f0c4",
+                    "df847efb-0960-4531-b87c-84c3033eef71",
+                    "135b8565-1381-42e0-87ec-8a6ef700f06e",
+                    "3c2c65a5-e627-45ac-b85d-938df899059a",
+                    "84bbb990-f325-4343-9af8-82078385f22e",
+                    "e5006d26-e89f-4b48-b90c-580881fa4ad8",
+                    "fd3f4d44-8a00-45ae-a526-4408edcb2078"
+                ],
+                "subtitle": null,
+                "title": "Appetisers",
+                "uuid": "b2fb01e3-284c-49fa-9933-43abe6dab309",
+                "displayType": null
+            },
+            "24ca5a13-be97-4e3c-a1de-c5b6b32cdfa1": {
+                "itemUuids": [
+                    "ac3ffedb-866a-4a0f-a287-d6bd2128e9ed",
+                    "840c4d9b-38bd-4989-8fe2-f20fa7b78484",
+                    "94cc148d-cc38-4331-8032-00c9069b697c",
+                    "1fd03c30-98e3-40a7-96d5-51b28a04ce75",
+                    "88ecc54e-55c1-492b-b215-1acac46561b3"
+                ],
+                "subtitle": null,
+                "title": "Bun Hue",
+                "uuid": "24ca5a13-be97-4e3c-a1de-c5b6b32cdfa1",
+                "displayType": null
+            },
+            "4a6aece2-c17a-41a5-a2b9-5a8764519e57": {
+                "itemUuids": [
+                    "d412bd2d-c8fd-41ea-8be7-2f36984c10d7",
+                    "5df9ec73-3320-4ca0-b81b-d6a45fd52a1f",
+                    "5a446637-a1e4-4d35-bb78-abbbf6745f8a",
+                    "db6e571e-e5ba-4e02-8783-f3d31f6e9f66",
+                    "f9de9577-ce0e-4e56-8673-0d61ba452137",
+                    "1a33a664-140f-4025-af0a-a1e72d16e52f",
+                    "c15f6b28-5734-4911-b33d-2b847cb6c2f6",
+                    "d8fce4b4-45b8-417a-9177-eac7083037c9",
+                    "6bfe9a52-a4b0-4a4b-b73e-a81c2cc7613c"
+                ],
+                "subtitle": null,
+                "title": "Thit Nuong",
+                "uuid": "4a6aece2-c17a-41a5-a2b9-5a8764519e57",
+                "displayType": null
+            },
+            "5931b101-61d0-406c-bf01-d966e3c04674": {
+                "itemUuids": [
+                    "deb1e36b-3310-4c6e-bec4-4414df3da81e",
+                    "3413bf51-e811-4d02-b4fc-42e6e47e4c4b",
+                    "84325ffb-ff54-40ae-bad5-909ca07b0781",
+                    "72f30417-ffd5-48e0-aa84-600c0b6d2cf2",
+                    "349fed4f-81cb-4383-bbd8-405a26a46122",
+                    "36a1eb58-979f-487d-8520-1707bd0bca7e"
+                ],
+                "subtitle": null,
+                "title": "Bubble Tea",
+                "uuid": "5931b101-61d0-406c-bf01-d966e3c04674",
+                "displayType": null
+            },
+            "74748846-12bb-478a-b8ca-4cd6fb4eca8f": {
+                "itemUuids": [
+                    "f47c5b91-65e5-4905-9293-325433f99210",
+                    "a0d1aef9-ac30-4033-ba66-958b3d8ae5da"
+                ],
+                "subtitle": null,
+                "title": "Com",
+                "uuid": "74748846-12bb-478a-b8ca-4cd6fb4eca8f",
+                "displayType": null
+            },
+            "292ff65b-d4d4-49ab-9108-d5c681d39700": {
+                "itemUuids": [
+                    "a7a21a24-4767-4d65-80c6-f92990d6bc0b"
+                ],
+                "subtitle": null,
+                "title": "Goi",
+                "uuid": "292ff65b-d4d4-49ab-9108-d5c681d39700",
+                "displayType": null
+            },
+            "4a8a141c-7369-4ccf-8423-86a97adf2e78": {
+                "itemUuids": [
+                    "9b6d0c28-bbad-498e-a953-65878aadc4e5",
+                    "739079ad-90f8-4c79-a851-adbc485f4bd5",
+                    "67db67cf-85d8-4d9a-826c-fa145653c02e",
+                    "9e26b324-6438-4abb-a649-fdf377eb1308"
+                ],
+                "subtitle": null,
+                "title": "Most Popular",
+                "uuid": "4a8a141c-7369-4ccf-8423-86a97adf2e78",
+                "displayType": null
+            }
+        },
+        "title": "Bang Bang Vietnamese Canteen",
+        "uuid": "609f51f0-ac13-41f1-a39a-ed57b54cce79",
+        "categories": [
+            "₴",
+            "Південно-східноазіатська",
+            "В’єтнамська",
+            "Морепродукти"
+        ],
+        "cuisineList": [
+            "Південно-східноазіатська",
+            "В’єтнамська",
+            "Морепродукти"
+        ],
+        "priceBucket": "₴",
+        "etaRange": null,
+        "ratingBadge": {
+            "text": "<span><span style=\"font-family: inherit; color: #3a3a48;\">4.4 <img src=\"https://d1a3f4spazzrp4.cloudfront.net/static/images/Star_Black_Eats_3.png\" width=\"14\" height=\"14\" vertical-align=\"middle\"> </span><span style=\"font-family: inherit; color: #757575;\">(65)</span></span>"
+        },
+        "disclaimerBadge": {
+            "text": "<span style=\"font-family: inherit;\">Allergies, intolerances and dietary requirements: before ordering, please contact the restaurant directly and ask to speak to a member of staff who can assist if you require information about ingredients and help cater for your needs. For more information on food safety and hygiene, please visit the <a href=\"http://ratings.food.gov.uk/\" style=\"color:#61ad5f;\">Food Standards Agency</a></span>"
+        },
+        "fareBadge": null,
+        "fareInfo": {
+            "serviceFeeCents": null
+        },
+        "promotion": null,
+        "shouldIndex": false,
+        "heroImageUrls": [
+            {
+                "url": "https://duyt4h9nfnj50.cloudfront.net/resized/65448703453a755fc4657c3178a33e86-w240-6d.jpg",
+                "width": 240
+            },
+            {
+                "url": "https://duyt4h9nfnj50.cloudfront.net/resized/65448703453a755fc4657c3178a33e86-w550-93.jpg",
+                "width": 550
+            },
+            {
+                "url": "https://duyt4h9nfnj50.cloudfront.net/resized/65448703453a755fc4657c3178a33e86-w640-f2.jpg",
+                "width": 640
+            },
+            {
+                "url": "https://duyt4h9nfnj50.cloudfront.net/resized/65448703453a755fc4657c3178a33e86-w750-9a.jpg",
+                "width": 750
+            },
+            {
+                "url": "https://duyt4h9nfnj50.cloudfront.net/resized/65448703453a755fc4657c3178a33e86-w1080-29.jpg",
+                "width": 1080
+            },
+            {
+                "url": "https://duyt4h9nfnj50.cloudfront.net/resized/65448703453a755fc4657c3178a33e86-w2880-58.jpg",
+                "width": 2880
+            }
+        ],
+        "isOpen": false,
+        "currencyCode": "GBP",
+        "closedMessage": "Opens at 5:00 PM",
+        "location": {
+            "address": "W1t 5nl, London, England W1T 5NL",
+            "streetAddress": "W1T 5NL",
+            "city": "London",
+            "country": "GB",
+            "postalCode": "W1T 5NL",
+            "region": "England",
+            "latitude": 51.524151,
+            "longitude": -0.140184
+        },
+        "isDeliveryThirdParty": false,
+        "hours": [
+            {
+                "dayRange": "Sunday",
+                "sectionHours": []
+            },
+            {
+                "dayRange": "Monday - Friday",
+                "sectionHours": [
+                    {
+                        "startTime": 690,
+                        "endTime": 900,
+                        "sectionTitle": "Menu"
+                    },
+                    {
+                        "startTime": 1020,
+                        "endTime": 1315,
+                        "sectionTitle": "Menu"
+                    }
+                ]
+            },
+            {
+                "dayRange": "Saturday",
+                "sectionHours": [
+                    {
+                        "startTime": 720,
+                        "endTime": 930,
+                        "sectionTitle": "Menu"
+                    },
+                    {
+                        "startTime": 1050,
+                        "endTime": 1315,
+                        "sectionTitle": "Menu"
+                    }
+                ]
+            }
+        ],
+        "disableOrderInstruction": false,
+        "disableCheckoutInstruction": false,
+        "nuggets": [],
+        "isWithinDeliveryRange": false,
+        "slug": "bang-bang-vietnamese-canteen",
+        "citySlug": "london",
+        "phoneNumber": "+442073883629",
+        "metaJson": "{\"@context\":\"http:\\u002F\\u002Fschema.org\",\"@type\":\"Restaurant\",\"@id\":\"https:\\u002F\\u002Fwww.ubereats.com\\u002Fen-UA\\u002Flondon\\u002Ffood-delivery\\u002Fbang-bang-vietnamese-canteen\\u002FYJ9R8KwTQfGjmu1XtUzOeQ\\u002F\",\"name\":\"Bang Bang Vietnamese Canteen\",\"priceRange\":\"₴\",\"potentialAction\":{\"@type\":\"OrderAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\\u002F\\u002Fwww.ubereats.com\\u002Fen-UA\\u002Flondon\\u002Ffood-delivery\\u002Fbang-bang-vietnamese-canteen\\u002FYJ9R8KwTQfGjmu1XtUzOeQ\\u002F?utm_campaign=order-action&utm_medium=organic\",\"inLanguage\":\"English\",\"actionPlatform\":[\"http:\\u002F\\u002Fschema.org\\u002FDesktopWebPlatform\",\"http:\\u002F\\u002Fschema.org\\u002FMobileWebPlatform\"]},\"deliveryMethod\":[\"http:\\u002F\\u002Fpurl.org\\u002Fgoodrelations\\u002Fv1#DeliveryModeOwnFleet\"]},\"address\":{\"@type\":\"PostalAddress\",\"addressLocality\":\"London\",\"addressRegion\":\"England\",\"postalCode\":\"W1T 5NL\",\"addressCountry\":\"GB\",\"streetAddress\":\"W1T 5NL\"},\"geo\":{\"@type\":\"GeoCoordinates\",\"latitude\":51.524151,\"longitude\":-0.140184}}",
+        "promoTrackings": [],
+        "suggestedPromotion": {
+            "text": "",
+            "promotionUuid": ""
+        },
+        "supportedDiningModes": [
+            {
+                "mode": "DELIVERY",
+                "title": "Delivery",
+                "isSelected": true,
+                "isAvailable": true
+            }
+        ],
+        "isPreview": false,
+        "pinnedInfo": null
+    }
+}

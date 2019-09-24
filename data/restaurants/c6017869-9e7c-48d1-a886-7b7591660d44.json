@@ -1,0 +1,2797 @@
+{
+    "status": "success",
+    "data": {
+        "sectionEntitiesMap": {
+            "3b41e8b9-5617-4e08-9f14-48c6f6d5a8a1": {
+                "e28dd429-45b8-4c23-8c2c-dce7f6532ef5": {
+                    "description": "Сомерсбі, 500мл",
+                    "imageUrl": null,
+                    "price": 5700,
+                    "title": "Сидр яблучний",
+                    "uuid": "e28dd429-45b8-4c23-8c2c-dce7f6532ef5",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "2ffae6d0-ee26-448c-a621-3d9c1e77bc46": {
+                    "description": "Світле пиво (Бельгія), 500 мл",
+                    "imageUrl": null,
+                    "price": 9900,
+                    "title": "Грімберген блонд",
+                    "uuid": "2ffae6d0-ee26-448c-a621-3d9c1e77bc46",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "32ac40d1-e375-4f9e-8426-22099ad50e85": {
+                    "description": "Булочка бріош, соус \"Тар-тар\", томати, фалафель, листя салату, руккола, овочі гриль, сир \"Тофу\", соус \"Теріякі\"",
+                    "imageUrl": "",
+                    "price": 14700,
+                    "title": "Бургер Вегетаріанський",
+                    "uuid": "32ac40d1-e375-4f9e-8426-22099ad50e85",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "117aa9e5-883e-49c0-98f5-692f160d8de1": {
+                    "description": "",
+                    "imageUrl": "",
+                    "price": 5600,
+                    "title": "Ірландська картопля",
+                    "uuid": "117aa9e5-883e-49c0-98f5-692f160d8de1",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "4e85082d-0931-4c38-a726-5df342298722": {
+                    "description": "",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/b7233900-09ca-41ec-bb94-3d893532640b",
+                    "price": 10500,
+                    "title": "Чіз-кейк",
+                    "uuid": "4e85082d-0931-4c38-a726-5df342298722",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "5f3ebed0-660e-4187-af7b-d826184c3ce7": {
+                    "description": "Темне пиво (УкраЇна), 500 мл",
+                    "imageUrl": null,
+                    "price": 4900,
+                    "title": "Микулинецьке темне",
+                    "uuid": "5f3ebed0-660e-4187-af7b-d826184c3ce7",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "0bb14eac-eb9d-4d72-8fc7-3cdce8ca753e": {
+                    "description": "50г.",
+                    "imageUrl": "",
+                    "price": 1000,
+                    "title": "Тар-тар",
+                    "uuid": "0bb14eac-eb9d-4d72-8fc7-3cdce8ca753e",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "504b3b35-e68e-4963-b6ef-a389f2e32efb": {
+                    "description": "",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/02b158c3-1622-48ac-bc73-14d24d2c2b1a",
+                    "price": 9700,
+                    "title": "Курячі нагетси",
+                    "uuid": "504b3b35-e68e-4963-b6ef-a389f2e32efb",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "01985e2c-468f-4322-a085-d0fe94f4fc5f": {
+                    "description": "Світле пиво, 500 мл",
+                    "imageUrl": null,
+                    "price": 5300,
+                    "title": "Карлсберг",
+                    "uuid": "01985e2c-468f-4322-a085-d0fe94f4fc5f",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "08662d51-674f-4c85-a891-fed365deb9d1": {
+                    "description": "",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/91c34ced-04ce-437c-9ce9-49fbeeea07d0",
+                    "price": 17800,
+                    "title": "Сендвіч Філадельфія з куркою",
+                    "uuid": "08662d51-674f-4c85-a891-fed365deb9d1",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "2b502da6-2613-49fc-a4ea-01d595b41f91": {
+                    "description": "Рибний та курячий паштети, хумус з оливками",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/54e89480-46da-4ac8-a493-2e50cb454c54",
+                    "price": 14700,
+                    "title": "Асоті намазок з грінками",
+                    "uuid": "2b502da6-2613-49fc-a4ea-01d595b41f91",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "2fc32a26-1088-4706-9457-c4b09023bdab": {
+                    "description": "Темне пиво (Бельгія), 500мл",
+                    "imageUrl": null,
+                    "price": 9900,
+                    "title": "Грімберген Дабл-амбрі",
+                    "uuid": "2fc32a26-1088-4706-9457-c4b09023bdab",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "8c281c6a-1623-4726-bb43-bdd1f90053dc": {
+                    "description": "",
+                    "imageUrl": "",
+                    "price": 13800,
+                    "title": "Курячі крильця",
+                    "uuid": "8c281c6a-1623-4726-bb43-bdd1f90053dc",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "e92df3b4-119c-4fd3-bf3c-7bfbbe628536": {
+                    "description": "",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/2c53af83-06b6-43db-b690-1b008d9772d6",
+                    "price": 9900,
+                    "title": "Сирні палички",
+                    "uuid": "e92df3b4-119c-4fd3-bf3c-7bfbbe628536",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "31f3fc33-e86e-412c-804b-e2e4388dcf10": {
+                    "description": "Сомерсбі",
+                    "imageUrl": null,
+                    "price": 5700,
+                    "title": "Сидр чорничний ",
+                    "uuid": "31f3fc33-e86e-412c-804b-e2e4388dcf10",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "c19a6d5a-608b-4eb6-9c3f-b73146acda1a": {
+                    "description": "Світле пиво (Німеччина), 500мл",
+                    "imageUrl": null,
+                    "price": 11200,
+                    "title": "Варштайнер",
+                    "uuid": "c19a6d5a-608b-4eb6-9c3f-b73146acda1a",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "6ee930d7-178d-4552-8cef-c6ba2d6842f1": {
+                    "description": "50г.",
+                    "imageUrl": "",
+                    "price": 2500,
+                    "title": "Барбекю",
+                    "uuid": "6ee930d7-178d-4552-8cef-c6ba2d6842f1",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "9aa4ac41-58da-493f-99a0-4589a5f0e987": {
+                    "description": "Світле пиво (УкраЇна), 500 мл",
+                    "imageUrl": null,
+                    "price": 4900,
+                    "title": "Микулинецьке медове",
+                    "uuid": "9aa4ac41-58da-493f-99a0-4589a5f0e987",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "8fb82970-3a65-4993-b35d-d5a5acab06b1": {
+                    "description": "Булочка бріош, соус \"Барбекю\", томати, котлета з телятини з перцем чілі, листя шпинату, руккола,  маринований огірок, карамелізована цибуля, сир та бекон",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/2bb0dfd4-b19b-42cb-8a1a-aa26948cc505",
+                    "price": 17800,
+                    "title": "Бургер BBQ",
+                    "uuid": "8fb82970-3a65-4993-b35d-d5a5acab06b1",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "c4e2f1d0-11be-4d88-a910-475679ec0696": {
+                    "description": "Світле пиво (УкраЇна), 500мл",
+                    "imageUrl": null,
+                    "price": 4300,
+                    "title": "Львівське 1715",
+                    "uuid": "c4e2f1d0-11be-4d88-a910-475679ec0696",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "a78c6abe-d6b5-4cf9-a738-e4f4206f34fa": {
+                    "description": "",
+                    "imageUrl": "",
+                    "price": 8500,
+                    "title": "Вафл кейк",
+                    "uuid": "a78c6abe-d6b5-4cf9-a738-e4f4206f34fa",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "321e637a-d766-46b0-bf7a-470f22866dfa": {
+                    "description": "Булочка бріош, кетчуп, гірчиця, тар-тар, томати, листя салату, маринований огірок, цибулеве кільце в паніроці, сир та котлета з телятини",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/f737bd06-e973-4572-a971-3d368d6e157c",
+                    "price": 18900,
+                    "title": "Бургер Golden Gate",
+                    "uuid": "321e637a-d766-46b0-bf7a-470f22866dfa",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "3c08d80f-33d1-4959-b072-d414a6fb05fd": {
+                    "description": "Начос, рисові чіпчи, білі та темні грінки, гріссіні та міні брецелі",
+                    "imageUrl": "",
+                    "price": 19500,
+                    "title": "Асорті снеків до пива",
+                    "uuid": "3c08d80f-33d1-4959-b072-d414a6fb05fd",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "6a489cd0-73bb-42de-a278-943d56e3ccee": {
+                    "description": "Роял, 500мл",
+                    "imageUrl": null,
+                    "price": 5700,
+                    "title": "Сидр абрикосовий ",
+                    "uuid": "6a489cd0-73bb-42de-a278-943d56e3ccee",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "898b1f45-0303-4c8b-87e6-315d76a27d92": {
+                    "description": "",
+                    "imageUrl": "",
+                    "price": 11800,
+                    "title": "Теплі свинячі вушка з кисло-солодким соусом",
+                    "uuid": "898b1f45-0303-4c8b-87e6-315d76a27d92",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "7fffb739-23bb-4b98-a634-50565c762e3e": {
+                    "description": "Темне пиво (УкраЇна), 500 мл",
+                    "imageUrl": null,
+                    "price": 5300,
+                    "title": "Львівське дункель",
+                    "uuid": "7fffb739-23bb-4b98-a634-50565c762e3e",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "3904e3de-a561-4bba-b5f3-df00a2500c06": {
+                    "description": "50г.",
+                    "imageUrl": "",
+                    "price": 1000,
+                    "title": "Масло вершкове",
+                    "uuid": "3904e3de-a561-4bba-b5f3-df00a2500c06",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "c30bba53-6390-4261-b6b1-323f7b0841f3": {
+                    "description": "50г.",
+                    "imageUrl": "",
+                    "price": 1000,
+                    "title": "Майонез",
+                    "uuid": "c30bba53-6390-4261-b6b1-323f7b0841f3",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "373e3013-aa5f-4159-8825-f7731b289108": {
+                    "description": "На вибір: теляча, свиняча, куряча на гарнір з баварської капусти.",
+                    "imageUrl": "",
+                    "price": 17800,
+                    "title": "Ковбаски",
+                    "uuid": "373e3013-aa5f-4159-8825-f7731b289108",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "dca92525-e509-4add-869a-01982c3ddd23": {
+                    "description": "",
+                    "imageUrl": "",
+                    "price": 8700,
+                    "title": "Картопляний крем-суп",
+                    "uuid": "dca92525-e509-4add-869a-01982c3ddd23",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "a609b7ec-50e5-44db-96a1-1d1dcd4492af": {
+                    "description": "Булочка бріош, соус \"Ренч\", томати, котлета з баранини з м'ятою, листя салату, печериці, шпинат та сир \"Дор Блю\"",
+                    "imageUrl": "",
+                    "price": 17800,
+                    "title": "Бургер з бараниною",
+                    "uuid": "a609b7ec-50e5-44db-96a1-1d1dcd4492af",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "8f1c671b-5993-4dcc-9cec-41c036d2e123": {
+                    "description": "50г.",
+                    "imageUrl": "",
+                    "price": 1000,
+                    "title": "Кетчуп",
+                    "uuid": "8f1c671b-5993-4dcc-9cec-41c036d2e123",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "990712ff-53e7-47fa-8ac6-53ea6a6f840f": {
+                    "description": "",
+                    "imageUrl": "",
+                    "price": 9700,
+                    "title": "Ковбаски до пива",
+                    "uuid": "990712ff-53e7-47fa-8ac6-53ea6a6f840f",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "b39d13d8-0917-442d-a1d2-bc0bfdd99ecb": {
+                    "description": "",
+                    "imageUrl": "",
+                    "price": 8900,
+                    "title": "Ірландський традиційний цибулевий суп",
+                    "uuid": "b39d13d8-0917-442d-a1d2-bc0bfdd99ecb",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "e94140e4-1d14-4055-b053-6c2794618dfc": {
+                    "description": "",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/3c5f6e8a-a099-4fb3-97fb-c88bd92ceef7",
+                    "price": 9700,
+                    "title": "Фаршировані печериці",
+                    "uuid": "e94140e4-1d14-4055-b053-6c2794618dfc",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "6c65ecdb-5728-46a3-a215-5f0729c7ed98": {
+                    "description": "",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/44c04d94-a72f-4c70-b48c-da314ee40811",
+                    "price": 19600,
+                    "title": "Печеня з яловичини в пивному соусі",
+                    "uuid": "6c65ecdb-5728-46a3-a215-5f0729c7ed98",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "a9068117-03bc-44cb-838d-407713972939": {
+                    "description": "",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/965d092a-5967-453a-b396-299d369c8684",
+                    "price": 18600,
+                    "title": "Сендвіч Філадельфія з телятиною",
+                    "uuid": "a9068117-03bc-44cb-838d-407713972939",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "393cbe35-48bc-4bc6-acdc-c8c1c3b05f60": {
+                    "description": "",
+                    "imageUrl": "",
+                    "price": 8900,
+                    "title": "Яблучний пиріг",
+                    "uuid": "393cbe35-48bc-4bc6-acdc-c8c1c3b05f60",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "ec91d51e-4752-4fb7-a129-eb973a55c1d8": {
+                    "description": "",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/e8489ea6-9cee-4499-a6e7-6f08a11269ec",
+                    "price": 17800,
+                    "title": "Куряча таль'ята під вершково-грибним соусом та картопляне пюре",
+                    "uuid": "ec91d51e-4752-4fb7-a129-eb973a55c1d8",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "9dfd571f-c6a2-4b7c-a5a2-5136f7339e7e": {
+                    "description": "",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/93423f8d-dcdf-41a0-af72-cd1000d18da2",
+                    "price": 24500,
+                    "title": "Копченості до пива з соусом барбекю",
+                    "uuid": "9dfd571f-c6a2-4b7c-a5a2-5136f7339e7e",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "3873f06b-1898-4587-a06c-1b3fc29021fa": {
+                    "description": "Стаут (Ірландія), 500мл",
+                    "imageUrl": null,
+                    "price": 12000,
+                    "title": "Гіннесс",
+                    "uuid": "3873f06b-1898-4587-a06c-1b3fc29021fa",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "60201c87-5291-4438-a1b2-6fd3a4cb62f6": {
+                    "description": "Світле нефільтрованне (Франція), 500мл",
+                    "imageUrl": null,
+                    "price": 6900,
+                    "title": "Кроненбург 1664 бланк",
+                    "uuid": "60201c87-5291-4438-a1b2-6fd3a4cb62f6",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "56edbc3b-8c6c-4b1e-a782-98d873f450cf": {
+                    "description": "50г.",
+                    "imageUrl": "",
+                    "price": 900,
+                    "title": "Сметана",
+                    "uuid": "56edbc3b-8c6c-4b1e-a782-98d873f450cf",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "be98fa7b-0cc4-445b-9be8-4616dcaec91b": {
+                    "description": "Мікс листя салату, томати черрі, в'ялена журавлина та бальзамічна заправка",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/93ef2d06-cf66-40b7-943a-b54971d900c6",
+                    "price": 11800,
+                    "title": "Овочевий салат з в'яленою журавлиною",
+                    "uuid": "be98fa7b-0cc4-445b-9be8-4616dcaec91b",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "7e859fe7-26f4-4dc3-b62b-3239b66d7f7e": {
+                    "description": "Листя салатів айсберг та ромен, томати черрі, крутони , ковбаски єгерські та сир Пармезан, заправляеться соусом Цезар",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/48bfe769-caec-4ac2-863a-22659c7f2a81",
+                    "price": 13900,
+                    "title": "Салат Цезар з ковбасками",
+                    "uuid": "7e859fe7-26f4-4dc3-b62b-3239b66d7f7e",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "f9f325b5-1008-4210-af70-402d9111b90a": {
+                    "description": "50г.",
+                    "imageUrl": "",
+                    "price": 1500,
+                    "title": "Медово-гірчичний",
+                    "uuid": "f9f325b5-1008-4210-af70-402d9111b90a",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "25d17568-481f-4505-913e-ec8d07cb4b92": {
+                    "description": "50г.",
+                    "imageUrl": "",
+                    "price": 1000,
+                    "title": "Гірчиця",
+                    "uuid": "25d17568-481f-4505-913e-ec8d07cb4b92",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "66f1bdbc-6571-4302-9c10-dec1ba98ef88": {
+                    "description": "",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/734e7c77-0be5-4f82-93d8-a364126c7b90",
+                    "price": 13800,
+                    "title": "Бастурма",
+                    "uuid": "66f1bdbc-6571-4302-9c10-dec1ba98ef88",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "5e6d9fe6-fe60-42e8-9afa-7e9899e2a8c0": {
+                    "description": "",
+                    "imageUrl": "",
+                    "price": 21700,
+                    "title": "Печеня з яловичини з соусом демі глас",
+                    "uuid": "5e6d9fe6-fe60-42e8-9afa-7e9899e2a8c0",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "e3411b1c-c6f6-48a3-b0ff-699e948a7c15": {
+                    "description": "",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/88c250cb-b55c-4e41-b8ce-3057a58c1da4",
+                    "price": 6800,
+                    "title": "Мариновані огірки в паніровці",
+                    "uuid": "e3411b1c-c6f6-48a3-b0ff-699e948a7c15",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "0c5a4f93-e181-4978-98d7-62d060159271": {
+                    "description": "50г.",
+                    "imageUrl": "",
+                    "price": 1000,
+                    "title": "Ренч",
+                    "uuid": "0c5a4f93-e181-4978-98d7-62d060159271",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "cbfe217d-64fd-4fa1-89c2-04fa21ab7c84": {
+                    "description": "",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/0b166962-44eb-483f-9e3b-f82d63fc8a28",
+                    "price": 9700,
+                    "title": "Маринована макрель",
+                    "uuid": "cbfe217d-64fd-4fa1-89c2-04fa21ab7c84",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "26be7bad-acde-46d8-8f15-1db020b6815e": {
+                    "description": "",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/95f94a18-600d-4a34-8e9a-55af0b96215e",
+                    "price": 21500,
+                    "title": "Лосось Гравалакс",
+                    "uuid": "26be7bad-acde-46d8-8f15-1db020b6815e",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 8640000000,
+                    "classifications": []
+                },
+                "b31f7576-1896-42b1-8bd6-1b017943193b": {
+                    "description": "",
+                    "imageUrl": "",
+                    "price": 22800,
+                    "title": "Печеня з яловичини з грибним соусом",
+                    "uuid": "b31f7576-1896-42b1-8bd6-1b017943193b",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "014bf078-f6b7-46da-95bc-2ccf76fde932": {
+                    "description": "Червоний ель (Ірландія), 500мл",
+                    "imageUrl": null,
+                    "price": 12000,
+                    "title": "Кілкенні",
+                    "uuid": "014bf078-f6b7-46da-95bc-2ccf76fde932",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "54b555c9-ae0e-46a8-9f56-20552073755a": {
+                    "description": "",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/ad422a1d-1665-4690-9d38-5648dcb14d8d",
+                    "price": 12800,
+                    "title": "Шоколадно-вишневий торт",
+                    "uuid": "54b555c9-ae0e-46a8-9f56-20552073755a",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "ccfff857-cc7f-483d-baaf-40b6c5b89614": {
+                    "description": "Булочка бріош, майонез, кетчуп, томати, листя салату, маринований огірок, котлета з курки",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/3dac56fa-27cd-4403-8594-0f2f4c871b37",
+                    "price": 16800,
+                    "title": "Бургер курячий",
+                    "uuid": "ccfff857-cc7f-483d-baaf-40b6c5b89614",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "773c5987-64ae-4dc2-8f17-40a2337bf138": {
+                    "description": "Біле сало, сало в перці, бекон український, паштет з сала, хліб та цибуля",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/0ddfe172-3899-4139-b901-a19cccef4ac3",
+                    "price": 13700,
+                    "title": "Сало сет",
+                    "uuid": "773c5987-64ae-4dc2-8f17-40a2337bf138",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "79a98edc-6c40-4f6d-9231-851d198ebedd": {
+                    "description": "",
+                    "imageUrl": "",
+                    "price": 19700,
+                    "title": "Тар-тар з телятини",
+                    "uuid": "79a98edc-6c40-4f6d-9231-851d198ebedd",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "da6a2482-bfef-4432-bc3d-29dbab102746": {
+                    "description": "Мікс листя салатів, запечений солодкий перець, смажена куряча печінка в соусі Теріякі, філе апельсина, сир Фета та кунжут, заправляється бальзамічним соусом",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/23464b72-ad01-416c-a356-3a5aea4a2688",
+                    "price": 13500,
+                    "title": "Салат з курячою печінкою та сиром фета",
+                    "uuid": "da6a2482-bfef-4432-bc3d-29dbab102746",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "28a07ede-bfb6-4297-a013-b05d445318eb": {
+                    "description": "Листя салатів айсберг та ромен, томати черрі, крутони , куряче філе-гриль та сир Пармезан, заправляється соусом Цезар",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/9debc461-1ff6-4c63-bae7-359cbd2bf371",
+                    "price": 13900,
+                    "title": "Салат Цезар з куркою",
+                    "uuid": "28a07ede-bfb6-4297-a013-b05d445318eb",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "90963db9-b625-46bf-86fd-218dd2ad228d": {
+                    "description": "",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/96afda0c-d2b2-4852-ae33-d857a5b8c2a9",
+                    "price": 17800,
+                    "title": "Камамбер фрі з чорничним соусом",
+                    "uuid": "90963db9-b625-46bf-86fd-218dd2ad228d",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "81a29c69-2b82-4720-b174-1292c1ed6dda": {
+                    "description": "Світле нефільтрованне (Бельгія), 500мл",
+                    "imageUrl": null,
+                    "price": 9500,
+                    "title": "Грімберген бланш",
+                    "uuid": "81a29c69-2b82-4720-b174-1292c1ed6dda",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "7b54bd3c-7e32-47d3-b490-251263cc2480": {
+                    "description": "Листя салатів, томати черрі, грецький горіх, смажена телятина у соусі Теріякі, заправляється кунжутно-гірчичним соусом",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/c9f4cdc2-e654-422b-813f-f782af9712b1",
+                    "price": 16700,
+                    "title": "Салат з телятиною",
+                    "uuid": "7b54bd3c-7e32-47d3-b490-251263cc2480",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "9d503c67-e174-4f8a-8e59-d7f9e1da6f9f": {
+                    "description": "",
+                    "imageUrl": "",
+                    "price": 29700,
+                    "title": "Тушковані свинячі ребра з картоплею фрі та соусом BBQ",
+                    "uuid": "9d503c67-e174-4f8a-8e59-d7f9e1da6f9f",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "94c2f095-4260-4dd5-b62e-d8814dc5f929": {
+                    "description": "Світле нефільтрованне (УкраЇна), 500мл",
+                    "imageUrl": null,
+                    "price": 5300,
+                    "title": "Львівське білий лев",
+                    "uuid": "94c2f095-4260-4dd5-b62e-d8814dc5f929",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "a6c95dd2-59b7-4f89-b825-c3603574b8cc": {
+                    "description": "",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/bf6ebbc0-a5c4-4a15-9cad-afbef91c347e",
+                    "price": 8700,
+                    "title": "Український борщ з пампушками",
+                    "uuid": "a6c95dd2-59b7-4f89-b825-c3603574b8cc",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                }
+            },
+            "302f21f9-863a-4e01-b469-518783a9f986": {
+                "5273e785-3a65-43c3-a17e-7a8b92e47f40": {
+                    "description": "50g.",
+                    "imageUrl": "",
+                    "price": 2500,
+                    "title": "BBQ sauce",
+                    "uuid": "5273e785-3a65-43c3-a17e-7a8b92e47f40",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "5e508312-82ae-4700-8341-3a555a04af1f": {
+                    "description": "50g.",
+                    "imageUrl": "",
+                    "price": 1000,
+                    "title": "Butter",
+                    "uuid": "5e508312-82ae-4700-8341-3a555a04af1f",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "0083e5a0-12ae-4728-a1f5-3d2737c3de94": {
+                    "description": "",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/f55f27b7-ae57-40f1-98cb-b68dec7532f6",
+                    "price": 13500,
+                    "title": "Salad with chicken liver and feta cheese",
+                    "uuid": "0083e5a0-12ae-4728-a1f5-3d2737c3de94",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "ea65154a-8bca-42a2-9a75-66874d835a37": {
+                    "description": "To choose from: veal, pork, or chicken.",
+                    "imageUrl": "",
+                    "price": 17800,
+                    "title": "Sausage",
+                    "uuid": "ea65154a-8bca-42a2-9a75-66874d835a37",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "29868072-6c96-40ca-965d-c90ecdb2a444": {
+                    "description": "Dark ukrainian beer, 500ml",
+                    "imageUrl": null,
+                    "price": 5300,
+                    "title": "Lvivske dunkel",
+                    "uuid": "29868072-6c96-40ca-965d-c90ecdb2a444",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "c5d2811b-d11f-4ab1-aee0-6893356db7f0": {
+                    "description": "",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/1597b110-f5c4-460f-bb10-a3b8be14d4de",
+                    "price": 12800,
+                    "title": "Chocolate-cherry cake",
+                    "uuid": "c5d2811b-d11f-4ab1-aee0-6893356db7f0",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "2cff09c0-ce3b-4467-bd1e-0fd7377528cc": {
+                    "description": "",
+                    "imageUrl": "",
+                    "price": 19500,
+                    "title": "Assorted snacks for beer",
+                    "uuid": "2cff09c0-ce3b-4467-bd1e-0fd7377528cc",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "1c232987-bd1c-4002-bd94-f464bccad03b": {
+                    "description": "Unfiltered french beer, 500ml",
+                    "imageUrl": null,
+                    "price": 6900,
+                    "title": "Kronenbourg 1664 blanc",
+                    "uuid": "1c232987-bd1c-4002-bd94-f464bccad03b",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "f0c035c8-a374-4e8f-bc9e-26f5a77ad0ef": {
+                    "description": "",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/b5bd5207-f0cf-42c8-a9ce-d39e88bc5a59",
+                    "price": 19600,
+                    "title": "Beef stew with beer sauce",
+                    "uuid": "f0c035c8-a374-4e8f-bc9e-26f5a77ad0ef",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "d42cb93b-ac6b-4f12-9d09-09b2406e235a": {
+                    "description": "",
+                    "imageUrl": "",
+                    "price": 11800,
+                    "title": "Pork ears with sweet&sour sauce",
+                    "uuid": "d42cb93b-ac6b-4f12-9d09-09b2406e235a",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "bac8ab2f-28fa-489d-b85e-eb690bb4950b": {
+                    "description": "",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/37a150ce-31bc-4619-8b40-8c9223b44712",
+                    "price": 13900,
+                    "title": "Caeser salad with sausages",
+                    "uuid": "bac8ab2f-28fa-489d-b85e-eb690bb4950b",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "de96add7-e6c0-4e55-a380-1f0aab8985fe": {
+                    "description": "",
+                    "imageUrl": "",
+                    "price": 5700,
+                    "title": "Irish chips",
+                    "uuid": "de96add7-e6c0-4e55-a380-1f0aab8985fe",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "1a159ce4-be33-459a-a31a-9894e6d53f56": {
+                    "description": "Brioche buns, \"Rench\" sauce, tomatoes, lamb cutlet with mint, lettuce, champignons, spinach and \"Dor Blue\" cheese",
+                    "imageUrl": "",
+                    "price": 18600,
+                    "title": "Lamb Burger",
+                    "uuid": "1a159ce4-be33-459a-a31a-9894e6d53f56",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "dca2f598-07e8-428a-bcff-5e7fb5268929": {
+                    "description": "",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/a8ab032f-b12d-4786-ba2b-cd33bde01848",
+                    "price": 14700,
+                    "title": "Assorted dips",
+                    "uuid": "dca2f598-07e8-428a-bcff-5e7fb5268929",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "cbfe217d-64fd-4fa1-89c2-04fa21ab7c84": {
+                    "description": "",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/0b166962-44eb-483f-9e3b-f82d63fc8a28",
+                    "price": 9700,
+                    "title": "Маринована макрель",
+                    "uuid": "cbfe217d-64fd-4fa1-89c2-04fa21ab7c84",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "a5a40b99-8b0b-43ac-987a-f2e27d814f8f": {
+                    "description": "",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/04e8b42d-230f-43d7-8b23-6e55afc72e0c",
+                    "price": 9700,
+                    "title": "Chicken nuggets",
+                    "uuid": "a5a40b99-8b0b-43ac-987a-f2e27d814f8f",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "f161d790-a031-4bb8-a99b-9dfea0fb9875": {
+                    "description": "Somersby, 500ml",
+                    "imageUrl": null,
+                    "price": 5700,
+                    "title": "Apple cider",
+                    "uuid": "f161d790-a031-4bb8-a99b-9dfea0fb9875",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "e53087c4-d42a-458f-adc5-87548d57510c": {
+                    "description": "Belgian dark beer, 500 ml",
+                    "imageUrl": null,
+                    "price": 9900,
+                    "title": "Grimbergen double-ambree",
+                    "uuid": "e53087c4-d42a-458f-adc5-87548d57510c",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "084d8c03-cc4d-42e9-af1f-485c543ab5b8": {
+                    "description": "",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/6b51d5e1-08f8-4543-92af-12731747978c",
+                    "price": 9700,
+                    "title": "Stuffed mushrooms",
+                    "uuid": "084d8c03-cc4d-42e9-af1f-485c543ab5b8",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "92a6a5c7-3c18-40e4-8703-d48fda2d61b1": {
+                    "description": "",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/7c668e1d-f19b-4171-9494-b9c23d6c3022",
+                    "price": 17800,
+                    "title": "Chiken tagliata",
+                    "uuid": "92a6a5c7-3c18-40e4-8703-d48fda2d61b1",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "3c08d80f-33d1-4959-b072-d414a6fb05fd": {
+                    "description": "Начос, рисові чіпчи, білі та темні грінки, гріссіні та міні брецелі",
+                    "imageUrl": "",
+                    "price": 19500,
+                    "title": "Асорті снеків до пива",
+                    "uuid": "3c08d80f-33d1-4959-b072-d414a6fb05fd",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "afdeab23-8749-4003-8d55-f826c1f0e136": {
+                    "description": "Royal, 500ml",
+                    "imageUrl": null,
+                    "price": 5700,
+                    "title": "Apricot cider ",
+                    "uuid": "afdeab23-8749-4003-8d55-f826c1f0e136",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "8b0f6530-55e4-4e98-ab8c-cc8e46da4d65": {
+                    "description": "",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/6f5eb3e3-ef92-4b07-9cf8-dd9908ff09ae",
+                    "price": 9700,
+                    "title": "Cheesecake",
+                    "uuid": "8b0f6530-55e4-4e98-ab8c-cc8e46da4d65",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "469bd800-b4c9-40f8-8eac-84c5f60c2cd8": {
+                    "description": "",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/ea95ce6a-4a2b-4fcc-9e19-36c5bf452883",
+                    "price": 6800,
+                    "title": "Deep fried cucumbers",
+                    "uuid": "469bd800-b4c9-40f8-8eac-84c5f60c2cd8",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "26be7bad-acde-46d8-8f15-1db020b6815e": {
+                    "description": "",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/95f94a18-600d-4a34-8e9a-55af0b96215e",
+                    "price": 21500,
+                    "title": "Лосось Гравалакс",
+                    "uuid": "26be7bad-acde-46d8-8f15-1db020b6815e",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 8640000000,
+                    "classifications": []
+                },
+                "b2b93f6f-0f2f-40a5-ac67-73f10fe63770": {
+                    "description": "",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/474bfb39-6827-496a-9456-94218909d392",
+                    "price": 17800,
+                    "title": "Philadelphia sandwich with chicken",
+                    "uuid": "b2b93f6f-0f2f-40a5-ac67-73f10fe63770",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "66f1bdbc-6571-4302-9c10-dec1ba98ef88": {
+                    "description": "",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/734e7c77-0be5-4f82-93d8-a364126c7b90",
+                    "price": 13800,
+                    "title": "Бастурма",
+                    "uuid": "66f1bdbc-6571-4302-9c10-dec1ba98ef88",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "745167c5-eae2-4869-b263-a4b3ed4cef88": {
+                    "description": "Dark ukrainian beer, 500ml",
+                    "imageUrl": null,
+                    "price": 4900,
+                    "title": "Mykulynetske dark",
+                    "uuid": "745167c5-eae2-4869-b263-a4b3ed4cef88",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "ccd9983c-4cc1-419c-a438-bed55c1543ae": {
+                    "description": "Irish stout, 500ml",
+                    "imageUrl": null,
+                    "price": 12000,
+                    "title": "Guinness",
+                    "uuid": "ccd9983c-4cc1-419c-a438-bed55c1543ae",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "bfd66944-685c-40e2-a0ca-d0231a680c5a": {
+                    "description": "Belgian light beer, 500ml",
+                    "imageUrl": null,
+                    "price": 9900,
+                    "title": "Grimbergen blonde",
+                    "uuid": "bfd66944-685c-40e2-a0ca-d0231a680c5a",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "a55c4de7-3e59-468a-ab90-9d0d9c96524a": {
+                    "description": "Red ale, 500ml",
+                    "imageUrl": null,
+                    "price": 12000,
+                    "title": "Kilkenny",
+                    "uuid": "a55c4de7-3e59-468a-ab90-9d0d9c96524a",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "3cf1fe35-2580-4b80-8c47-979dcfa0fc8e": {
+                    "description": "Ukrainian light beer, 500ml",
+                    "imageUrl": null,
+                    "price": 4900,
+                    "title": "Mykulynetske honey",
+                    "uuid": "3cf1fe35-2580-4b80-8c47-979dcfa0fc8e",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "cf941749-9105-43ed-bbff-da6ee89ffc34": {
+                    "description": "",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/44de6dd8-9224-4d14-a4d4-5192fc0b6e65",
+                    "price": 11800,
+                    "title": "Vegetable salad",
+                    "uuid": "cf941749-9105-43ed-bbff-da6ee89ffc34",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "6ae95524-24a5-4037-8dcd-3d45ccf7a85b": {
+                    "description": "Somersby, 500ml",
+                    "imageUrl": null,
+                    "price": 5700,
+                    "title": "Blueberry cider",
+                    "uuid": "6ae95524-24a5-4037-8dcd-3d45ccf7a85b",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "0f5171a9-f57a-43d1-931c-cb451cac5d92": {
+                    "description": "Ukrainian light unfiltered beer, 500ml",
+                    "imageUrl": null,
+                    "price": 5300,
+                    "title": "Lvivske white lion ",
+                    "uuid": "0f5171a9-f57a-43d1-931c-cb451cac5d92",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "f3780ad1-daf6-486e-a3ff-c38264746170": {
+                    "description": "",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/449cbb13-5283-4d19-b02c-88016b7db182",
+                    "price": 16800,
+                    "title": "Chiken Burger",
+                    "uuid": "f3780ad1-daf6-486e-a3ff-c38264746170",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "1bf0bfaa-3c76-44a7-ac0e-ccb92f54f2ee": {
+                    "description": "",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/474bfb39-6827-496a-9456-94218909d392",
+                    "price": 18600,
+                    "title": "Philadelphia sandwich with beef",
+                    "uuid": "1bf0bfaa-3c76-44a7-ac0e-ccb92f54f2ee",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "80c868ad-95df-4e46-8a66-7b28d4868717": {
+                    "description": "",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/78529336-d0a3-4493-9cc4-3391de87ad5c",
+                    "price": 8700,
+                    "title": "Ukrainian borscht with papmushkas",
+                    "uuid": "80c868ad-95df-4e46-8a66-7b28d4868717",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "1173af88-3b23-48d9-9648-52028443e7a7": {
+                    "description": "50g.",
+                    "imageUrl": "",
+                    "price": 1000,
+                    "title": "Mayonnaise",
+                    "uuid": "1173af88-3b23-48d9-9648-52028443e7a7",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "0f9975ce-7a83-4eca-93d5-5ecd9e4ea3da": {
+                    "description": "",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/f65566cb-d336-453f-aa6c-cde1b029791a",
+                    "price": 13700,
+                    "title": "Traditional Ukrainian salo set",
+                    "uuid": "0f9975ce-7a83-4eca-93d5-5ecd9e4ea3da",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "20452c77-7034-47ab-9582-32e16bef9a84": {
+                    "description": "",
+                    "imageUrl": "",
+                    "price": 9700,
+                    "title": "Grilled sausages",
+                    "uuid": "20452c77-7034-47ab-9582-32e16bef9a84",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "9dfd571f-c6a2-4b7c-a5a2-5136f7339e7e": {
+                    "description": "",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/93423f8d-dcdf-41a0-af72-cd1000d18da2",
+                    "price": 25500,
+                    "title": "Копченості до пива з соусом барбекю",
+                    "uuid": "9dfd571f-c6a2-4b7c-a5a2-5136f7339e7e",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "6f085a43-df70-422f-974a-0df9dc21fcfc": {
+                    "description": "",
+                    "imageUrl": "",
+                    "price": 21700,
+                    "title": "Beef stew with demi-glace sauce",
+                    "uuid": "6f085a43-df70-422f-974a-0df9dc21fcfc",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "773c5987-64ae-4dc2-8f17-40a2337bf138": {
+                    "description": "Біле сало, сало в перці, бекон український, паштет з сала, хліб та цибуля",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/0ddfe172-3899-4139-b901-a19cccef4ac3",
+                    "price": 13700,
+                    "title": "Сало сет",
+                    "uuid": "773c5987-64ae-4dc2-8f17-40a2337bf138",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "d5dc8a8a-4c62-48fb-a00d-ba80ccb8f140": {
+                    "description": "",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/53c9cfc0-c568-44ca-9674-6c6ba2374f92",
+                    "price": 9900,
+                    "title": "Cheese sticks",
+                    "uuid": "d5dc8a8a-4c62-48fb-a00d-ba80ccb8f140",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "190d817e-e1e5-422b-a64a-8ccc0816c73d": {
+                    "description": "50g.",
+                    "imageUrl": "",
+                    "price": 1000,
+                    "title": "Tartar sauce",
+                    "uuid": "190d817e-e1e5-422b-a64a-8ccc0816c73d",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "025e8f3c-8d9a-44c4-9b5c-c4d978a7b8e4": {
+                    "description": "50g.",
+                    "imageUrl": "",
+                    "price": 1000,
+                    "title": "Ketchup",
+                    "uuid": "025e8f3c-8d9a-44c4-9b5c-c4d978a7b8e4",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "2b502da6-2613-49fc-a4ea-01d595b41f91": {
+                    "description": "Рибний та курячий паштети, хумус з оливками",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/54e89480-46da-4ac8-a493-2e50cb454c54",
+                    "price": 14700,
+                    "title": "Асоті намазок з грінками",
+                    "uuid": "2b502da6-2613-49fc-a4ea-01d595b41f91",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "455f32ef-ad24-4aaa-a949-3b82e6da362c": {
+                    "description": "50g.",
+                    "imageUrl": "",
+                    "price": 1000,
+                    "title": "Rench sauce",
+                    "uuid": "455f32ef-ad24-4aaa-a949-3b82e6da362c",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "d56d5028-0d80-4916-9a1e-5122c90c3981": {
+                    "description": "50g.",
+                    "imageUrl": "",
+                    "price": 900,
+                    "title": "Sour cream",
+                    "uuid": "d56d5028-0d80-4916-9a1e-5122c90c3981",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "25827478-1dec-4d09-8e11-42004308de7f": {
+                    "description": "",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/95f94a18-600d-4a34-8e9a-55af0b96215e",
+                    "price": 21500,
+                    "title": "Gravalax salmon",
+                    "uuid": "25827478-1dec-4d09-8e11-42004308de7f",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "278609b6-b165-42cd-811e-fa71e4e4fd18": {
+                    "description": "Brioche buns,Tar-tar sauce, tomatoes, falafel, lettuce, Arugula, grilled vegetables, Tofu cheese, Teriyaki sauce",
+                    "imageUrl": "",
+                    "price": 14700,
+                    "title": "Burger Vegetarian",
+                    "uuid": "278609b6-b165-42cd-811e-fa71e4e4fd18",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "146d940e-3b93-43be-8792-5fece96b65ac": {
+                    "description": "",
+                    "imageUrl": "",
+                    "price": 8900,
+                    "title": "Apple pie",
+                    "uuid": "146d940e-3b93-43be-8792-5fece96b65ac",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "5d07c85b-ebc0-4c88-baeb-2a152779648c": {
+                    "description": "",
+                    "imageUrl": "",
+                    "price": 19700,
+                    "title": "Beef tartare",
+                    "uuid": "5d07c85b-ebc0-4c88-baeb-2a152779648c",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "dd9d30bb-5727-4e74-8359-52de2bfac996": {
+                    "description": "",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/a2376cff-47f8-4ce5-a4f1-2a4ab25bb0d1",
+                    "price": 24500,
+                    "title": "Smoked snacks to beer",
+                    "uuid": "dd9d30bb-5727-4e74-8359-52de2bfac996",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "55a90342-a2ed-4e92-9479-6a502fae93e7": {
+                    "description": "",
+                    "imageUrl": "",
+                    "price": 8700,
+                    "title": "Potatoes cream soup",
+                    "uuid": "55a90342-a2ed-4e92-9479-6a502fae93e7",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "ea8d464f-c9ac-4ba7-8c65-ba2e91a123fe": {
+                    "description": "Brioche buns, ketchup, mustard, tar-tar sauce, tomatoes, lettuce, pickled cucumber, onion ring, cheese and veal cutlet",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/896862f7-e0d6-4789-845a-42ac0d8287bb",
+                    "price": 18900,
+                    "title": "Burger Golden Gate",
+                    "uuid": "ea8d464f-c9ac-4ba7-8c65-ba2e91a123fe",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "ef41ca05-9f28-484e-ba7e-2cc89af1196e": {
+                    "description": "",
+                    "imageUrl": "",
+                    "price": 8900,
+                    "title": "Traditional Irish onion soup",
+                    "uuid": "ef41ca05-9f28-484e-ba7e-2cc89af1196e",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "5a43d9f8-d25d-4e0a-a779-27c673e14849": {
+                    "description": "",
+                    "imageUrl": "",
+                    "price": 13800,
+                    "title": "Chicken wings",
+                    "uuid": "5a43d9f8-d25d-4e0a-a779-27c673e14849",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "d9d82438-4826-4873-a044-2a3779d053b1": {
+                    "description": "",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/3c5dae5d-bb5e-4eb4-a009-6efc5eb56e05",
+                    "price": 13900,
+                    "title": "Caeser salad with grilled chicken",
+                    "uuid": "d9d82438-4826-4873-a044-2a3779d053b1",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "3d877690-0300-4e56-b8bf-da98733cf9d4": {
+                    "description": "German lager, 500ml",
+                    "imageUrl": null,
+                    "price": 11200,
+                    "title": "Warsteiner",
+                    "uuid": "3d877690-0300-4e56-b8bf-da98733cf9d4",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "7d4b22f6-f868-4030-a43a-aa2ed0d2cba0": {
+                    "description": "",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/aef74af2-d14d-4ac6-95aa-c4b6d03c9a30",
+                    "price": 9700,
+                    "title": "Marinated mackerel",
+                    "uuid": "7d4b22f6-f868-4030-a43a-aa2ed0d2cba0",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "12daa696-f65e-42c7-876f-98676cd0c650": {
+                    "description": "",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/45a0ce34-ce09-400c-bde1-3c835375409d",
+                    "price": 17800,
+                    "title": "Deep fried Camembert cheese",
+                    "uuid": "12daa696-f65e-42c7-876f-98676cd0c650",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "5493799a-5089-4849-98cb-e7274c775979": {
+                    "description": "Ukrainian lager, 500 ml",
+                    "imageUrl": null,
+                    "price": 5300,
+                    "title": "Carlsberg",
+                    "uuid": "5493799a-5089-4849-98cb-e7274c775979",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "8ef4b5fb-40a4-4d2f-83c7-9fa3b4f32774": {
+                    "description": "",
+                    "imageUrl": "",
+                    "price": 9700,
+                    "title": "Waffle cake",
+                    "uuid": "8ef4b5fb-40a4-4d2f-83c7-9fa3b4f32774",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "5e1d0216-a0b7-4c2d-8edb-e8e87851eec1": {
+                    "description": "Briech buns, Barbecue sauce, tomatoes, Veal cutlet with Chili, Spinach, Pickled Cucumber, Caramelized Onion, Cheese and Bacon",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/56627a1f-3a11-4596-8cf3-fa5b53ab622e",
+                    "price": 17800,
+                    "title": "Burger BBQ",
+                    "uuid": "5e1d0216-a0b7-4c2d-8edb-e8e87851eec1",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "c81bc882-98a5-4805-885a-5eb2e0152db4": {
+                    "description": "",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/b3542150-bcca-4aad-a1fa-fc139ba965a1",
+                    "price": 16700,
+                    "title": "Salad with warm beef",
+                    "uuid": "c81bc882-98a5-4805-885a-5eb2e0152db4",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "eebfb3f8-7a85-421e-8142-c01c71ab6b23": {
+                    "description": "Ukrainian lager, 500ml",
+                    "imageUrl": null,
+                    "price": 4300,
+                    "title": "Lvivske 1715",
+                    "uuid": "eebfb3f8-7a85-421e-8142-c01c71ab6b23",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "ea98e33b-402b-4b7f-94fa-030c6984a6d6": {
+                    "description": "",
+                    "imageUrl": "",
+                    "price": 22800,
+                    "title": "Beef stew with mushrooms sauce",
+                    "uuid": "ea98e33b-402b-4b7f-94fa-030c6984a6d6",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "0c9b7e97-623a-4581-bdab-49b967676a03": {
+                    "description": "",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/8698c4cd-a4f3-4304-8515-134e9530761c",
+                    "price": 13800,
+                    "title": "Basturma",
+                    "uuid": "0c9b7e97-623a-4581-bdab-49b967676a03",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "79a98edc-6c40-4f6d-9231-851d198ebedd": {
+                    "description": "",
+                    "imageUrl": "",
+                    "price": 19700,
+                    "title": "Тар-тар з телятини",
+                    "uuid": "79a98edc-6c40-4f6d-9231-851d198ebedd",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "fb1e5051-5aaa-40f9-b4e5-ced58556209e": {
+                    "description": "Belgian unfiltered beer, 500ml",
+                    "imageUrl": null,
+                    "price": 9900,
+                    "title": "Grimbergen blanche ",
+                    "uuid": "fb1e5051-5aaa-40f9-b4e5-ced58556209e",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "dcaab772-2796-4e7b-bf9d-2f9a3eb66c33": {
+                    "description": "50g.",
+                    "imageUrl": "",
+                    "price": 1000,
+                    "title": "Mustard",
+                    "uuid": "dcaab772-2796-4e7b-bf9d-2f9a3eb66c33",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "d4a3c006-f1f3-4caa-88d5-4a5d02a692cb": {
+                    "description": "With French fries and BBQ sauce.",
+                    "imageUrl": "",
+                    "price": 29700,
+                    "title": "Stewed pork ribs",
+                    "uuid": "d4a3c006-f1f3-4caa-88d5-4a5d02a692cb",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "83690222-cc67-4dac-ba05-0fb093ddb030": {
+                    "description": "50g.",
+                    "imageUrl": "",
+                    "price": 1500,
+                    "title": "Honey-mustard sauce",
+                    "uuid": "83690222-cc67-4dac-ba05-0fb093ddb030",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                }
+            },
+            "861b4dc2-a293-46f1-be0a-e5cec6424dfc": {
+                "d559a030-429b-4288-a875-56637b6dd824": {
+                    "description": "Понеділок:\nСирний крем-суп з крутонами - 250г.\nКурячий міні-бургер з картоплею по-ірландськи - 300г.\nВівторок:\nОвочевий салат з білим редисом під вершково-м'ятним соусом - 250г.\nКурка під імбирно-кунжутним соусом з рисом - 300г.\nСереда:\nСалат з печеною куркою під йогуртовим соусом - 250г.\nПаста з овочами під соусом Теріякі - 300г.\nЧетвер:\nЮшка з білими грибами - 300г.\nМітболи в томатному соусі з картопляним пюре -350г.\nП'ятниця:\nВінегрет з беконом та квасолею - 250г.\nОвочеве рагу з бейбі-морковкою та гливами - 300г.\n",
+                    "imageUrl": "",
+                    "price": 13500,
+                    "title": "Ланч - меню",
+                    "uuid": "d559a030-429b-4288-a875-56637b6dd824",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                }
+            },
+            "acf4c515-2725-4e1f-b6b5-ba8946e8400e": {
+                "3c5e8ea2-7cd0-4178-a84d-e1d2a19eed75": {
+                    "description": "Monday:\nCheese cream-soup with croutons - 250g.\nChicken burger with irish chips  - 300g.\nTuesday:\nVegetable salad with white radish with yogurt sauce - 250g.\nChicken with ginger-sesame sauce and rice - 300g.\nWednesday:\nChicken salad whith creamy-mint sauce - 250g.\nPasta with vegetables in teriyaki sauce - 300g.\nThursday:\nSoup with white mushrooms - 300g.\nMeatballs in tomato sauce with mashed potatoes - 350g.\nFriday:\nVeganget with bacon and beans - 250g.\nVegetable stew with baby carrot and mushrooms - 300g.",
+                    "imageUrl": "",
+                    "price": 13500,
+                    "title": "Lunch Menu",
+                    "uuid": "3c5e8ea2-7cd0-4178-a84d-e1d2a19eed75",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                }
+            }
+        },
+        "sections": [
+            {
+                "subsectionUuids": [
+                    "3ce54a50-1f6e-4c22-8476-a13021e5f400",
+                    "02962bde-3f2b-4efa-b6aa-9b131a517417",
+                    "250f8685-ca8b-4b30-8adf-6a831b4017ec",
+                    "0bcdc8a9-68c4-4ef8-9539-37b11b041332",
+                    "adedd21a-c324-48ad-b7e4-bcc58ad29b0d",
+                    "db59099c-ff19-4787-88a6-29c2c07591b4",
+                    "46b33c0d-ab08-49f9-9c8b-baf3d4f577b5",
+                    "8862dd53-b571-422d-98c6-5425a07c56e8",
+                    "0008f998-26c2-4dc3-a2a9-05c3f27b08d1",
+                    "b6f285e1-99b0-44c4-8123-a4435bf7f4c1",
+                    "c14a7cc9-7f6e-40cc-ba0c-edc9f743983a"
+                ],
+                "title": "SWITCH LANGUAGE (UKR)",
+                "subtitle": "11:00 AM – 10:00 PM",
+                "uuid": "3b41e8b9-5617-4e08-9f14-48c6f6d5a8a1",
+                "isTop": true,
+                "isOnSale": true
+            },
+            {
+                "subsectionUuids": [
+                    "86aaac55-0b2e-4d22-bbbc-9243f09227e0",
+                    "abc720c3-f32e-4dbd-b253-70a2b68a9a61",
+                    "e244ecd0-1d47-4dd9-8567-a56b42b4bf71",
+                    "6efd2eb2-5d53-4fc3-80b2-2217d2e91fe5",
+                    "97837ba3-8fe7-4361-af26-8f1824f150e6",
+                    "ce260b77-f2d6-4592-bf3c-add6818a71b5",
+                    "7f937688-2dac-4eb7-b099-09eaee2ad80e",
+                    "0b2032a4-9a48-4389-8af3-fcadfb37a77c",
+                    "c6776621-5b67-48d3-b872-ffa7d2881b58",
+                    "f9a4be92-552b-4005-a418-3206d6f26bc2",
+                    "02962bde-3f2b-4efa-b6aa-9b131a517417",
+                    "5a659c10-6d93-4f20-a6c0-4a72277766db"
+                ],
+                "title": "SWITCH LANGUAGE (ENG)",
+                "subtitle": "11:00 AM – 10:00 PM",
+                "uuid": "302f21f9-863a-4e01-b469-518783a9f986",
+                "isTop": false,
+                "isOnSale": true
+            },
+            {
+                "subsectionUuids": [
+                    "e07e0efe-b841-4912-a2d1-6c4e1ea8f1ca"
+                ],
+                "title": "Ланч - меню",
+                "subtitle": "Fri 12:00 PM – 4:00 PM",
+                "uuid": "861b4dc2-a293-46f1-be0a-e5cec6424dfc",
+                "isTop": false,
+                "isOnSale": false
+            },
+            {
+                "subsectionUuids": [
+                    "f0030535-bdaa-4483-829b-f04327682acb"
+                ],
+                "title": "Lunch Menu",
+                "subtitle": "Fri 12:00 PM – 4:00 PM",
+                "uuid": "acf4c515-2725-4e1f-b6b5-ba8946e8400e",
+                "isTop": false,
+                "isOnSale": false
+            }
+        ],
+        "subsectionsMap": {
+            "250f8685-ca8b-4b30-8adf-6a831b4017ec": {
+                "itemUuids": [
+                    "990712ff-53e7-47fa-8ac6-53ea6a6f840f",
+                    "e92df3b4-119c-4fd3-bf3c-7bfbbe628536",
+                    "90963db9-b625-46bf-86fd-218dd2ad228d",
+                    "504b3b35-e68e-4963-b6ef-a389f2e32efb",
+                    "e3411b1c-c6f6-48a3-b0ff-699e948a7c15",
+                    "e94140e4-1d14-4055-b053-6c2794618dfc",
+                    "117aa9e5-883e-49c0-98f5-692f160d8de1",
+                    "898b1f45-0303-4c8b-87e6-315d76a27d92",
+                    "8c281c6a-1623-4726-bb43-bdd1f90053dc"
+                ],
+                "subtitle": "",
+                "title": "Гарячі закуски",
+                "uuid": "250f8685-ca8b-4b30-8adf-6a831b4017ec",
+                "displayType": null
+            },
+            "86aaac55-0b2e-4d22-bbbc-9243f09227e0": {
+                "itemUuids": [
+                    "cf941749-9105-43ed-bbff-da6ee89ffc34",
+                    "bac8ab2f-28fa-489d-b85e-eb690bb4950b",
+                    "d9d82438-4826-4873-a044-2a3779d053b1",
+                    "0083e5a0-12ae-4728-a1f5-3d2737c3de94",
+                    "c81bc882-98a5-4805-885a-5eb2e0152db4"
+                ],
+                "subtitle": "",
+                "title": "Salads",
+                "uuid": "86aaac55-0b2e-4d22-bbbc-9243f09227e0",
+                "displayType": null
+            },
+            "6efd2eb2-5d53-4fc3-80b2-2217d2e91fe5": {
+                "itemUuids": [
+                    "ef41ca05-9f28-484e-ba7e-2cc89af1196e",
+                    "80c868ad-95df-4e46-8a66-7b28d4868717",
+                    "55a90342-a2ed-4e92-9479-6a502fae93e7"
+                ],
+                "subtitle": "",
+                "title": "Soups",
+                "uuid": "6efd2eb2-5d53-4fc3-80b2-2217d2e91fe5",
+                "displayType": null
+            },
+            "02962bde-3f2b-4efa-b6aa-9b131a517417": {
+                "itemUuids": [
+                    "66f1bdbc-6571-4302-9c10-dec1ba98ef88",
+                    "2b502da6-2613-49fc-a4ea-01d595b41f91",
+                    "cbfe217d-64fd-4fa1-89c2-04fa21ab7c84",
+                    "9dfd571f-c6a2-4b7c-a5a2-5136f7339e7e",
+                    "773c5987-64ae-4dc2-8f17-40a2337bf138",
+                    "26be7bad-acde-46d8-8f15-1db020b6815e",
+                    "79a98edc-6c40-4f6d-9231-851d198ebedd",
+                    "3c08d80f-33d1-4959-b072-d414a6fb05fd"
+                ],
+                "subtitle": "",
+                "title": "Холодні закуски",
+                "uuid": "02962bde-3f2b-4efa-b6aa-9b131a517417",
+                "displayType": null
+            },
+            "b6f285e1-99b0-44c4-8123-a4435bf7f4c1": {
+                "itemUuids": [
+                    "25d17568-481f-4505-913e-ec8d07cb4b92",
+                    "8f1c671b-5993-4dcc-9cec-41c036d2e123",
+                    "c30bba53-6390-4261-b6b1-323f7b0841f3",
+                    "3904e3de-a561-4bba-b5f3-df00a2500c06",
+                    "f9f325b5-1008-4210-af70-402d9111b90a",
+                    "0c5a4f93-e181-4978-98d7-62d060159271",
+                    "56edbc3b-8c6c-4b1e-a782-98d873f450cf",
+                    "6ee930d7-178d-4552-8cef-c6ba2d6842f1",
+                    "0bb14eac-eb9d-4d72-8fc7-3cdce8ca753e"
+                ],
+                "subtitle": "",
+                "title": "Соуси",
+                "uuid": "b6f285e1-99b0-44c4-8123-a4435bf7f4c1",
+                "displayType": null
+            },
+            "7f937688-2dac-4eb7-b099-09eaee2ad80e": {
+                "itemUuids": [
+                    "ea98e33b-402b-4b7f-94fa-030c6984a6d6",
+                    "6f085a43-df70-422f-974a-0df9dc21fcfc",
+                    "f0c035c8-a374-4e8f-bc9e-26f5a77ad0ef"
+                ],
+                "subtitle": "",
+                "title": "Stew",
+                "uuid": "7f937688-2dac-4eb7-b099-09eaee2ad80e",
+                "displayType": null
+            },
+            "abc720c3-f32e-4dbd-b253-70a2b68a9a61": {
+                "itemUuids": [
+                    "0c9b7e97-623a-4581-bdab-49b967676a03",
+                    "dca2f598-07e8-428a-bcff-5e7fb5268929",
+                    "7d4b22f6-f868-4030-a43a-aa2ed0d2cba0",
+                    "dd9d30bb-5727-4e74-8359-52de2bfac996",
+                    "0f9975ce-7a83-4eca-93d5-5ecd9e4ea3da",
+                    "25827478-1dec-4d09-8e11-42004308de7f",
+                    "5d07c85b-ebc0-4c88-baeb-2a152779648c",
+                    "2cff09c0-ce3b-4467-bd1e-0fd7377528cc"
+                ],
+                "subtitle": "",
+                "title": "Apperitzers",
+                "uuid": "abc720c3-f32e-4dbd-b253-70a2b68a9a61",
+                "displayType": null
+            },
+            "0008f998-26c2-4dc3-a2a9-05c3f27b08d1": {
+                "itemUuids": [
+                    "4e85082d-0931-4c38-a726-5df342298722",
+                    "393cbe35-48bc-4bc6-acdc-c8c1c3b05f60",
+                    "54b555c9-ae0e-46a8-9f56-20552073755a",
+                    "a78c6abe-d6b5-4cf9-a738-e4f4206f34fa"
+                ],
+                "subtitle": "",
+                "title": "Десерти",
+                "uuid": "0008f998-26c2-4dc3-a2a9-05c3f27b08d1",
+                "displayType": null
+            },
+            "5a659c10-6d93-4f20-a6c0-4a72277766db": {
+                "itemUuids": [
+                    "eebfb3f8-7a85-421e-8142-c01c71ab6b23",
+                    "0f5171a9-f57a-43d1-931c-cb451cac5d92",
+                    "29868072-6c96-40ca-965d-c90ecdb2a444",
+                    "5493799a-5089-4849-98cb-e7274c775979",
+                    "3cf1fe35-2580-4b80-8c47-979dcfa0fc8e",
+                    "745167c5-eae2-4869-b263-a4b3ed4cef88",
+                    "a55c4de7-3e59-468a-ab90-9d0d9c96524a",
+                    "fb1e5051-5aaa-40f9-b4e5-ced58556209e",
+                    "bfd66944-685c-40e2-a0ca-d0231a680c5a",
+                    "e53087c4-d42a-458f-adc5-87548d57510c",
+                    "3d877690-0300-4e56-b8bf-da98733cf9d4",
+                    "ccd9983c-4cc1-419c-a438-bed55c1543ae",
+                    "1c232987-bd1c-4002-bd94-f464bccad03b",
+                    "f161d790-a031-4bb8-a99b-9dfea0fb9875",
+                    "6ae95524-24a5-4037-8dcd-3d45ccf7a85b",
+                    "afdeab23-8749-4003-8d55-f826c1f0e136"
+                ],
+                "subtitle": null,
+                "title": "Beer",
+                "uuid": "5a659c10-6d93-4f20-a6c0-4a72277766db",
+                "displayType": null
+            },
+            "0bcdc8a9-68c4-4ef8-9539-37b11b041332": {
+                "itemUuids": [
+                    "b39d13d8-0917-442d-a1d2-bc0bfdd99ecb",
+                    "a6c95dd2-59b7-4f89-b825-c3603574b8cc",
+                    "dca92525-e509-4add-869a-01982c3ddd23"
+                ],
+                "subtitle": "",
+                "title": "Супи",
+                "uuid": "0bcdc8a9-68c4-4ef8-9539-37b11b041332",
+                "displayType": null
+            },
+            "f0030535-bdaa-4483-829b-f04327682acb": {
+                "itemUuids": [
+                    "3c5e8ea2-7cd0-4178-a84d-e1d2a19eed75"
+                ],
+                "subtitle": "",
+                "title": "Lunch Menu",
+                "uuid": "f0030535-bdaa-4483-829b-f04327682acb",
+                "displayType": null
+            },
+            "8862dd53-b571-422d-98c6-5425a07c56e8": {
+                "itemUuids": [
+                    "373e3013-aa5f-4159-8825-f7731b289108",
+                    "9d503c67-e174-4f8a-8e59-d7f9e1da6f9f",
+                    "ec91d51e-4752-4fb7-a129-eb973a55c1d8"
+                ],
+                "subtitle": "",
+                "title": "Основні страви",
+                "uuid": "8862dd53-b571-422d-98c6-5425a07c56e8",
+                "displayType": null
+            },
+            "db59099c-ff19-4787-88a6-29c2c07591b4": {
+                "itemUuids": [
+                    "08662d51-674f-4c85-a891-fed365deb9d1",
+                    "a9068117-03bc-44cb-838d-407713972939"
+                ],
+                "subtitle": "",
+                "title": "Сендвічі",
+                "uuid": "db59099c-ff19-4787-88a6-29c2c07591b4",
+                "displayType": null
+            },
+            "adedd21a-c324-48ad-b7e4-bcc58ad29b0d": {
+                "itemUuids": [
+                    "321e637a-d766-46b0-bf7a-470f22866dfa",
+                    "ccfff857-cc7f-483d-baaf-40b6c5b89614",
+                    "8fb82970-3a65-4993-b35d-d5a5acab06b1",
+                    "32ac40d1-e375-4f9e-8426-22099ad50e85",
+                    "a609b7ec-50e5-44db-96a1-1d1dcd4492af"
+                ],
+                "subtitle": "",
+                "title": "Бургери",
+                "uuid": "adedd21a-c324-48ad-b7e4-bcc58ad29b0d",
+                "displayType": null
+            },
+            "f9a4be92-552b-4005-a418-3206d6f26bc2": {
+                "itemUuids": [
+                    "dcaab772-2796-4e7b-bf9d-2f9a3eb66c33",
+                    "025e8f3c-8d9a-44c4-9b5c-c4d978a7b8e4",
+                    "1173af88-3b23-48d9-9648-52028443e7a7",
+                    "5e508312-82ae-4700-8341-3a555a04af1f",
+                    "83690222-cc67-4dac-ba05-0fb093ddb030",
+                    "455f32ef-ad24-4aaa-a949-3b82e6da362c",
+                    "d56d5028-0d80-4916-9a1e-5122c90c3981",
+                    "5273e785-3a65-43c3-a17e-7a8b92e47f40",
+                    "190d817e-e1e5-422b-a64a-8ccc0816c73d"
+                ],
+                "subtitle": "",
+                "title": "Sauces",
+                "uuid": "f9a4be92-552b-4005-a418-3206d6f26bc2",
+                "displayType": null
+            },
+            "e07e0efe-b841-4912-a2d1-6c4e1ea8f1ca": {
+                "itemUuids": [
+                    "d559a030-429b-4288-a875-56637b6dd824"
+                ],
+                "subtitle": "",
+                "title": "Ланч - меню",
+                "uuid": "e07e0efe-b841-4912-a2d1-6c4e1ea8f1ca",
+                "displayType": null
+            },
+            "c6776621-5b67-48d3-b872-ffa7d2881b58": {
+                "itemUuids": [
+                    "8b0f6530-55e4-4e98-ab8c-cc8e46da4d65",
+                    "146d940e-3b93-43be-8792-5fece96b65ac",
+                    "c5d2811b-d11f-4ab1-aee0-6893356db7f0",
+                    "8ef4b5fb-40a4-4d2f-83c7-9fa3b4f32774"
+                ],
+                "subtitle": "",
+                "title": "Desserts",
+                "uuid": "c6776621-5b67-48d3-b872-ffa7d2881b58",
+                "displayType": null
+            },
+            "c14a7cc9-7f6e-40cc-ba0c-edc9f743983a": {
+                "itemUuids": [
+                    "c4e2f1d0-11be-4d88-a910-475679ec0696",
+                    "94c2f095-4260-4dd5-b62e-d8814dc5f929",
+                    "7fffb739-23bb-4b98-a634-50565c762e3e",
+                    "01985e2c-468f-4322-a085-d0fe94f4fc5f",
+                    "9aa4ac41-58da-493f-99a0-4589a5f0e987",
+                    "5f3ebed0-660e-4187-af7b-d826184c3ce7",
+                    "014bf078-f6b7-46da-95bc-2ccf76fde932",
+                    "81a29c69-2b82-4720-b174-1292c1ed6dda",
+                    "2ffae6d0-ee26-448c-a621-3d9c1e77bc46",
+                    "2fc32a26-1088-4706-9457-c4b09023bdab",
+                    "c19a6d5a-608b-4eb6-9c3f-b73146acda1a",
+                    "3873f06b-1898-4587-a06c-1b3fc29021fa",
+                    "60201c87-5291-4438-a1b2-6fd3a4cb62f6",
+                    "e28dd429-45b8-4c23-8c2c-dce7f6532ef5",
+                    "31f3fc33-e86e-412c-804b-e2e4388dcf10",
+                    "6a489cd0-73bb-42de-a278-943d56e3ccee"
+                ],
+                "subtitle": null,
+                "title": "Пиво",
+                "uuid": "c14a7cc9-7f6e-40cc-ba0c-edc9f743983a",
+                "displayType": null
+            },
+            "97837ba3-8fe7-4361-af26-8f1824f150e6": {
+                "itemUuids": [
+                    "ea8d464f-c9ac-4ba7-8c65-ba2e91a123fe",
+                    "f3780ad1-daf6-486e-a3ff-c38264746170",
+                    "5e1d0216-a0b7-4c2d-8edb-e8e87851eec1",
+                    "1a159ce4-be33-459a-a31a-9894e6d53f56",
+                    "278609b6-b165-42cd-811e-fa71e4e4fd18"
+                ],
+                "subtitle": "",
+                "title": "Burgers",
+                "uuid": "97837ba3-8fe7-4361-af26-8f1824f150e6",
+                "displayType": null
+            },
+            "46b33c0d-ab08-49f9-9c8b-baf3d4f577b5": {
+                "itemUuids": [
+                    "b31f7576-1896-42b1-8bd6-1b017943193b",
+                    "5e6d9fe6-fe60-42e8-9afa-7e9899e2a8c0",
+                    "6c65ecdb-5728-46a3-a215-5f0729c7ed98"
+                ],
+                "subtitle": "",
+                "title": "Печеня",
+                "uuid": "46b33c0d-ab08-49f9-9c8b-baf3d4f577b5",
+                "displayType": null
+            },
+            "3ce54a50-1f6e-4c22-8476-a13021e5f400": {
+                "itemUuids": [
+                    "be98fa7b-0cc4-445b-9be8-4616dcaec91b",
+                    "28a07ede-bfb6-4297-a013-b05d445318eb",
+                    "7e859fe7-26f4-4dc3-b62b-3239b66d7f7e",
+                    "da6a2482-bfef-4432-bc3d-29dbab102746",
+                    "7b54bd3c-7e32-47d3-b490-251263cc2480"
+                ],
+                "subtitle": "",
+                "title": "Салати",
+                "uuid": "3ce54a50-1f6e-4c22-8476-a13021e5f400",
+                "displayType": null
+            },
+            "e244ecd0-1d47-4dd9-8567-a56b42b4bf71": {
+                "itemUuids": [
+                    "20452c77-7034-47ab-9582-32e16bef9a84",
+                    "d5dc8a8a-4c62-48fb-a00d-ba80ccb8f140",
+                    "12daa696-f65e-42c7-876f-98676cd0c650",
+                    "a5a40b99-8b0b-43ac-987a-f2e27d814f8f",
+                    "469bd800-b4c9-40f8-8eac-84c5f60c2cd8",
+                    "084d8c03-cc4d-42e9-af1f-485c543ab5b8",
+                    "de96add7-e6c0-4e55-a380-1f0aab8985fe",
+                    "d42cb93b-ac6b-4f12-9d09-09b2406e235a",
+                    "5a43d9f8-d25d-4e0a-a779-27c673e14849"
+                ],
+                "subtitle": "",
+                "title": "Hot apperitzers",
+                "uuid": "e244ecd0-1d47-4dd9-8567-a56b42b4bf71",
+                "displayType": null
+            },
+            "0b2032a4-9a48-4389-8af3-fcadfb37a77c": {
+                "itemUuids": [
+                    "ea65154a-8bca-42a2-9a75-66874d835a37",
+                    "d4a3c006-f1f3-4caa-88d5-4a5d02a692cb",
+                    "92a6a5c7-3c18-40e4-8703-d48fda2d61b1"
+                ],
+                "subtitle": "",
+                "title": "Main courses",
+                "uuid": "0b2032a4-9a48-4389-8af3-fcadfb37a77c",
+                "displayType": null
+            },
+            "ce260b77-f2d6-4592-bf3c-add6818a71b5": {
+                "itemUuids": [
+                    "b2b93f6f-0f2f-40a5-ac67-73f10fe63770",
+                    "1bf0bfaa-3c76-44a7-ac0e-ccb92f54f2ee"
+                ],
+                "subtitle": "",
+                "title": "Sandwiches",
+                "uuid": "ce260b77-f2d6-4592-bf3c-add6818a71b5",
+                "displayType": null
+            }
+        },
+        "title": "Golden Gate Pub",
+        "uuid": "c6017869-9e7c-48d1-a886-7b7591660d44",
+        "categories": [
+            "₴₴",
+            "Українська",
+            "Закуски",
+            "Бургери"
+        ],
+        "cuisineList": [
+            "Українська",
+            "Закуски",
+            "Бургери"
+        ],
+        "priceBucket": "₴₴",
+        "etaRange": {
+            "text": "35–45 min",
+            "iconUrl": ""
+        },
+        "ratingBadge": {
+            "text": "<span><span style=\"font-family: inherit; color: #3a3a48;\">4.2 <img src=\"https://d1a3f4spazzrp4.cloudfront.net/static/images/Star_Black_Eats_3.png\" width=\"14\" height=\"14\" vertical-align=\"middle\"> </span><span style=\"font-family: inherit; color: #757575;\">(24)</span></span>"
+        },
+        "disclaimerBadge": null,
+        "fareBadge": null,
+        "fareInfo": {
+            "serviceFee": 30,
+            "serviceFeeCents": 3000
+        },
+        "promotion": null,
+        "shouldIndex": true,
+        "heroImageUrls": [
+            {
+                "url": "https://d1ralsognjng37.cloudfront.net/0a02f54f-9560-41be-9595-70f3b7a6a728",
+                "width": 240
+            },
+            {
+                "url": "https://d1ralsognjng37.cloudfront.net/40772782-7445-4c54-a24b-80fa13466684",
+                "width": 550
+            },
+            {
+                "url": "https://d1ralsognjng37.cloudfront.net/35d93552-dcd9-4770-af3d-a58185e545e4",
+                "width": 640
+            },
+            {
+                "url": "https://d1ralsognjng37.cloudfront.net/aed3b160-47db-4b07-b7c4-5f6322186269",
+                "width": 750
+            },
+            {
+                "url": "https://d1ralsognjng37.cloudfront.net/194cff57-8b56-4ac4-bec2-4ffb9ab0761e",
+                "width": 1080
+            },
+            {
+                "url": "https://d1ralsognjng37.cloudfront.net/fccf8181-857c-4eac-a5f4-712af92b8254",
+                "width": 2880
+            }
+        ],
+        "isOpen": true,
+        "currencyCode": "UAH",
+        "closedMessage": "Currently unavailable",
+        "location": {
+            "address": "Zolotovoritska St, 15, Kyiv, 02000",
+            "streetAddress": "Zolotovoritska St, 15",
+            "city": "Kyiv",
+            "country": "UA",
+            "postalCode": "02000",
+            "region": "",
+            "latitude": 50.449385307845226,
+            "longitude": 30.513855914058553
+        },
+        "isDeliveryThirdParty": false,
+        "hours": [
+            {
+                "dayRange": "Sunday",
+                "sectionHours": [
+                    {
+                        "startTime": 660,
+                        "endTime": 1320,
+                        "sectionTitle": "SWITCH LANGUAGE (UKR)"
+                    },
+                    {
+                        "startTime": 660,
+                        "endTime": 1320,
+                        "sectionTitle": "SWITCH LANGUAGE (ENG)"
+                    }
+                ]
+            },
+            {
+                "dayRange": "Monday - Friday",
+                "sectionHours": [
+                    {
+                        "startTime": 660,
+                        "endTime": 1320,
+                        "sectionTitle": "SWITCH LANGUAGE (UKR)"
+                    },
+                    {
+                        "startTime": 660,
+                        "endTime": 1320,
+                        "sectionTitle": "SWITCH LANGUAGE (ENG)"
+                    },
+                    {
+                        "startTime": 720,
+                        "endTime": 960,
+                        "sectionTitle": "Ланч - меню"
+                    },
+                    {
+                        "startTime": 720,
+                        "endTime": 960,
+                        "sectionTitle": "Lunch Menu"
+                    }
+                ]
+            },
+            {
+                "dayRange": "Saturday",
+                "sectionHours": [
+                    {
+                        "startTime": 660,
+                        "endTime": 1320,
+                        "sectionTitle": "SWITCH LANGUAGE (UKR)"
+                    },
+                    {
+                        "startTime": 660,
+                        "endTime": 1320,
+                        "sectionTitle": "SWITCH LANGUAGE (ENG)"
+                    }
+                ]
+            }
+        ],
+        "disableOrderInstruction": false,
+        "disableCheckoutInstruction": false,
+        "nuggets": [],
+        "isWithinDeliveryRange": false,
+        "slug": "golden-gate-pub",
+        "citySlug": "kyiv",
+        "phoneNumber": "+380676575554",
+        "metaJson": "{\"@context\":\"http:\\u002F\\u002Fschema.org\",\"@type\":\"Restaurant\",\"@id\":\"https:\\u002F\\u002Fwww.ubereats.com\\u002Fen-UA\\u002Fkyiv\\u002Ffood-delivery\\u002Fgolden-gate-pub\\u002FxgF4aZ58SNGohnt1kWYNRA\\u002F\",\"name\":\"Golden Gate Pub\",\"priceRange\":\"₴₴\",\"potentialAction\":{\"@type\":\"OrderAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\\u002F\\u002Fwww.ubereats.com\\u002Fen-UA\\u002Fkyiv\\u002Ffood-delivery\\u002Fgolden-gate-pub\\u002FxgF4aZ58SNGohnt1kWYNRA\\u002F?utm_campaign=order-action&utm_medium=organic\",\"inLanguage\":\"English\",\"actionPlatform\":[\"http:\\u002F\\u002Fschema.org\\u002FDesktopWebPlatform\",\"http:\\u002F\\u002Fschema.org\\u002FMobileWebPlatform\"]},\"deliveryMethod\":[\"http:\\u002F\\u002Fpurl.org\\u002Fgoodrelations\\u002Fv1#DeliveryModeOwnFleet\"]},\"address\":{\"@type\":\"PostalAddress\",\"addressLocality\":\"Kyiv\",\"addressRegion\":\"\",\"postalCode\":\"02000\",\"addressCountry\":\"UA\",\"streetAddress\":\"Zolotovoritska St, 15\"},\"geo\":{\"@type\":\"GeoCoordinates\",\"latitude\":50.449385307845226,\"longitude\":30.513855914058553}}",
+        "promoTrackings": [],
+        "suggestedPromotion": {
+            "text": "",
+            "promotionUuid": ""
+        },
+        "supportedDiningModes": [
+            {
+                "mode": "DELIVERY",
+                "title": "Delivery",
+                "isSelected": true,
+                "isAvailable": true
+            }
+        ],
+        "isPreview": false,
+        "pinnedInfo": null
+    }
+}

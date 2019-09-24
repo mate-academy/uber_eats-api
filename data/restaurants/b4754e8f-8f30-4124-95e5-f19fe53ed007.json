@@ -1,0 +1,894 @@
+{
+    "status": "success",
+    "data": {
+        "sectionEntitiesMap": {
+            "109d003d-1cb8-4193-8500-38884b583def": {
+                "c031fc29-d8c4-4cea-9350-0c142ddd3a09": {
+                    "description": "230г.",
+                    "imageUrl": "",
+                    "price": 13900,
+                    "title": "Курячі ковбаски",
+                    "uuid": "c031fc29-d8c4-4cea-9350-0c142ddd3a09",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "230d41d0-448f-48b0-9fb6-adb1e323b02e": {
+                    "description": "(150г).",
+                    "imageUrl": "",
+                    "price": 6900,
+                    "title": "Смачний, як в дитинстві ",
+                    "uuid": "230d41d0-448f-48b0-9fb6-adb1e323b02e",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "80d3c706-add5-4b6d-bc5c-dadf5cb4450c": {
+                    "description": "200",
+                    "imageUrl": null,
+                    "price": 19700,
+                    "title": "Шашлик з Телятини",
+                    "uuid": "80d3c706-add5-4b6d-bc5c-dadf5cb4450c",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "9095e659-315c-41cf-ab2b-8fa229dd92c9": {
+                    "description": "200г.",
+                    "imageUrl": "",
+                    "price": 11900,
+                    "title": "Шашлик із свинини",
+                    "uuid": "9095e659-315c-41cf-ab2b-8fa229dd92c9",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "c5e39142-2500-4208-9dd4-cf3513acd342": {
+                    "description": "300г.",
+                    "imageUrl": "",
+                    "price": 7900,
+                    "title": "Лагман з домашньою локшиною",
+                    "uuid": "c5e39142-2500-4208-9dd4-cf3513acd342",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": "",
+                    "suspendUntil": 8640000000,
+                    "classifications": []
+                },
+                "3a7bb681-ed89-4ccd-8f78-a140d0cad10c": {
+                    "description": "200г.",
+                    "imageUrl": "",
+                    "price": 10400,
+                    "title": "Українське сало з проріззю",
+                    "uuid": "3a7bb681-ed89-4ccd-8f78-a140d0cad10c",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "24c6eba0-7ee1-413d-8451-94231ef6077d": {
+                    "description": "150г.",
+                    "imageUrl": "",
+                    "price": 3500,
+                    "title": "Овочі гриль",
+                    "uuid": "24c6eba0-7ee1-413d-8451-94231ef6077d",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "1d450345-61bb-4d77-b55c-adfd41bc63bc": {
+                    "description": "1шт.",
+                    "imageUrl": "",
+                    "price": 4500,
+                    "title": "Лаваш з сулугуні та помідором",
+                    "uuid": "1d450345-61bb-4d77-b55c-adfd41bc63bc",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "9b913075-d6bb-46b4-a260-d51bc05f3684": {
+                    "description": "400г.",
+                    "imageUrl": "",
+                    "price": 18900,
+                    "title": "Ребра копчені",
+                    "uuid": "9b913075-d6bb-46b4-a260-d51bc05f3684",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "ae699c6e-1a67-4854-8b3e-7c2aaaa9ab2e": {
+                    "description": "",
+                    "imageUrl": "",
+                    "price": 17700,
+                    "title": "Ципа на вогні",
+                    "uuid": "ae699c6e-1a67-4854-8b3e-7c2aaaa9ab2e",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "0d316262-e40a-4e1f-ab0d-7ecd3ddab6b0": {
+                    "description": "300г.",
+                    "imageUrl": "",
+                    "price": 6900,
+                    "title": "Український борщ з реберцями",
+                    "uuid": "0d316262-e40a-4e1f-ab0d-7ecd3ddab6b0",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": "",
+                    "suspendUntil": 8640000000,
+                    "classifications": []
+                },
+                "26811e0e-8aa5-4328-8458-d38c869965a0": {
+                    "description": "400г.",
+                    "imageUrl": "",
+                    "price": 16900,
+                    "title": "Ребра з вогню",
+                    "uuid": "26811e0e-8aa5-4328-8458-d38c869965a0",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "37086e86-7f91-4cc8-8cd1-d9462f253abe": {
+                    "description": "150г.",
+                    "imageUrl": "",
+                    "price": 7900,
+                    "title": "Картопляні діпи з доповненнями",
+                    "uuid": "37086e86-7f91-4cc8-8cd1-d9462f253abe",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": "",
+                    "suspendUntil": 8640000000,
+                    "classifications": []
+                },
+                "2671c8ef-2793-4da4-9bf1-a1c64467b764": {
+                    "description": "300г.",
+                    "imageUrl": "",
+                    "price": 9900,
+                    "title": "Домашні соління",
+                    "uuid": "2671c8ef-2793-4da4-9bf1-a1c64467b764",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 8640000000,
+                    "classifications": []
+                },
+                "2e298df3-d298-431a-9a77-2392e44a6f94": {
+                    "description": "Дор Блю, Пармезан, Белпер Кноллє, Брі, горіховий, мед, горіхи (250г).",
+                    "imageUrl": "",
+                    "price": 21700,
+                    "title": "Плато вишуканих сирів",
+                    "uuid": "2e298df3-d298-431a-9a77-2392e44a6f94",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "2394abe2-46ce-4a67-accb-8a0b5d3b23cf": {
+                    "description": "300г.",
+                    "imageUrl": "",
+                    "price": 8900,
+                    "title": "Крем-суп із лісових грибів",
+                    "uuid": "2394abe2-46ce-4a67-accb-8a0b5d3b23cf",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": "",
+                    "suspendUntil": 8640000000,
+                    "classifications": []
+                },
+                "159e3113-151c-434d-9c9c-61bbd121445e": {
+                    "description": "1 шт",
+                    "imageUrl": null,
+                    "price": 2900,
+                    "title": "Картопля з підчеревиною",
+                    "uuid": "159e3113-151c-434d-9c9c-61bbd121445e",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "64a7d3ec-e911-46b1-8e55-0aa3f31b5d9a": {
+                    "description": "230г.",
+                    "imageUrl": "",
+                    "price": 13900,
+                    "title": "Мисливські ковбаски",
+                    "uuid": "64a7d3ec-e911-46b1-8e55-0aa3f31b5d9a",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "e5886c45-5c3f-4e49-a79d-ca3f5a60d0fb": {
+                    "description": "150г.",
+                    "imageUrl": "",
+                    "price": 19200,
+                    "title": "Тар-тар з яловичини",
+                    "uuid": "e5886c45-5c3f-4e49-a79d-ca3f5a60d0fb",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "6ca3ae74-0d64-47c4-b060-0913a8e03933": {
+                    "description": "250г.",
+                    "imageUrl": "",
+                    "price": 9700,
+                    "title": "Світова закуска (оселедець, картопля, огірок, грінки, масло вершкове з зеленью)",
+                    "uuid": "6ca3ae74-0d64-47c4-b060-0913a8e03933",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "10b133d4-f4c0-4181-9425-336c86bae018": {
+                    "description": "300г.",
+                    "imageUrl": "",
+                    "price": 33900,
+                    "title": "Стейк Filet Mignon",
+                    "uuid": "10b133d4-f4c0-4181-9425-336c86bae018",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "73cb573d-69f6-461a-aadc-40b512784d2b": {
+                    "description": "150г.",
+                    "imageUrl": "",
+                    "price": 11500,
+                    "title": "Халумі на вуглях",
+                    "uuid": "73cb573d-69f6-461a-aadc-40b512784d2b",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": "",
+                    "suspendUntil": 8640000000,
+                    "classifications": []
+                },
+                "8609e64f-702c-4073-a370-a08a6610e005": {
+                    "description": "(150г).",
+                    "imageUrl": "",
+                    "price": 6900,
+                    "title": "Чіз Кейк \"Нью-Йорк\" ",
+                    "uuid": "8609e64f-702c-4073-a370-a08a6610e005",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": "",
+                    "suspendUntil": 8640000000,
+                    "classifications": []
+                },
+                "8c1e5912-b395-4c40-a543-032913600b0a": {
+                    "description": "300г.",
+                    "imageUrl": "",
+                    "price": 25700,
+                    "title": "Стейк New York",
+                    "uuid": "8c1e5912-b395-4c40-a543-032913600b0a",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": "",
+                    "suspendUntil": 8640000000,
+                    "classifications": []
+                },
+                "6c319b9e-b8c4-4839-8f75-fa2807e7f3d9": {
+                    "description": "(150г).",
+                    "imageUrl": "",
+                    "price": 6900,
+                    "title": "Шоколадний \"Urban\"",
+                    "uuid": "6c319b9e-b8c4-4839-8f75-fa2807e7f3d9",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": "",
+                    "suspendUntil": 8640000000,
+                    "classifications": []
+                },
+                "b334c888-69af-4f18-924e-d0fe7e2db418": {
+                    "description": "Лосось власного посолу, каперси, Пармезан, томати черрі, авокадо, мікс салату (250г).",
+                    "imageUrl": "",
+                    "price": 23500,
+                    "title": "Салат з авокадо та лососем",
+                    "uuid": "b334c888-69af-4f18-924e-d0fe7e2db418",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "b338f214-47bd-46e8-9cf3-595eb96d5213": {
+                    "description": "Парма, бастурма, чорізо, салямі в суміші перців, оливки, грісіні (200г).",
+                    "imageUrl": "",
+                    "price": 21800,
+                    "title": "Сет в'яленого м'яса",
+                    "uuid": "b338f214-47bd-46e8-9cf3-595eb96d5213",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "8ec32a16-b0df-4f7c-85e5-8d76357f3605": {
+                    "description": "Курячий стейк гриль, бекон, Пармезан, крутони, помідор, мікс салату, фірмовий соус \"Цезар\" (250г).",
+                    "imageUrl": "",
+                    "price": 13500,
+                    "title": "Теплий салат з куркою",
+                    "uuid": "8ec32a16-b0df-4f7c-85e5-8d76357f3605",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": "",
+                    "suspendUntil": 8640000000,
+                    "classifications": []
+                },
+                "612e3cd6-83f2-452e-a5ff-c804f1fa672a": {
+                    "description": "Котлета з телятини, чіпси з бекону, моцарелла, карамелізована цибуля, чорничний соус, чедер, булочка бріош (330г).",
+                    "imageUrl": "",
+                    "price": 16900,
+                    "title": "Blackberry Burger",
+                    "uuid": "612e3cd6-83f2-452e-a5ff-c804f1fa672a",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "4c1feb8d-8645-4dc8-8e53-34eb7803aa0b": {
+                    "description": "200г.",
+                    "imageUrl": "",
+                    "price": 10900,
+                    "title": "Еклери із солоним сиром та томленою телятиною",
+                    "uuid": "4c1feb8d-8645-4dc8-8e53-34eb7803aa0b",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "f22be686-c85a-4a87-b0e0-fc26f46a1619": {
+                    "description": "1шт.",
+                    "imageUrl": "",
+                    "price": 4000,
+                    "title": "Кукурудза",
+                    "uuid": "f22be686-c85a-4a87-b0e0-fc26f46a1619",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "8e58f4cc-1291-4970-bd60-87a7dd7c6bd4": {
+                    "description": "Томати чорні, рожеві та жовті, зелень, оливкова олія (250г).",
+                    "imageUrl": "",
+                    "price": 9900,
+                    "title": "Тріо томатів",
+                    "uuid": "8e58f4cc-1291-4970-bd60-87a7dd7c6bd4",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "016d76b5-3466-480e-be6b-ecaee8b20bcb": {
+                    "description": "300г.",
+                    "imageUrl": "",
+                    "price": 25700,
+                    "title": "Стейк Ribeye",
+                    "uuid": "016d76b5-3466-480e-be6b-ecaee8b20bcb",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": "",
+                    "suspendUntil": 8640000000,
+                    "classifications": []
+                },
+                "68357051-6fd7-4a6a-a49b-86456e6425a0": {
+                    "description": "200г.",
+                    "imageUrl": "",
+                    "price": 28900,
+                    "title": "Філе лосося",
+                    "uuid": "68357051-6fd7-4a6a-a49b-86456e6425a0",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                }
+            },
+            "b7f301bf-6b61-4ed5-b38f-29d3d2a38c25": {
+                "5ac58aa5-ee05-48ad-a6b8-594f728d397d": {
+                    "description": "300г.",
+                    "imageUrl": "",
+                    "price": 15900,
+                    "title": "Скрембл з тостами з лососем, крем-сиром та руколою",
+                    "uuid": "5ac58aa5-ee05-48ad-a6b8-594f728d397d",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "edab5aaa-1ad7-4c60-9ea2-7363ffba030d": {
+                    "description": "300г.",
+                    "imageUrl": "",
+                    "price": 9600,
+                    "title": "Англійський Сніданок",
+                    "uuid": "edab5aaa-1ad7-4c60-9ea2-7363ffba030d",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": "",
+                    "suspendUntil": 8640000000,
+                    "classifications": []
+                },
+                "e70a11c4-cbad-464a-bb7f-5925a4093492": {
+                    "description": "250г.",
+                    "imageUrl": "",
+                    "price": 6900,
+                    "title": "Сирники з ягідним соусом",
+                    "uuid": "e70a11c4-cbad-464a-bb7f-5925a4093492",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "62b3a076-5906-44d1-826e-1bcf9dbdb445": {
+                    "description": "200г.",
+                    "imageUrl": "",
+                    "price": 6900,
+                    "title": "Гранола зі знежереним йогуртом, фруктами та ягідним соусом",
+                    "uuid": "62b3a076-5906-44d1-826e-1bcf9dbdb445",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "9d1c62b9-4242-4dbf-b95b-8ad1fea98684": {
+                    "description": "Солодкі смажені тости зі свіжими ягодами та фруктами з ванільним соусом (300г).",
+                    "imageUrl": "",
+                    "price": 6900,
+                    "title": "Великий сніданок Urban Grill №1",
+                    "uuid": "9d1c62b9-4242-4dbf-b95b-8ad1fea98684",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "fe69588f-7a31-4f53-9199-fb4a918536ef": {
+                    "description": "Смажені тости з панчетою, яйцями, томатами, шампіньйонами, цибулею та соусом \"Чедер\" (300г).",
+                    "imageUrl": "",
+                    "price": 9700,
+                    "title": "Великий сніданок Urban Grill №2",
+                    "uuid": "fe69588f-7a31-4f53-9199-fb4a918536ef",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                }
+            }
+        },
+        "sections": [
+            {
+                "subsectionUuids": [
+                    "1d4beebf-fd4b-43a9-ad39-71a9008c186c",
+                    "238ec460-b1cd-4edf-9edf-e21c2c6e7b40",
+                    "02303abf-653e-4d4f-b700-d4f7af998c26",
+                    "a2193c27-ed9a-4cda-bb8a-c9b43767fd0e",
+                    "1b0ab5e4-e1b9-4d45-b540-535261d84a32",
+                    "37861e90-1349-4e92-99d8-78b1dd93c58e"
+                ],
+                "title": "SWITCH LANGUAGE (UKR)",
+                "subtitle": "11:00 AM – 10:00 PM",
+                "uuid": "109d003d-1cb8-4193-8500-38884b583def",
+                "isTop": true,
+                "isOnSale": true
+            },
+            {
+                "subsectionUuids": [
+                    "13b4a35d-6d3a-4a98-9d0d-3b1b16e5f7c6"
+                ],
+                "title": "Сніданки",
+                "subtitle": "Fri 11:00 AM – 12:00 PM",
+                "uuid": "b7f301bf-6b61-4ed5-b38f-29d3d2a38c25",
+                "isTop": false,
+                "isOnSale": false
+            }
+        ],
+        "subsectionsMap": {
+            "a2193c27-ed9a-4cda-bb8a-c9b43767fd0e": {
+                "itemUuids": [
+                    "26811e0e-8aa5-4328-8458-d38c869965a0",
+                    "9b913075-d6bb-46b4-a260-d51bc05f3684",
+                    "9095e659-315c-41cf-ab2b-8fa229dd92c9",
+                    "8c1e5912-b395-4c40-a543-032913600b0a",
+                    "016d76b5-3466-480e-be6b-ecaee8b20bcb",
+                    "10b133d4-f4c0-4181-9425-336c86bae018",
+                    "ae699c6e-1a67-4854-8b3e-7c2aaaa9ab2e",
+                    "c031fc29-d8c4-4cea-9350-0c142ddd3a09",
+                    "64a7d3ec-e911-46b1-8e55-0aa3f31b5d9a",
+                    "68357051-6fd7-4a6a-a49b-86456e6425a0",
+                    "1d450345-61bb-4d77-b55c-adfd41bc63bc",
+                    "24c6eba0-7ee1-413d-8451-94231ef6077d",
+                    "73cb573d-69f6-461a-aadc-40b512784d2b",
+                    "f22be686-c85a-4a87-b0e0-fc26f46a1619",
+                    "80d3c706-add5-4b6d-bc5c-dadf5cb4450c",
+                    "159e3113-151c-434d-9c9c-61bbd121445e"
+                ],
+                "subtitle": "",
+                "title": "Urban Grill",
+                "uuid": "a2193c27-ed9a-4cda-bb8a-c9b43767fd0e",
+                "displayType": null
+            },
+            "1b0ab5e4-e1b9-4d45-b540-535261d84a32": {
+                "itemUuids": [
+                    "612e3cd6-83f2-452e-a5ff-c804f1fa672a"
+                ],
+                "subtitle": "",
+                "title": "Бургери",
+                "uuid": "1b0ab5e4-e1b9-4d45-b540-535261d84a32",
+                "displayType": null
+            },
+            "37861e90-1349-4e92-99d8-78b1dd93c58e": {
+                "itemUuids": [
+                    "6c319b9e-b8c4-4839-8f75-fa2807e7f3d9",
+                    "8609e64f-702c-4073-a370-a08a6610e005",
+                    "230d41d0-448f-48b0-9fb6-adb1e323b02e"
+                ],
+                "subtitle": "",
+                "title": "Десерти",
+                "uuid": "37861e90-1349-4e92-99d8-78b1dd93c58e",
+                "displayType": null
+            },
+            "13b4a35d-6d3a-4a98-9d0d-3b1b16e5f7c6": {
+                "itemUuids": [
+                    "e70a11c4-cbad-464a-bb7f-5925a4093492",
+                    "62b3a076-5906-44d1-826e-1bcf9dbdb445",
+                    "9d1c62b9-4242-4dbf-b95b-8ad1fea98684",
+                    "fe69588f-7a31-4f53-9199-fb4a918536ef",
+                    "5ac58aa5-ee05-48ad-a6b8-594f728d397d",
+                    "edab5aaa-1ad7-4c60-9ea2-7363ffba030d"
+                ],
+                "subtitle": "",
+                "title": "Сніданки",
+                "uuid": "13b4a35d-6d3a-4a98-9d0d-3b1b16e5f7c6",
+                "displayType": null
+            },
+            "1d4beebf-fd4b-43a9-ad39-71a9008c186c": {
+                "itemUuids": [
+                    "2e298df3-d298-431a-9a77-2392e44a6f94",
+                    "4c1feb8d-8645-4dc8-8e53-34eb7803aa0b",
+                    "e5886c45-5c3f-4e49-a79d-ca3f5a60d0fb",
+                    "b338f214-47bd-46e8-9cf3-595eb96d5213",
+                    "3a7bb681-ed89-4ccd-8f78-a140d0cad10c",
+                    "6ca3ae74-0d64-47c4-b060-0913a8e03933",
+                    "2671c8ef-2793-4da4-9bf1-a1c64467b764",
+                    "37086e86-7f91-4cc8-8cd1-d9462f253abe"
+                ],
+                "subtitle": "",
+                "title": "Стартери",
+                "uuid": "1d4beebf-fd4b-43a9-ad39-71a9008c186c",
+                "displayType": null
+            },
+            "238ec460-b1cd-4edf-9edf-e21c2c6e7b40": {
+                "itemUuids": [
+                    "2394abe2-46ce-4a67-accb-8a0b5d3b23cf",
+                    "c5e39142-2500-4208-9dd4-cf3513acd342",
+                    "0d316262-e40a-4e1f-ab0d-7ecd3ddab6b0"
+                ],
+                "subtitle": "",
+                "title": "Супи",
+                "uuid": "238ec460-b1cd-4edf-9edf-e21c2c6e7b40",
+                "displayType": null
+            },
+            "02303abf-653e-4d4f-b700-d4f7af998c26": {
+                "itemUuids": [
+                    "8e58f4cc-1291-4970-bd60-87a7dd7c6bd4",
+                    "8ec32a16-b0df-4f7c-85e5-8d76357f3605",
+                    "b334c888-69af-4f18-924e-d0fe7e2db418"
+                ],
+                "subtitle": "",
+                "title": "Салати",
+                "uuid": "02303abf-653e-4d4f-b700-d4f7af998c26",
+                "displayType": null
+            }
+        },
+        "title": "Urban Grill",
+        "uuid": "b4754e8f-8f30-4124-95e5-f19fe53ed007",
+        "categories": [
+            "₴₴",
+            "Європейська",
+            "Американська",
+            "Українська"
+        ],
+        "cuisineList": [
+            "Європейська",
+            "Американська",
+            "Українська"
+        ],
+        "priceBucket": "₴₴",
+        "etaRange": {
+            "text": "45–55 min",
+            "iconUrl": ""
+        },
+        "ratingBadge": null,
+        "disclaimerBadge": null,
+        "fareBadge": null,
+        "fareInfo": {
+            "serviceFee": 30,
+            "serviceFeeCents": 3000
+        },
+        "promotion": null,
+        "shouldIndex": true,
+        "heroImageUrls": [
+            {
+                "url": "https://d1ralsognjng37.cloudfront.net/c8e6d21f-1114-4740-b250-7af00b8f9316.jpeg",
+                "width": 240
+            },
+            {
+                "url": "https://d1ralsognjng37.cloudfront.net/20fc9e53-0b8c-4c81-9c25-30c1c7ed5659.jpeg",
+                "width": 550
+            },
+            {
+                "url": "https://d1ralsognjng37.cloudfront.net/9a9aa229-e143-4115-a8b5-fc3d0a5fa9fc.jpeg",
+                "width": 640
+            },
+            {
+                "url": "https://d1ralsognjng37.cloudfront.net/878f5cb7-f2f5-4890-bdec-95c07b102edf.jpeg",
+                "width": 750
+            },
+            {
+                "url": "https://d1ralsognjng37.cloudfront.net/14186e9c-a2c2-47d7-8198-7a40ffadaef9.jpeg",
+                "width": 1080
+            },
+            {
+                "url": "https://d1ralsognjng37.cloudfront.net/37565397-2724-4022-8761-88f47e1c3b25.jpeg",
+                "width": 2880
+            }
+        ],
+        "isOpen": true,
+        "currencyCode": "UAH",
+        "closedMessage": "Currently unavailable",
+        "location": {
+            "address": "Khoryva St, 25, Kyiv, 02000",
+            "streetAddress": "Khoryva St, 25",
+            "city": "Kyiv",
+            "country": "UA",
+            "postalCode": "02000",
+            "region": "",
+            "latitude": 50.4667409,
+            "longitude": 30.5159103
+        },
+        "isDeliveryThirdParty": false,
+        "hours": [
+            {
+                "dayRange": "Sunday - Thursday",
+                "sectionHours": [
+                    {
+                        "startTime": 660,
+                        "endTime": 1320,
+                        "sectionTitle": "SWITCH LANGUAGE (UKR)"
+                    },
+                    {
+                        "startTime": 660,
+                        "endTime": 720,
+                        "sectionTitle": "Сніданки"
+                    }
+                ]
+            },
+            {
+                "dayRange": "Friday - Saturday",
+                "sectionHours": [
+                    {
+                        "startTime": 660,
+                        "endTime": 1080,
+                        "sectionTitle": "SWITCH LANGUAGE (UKR)"
+                    },
+                    {
+                        "startTime": 660,
+                        "endTime": 720,
+                        "sectionTitle": "Сніданки"
+                    }
+                ]
+            }
+        ],
+        "disableOrderInstruction": false,
+        "disableCheckoutInstruction": false,
+        "nuggets": [],
+        "isWithinDeliveryRange": false,
+        "slug": "urban-grill",
+        "citySlug": "kyiv",
+        "phoneNumber": "+380982929090",
+        "metaJson": "{\"@context\":\"http:\\u002F\\u002Fschema.org\",\"@type\":\"Restaurant\",\"@id\":\"https:\\u002F\\u002Fwww.ubereats.com\\u002Fen-UA\\u002Fkyiv\\u002Ffood-delivery\\u002Furban-grill\\u002FtHVOj48wQSSV5fGf5T7QBw\\u002F\",\"name\":\"Urban Grill\",\"priceRange\":\"₴₴\",\"potentialAction\":{\"@type\":\"OrderAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\\u002F\\u002Fwww.ubereats.com\\u002Fen-UA\\u002Fkyiv\\u002Ffood-delivery\\u002Furban-grill\\u002FtHVOj48wQSSV5fGf5T7QBw\\u002F?utm_campaign=order-action&utm_medium=organic\",\"inLanguage\":\"English\",\"actionPlatform\":[\"http:\\u002F\\u002Fschema.org\\u002FDesktopWebPlatform\",\"http:\\u002F\\u002Fschema.org\\u002FMobileWebPlatform\"]},\"deliveryMethod\":[\"http:\\u002F\\u002Fpurl.org\\u002Fgoodrelations\\u002Fv1#DeliveryModeOwnFleet\"]},\"address\":{\"@type\":\"PostalAddress\",\"addressLocality\":\"Kyiv\",\"addressRegion\":\"\",\"postalCode\":\"02000\",\"addressCountry\":\"UA\",\"streetAddress\":\"Khoryva St, 25\"},\"geo\":{\"@type\":\"GeoCoordinates\",\"latitude\":50.4667409,\"longitude\":30.5159103}}",
+        "promoTrackings": [],
+        "suggestedPromotion": {
+            "text": "",
+            "promotionUuid": ""
+        },
+        "supportedDiningModes": [
+            {
+                "mode": "DELIVERY",
+                "title": "Delivery",
+                "isSelected": true,
+                "isAvailable": true
+            }
+        ],
+        "isPreview": false,
+        "pinnedInfo": null
+    }
+}

@@ -1,0 +1,991 @@
+{
+    "status": "success",
+    "data": {
+        "sectionEntitiesMap": {
+            "4124f7df-6674-465b-8972-676ab49579d3": {
+                "148b7e35-2726-4310-8d70-8314633b7d4b": {
+                    "description": "",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/4cc45b9f-f0de-4dad-86de-54ea6dd3de91.jpeg",
+                    "price": 750,
+                    "title": "BBQ Chicken Wings",
+                    "uuid": "148b7e35-2726-4310-8d70-8314633b7d4b",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "f1081c95-3bfd-4213-ba74-e49c306f3c69": {
+                    "description": "Baby gem, waffle croutons, parmesan & tahini Caesar dressing and pickled onions",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/ec696551-c099-4d19-b85f-b9e2aec7460c.jpeg",
+                    "price": 645,
+                    "title": "Caesar Salad Bowl",
+                    "uuid": "f1081c95-3bfd-4213-ba74-e49c306f3c69",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "a3d7b11d-259c-4ff5-87c4-8a648029dda7": {
+                    "description": "Buffalo sauce, salad, tomato, pickled onions, carrot & celery slaw",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/5c87c21c-6a55-436d-bb6a-ec680c03633e.jpeg",
+                    "price": 960,
+                    "title": "Buffalo Chicken Vegan Fillet",
+                    "uuid": "a3d7b11d-259c-4ff5-87c4-8a648029dda7",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "b3e3b150-794a-4aae-ab11-06eacf03b235": {
+                    "description": "2 x Fried Chicken Burger, 8 Wings of your choice, 2 x Fries & 4 x Soft Drinks",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/c898a5f3-a70a-4551-ae06-fe7aa1cf1bae.jpeg",
+                    "price": 3000,
+                    "title": "Beast Feast Bucket",
+                    "uuid": "b3e3b150-794a-4aae-ab11-06eacf03b235",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "8e364bb2-745e-419b-8fe1-0e740b1b9993": {
+                    "description": "",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/12fc154a-5a1c-4d93-aa3d-ebcdc26a39c9.jpeg",
+                    "price": 250,
+                    "title": "Coke Zero Can",
+                    "uuid": "8e364bb2-745e-419b-8fe1-0e740b1b9993",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "d4944f7a-7a90-42e4-80e6-15220a476b1c": {
+                    "description": "",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/c4baa8dd-5310-4041-ac1b-3669a4275785.jpeg",
+                    "price": 750,
+                    "title": "Crispy Fried Buttermilk Wings",
+                    "uuid": "d4944f7a-7a90-42e4-80e6-15220a476b1c",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "bbddf97d-c892-43b6-88a8-801be84b13f7": {
+                    "description": "",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/db57d505-09a6-4e9e-80db-583bfe6d3ea7.jpeg",
+                    "price": 270,
+                    "title": "Coke Can",
+                    "uuid": "bbddf97d-c892-43b6-88a8-801be84b13f7",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "5c4a6bf3-f72b-410c-8d93-be6d4db321d6": {
+                    "description": "",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/ca46fb6b-5f0b-4e21-950c-9eecf27ad19c.jpeg",
+                    "price": 210,
+                    "title": "Sparkling Water",
+                    "uuid": "5c4a6bf3-f72b-410c-8d93-be6d4db321d6",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "a97ff3c4-ef67-4743-a7b8-6440639e0229": {
+                    "description": "6 Tenders with 2 dips included.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/977e4e46-a244-4885-9ed3-0f9642f07a3f.jpeg",
+                    "price": 1085,
+                    "title": "Six Chicken Tenders",
+                    "uuid": "a97ff3c4-ef67-4743-a7b8-6440639e0229",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "566ed564-90c6-45de-b170-64aa61d32ef6": {
+                    "description": "",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/509c621e-83fc-4696-af90-3fe72d036946.jpeg",
+                    "price": 485,
+                    "title": "Dixie",
+                    "uuid": "566ed564-90c6-45de-b170-64aa61d32ef6",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "db0e0706-e610-40f9-9fb8-3e113f834eac": {
+                    "description": "",
+                    "imageUrl": "https://resizer.deliverect.com/7CfEQCSLLL-oebrueSLdbABcPPBQYI1taGlukAKaAQY/fill/1024/1024/sm/0/aHR0cDovL2V1dzMucG9zaW9zLmNvbS9wb3NpbWFnZXMvYWRtaW5AYWJzdXJkYmlyZC5jb21fMzQwNzYvaW1hZ2VzL3Byb2R1Y3RzL2ZhODUxMDk1OGVlNjRhODdiY2JmMDcwNmEwZmRmMDNmLmpwZw==",
+                    "price": 2500,
+                    "title": "Red Wine 75cl bottle",
+                    "uuid": "db0e0706-e610-40f9-9fb8-3e113f834eac",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "606077d6-43cf-44fd-b05e-cedcf2455c96": {
+                    "description": "With 1 dip included",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/201f3217-aaed-44a3-bef1-272d6c8f007c.jpeg",
+                    "price": 685,
+                    "title": "Three Vegan Tenders",
+                    "uuid": "606077d6-43cf-44fd-b05e-cedcf2455c96",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "de26bcd0-0c67-4cd4-8456-b8c6b56268fe": {
+                    "description": "With 2 dips included",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/19ec154b-09d9-4427-8318-374aa6c41058.jpeg",
+                    "price": 1085,
+                    "title": "Six Vegan Tenders",
+                    "uuid": "de26bcd0-0c67-4cd4-8456-b8c6b56268fe",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "cae5d0d2-4873-4747-b039-545cf307c46a": {
+                    "description": "An Absurd vegan take on the classic! Creamy macaroni with decadent peppery, nutty sauce, vegan cheese and paprika oil!",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/4a56a790-124c-4dbc-8d48-fc601c75a0db.jpeg",
+                    "price": 650,
+                    "title": "V Mac & Cheese",
+                    "uuid": "cae5d0d2-4873-4747-b039-545cf307c46a",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "0ddbef73-fa9d-4a4d-8237-73b602aa1723": {
+                    "description": "Buffalo sauce, salad, tomato, pickled onions, carrot & celery slaw",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/68da3553-d240-4745-b967-5dc719f40993.jpeg",
+                    "price": 960,
+                    "title": "Buffalo Chicken Vegan Fillet",
+                    "uuid": "0ddbef73-fa9d-4a4d-8237-73b602aa1723",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "6e486b32-7c56-4dc5-91cf-57cc49b16fcb": {
+                    "description": "3 Tenders with 1 dip included",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/977e4e46-a244-4885-9ed3-0f9642f07a3f.jpeg",
+                    "price": 685,
+                    "title": "Three Chicken Tenders",
+                    "uuid": "6e486b32-7c56-4dc5-91cf-57cc49b16fcb",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "6d22475a-3f45-407e-ae65-67a9c3234ff4": {
+                    "description": "Cabbage, lettuce, celery, carrot, mint, spring onions, & peanuts with citrus dressing",
+                    "imageUrl": "https://resizer.deliverect.com/NwpfGcxFFv1kWGYdMGW7ego-YVRXUs3Dd6DL6BBFTqw/fill/1024/1024/sm/0/aHR0cDovL2V1dzMucG9zaW9zLmNvbS9wb3NpbWFnZXMvYWRtaW5AYWJzdXJkYmlyZC5jb21fMzQwNzYvaW1hZ2VzL3Byb2R1Y3RzLzMzMTU4ZmI2ZmNiMzRjZmRhYjQxZjBhNjRlNDU0NTk0LmpwZw==",
+                    "price": 645,
+                    "title": "Absurdly Crunchy Salad",
+                    "uuid": "6d22475a-3f45-407e-ae65-67a9c3234ff4",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "a7ed45e2-08b3-4c48-a7f9-aa409d0d3cbd": {
+                    "description": "With pulled chicken, crispy bacon & jalapeños",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/72cb3225-96d7-4a45-802b-fabaf1931a24.jpeg",
+                    "price": 815,
+                    "title": "Absurd Mac & Cheese",
+                    "uuid": "a7ed45e2-08b3-4c48-a7f9-aa409d0d3cbd",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "59218d4e-9f74-4392-b347-8a367ae6e7a5": {
+                    "description": "8 x Wings of your choice, 3 x Fries, 2 x Soft Drink",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/d8457f17-2808-429e-a422-6245b64c7449.jpeg",
+                    "price": 1900,
+                    "title": "Wings Bucket",
+                    "uuid": "59218d4e-9f74-4392-b347-8a367ae6e7a5",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "7d107818-5a5f-4ca1-83c5-0c498064a66d": {
+                    "description": "",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/398da5d2-d839-4e25-9715-58eaaeabe611.jpeg",
+                    "price": 455,
+                    "title": "Corona",
+                    "uuid": "7d107818-5a5f-4ca1-83c5-0c498064a66d",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "1b83bcd6-ab16-425f-af3c-6d48481c05b6": {
+                    "description": "",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/60d229df-55be-4812-b0ed-4a4fcaf3d90e.jpeg",
+                    "price": 300,
+                    "title": "Red Bull",
+                    "uuid": "1b83bcd6-ab16-425f-af3c-6d48481c05b6",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "46aebe8a-a7ef-49ad-94c2-72848b268e87": {
+                    "description": "",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/403b5051-fcc1-4e6b-996a-9371224f203d.jpeg",
+                    "price": 495,
+                    "title": "Goose 312",
+                    "uuid": "46aebe8a-a7ef-49ad-94c2-72848b268e87",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "adccf10e-cce7-4aae-9966-ca8eae5decb4": {
+                    "description": "BBQ sauce, salad, tomato, homeslaw & mayo.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/8d7335eb-89b3-4c63-bd83-2755aa364b40.jpeg",
+                    "price": 985,
+                    "title": "Fried Chicken Burger",
+                    "uuid": "adccf10e-cce7-4aae-9966-ca8eae5decb4",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "21890843-4a6c-4302-a697-dacf01d0ed50": {
+                    "description": "With 2 dips included",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/19ec154b-09d9-4427-8318-374aa6c41058.jpeg",
+                    "price": 1085,
+                    "title": "Six Vegan Tenders",
+                    "uuid": "21890843-4a6c-4302-a697-dacf01d0ed50",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "6f67905d-f7ae-44aa-968d-925b72531746": {
+                    "description": "9 Tenders with 3 dip included",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/931a5990-a0ab-4fe6-89b2-bc6ae7291e15.jpeg",
+                    "price": 1495,
+                    "title": "Nine Chicken Tenders",
+                    "uuid": "6f67905d-f7ae-44aa-968d-925b72531746",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "d245f508-114b-44c3-b99e-3df8f1a9fda6": {
+                    "description": "",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/39e02c7d-e573-4c0e-92c3-f570bdd120c8.jpeg",
+                    "price": 400,
+                    "title": "Sweet Potato Fries",
+                    "uuid": "d245f508-114b-44c3-b99e-3df8f1a9fda6",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "cf50240b-67df-4e13-88ba-c9ec32c1e9cc": {
+                    "description": "",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/805f244f-3701-4162-9659-8371c23a011d.jpeg",
+                    "price": 320,
+                    "title": "Homeslaw",
+                    "uuid": "cf50240b-67df-4e13-88ba-c9ec32c1e9cc",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "b8db0ccb-cb61-48b8-90b1-19d71da404d4": {
+                    "description": "Buffalo sauce, salad, tomato, blue cheese, carrot & celery slaw",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/60047304-d2ed-4e26-949d-c5927c2b5ccc.jpeg",
+                    "price": 995,
+                    "title": "Buffalo Chicken Burger",
+                    "uuid": "b8db0ccb-cb61-48b8-90b1-19d71da404d4",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "e79fc66d-47b8-421a-9c29-e62bf899d76c": {
+                    "description": "An Absurd vegan take on the classic! Creamy macaroni with decadent peppery, nutty sauce, vegan cheese and paprika oil!",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/2098a2e4-fd9a-47cb-a8c9-0a95f131f85e.jpeg",
+                    "price": 650,
+                    "title": "V Mac & Cheese",
+                    "uuid": "e79fc66d-47b8-421a-9c29-e62bf899d76c",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "fa83b080-e05b-4dcc-a68f-e644ef21eb91": {
+                    "description": "",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/752e35d2-3c37-4eb6-9768-ee3d27250512.jpeg",
+                    "price": 650,
+                    "title": "Mac & Cheese",
+                    "uuid": "fa83b080-e05b-4dcc-a68f-e644ef21eb91",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "d2ecd82a-034f-4525-bf46-84cd9b4d1b30": {
+                    "description": "",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/19ec154b-09d9-4427-8318-374aa6c41058.jpeg",
+                    "price": 1495,
+                    "title": "Nine Vegan Tenders",
+                    "uuid": "d2ecd82a-034f-4525-bf46-84cd9b4d1b30",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "35dfc61f-f394-4a9f-b970-b50df24edd76": {
+                    "description": "With 1 dip included",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/0808c224-f25b-4143-a4d7-2a000d42748f.jpeg",
+                    "price": 685,
+                    "title": "Three Vegan Tenders",
+                    "uuid": "35dfc61f-f394-4a9f-b970-b50df24edd76",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "33abbbad-4fc5-4d0b-994d-3778715922a9": {
+                    "description": "",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/a1751fcf-f5a5-4716-af55-8fdb750b986d.jpeg",
+                    "price": 2500,
+                    "title": "White Wine 75cl bottle",
+                    "uuid": "33abbbad-4fc5-4d0b-994d-3778715922a9",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "82040d9d-6817-48ef-b630-a71ce5460721": {
+                    "description": "The diet starts tomorrow! Baked cheesecake topped with lashings of caramel sauce and icing sugar.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/9aefab2d-26c0-456b-869c-9d51d319dc12.jpeg",
+                    "price": 580,
+                    "title": "Peanut Butter Cheese Cake",
+                    "uuid": "82040d9d-6817-48ef-b630-a71ce5460721",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "b29e4d92-57e8-4906-9a24-33f6527d6961": {
+                    "description": "",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/8353eefe-668e-47b1-b84d-263990e04183.jpeg",
+                    "price": 210,
+                    "title": "Still Water",
+                    "uuid": "b29e4d92-57e8-4906-9a24-33f6527d6961",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "18ae96b6-3872-41a9-8c50-aabebea85919": {
+                    "description": "",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/6be98b69-c614-4353-aba6-686066495cc7.jpeg",
+                    "price": 350,
+                    "title": "Fries",
+                    "uuid": "18ae96b6-3872-41a9-8c50-aabebea85919",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "0a38a497-e656-4474-bff7-5487edb4b80b": {
+                    "description": "Two fried chicken breasts, American cheese, bacon, onion rings, mayo, salad, tomato & Absurd BBQ sauce",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/56e1e15a-9841-4cf9-b116-0fa5dd8258e4.jpeg",
+                    "price": 1195,
+                    "title": "Big Rooster",
+                    "uuid": "0a38a497-e656-4474-bff7-5487edb4b80b",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "a0225e15-17cd-4c98-8137-9be2d261ae82": {
+                    "description": "Vegan waffles with Chckn vegan tenders. Served with maple syrup",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/8acbecaa-dd61-46c6-a13a-47202c65cb5d.jpeg",
+                    "price": 1200,
+                    "title": "Vaffles",
+                    "uuid": "a0225e15-17cd-4c98-8137-9be2d261ae82",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "dd49ae86-9d28-42ca-a7f4-c592422f4324": {
+                    "description": "",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/201f3217-aaed-44a3-bef1-272d6c8f007c.jpeg",
+                    "price": 1495,
+                    "title": "Nine Vegan Tenders",
+                    "uuid": "dd49ae86-9d28-42ca-a7f4-c592422f4324",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "a6c5e881-05cd-44d3-9b1c-5922ace6dea9": {
+                    "description": "",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/eee5256e-feec-47d3-a701-17bf69428fb9.jpeg",
+                    "price": 445,
+                    "title": "Budweiser",
+                    "uuid": "a6c5e881-05cd-44d3-9b1c-5922ace6dea9",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "3cd8d72d-15d3-41fa-ae2d-fd0983ddbe08": {
+                    "description": "",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/edad5ae6-f07b-42f3-a133-1615bde41bef.jpeg",
+                    "price": 495,
+                    "title": "Brooklyn Lager",
+                    "uuid": "3cd8d72d-15d3-41fa-ae2d-fd0983ddbe08",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "3ea93f5e-4efd-471d-8f92-3244a0e5060b": {
+                    "description": "",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/d5296544-cddf-4fb1-a7f3-1e76cf3cfcbe.jpeg",
+                    "price": 485,
+                    "title": "Kopparberg S/Lime",
+                    "uuid": "3ea93f5e-4efd-471d-8f92-3244a0e5060b",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "2400d093-dda4-4905-821c-9ae6ed6f4bef": {
+                    "description": "Fried chicken, sticky Korean BBQ, kimchi, pickled cucumber, seaweed crisps, sesame, sriracha mayo",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/35bae3e1-553a-4f87-b0cb-cab538b8ba34.jpeg",
+                    "price": 1095,
+                    "title": "Fried Rocket Man Burger",
+                    "uuid": "2400d093-dda4-4905-821c-9ae6ed6f4bef",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "c7f925b7-3eb4-4cf5-b8d6-ddb57fb98837": {
+                    "description": "With blue cheese sauce",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/251e1ef2-6c84-4f21-b621-ec7f49d78397.jpeg",
+                    "price": 475,
+                    "title": "Fried Pickles",
+                    "uuid": "c7f925b7-3eb4-4cf5-b8d6-ddb57fb98837",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "30faf362-617b-407c-9352-d46f9ce766c1": {
+                    "description": "",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/99bc83b2-18eb-4e34-a6e2-cf76b2069559.jpeg",
+                    "price": 250,
+                    "title": "Sprite Can",
+                    "uuid": "30faf362-617b-407c-9352-d46f9ce766c1",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "48d26447-11b3-4e09-a1f4-f0abeb42454b": {
+                    "description": "Our signature fried chicken, roast chicken butter & maple syrup",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/4b216998-3fd1-476d-86f4-e553d8a13ac0.jpeg",
+                    "price": 1285,
+                    "title": "Chicken and Waffles",
+                    "uuid": "48d26447-11b3-4e09-a1f4-f0abeb42454b",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "1b392db8-fcb8-46b4-897b-541643b18bc6": {
+                    "description": "Double grilled chicken, buffalo sauce, mayo, salad, tomato, blue cheese, carrot & celery slaw",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/cd47f224-cbee-4c75-9f8f-ce566e82eacd.jpeg",
+                    "price": 1095,
+                    "title": "Grilled Buffalo Chicken",
+                    "uuid": "1b392db8-fcb8-46b4-897b-541643b18bc6",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "b698df1a-cca2-4d8d-aa1e-7c42650ab188": {
+                    "description": "",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/72b603a1-40bb-4b2d-a631-6ed4a0a056d6.jpeg",
+                    "price": 750,
+                    "title": "Buffalo Chicken Wings",
+                    "uuid": "b698df1a-cca2-4d8d-aa1e-7c42650ab188",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "115a0ecf-95fe-45f7-9aac-0e72bc35233b": {
+                    "description": "10 Tenders, 6 Pieces of home made waffle, 2 x Fries, 4 Dips, 2 x Soft Drinks",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/970ec5b6-7804-4edb-b5b1-66affc799def.jpeg",
+                    "price": 2195,
+                    "title": "Boneless Bird Bucket",
+                    "uuid": "115a0ecf-95fe-45f7-9aac-0e72bc35233b",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                }
+            }
+        },
+        "sections": [
+            {
+                "subsectionUuids": [
+                    "4ca7830d-848e-4479-8352-365a2018d8c2",
+                    "91af1598-4968-4b05-a014-793bceeece78",
+                    "5f42cda6-5e43-41c8-be66-e2fa634c72ca",
+                    "9ada7ccd-4134-4ce2-aacd-7eab68e065f9",
+                    "929a2b75-2ad8-4c45-b798-7825306cc334",
+                    "8db5f7d5-dcc3-4b0c-a67b-323643191f11",
+                    "55764384-370b-4196-a970-d800b39d8b9f",
+                    "ee41eb98-aee7-40b8-b567-0ab15fd5afed",
+                    "39cac38c-6f8d-408c-a51c-5d2735c50d95",
+                    "f68a387c-f0c5-47d0-933d-789e19d74349"
+                ],
+                "title": "Menu",
+                "subtitle": "11:30 AM – 10:00 PM",
+                "uuid": "4124f7df-6674-465b-8972-676ab49579d3",
+                "isTop": true,
+                "isOnSale": true
+            }
+        ],
+        "subsectionsMap": {
+            "39cac38c-6f8d-408c-a51c-5d2735c50d95": {
+                "itemUuids": [
+                    "bbddf97d-c892-43b6-88a8-801be84b13f7",
+                    "8e364bb2-745e-419b-8fe1-0e740b1b9993",
+                    "30faf362-617b-407c-9352-d46f9ce766c1",
+                    "b29e4d92-57e8-4906-9a24-33f6527d6961",
+                    "5c4a6bf3-f72b-410c-8d93-be6d4db321d6",
+                    "1b83bcd6-ab16-425f-af3c-6d48481c05b6"
+                ],
+                "subtitle": null,
+                "title": "Soft Drinks",
+                "uuid": "39cac38c-6f8d-408c-a51c-5d2735c50d95",
+                "displayType": null
+            },
+            "ee41eb98-aee7-40b8-b567-0ab15fd5afed": {
+                "itemUuids": [
+                    "82040d9d-6817-48ef-b630-a71ce5460721"
+                ],
+                "subtitle": null,
+                "title": "Desserts",
+                "uuid": "ee41eb98-aee7-40b8-b567-0ab15fd5afed",
+                "displayType": null
+            },
+            "4ca7830d-848e-4479-8352-365a2018d8c2": {
+                "itemUuids": [
+                    "6e486b32-7c56-4dc5-91cf-57cc49b16fcb",
+                    "a97ff3c4-ef67-4743-a7b8-6440639e0229",
+                    "6f67905d-f7ae-44aa-968d-925b72531746",
+                    "606077d6-43cf-44fd-b05e-cedcf2455c96",
+                    "21890843-4a6c-4302-a697-dacf01d0ed50",
+                    "dd49ae86-9d28-42ca-a7f4-c592422f4324",
+                    "c7f925b7-3eb4-4cf5-b8d6-ddb57fb98837"
+                ],
+                "subtitle": null,
+                "title": "To Start",
+                "uuid": "4ca7830d-848e-4479-8352-365a2018d8c2",
+                "displayType": null
+            },
+            "929a2b75-2ad8-4c45-b798-7825306cc334": {
+                "itemUuids": [
+                    "48d26447-11b3-4e09-a1f4-f0abeb42454b",
+                    "59218d4e-9f74-4392-b347-8a367ae6e7a5",
+                    "115a0ecf-95fe-45f7-9aac-0e72bc35233b",
+                    "b3e3b150-794a-4aae-ab11-06eacf03b235"
+                ],
+                "subtitle": null,
+                "title": "The Bird",
+                "uuid": "929a2b75-2ad8-4c45-b798-7825306cc334",
+                "displayType": null
+            },
+            "f68a387c-f0c5-47d0-933d-789e19d74349": {
+                "itemUuids": [
+                    "566ed564-90c6-45de-b170-64aa61d32ef6",
+                    "3cd8d72d-15d3-41fa-ae2d-fd0983ddbe08",
+                    "7d107818-5a5f-4ca1-83c5-0c498064a66d",
+                    "a6c5e881-05cd-44d3-9b1c-5922ace6dea9",
+                    "46aebe8a-a7ef-49ad-94c2-72848b268e87",
+                    "3ea93f5e-4efd-471d-8f92-3244a0e5060b",
+                    "33abbbad-4fc5-4d0b-994d-3778715922a9",
+                    "db0e0706-e610-40f9-9fb8-3e113f834eac"
+                ],
+                "subtitle": null,
+                "title": "Alcohol",
+                "uuid": "f68a387c-f0c5-47d0-933d-789e19d74349",
+                "displayType": null
+            },
+            "9ada7ccd-4134-4ce2-aacd-7eab68e065f9": {
+                "itemUuids": [
+                    "adccf10e-cce7-4aae-9966-ca8eae5decb4",
+                    "b8db0ccb-cb61-48b8-90b1-19d71da404d4",
+                    "0a38a497-e656-4474-bff7-5487edb4b80b",
+                    "1b392db8-fcb8-46b4-897b-541643b18bc6",
+                    "0ddbef73-fa9d-4a4d-8237-73b602aa1723",
+                    "2400d093-dda4-4905-821c-9ae6ed6f4bef"
+                ],
+                "subtitle": null,
+                "title": "Burgers",
+                "uuid": "9ada7ccd-4134-4ce2-aacd-7eab68e065f9",
+                "displayType": null
+            },
+            "8db5f7d5-dcc3-4b0c-a67b-323643191f11": {
+                "itemUuids": [
+                    "e79fc66d-47b8-421a-9c29-e62bf899d76c",
+                    "35dfc61f-f394-4a9f-b970-b50df24edd76",
+                    "de26bcd0-0c67-4cd4-8456-b8c6b56268fe",
+                    "d2ecd82a-034f-4525-bf46-84cd9b4d1b30",
+                    "a0225e15-17cd-4c98-8137-9be2d261ae82",
+                    "a3d7b11d-259c-4ff5-87c4-8a648029dda7"
+                ],
+                "subtitle": null,
+                "title": "Vegan",
+                "uuid": "8db5f7d5-dcc3-4b0c-a67b-323643191f11",
+                "displayType": null
+            },
+            "91af1598-4968-4b05-a014-793bceeece78": {
+                "itemUuids": [
+                    "f1081c95-3bfd-4213-ba74-e49c306f3c69",
+                    "6d22475a-3f45-407e-ae65-67a9c3234ff4"
+                ],
+                "subtitle": null,
+                "title": "Salads",
+                "uuid": "91af1598-4968-4b05-a014-793bceeece78",
+                "displayType": null
+            },
+            "5f42cda6-5e43-41c8-be66-e2fa634c72ca": {
+                "itemUuids": [
+                    "148b7e35-2726-4310-8d70-8314633b7d4b",
+                    "b698df1a-cca2-4d8d-aa1e-7c42650ab188",
+                    "d4944f7a-7a90-42e4-80e6-15220a476b1c"
+                ],
+                "subtitle": null,
+                "title": "From the Wingshack",
+                "uuid": "5f42cda6-5e43-41c8-be66-e2fa634c72ca",
+                "displayType": null
+            },
+            "55764384-370b-4196-a970-d800b39d8b9f": {
+                "itemUuids": [
+                    "18ae96b6-3872-41a9-8c50-aabebea85919",
+                    "d245f508-114b-44c3-b99e-3df8f1a9fda6",
+                    "cf50240b-67df-4e13-88ba-c9ec32c1e9cc",
+                    "fa83b080-e05b-4dcc-a68f-e644ef21eb91",
+                    "a7ed45e2-08b3-4c48-a7f9-aa409d0d3cbd",
+                    "cae5d0d2-4873-4747-b039-545cf307c46a"
+                ],
+                "subtitle": null,
+                "title": "Sides",
+                "uuid": "55764384-370b-4196-a970-d800b39d8b9f",
+                "displayType": null
+            }
+        },
+        "title": "Absurd Bird (Spitalfields)",
+        "uuid": "c22de144-1a76-45ca-add7-2901e940f309",
+        "categories": [
+            "₴",
+            "Крильця",
+            "Бургери",
+            "Курка",
+            "Здорова їжа",
+            "Для веганів",
+            "Халяль",
+            "Американська"
+        ],
+        "cuisineList": [
+            "Крильця",
+            "Бургери",
+            "Курка",
+            "Здорова їжа",
+            "Для веганів",
+            "Халяль",
+            "Американська"
+        ],
+        "priceBucket": "₴",
+        "etaRange": {
+            "text": "35–45 min",
+            "iconUrl": ""
+        },
+        "ratingBadge": {
+            "text": "<span><span style=\"font-family: inherit; color: #3a3a48;\">4.1 <img src=\"https://d1a3f4spazzrp4.cloudfront.net/static/images/Star_Black_Eats_3.png\" width=\"14\" height=\"14\" vertical-align=\"middle\"> </span><span style=\"font-family: inherit; color: #757575;\">(200+)</span></span>"
+        },
+        "disclaimerBadge": {
+            "text": "<span style=\"font-family: inherit;\">Allergies, intolerances and dietary requirements: before ordering, please contact the restaurant directly and ask to speak to a member of staff who can assist if you require information about ingredients and help cater for your needs. For more information on food safety and hygiene, please visit the <a href=\"https://www.food.gov.uk/\" style=\"color:#61ad5f;\">Food Standards Agency</a></span>"
+        },
+        "fareBadge": null,
+        "fareInfo": {
+            "serviceFee": 30,
+            "serviceFeeCents": 3000
+        },
+        "promotion": null,
+        "shouldIndex": false,
+        "heroImageUrls": [
+            {
+                "url": "https://d1ralsognjng37.cloudfront.net/17774b2a-92c0-465d-b560-63609f1130f4.jpeg",
+                "width": 240
+            },
+            {
+                "url": "https://d1ralsognjng37.cloudfront.net/efb61753-bd56-4dcd-901f-70559230b5d2.jpeg",
+                "width": 550
+            },
+            {
+                "url": "https://d1ralsognjng37.cloudfront.net/4fd0e821-32ff-4dd2-8847-ec5d74551937.jpeg",
+                "width": 640
+            },
+            {
+                "url": "https://d1ralsognjng37.cloudfront.net/eb521215-e46d-448d-8862-f6aae4f1c73f.jpeg",
+                "width": 750
+            },
+            {
+                "url": "https://d1ralsognjng37.cloudfront.net/68d21e6f-7183-4050-995c-75f5bdd9ba85.jpeg",
+                "width": 1080
+            },
+            {
+                "url": "https://d1ralsognjng37.cloudfront.net/20d57e21-728e-4219-ba98-166ff3e7e816.jpeg",
+                "width": 2880
+            }
+        ],
+        "isOpen": true,
+        "currencyCode": "GBP",
+        "closedMessage": "Currently unavailable",
+        "location": {
+            "address": "54 Commercial St, London E1 6lt, Uk, England E1 6LT",
+            "streetAddress": "54 Commercial St",
+            "city": "London",
+            "country": "GB",
+            "postalCode": "E1 6LT",
+            "region": "England",
+            "latitude": 51.517447,
+            "longitude": -0.073369
+        },
+        "isDeliveryThirdParty": false,
+        "hours": [
+            {
+                "dayRange": "Sunday",
+                "sectionHours": [
+                    {
+                        "startTime": 660,
+                        "endTime": 1290,
+                        "sectionTitle": ""
+                    }
+                ]
+            },
+            {
+                "dayRange": "Monday - Thursday",
+                "sectionHours": [
+                    {
+                        "startTime": 690,
+                        "endTime": 1320,
+                        "sectionTitle": ""
+                    }
+                ]
+            },
+            {
+                "dayRange": "Friday",
+                "sectionHours": [
+                    {
+                        "startTime": 690,
+                        "endTime": 1350,
+                        "sectionTitle": ""
+                    }
+                ]
+            },
+            {
+                "dayRange": "Saturday",
+                "sectionHours": [
+                    {
+                        "startTime": 660,
+                        "endTime": 1350,
+                        "sectionTitle": ""
+                    }
+                ]
+            }
+        ],
+        "disableOrderInstruction": false,
+        "disableCheckoutInstruction": true,
+        "nuggets": [],
+        "isWithinDeliveryRange": false,
+        "slug": "absurd-bird-kingsway-holborn",
+        "citySlug": "london",
+        "phoneNumber": "+442032460007",
+        "metaJson": "{\"@context\":\"http:\\u002F\\u002Fschema.org\",\"@type\":\"Restaurant\",\"@id\":\"https:\\u002F\\u002Fwww.ubereats.com\\u002Fen-UA\\u002Flondon\\u002Ffood-delivery\\u002Fabsurd-bird-kingsway-holborn\\u002Fwi3hRBp2Rcqt1ykB6UDzCQ\\u002F\",\"name\":\"Absurd Bird (Spitalfields)\",\"priceRange\":\"₴\",\"potentialAction\":{\"@type\":\"OrderAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\\u002F\\u002Fwww.ubereats.com\\u002Fen-UA\\u002Flondon\\u002Ffood-delivery\\u002Fabsurd-bird-kingsway-holborn\\u002Fwi3hRBp2Rcqt1ykB6UDzCQ\\u002F?utm_campaign=order-action&utm_medium=organic\",\"inLanguage\":\"English\",\"actionPlatform\":[\"http:\\u002F\\u002Fschema.org\\u002FDesktopWebPlatform\",\"http:\\u002F\\u002Fschema.org\\u002FMobileWebPlatform\"]},\"deliveryMethod\":[\"http:\\u002F\\u002Fpurl.org\\u002Fgoodrelations\\u002Fv1#DeliveryModeOwnFleet\"]},\"address\":{\"@type\":\"PostalAddress\",\"addressLocality\":\"London\",\"addressRegion\":\"England\",\"postalCode\":\"E1 6LT\",\"addressCountry\":\"GB\",\"streetAddress\":\"54 Commercial St\"},\"geo\":{\"@type\":\"GeoCoordinates\",\"latitude\":51.517447,\"longitude\":-0.073369}}",
+        "promoTrackings": [],
+        "suggestedPromotion": {
+            "text": "",
+            "promotionUuid": ""
+        },
+        "supportedDiningModes": [
+            {
+                "mode": "DELIVERY",
+                "title": "Delivery",
+                "isSelected": true,
+                "isAvailable": true
+            }
+        ],
+        "isPreview": false,
+        "pinnedInfo": null
+    }
+}

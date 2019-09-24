@@ -1,0 +1,1143 @@
+{
+    "status": "success",
+    "data": {
+        "sectionEntitiesMap": {
+            "7d695a54-2994-4697-bede-6d7144c2ec4a": {
+                "c10d8716-21d3-4cb5-8bc2-6ee6c23f6e2a": {
+                    "description": "Dairy ice cream with Sour Cherry sauce and sour cherries",
+                    "imageUrl": null,
+                    "price": 530,
+                    "title": "Coppa Spagnola",
+                    "uuid": "c10d8716-21d3-4cb5-8bc2-6ee6c23f6e2a",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": "",
+                    "suspendUntil": 8640000000,
+                    "classifications": []
+                },
+                "4390cd33-f5aa-4127-b91a-c89cf3b6119f": {
+                    "description": "Curly kale, lemongrass, banana, and mango.",
+                    "imageUrl": null,
+                    "price": 550,
+                    "title": "Green Reviver Smoothie",
+                    "uuid": "4390cd33-f5aa-4127-b91a-c89cf3b6119f",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "7b3d0930-959b-427a-bf87-0aaa815bb5e9": {
+                    "description": "",
+                    "imageUrl": null,
+                    "price": 420,
+                    "title": "Fruit Salad",
+                    "uuid": "7b3d0930-959b-427a-bf87-0aaa815bb5e9",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "90a5ffc2-bc37-4eb4-b9ee-4f368503efde": {
+                    "description": "Ham, Mushrooms, Black Olives, Mozzarella and Tomato Sauce.",
+                    "imageUrl": null,
+                    "price": 995,
+                    "title": "Capriciosa Pizza",
+                    "uuid": "90a5ffc2-bc37-4eb4-b9ee-4f368503efde",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "068d6255-8e56-4848-b203-98e21d81e507": {
+                    "description": "",
+                    "imageUrl": null,
+                    "price": 260,
+                    "title": "Soda",
+                    "uuid": "068d6255-8e56-4848-b203-98e21d81e507",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "4edd7a67-7c9c-4507-a437-a21ca4946d69": {
+                    "description": "300 mL.",
+                    "imageUrl": null,
+                    "price": 360,
+                    "title": "Non-alcoholic Ambar Beer (330ml)",
+                    "uuid": "4edd7a67-7c9c-4507-a437-a21ca4946d69",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "63943590-f3f9-4954-acbe-2eb4e2990dd2": {
+                    "description": "Pepperoni, Black Olives, Fresh Red Chilies, Mozzarella and Tomato sauce",
+                    "imageUrl": null,
+                    "price": 995,
+                    "title": "Torcia Pizza",
+                    "uuid": "63943590-f3f9-4954-acbe-2eb4e2990dd2",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "c3130c0f-6271-4539-910f-6086083dfa2c": {
+                    "description": "Beef sausage, Egg, Mushrooms, Mozzarella and Tomato Sauce.",
+                    "imageUrl": null,
+                    "price": 930,
+                    "title": "Brunch Pizza",
+                    "uuid": "c3130c0f-6271-4539-910f-6086083dfa2c",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "2d85cbd9-e7aa-4ede-9ee2-b9d383d7ce46": {
+                    "description": "Blackberry, blackcurrant, blueberry, and banana.",
+                    "imageUrl": null,
+                    "price": 550,
+                    "title": "Berry Burst Smoothie",
+                    "uuid": "2d85cbd9-e7aa-4ede-9ee2-b9d383d7ce46",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "74a8778e-f4ea-4390-ab94-273337b290cc": {
+                    "description": "",
+                    "imageUrl": null,
+                    "price": 260,
+                    "title": "Lipton Ice Tea",
+                    "uuid": "74a8778e-f4ea-4390-ab94-273337b290cc",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "d5c1d168-8265-4e48-b54c-438bf609f0cc": {
+                    "description": "Ham, Pineapple, Mozzarella and Tomato Sauce",
+                    "imageUrl": null,
+                    "price": 930,
+                    "title": "Hawaiian Pizza",
+                    "uuid": "d5c1d168-8265-4e48-b54c-438bf609f0cc",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "bbe86617-8094-44ed-8702-650be03c0d4b": {
+                    "description": "Spinach, Egg, Black Olives, Mozzarella and Tomato Sauce",
+                    "imageUrl": null,
+                    "price": 860,
+                    "title": "Fiorentina Pizza",
+                    "uuid": "bbe86617-8094-44ed-8702-650be03c0d4b",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "1bf97132-bb43-46b3-be1f-8c478d3bde72": {
+                    "description": null,
+                    "imageUrl": null,
+                    "price": 55,
+                    "title": "Sweet Chilli Sauce",
+                    "uuid": "1bf97132-bb43-46b3-be1f-8c478d3bde72",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "825228e0-1254-4870-a70d-2ac771a53acf": {
+                    "description": "",
+                    "imageUrl": null,
+                    "price": 450,
+                    "title": "Freshly Squeezed Juice",
+                    "uuid": "825228e0-1254-4870-a70d-2ac771a53acf",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "8eb3b78e-25ce-4de0-a42e-bdc9a4dc6b24": {
+                    "description": "Acai, strawberry, blueberry, and mango.",
+                    "imageUrl": null,
+                    "price": 550,
+                    "title": "Acai Kick Smoothie",
+                    "uuid": "8eb3b78e-25ce-4de0-a42e-bdc9a4dc6b24",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "8fb5bf23-0d1d-49d4-90a9-78e58f3d8672": {
+                    "description": "Anchovies, Black Olives, Mozzarella and Tomato Sauce",
+                    "imageUrl": null,
+                    "price": 860,
+                    "title": "Neptune Pizza",
+                    "uuid": "8fb5bf23-0d1d-49d4-90a9-78e58f3d8672",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "539b8723-ef5e-4dc4-9167-651adb32fe4e": {
+                    "description": "A rich, moist chocolate sponge layered with fudge, and coated in a wonderfully smooth chocolate fudge icing.",
+                    "imageUrl": null,
+                    "price": 500,
+                    "title": "Chocolate Fudge Cake",
+                    "uuid": "539b8723-ef5e-4dc4-9167-651adb32fe4e",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "1039dce2-1ce3-4e3a-92dc-db824b32d5a4": {
+                    "description": "Artichokes, Black Olives, Onions, Feta Cheese, Mozzarella and Pesto Sauce",
+                    "imageUrl": null,
+                    "price": 1215,
+                    "title": "Pesto Pizza",
+                    "uuid": "1039dce2-1ce3-4e3a-92dc-db824b32d5a4",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "00d7ba02-ac14-4829-879d-241acd244ac7": {
+                    "description": "Caramelized Onions, Roasted Aubergines, Roasted Courgettes, Roasted Peppers, Vegan Cheese, and Tomato sauce ",
+                    "imageUrl": null,
+                    "price": 1130,
+                    "title": "Vegan Veggie Pizza",
+                    "uuid": "00d7ba02-ac14-4829-879d-241acd244ac7",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "ad1c9945-333d-4304-9554-18be0f8d7f6b": {
+                    "description": "Shortcrust pastry filled with lemon flavored patisserie cream, decorated with pine nuts, and dusted with icing sugar.",
+                    "imageUrl": null,
+                    "price": 500,
+                    "title": "Torta Della Nonna",
+                    "uuid": "ad1c9945-333d-4304-9554-18be0f8d7f6b",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": "",
+                    "suspendUntil": 8640000000,
+                    "classifications": []
+                },
+                "c29c1f7f-29dc-4767-84bf-d9499e95a216": {
+                    "description": "Seitan (smokey), Roasted Peppers, Mushrooms, Vegan Cheese and Tomato Sauce",
+                    "imageUrl": null,
+                    "price": 1215,
+                    "title": "Vegan Seitan Pizza",
+                    "uuid": "c29c1f7f-29dc-4767-84bf-d9499e95a216",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "23d9e2da-748c-4e86-b05e-659577c09b14": {
+                    "description": "Chocolate Nutella Pizza for Dessert",
+                    "imageUrl": null,
+                    "price": 565,
+                    "title": "Nutella Pizza",
+                    "uuid": "23d9e2da-748c-4e86-b05e-659577c09b14",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "0b5947bf-ee73-464b-a16d-5a24883268f3": {
+                    "description": "Chicken, Sweetcorn, Mixed Peppers, Mozzarella and BBQ sauce",
+                    "imageUrl": null,
+                    "price": 1060,
+                    "title": "Barbecue Pizza",
+                    "uuid": "0b5947bf-ee73-464b-a16d-5a24883268f3",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "4c50f67c-08f4-4433-94a7-afea83987032": {
+                    "description": "Oregano, Garlic Oil and Tomato Sauce",
+                    "imageUrl": null,
+                    "price": 600,
+                    "title": "Marinara Pizza",
+                    "uuid": "4c50f67c-08f4-4433-94a7-afea83987032",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "853c42e0-93cb-44dd-ad72-54b9b06f4692": {
+                    "description": "",
+                    "imageUrl": null,
+                    "price": 460,
+                    "title": "Cheesey Garlic bread",
+                    "uuid": "853c42e0-93cb-44dd-ad72-54b9b06f4692",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "234cda01-d5a7-44c4-aee6-e5bb6f3dfbce": {
+                    "description": "Pepperoni, Ham, Chicken, Mozzarella and Tomato Sauce",
+                    "imageUrl": null,
+                    "price": 1130,
+                    "title": "Festa Carne Pizza",
+                    "uuid": "234cda01-d5a7-44c4-aee6-e5bb6f3dfbce",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "b876d104-5767-4d11-bc59-9ef270ef95d4": {
+                    "description": "Mushrooms, Mozzarella  and Tomato Sauce",
+                    "imageUrl": null,
+                    "price": 790,
+                    "title": "Funghi Pizza",
+                    "uuid": "b876d104-5767-4d11-bc59-9ef270ef95d4",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "8a416bb1-967a-4f91-9310-21bb0843f083": {
+                    "description": "Chicken, Jalapeno, Mushrooms, Mozzarella and Tomato Sauce",
+                    "imageUrl": null,
+                    "price": 1060,
+                    "title": "Diavola Pizza",
+                    "uuid": "8a416bb1-967a-4f91-9310-21bb0843f083",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "5b42ac99-71ac-41a8-be8f-b36787944780": {
+                    "description": "330 mL.",
+                    "imageUrl": null,
+                    "price": 245,
+                    "title": "Still Water",
+                    "uuid": "5b42ac99-71ac-41a8-be8f-b36787944780",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "d46240c5-a719-4455-bbd0-c6e6ef162d53": {
+                    "description": "100ml",
+                    "imageUrl": null,
+                    "price": 420,
+                    "title": "Ben and Jerry’s Ice Cream",
+                    "uuid": "d46240c5-a719-4455-bbd0-c6e6ef162d53",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "ac94b4c2-44b3-4355-a0b7-2fe046b91343": {
+                    "description": "",
+                    "imageUrl": null,
+                    "price": 450,
+                    "title": "Santini Tomato Salad",
+                    "uuid": "ac94b4c2-44b3-4355-a0b7-2fe046b91343",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "8aff380b-36f5-4258-80ca-a7f26f4260cf": {
+                    "description": "Goat’s cheese, Spinach, Roasted Peppers, Mozzarella and Tomato sauce ",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/12b08b53-517f-4169-a71c-be9cb97843b4",
+                    "price": 1130,
+                    "title": "Al Caprino Pizza",
+                    "uuid": "8aff380b-36f5-4258-80ca-a7f26f4260cf",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "b29ebc57-3003-4c56-88af-9722e25b36ee": {
+                    "description": "",
+                    "imageUrl": null,
+                    "price": 450,
+                    "title": "Feta Salad",
+                    "uuid": "b29ebc57-3003-4c56-88af-9722e25b36ee",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "18ec004b-0aab-47c8-a1d2-671fbee1a882": {
+                    "description": "Emmental, Cheddar, Gorgonzola, Mozzarella and Tomato Sauce",
+                    "imageUrl": null,
+                    "price": 860,
+                    "title": "Four Cheeses Pizza",
+                    "uuid": "18ec004b-0aab-47c8-a1d2-671fbee1a882",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": "",
+                    "suspendUntil": 8640000000,
+                    "classifications": []
+                },
+                "727b4daf-8274-4ba6-8ddd-9a28b5da9d64": {
+                    "description": "Pineapple, papaya, and mango.",
+                    "imageUrl": null,
+                    "price": 550,
+                    "title": "Pineapple Sunset Smoothie",
+                    "uuid": "727b4daf-8274-4ba6-8ddd-9a28b5da9d64",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "acff07c9-2a7c-4f3e-af33-e8c0beedea49": {
+                    "description": "Artichokes, Egg, Black Olives, Mozzarella and Tomato sauce",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/544ebd27-8aad-41d4-b49f-f92b15152318",
+                    "price": 860,
+                    "title": "Special Pizza",
+                    "uuid": "acff07c9-2a7c-4f3e-af33-e8c0beedea49",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "1c619e50-ba36-4dbd-91f9-1deb6271b3ec": {
+                    "description": "330 mL.",
+                    "imageUrl": null,
+                    "price": 260,
+                    "title": "Sparkling Water",
+                    "uuid": "1c619e50-ba36-4dbd-91f9-1deb6271b3ec",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "df0ed703-db9f-4776-9097-e5b34b6db1e3": {
+                    "description": "Onions, sweetcorn, mixed peppers, mozzarella cheese, and tomato sauce with basil and herbs.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/279c8d7f-ccf2-40c1-9f42-a66299cc052f",
+                    "price": 860,
+                    "title": "Vegetarian Pizza",
+                    "uuid": "df0ed703-db9f-4776-9097-e5b34b6db1e3",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "f8f36d54-7c56-4e48-86c0-6120114a9aee": {
+                    "description": "Chicken, Onions, Black Olives, Mozzarella and Tomato sauce ",
+                    "imageUrl": null,
+                    "price": 1060,
+                    "title": "Pulcino Pizza",
+                    "uuid": "f8f36d54-7c56-4e48-86c0-6120114a9aee",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "814709df-32f5-48ce-97fb-e2279dd78c0c": {
+                    "description": "",
+                    "imageUrl": null,
+                    "price": 360,
+                    "title": "Mixed Olives",
+                    "uuid": "814709df-32f5-48ce-97fb-e2279dd78c0c",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "ee17a286-2736-4a93-8b67-1e5aaf767ac5": {
+                    "description": "Mascarpone cream with coffee soaked finger biscuits.",
+                    "imageUrl": null,
+                    "price": 500,
+                    "title": "Tiramisu",
+                    "uuid": "ee17a286-2736-4a93-8b67-1e5aaf767ac5",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "8f1a7ea4-260b-43d4-b8da-2ddeba6ebcf4": {
+                    "description": "Hazelnut and bitter chocolate ice cream with a chocolate creamy base",
+                    "imageUrl": null,
+                    "price": 530,
+                    "title": "Coppa Cioccolata e Nocciola",
+                    "uuid": "8f1a7ea4-260b-43d4-b8da-2ddeba6ebcf4",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": "",
+                    "suspendUntil": 8640000000,
+                    "classifications": []
+                },
+                "c9d32c2b-dd8e-45e9-a9d3-15602e0f10a7": {
+                    "description": "250ml.",
+                    "imageUrl": null,
+                    "price": 315,
+                    "title": "Red Bull",
+                    "uuid": "c9d32c2b-dd8e-45e9-a9d3-15602e0f10a7",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "987bbb37-09ae-40e6-9e45-33331c884018": {
+                    "description": "",
+                    "imageUrl": null,
+                    "price": 55,
+                    "title": "Sour Cream and Chive",
+                    "uuid": "987bbb37-09ae-40e6-9e45-33331c884018",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "a9350abb-bc6a-4fca-9dd8-e7ffd5c9cd7a": {
+                    "description": "",
+                    "imageUrl": null,
+                    "price": 500,
+                    "title": "Passion Cake",
+                    "uuid": "a9350abb-bc6a-4fca-9dd8-e7ffd5c9cd7a",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "c3895e8b-5593-4e1b-a4d3-649315e0694e": {
+                    "description": "",
+                    "imageUrl": null,
+                    "price": 280,
+                    "title": "Snapple (500ml)",
+                    "uuid": "c3895e8b-5593-4e1b-a4d3-649315e0694e",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "aa1b1f9c-f25a-4b97-bde7-953422d75380": {
+                    "description": "500 mL.",
+                    "imageUrl": null,
+                    "price": 280,
+                    "title": "Vitamin Water",
+                    "uuid": "aa1b1f9c-f25a-4b97-bde7-953422d75380",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "0f93d1af-318a-40ff-97e4-cea77506e9c1": {
+                    "description": "A traditional baked cheesecake in the New York style and flavored with a hint of vanilla sitting on a sponge base.",
+                    "imageUrl": null,
+                    "price": 500,
+                    "title": "New York Cheesecake",
+                    "uuid": "0f93d1af-318a-40ff-97e4-cea77506e9c1",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "c47d718e-3fc0-4f43-9351-d3f8ae5e30b8": {
+                    "description": "Beetroot, ginger, pineapple, and blueberry.",
+                    "imageUrl": null,
+                    "price": 550,
+                    "title": "Ginger Beets Smoothie",
+                    "uuid": "c47d718e-3fc0-4f43-9351-d3f8ae5e30b8",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "e6ed613d-2fa8-4ae7-89b4-34969f4d731a": {
+                    "description": "Pineapple and coconut milk.",
+                    "imageUrl": null,
+                    "price": 550,
+                    "title": "Coconut Crush Smoothie",
+                    "uuid": "e6ed613d-2fa8-4ae7-89b4-34969f4d731a",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "15c8c56b-38a8-4674-a50d-dedf3ae44a8f": {
+                    "description": "",
+                    "imageUrl": null,
+                    "price": 55,
+                    "title": "Garlic and Herb",
+                    "uuid": "15c8c56b-38a8-4674-a50d-dedf3ae44a8f",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "add90790-1602-40ae-9a5c-d2185dc005ec": {
+                    "description": "",
+                    "imageUrl": null,
+                    "price": 55,
+                    "title": "BBQ Sauce",
+                    "uuid": "add90790-1602-40ae-9a5c-d2185dc005ec",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "a5912d41-e57f-4e51-8956-3e3c82ba1bd9": {
+                    "description": "Tuna, Sweetcorn, Onions, Mozzarella and Tomato sauce.",
+                    "imageUrl": null,
+                    "price": 860,
+                    "title": "Primavera Pizza",
+                    "uuid": "a5912d41-e57f-4e51-8956-3e3c82ba1bd9",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "f52691a8-c750-4520-84a8-1b251a84bfa5": {
+                    "description": "",
+                    "imageUrl": null,
+                    "price": 280,
+                    "title": "Vitamin Water",
+                    "uuid": "f52691a8-c750-4520-84a8-1b251a84bfa5",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "a4225677-cfec-4b5f-8a6f-f5e8ff95f94a": {
+                    "description": "",
+                    "imageUrl": null,
+                    "price": 450,
+                    "title": "Rocket Salad",
+                    "uuid": "a4225677-cfec-4b5f-8a6f-f5e8ff95f94a",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "51b3b702-a40a-46be-a38e-73cff637fb8b": {
+                    "description": "Raspberry, blueberry, apple, and mango. ",
+                    "imageUrl": null,
+                    "price": 550,
+                    "title": "Rasberry Heaven Smoothie",
+                    "uuid": "51b3b702-a40a-46be-a38e-73cff637fb8b",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "4ab49d07-cbe5-4e4b-9b82-656918738027": {
+                    "description": "Pepperoni, Mozzarella and Tomato Sauce",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/1009de36-80f4-4c42-97ab-953e7b7313f4",
+                    "price": 860,
+                    "title": "Pepperoni Pizza",
+                    "uuid": "4ab49d07-cbe5-4e4b-9b82-656918738027",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "ca115051-358b-407a-b633-82cc48717542": {
+                    "description": "Mozzarella and tomato sauce",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/d5be6958-b807-4362-8f89-7e2a1ecb2090",
+                    "price": 680,
+                    "title": "Margherita Pizza",
+                    "uuid": "ca115051-358b-407a-b633-82cc48717542",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "e08803d6-91c4-439b-8bee-12261c4c719b": {
+                    "description": "Spinach, Banana, Lime, Pineapple",
+                    "imageUrl": null,
+                    "price": 550,
+                    "title": "Organic Forest",
+                    "uuid": "e08803d6-91c4-439b-8bee-12261c4c719b",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "e9a0ff49-1ed4-4451-93c6-d356bad713dd": {
+                    "description": null,
+                    "imageUrl": null,
+                    "price": 475,
+                    "title": "Ben & Jerry's Non-Dairy VEGAN Chunky Monkey",
+                    "uuid": "e9a0ff49-1ed4-4451-93c6-d356bad713dd",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                }
+            }
+        },
+        "sections": [
+            {
+                "subsectionUuids": [
+                    "19135fb8-32ce-45cc-84c4-0bd52ab401cf",
+                    "ba457f37-36c7-4ab8-a1cf-87d6bf8c09e2",
+                    "c686d085-097e-4b67-b09b-e16113109363",
+                    "ebb3f7c2-9bf9-49bf-bc25-c02d48b675ff",
+                    "cda3610c-7aa7-40d8-808c-3caa8fb2043c",
+                    "7038634c-965e-4ee1-895a-e985c2806ea4"
+                ],
+                "title": "Menu",
+                "subtitle": "10:00 AM – 11:15 PM",
+                "uuid": "7d695a54-2994-4697-bede-6d7144c2ec4a",
+                "isTop": true,
+                "isOnSale": true
+            }
+        ],
+        "subsectionsMap": {
+            "cda3610c-7aa7-40d8-808c-3caa8fb2043c": {
+                "itemUuids": [
+                    "539b8723-ef5e-4dc4-9167-651adb32fe4e",
+                    "0f93d1af-318a-40ff-97e4-cea77506e9c1",
+                    "a9350abb-bc6a-4fca-9dd8-e7ffd5c9cd7a",
+                    "ee17a286-2736-4a93-8b67-1e5aaf767ac5",
+                    "ad1c9945-333d-4304-9554-18be0f8d7f6b",
+                    "d46240c5-a719-4455-bbd0-c6e6ef162d53",
+                    "23d9e2da-748c-4e86-b05e-659577c09b14",
+                    "e9a0ff49-1ed4-4451-93c6-d356bad713dd",
+                    "c10d8716-21d3-4cb5-8bc2-6ee6c23f6e2a",
+                    "8f1a7ea4-260b-43d4-b8da-2ddeba6ebcf4"
+                ],
+                "subtitle": null,
+                "title": "Desserts",
+                "uuid": "cda3610c-7aa7-40d8-808c-3caa8fb2043c",
+                "displayType": null
+            },
+            "7038634c-965e-4ee1-895a-e985c2806ea4": {
+                "itemUuids": [
+                    "068d6255-8e56-4848-b203-98e21d81e507",
+                    "1c619e50-ba36-4dbd-91f9-1deb6271b3ec",
+                    "5b42ac99-71ac-41a8-be8f-b36787944780",
+                    "aa1b1f9c-f25a-4b97-bde7-953422d75380",
+                    "51b3b702-a40a-46be-a38e-73cff637fb8b",
+                    "e08803d6-91c4-439b-8bee-12261c4c719b",
+                    "8eb3b78e-25ce-4de0-a42e-bdc9a4dc6b24",
+                    "e6ed613d-2fa8-4ae7-89b4-34969f4d731a",
+                    "2d85cbd9-e7aa-4ede-9ee2-b9d383d7ce46",
+                    "727b4daf-8274-4ba6-8ddd-9a28b5da9d64",
+                    "c47d718e-3fc0-4f43-9351-d3f8ae5e30b8",
+                    "4390cd33-f5aa-4127-b91a-c89cf3b6119f",
+                    "825228e0-1254-4870-a70d-2ac771a53acf",
+                    "c9d32c2b-dd8e-45e9-a9d3-15602e0f10a7",
+                    "74a8778e-f4ea-4390-ab94-273337b290cc",
+                    "c3895e8b-5593-4e1b-a4d3-649315e0694e",
+                    "f52691a8-c750-4520-84a8-1b251a84bfa5",
+                    "4edd7a67-7c9c-4507-a437-a21ca4946d69"
+                ],
+                "subtitle": null,
+                "title": "Beverages",
+                "uuid": "7038634c-965e-4ee1-895a-e985c2806ea4",
+                "displayType": null
+            },
+            "19135fb8-32ce-45cc-84c4-0bd52ab401cf": {
+                "itemUuids": [
+                    "8aff380b-36f5-4258-80ca-a7f26f4260cf",
+                    "df0ed703-db9f-4776-9097-e5b34b6db1e3",
+                    "acff07c9-2a7c-4f3e-af33-e8c0beedea49",
+                    "4ab49d07-cbe5-4e4b-9b82-656918738027",
+                    "ca115051-358b-407a-b633-82cc48717542"
+                ],
+                "subtitle": null,
+                "title": "Most Popular",
+                "uuid": "19135fb8-32ce-45cc-84c4-0bd52ab401cf",
+                "displayType": null
+            },
+            "ba457f37-36c7-4ab8-a1cf-87d6bf8c09e2": {
+                "itemUuids": [
+                    "00d7ba02-ac14-4829-879d-241acd244ac7",
+                    "8aff380b-36f5-4258-80ca-a7f26f4260cf",
+                    "234cda01-d5a7-44c4-aee6-e5bb6f3dfbce",
+                    "f8f36d54-7c56-4e48-86c0-6120114a9aee",
+                    "8a416bb1-967a-4f91-9310-21bb0843f083",
+                    "90a5ffc2-bc37-4eb4-b9ee-4f368503efde",
+                    "63943590-f3f9-4954-acbe-2eb4e2990dd2",
+                    "d5c1d168-8265-4e48-b54c-438bf609f0cc",
+                    "c3130c0f-6271-4539-910f-6086083dfa2c",
+                    "acff07c9-2a7c-4f3e-af33-e8c0beedea49",
+                    "bbe86617-8094-44ed-8702-650be03c0d4b",
+                    "a5912d41-e57f-4e51-8956-3e3c82ba1bd9",
+                    "b876d104-5767-4d11-bc59-9ef270ef95d4",
+                    "18ec004b-0aab-47c8-a1d2-671fbee1a882",
+                    "df0ed703-db9f-4776-9097-e5b34b6db1e3",
+                    "8fb5bf23-0d1d-49d4-90a9-78e58f3d8672",
+                    "4ab49d07-cbe5-4e4b-9b82-656918738027",
+                    "ca115051-358b-407a-b633-82cc48717542",
+                    "0b5947bf-ee73-464b-a16d-5a24883268f3",
+                    "4c50f67c-08f4-4433-94a7-afea83987032",
+                    "1039dce2-1ce3-4e3a-92dc-db824b32d5a4",
+                    "c29c1f7f-29dc-4767-84bf-d9499e95a216"
+                ],
+                "subtitle": null,
+                "title": "Pizza",
+                "uuid": "ba457f37-36c7-4ab8-a1cf-87d6bf8c09e2",
+                "displayType": null
+            },
+            "c686d085-097e-4b67-b09b-e16113109363": {
+                "itemUuids": [
+                    "7b3d0930-959b-427a-bf87-0aaa815bb5e9",
+                    "853c42e0-93cb-44dd-ad72-54b9b06f4692",
+                    "814709df-32f5-48ce-97fb-e2279dd78c0c",
+                    "b29ebc57-3003-4c56-88af-9722e25b36ee",
+                    "ac94b4c2-44b3-4355-a0b7-2fe046b91343",
+                    "a4225677-cfec-4b5f-8a6f-f5e8ff95f94a"
+                ],
+                "subtitle": null,
+                "title": "Sides",
+                "uuid": "c686d085-097e-4b67-b09b-e16113109363",
+                "displayType": null
+            },
+            "a4eee322-9b7c-11e9-a337-246e963e2bdc": {
+                "itemUuids": [
+                    "ca115051-358b-407a-b633-82cc48717542",
+                    "4ab49d07-cbe5-4e4b-9b82-656918738027",
+                    "18ec004b-0aab-47c8-a1d2-671fbee1a882",
+                    "b876d104-5767-4d11-bc59-9ef270ef95d4"
+                ],
+                "subtitle": null,
+                "title": "Buy one get one free",
+                "uuid": "a4eee322-9b7c-11e9-a337-246e963e2bdc",
+                "displayType": null
+            },
+            "ebb3f7c2-9bf9-49bf-bc25-c02d48b675ff": {
+                "itemUuids": [
+                    "add90790-1602-40ae-9a5c-d2185dc005ec",
+                    "15c8c56b-38a8-4674-a50d-dedf3ae44a8f",
+                    "987bbb37-09ae-40e6-9e45-33331c884018",
+                    "1bf97132-bb43-46b3-be1f-8c478d3bde72"
+                ],
+                "subtitle": null,
+                "title": "Dips",
+                "uuid": "ebb3f7c2-9bf9-49bf-bc25-c02d48b675ff",
+                "displayType": null
+            }
+        },
+        "title": "ICCO Pizza",
+        "uuid": "c6b4ba51-ad97-45eb-a779-a1a56a4320de",
+        "categories": [
+            "₴",
+            "Піца",
+            "Італійська"
+        ],
+        "cuisineList": [
+            "Піца",
+            "Італійська"
+        ],
+        "priceBucket": "₴",
+        "etaRange": {
+            "text": "25–35 min",
+            "iconUrl": ""
+        },
+        "ratingBadge": {
+            "text": "<span><span style=\"font-family: inherit; color: #3a3a48;\">4.3 <img src=\"https://d1a3f4spazzrp4.cloudfront.net/static/images/Star_Black_Eats_3.png\" width=\"14\" height=\"14\" vertical-align=\"middle\"> </span><span style=\"font-family: inherit; color: #757575;\">(187)</span></span>"
+        },
+        "disclaimerBadge": {
+            "text": "<span style=\"font-family: inherit;\">Allergies, intolerances and dietary requirements: before ordering, please contact the restaurant directly and ask to speak to a member of staff who can assist if you require information about ingredients and help cater for your needs. For more information on food safety and hygiene, please visit the <a href=\"http://ratings.food.gov.uk/\" style=\"color:#61ad5f;\">Food Standards Agency</a></span>"
+        },
+        "fareBadge": null,
+        "fareInfo": {
+            "serviceFee": 30,
+            "serviceFeeCents": 3000
+        },
+        "promotion": null,
+        "shouldIndex": false,
+        "heroImageUrls": [
+            {
+                "url": "https://duyt4h9nfnj50.cloudfront.net/resized/bulk_actions_image_87cc0b02-d55f-4a83-b253-9a53dd5b5802-w240-9b.jpg",
+                "width": 240
+            },
+            {
+                "url": "https://duyt4h9nfnj50.cloudfront.net/resized/bulk_actions_image_87cc0b02-d55f-4a83-b253-9a53dd5b5802-w550-f7.jpg",
+                "width": 550
+            },
+            {
+                "url": "https://duyt4h9nfnj50.cloudfront.net/resized/bulk_actions_image_87cc0b02-d55f-4a83-b253-9a53dd5b5802-w640-59.jpg",
+                "width": 640
+            },
+            {
+                "url": "https://duyt4h9nfnj50.cloudfront.net/resized/bulk_actions_image_87cc0b02-d55f-4a83-b253-9a53dd5b5802-w750-04.jpg",
+                "width": 750
+            },
+            {
+                "url": "https://duyt4h9nfnj50.cloudfront.net/resized/bulk_actions_image_87cc0b02-d55f-4a83-b253-9a53dd5b5802-w1080-a4.jpg",
+                "width": 1080
+            },
+            {
+                "url": "https://duyt4h9nfnj50.cloudfront.net/resized/bulk_actions_image_87cc0b02-d55f-4a83-b253-9a53dd5b5802-w2880-3c.jpg",
+                "width": 2880
+            }
+        ],
+        "isOpen": true,
+        "currencyCode": "GBP",
+        "closedMessage": "Currently unavailable",
+        "location": {
+            "address": "W1t 4lu, London, England W1T 4LU",
+            "streetAddress": "W1T 4LU",
+            "city": "London",
+            "country": "GB",
+            "postalCode": "W1T 4LU",
+            "region": "England",
+            "latitude": 51.519446,
+            "longitude": -0.136095
+        },
+        "isDeliveryThirdParty": false,
+        "hours": [
+            {
+                "dayRange": "Sunday",
+                "sectionHours": [
+                    {
+                        "startTime": 630,
+                        "endTime": 1365,
+                        "sectionTitle": ""
+                    }
+                ]
+            },
+            {
+                "dayRange": "Monday - Wednesday",
+                "sectionHours": [
+                    {
+                        "startTime": 600,
+                        "endTime": 1365,
+                        "sectionTitle": ""
+                    }
+                ]
+            },
+            {
+                "dayRange": "Thursday",
+                "sectionHours": [
+                    {
+                        "startTime": 600,
+                        "endTime": 1395,
+                        "sectionTitle": ""
+                    }
+                ]
+            },
+            {
+                "dayRange": "Friday",
+                "sectionHours": [
+                    {
+                        "startTime": 600,
+                        "endTime": 60,
+                        "sectionTitle": ""
+                    }
+                ]
+            },
+            {
+                "dayRange": "Saturday",
+                "sectionHours": [
+                    {
+                        "startTime": 630,
+                        "endTime": 0,
+                        "sectionTitle": ""
+                    }
+                ]
+            }
+        ],
+        "disableOrderInstruction": false,
+        "disableCheckoutInstruction": false,
+        "nuggets": [],
+        "isWithinDeliveryRange": false,
+        "slug": "icco-pizza",
+        "citySlug": "london",
+        "phoneNumber": "+442075809688",
+        "metaJson": "{\"@context\":\"http:\\u002F\\u002Fschema.org\",\"@type\":\"Restaurant\",\"@id\":\"https:\\u002F\\u002Fwww.ubereats.com\\u002Fen-UA\\u002Flondon\\u002Ffood-delivery\\u002Ficco-pizza\\u002FxrS6Ua2XReuneaGlakMg3g\\u002F\",\"name\":\"ICCO Pizza\",\"priceRange\":\"₴\",\"potentialAction\":{\"@type\":\"OrderAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\\u002F\\u002Fwww.ubereats.com\\u002Fen-UA\\u002Flondon\\u002Ffood-delivery\\u002Ficco-pizza\\u002FxrS6Ua2XReuneaGlakMg3g\\u002F?utm_campaign=order-action&utm_medium=organic\",\"inLanguage\":\"English\",\"actionPlatform\":[\"http:\\u002F\\u002Fschema.org\\u002FDesktopWebPlatform\",\"http:\\u002F\\u002Fschema.org\\u002FMobileWebPlatform\"]},\"deliveryMethod\":[\"http:\\u002F\\u002Fpurl.org\\u002Fgoodrelations\\u002Fv1#DeliveryModePickUp\",\"http:\\u002F\\u002Fpurl.org\\u002Fgoodrelations\\u002Fv1#DeliveryModeOwnFleet\"]},\"address\":{\"@type\":\"PostalAddress\",\"addressLocality\":\"London\",\"addressRegion\":\"England\",\"postalCode\":\"W1T 4LU\",\"addressCountry\":\"GB\",\"streetAddress\":\"W1T 4LU\"},\"geo\":{\"@type\":\"GeoCoordinates\",\"latitude\":51.519446,\"longitude\":-0.136095}}",
+        "promoTrackings": [],
+        "suggestedPromotion": {
+            "text": "",
+            "promotionUuid": ""
+        },
+        "supportedDiningModes": [
+            {
+                "mode": "PICKUP",
+                "title": "Pickup",
+                "isSelected": false,
+                "isAvailable": true
+            },
+            {
+                "mode": "DELIVERY",
+                "title": "Delivery",
+                "isSelected": true,
+                "isAvailable": true
+            }
+        ],
+        "isPreview": false,
+        "pinnedInfo": null
+    }
+}

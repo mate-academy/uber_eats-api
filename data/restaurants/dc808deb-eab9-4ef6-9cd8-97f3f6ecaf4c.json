@@ -1,0 +1,905 @@
+{
+    "status": "success",
+    "data": {
+        "sectionEntitiesMap": {
+            "0a86d9b0-d7c2-5b35-a1b9-1cd3ab44c63f": {
+                "38c00da7-aee6-5770-8fb9-6a6f72e8b693": {
+                    "description": "Can 330ml",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/de47e004-7a71-4676-957c-3fd6213e5fcb.jpeg",
+                    "price": 199,
+                    "title": "Diet Coke Can",
+                    "uuid": "38c00da7-aee6-5770-8fb9-6a6f72e8b693",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "266f30c1-26f0-55da-90c4-2b3a54e5b634": {
+                    "description": "",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/1319d341-4c7f-4ba6-8936-2d7e56ee9862.jpeg",
+                    "price": 299,
+                    "title": "Chunky Fries",
+                    "uuid": "266f30c1-26f0-55da-90c4-2b3a54e5b634",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "76363180-69ac-531a-b9da-8e54d63ab3b4": {
+                    "description": "",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/bc7ad868-8224-438a-8d4d-7119e3f5f02a.png",
+                    "price": 399,
+                    "title": "Cheesy Chunky Fries",
+                    "uuid": "76363180-69ac-531a-b9da-8e54d63ab3b4",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "253181f9-31b7-5b56-9567-1824ff6aba6f": {
+                    "description": "still water 500ml",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/51dfb9f7-e68e-4996-bc86-f4bddc1e2626.jpeg",
+                    "price": 199,
+                    "title": "Bottled Water (Still)",
+                    "uuid": "253181f9-31b7-5b56-9567-1824ff6aba6f",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "58848edf-5cc9-5a42-98ff-e51df7e854df": {
+                    "description": "",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/cf1aa131-8e7c-4dee-9b01-330b320db7bd.jpeg",
+                    "price": 799,
+                    "title": "9 Buffalo Wings",
+                    "uuid": "58848edf-5cc9-5a42-98ff-e51df7e854df",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "52b3853a-466f-530d-9327-9f474fcb8299": {
+                    "description": "",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/e96e222f-1d33-44f2-b234-3f02c5ab2b9f.jpeg",
+                    "price": 499,
+                    "title": "Nutella and Oreos      ",
+                    "uuid": "52b3853a-466f-530d-9327-9f474fcb8299",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "e3050661-cbac-5ba4-ab80-5e28e0cd0c2d": {
+                    "description": "",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/6f448c3e-1ec5-46eb-b1ef-9bc39a92053c.jpeg",
+                    "price": 999,
+                    "title": "12 Buffalo Wings",
+                    "uuid": "e3050661-cbac-5ba4-ab80-5e28e0cd0c2d",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "f3e0a2b1-4d59-5351-afd9-8340bd2f7492": {
+                    "description": "New York Cheesecake, so creamy, smooth and satisfying it makes the Statue of Liberty smile. Drizzled with premium toffee sauce.",
+                    "imageUrl": null,
+                    "price": 599,
+                    "title": "Toffee Cheesecake",
+                    "uuid": "f3e0a2b1-4d59-5351-afd9-8340bd2f7492",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "8c15071c-947b-5b00-adb9-3a4c6c34f1c7": {
+                    "description": "",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/fb6c884d-949a-4c17-9e37-5d1d4191ffac.jpeg",
+                    "price": 499,
+                    "title": "6 Buffalo Wings",
+                    "uuid": "8c15071c-947b-5b00-adb9-3a4c6c34f1c7",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "a5026c78-ed39-59a1-a1aa-9931b8975ce8": {
+                    "description": "",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/b31bd245-f898-432e-a82f-cb102be14121.jpeg",
+                    "price": 1099,
+                    "title": "9 Boneless Wings",
+                    "uuid": "a5026c78-ed39-59a1-a1aa-9931b8975ce8",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "2ec1762e-d8e0-5019-92dc-a9c04045c7a7": {
+                    "description": "",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/46d9cec4-b97f-436e-8744-e65dae1aae80.jpeg",
+                    "price": 650,
+                    "title": "9 Crispy Chicken Bites",
+                    "uuid": "2ec1762e-d8e0-5019-92dc-a9c04045c7a7",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "1a2ebaab-470c-5298-94d3-ed9031024722": {
+                    "description": "330ml can",
+                    "imageUrl": null,
+                    "price": 220,
+                    "title": "Fanta Orange",
+                    "uuid": "1a2ebaab-470c-5298-94d3-ed9031024722",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "042dd93c-8cdd-5f05-bc15-e348b9427c3e": {
+                    "description": "New York Cheesecake, so creamy, smooth and satisfying it makes the Statue of Liberty smile. Drizzled with premium Lotus Biscoff sauce.",
+                    "imageUrl": null,
+                    "price": 599,
+                    "title": "Lotus Cheesecake",
+                    "uuid": "042dd93c-8cdd-5f05-bc15-e348b9427c3e",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "05b8542c-618b-563b-88e9-49041f0a9f16": {
+                    "description": "",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/4a36255a-a74e-4079-aa87-1163d5ff22b8.png",
+                    "price": 325,
+                    "title": "Cajun Chunky Fries",
+                    "uuid": "05b8542c-618b-563b-88e9-49041f0a9f16",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "c3fdd63e-2182-5f74-93ad-9ca1e86e8aea": {
+                    "description": "A decadent Oreo cake, made with white and milk chocolate cream with Oreo chunks & drizzled with chocolate Sauce.",
+                    "imageUrl": null,
+                    "price": 649,
+                    "title": "Oreo Cheesecake",
+                    "uuid": "c3fdd63e-2182-5f74-93ad-9ca1e86e8aea",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "71b81971-9622-554e-82f7-125be73c68c0": {
+                    "description": "New York Cheesecake, so creamy, smooth and satisfying it makes the Statue of Liberty smile. Drizzled with premium milk chocolate and white chocolate sauce.\n",
+                    "imageUrl": null,
+                    "price": 599,
+                    "title": "Two Choc Cheesecake",
+                    "uuid": "71b81971-9622-554e-82f7-125be73c68c0",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "3d0fd7a6-594f-59e3-b7d1-a5fbb5e1f44e": {
+                    "description": "",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/aab7b7c1-9da5-439c-801f-16027bb620ef.jpeg",
+                    "price": 1399,
+                    "title": "12 Boneless Wings",
+                    "uuid": "3d0fd7a6-594f-59e3-b7d1-a5fbb5e1f44e",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "0cf83675-4785-5308-8417-60a82035fa61": {
+                    "description": "",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/e3b6a895-eafc-4be3-b4ae-b40992c17ed4.jpeg",
+                    "price": 850,
+                    "title": "12 Crispy Chicken Bites",
+                    "uuid": "0cf83675-4785-5308-8417-60a82035fa61",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "ca4b7025-f39a-57f2-af35-86fd172ae6dc": {
+                    "description": "",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/9f9732a3-01f9-4889-a20f-fa6241cc0d2f.jpeg",
+                    "price": 1399,
+                    "title": "12 Jumbo Buffalo Wings",
+                    "uuid": "ca4b7025-f39a-57f2-af35-86fd172ae6dc",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "dfad62dc-d5e4-528a-98d1-0b6ac2272646": {
+                    "description": "330ml can",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/6e168808-008d-43ae-9e30-9887d845146f.jpeg",
+                    "price": 220,
+                    "title": "Sprite",
+                    "uuid": "dfad62dc-d5e4-528a-98d1-0b6ac2272646",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "f3e3823e-93ad-579f-a90f-9694a5c190ef": {
+                    "description": "New York Cheesecake, so creamy, smooth and satisfying it makes the Statue of Liberty smile. Topped with fresh strawberries and drizzled with premium white chocolate sauce.\n",
+                    "imageUrl": null,
+                    "price": 649,
+                    "title": "Strawberry & White Chocolate Cheesecake",
+                    "uuid": "f3e3823e-93ad-579f-a90f-9694a5c190ef",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "4b1c71a6-a1af-529f-a1a5-1d39deff6bcf": {
+                    "description": "Crispy chicken strips tossed in hot BBQ jerk sauce, topped with melted cheese and jalapenos. Served in a toasted brioche bun with crispy lettuce, sliced juicy tomatoes, gherkins, red onions, and mayo.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/f41e23ab-79f6-4093-a0f5-e99d8217df47.png",
+                    "price": 799,
+                    "title": "Smoky Jamaican Deluxe",
+                    "uuid": "4b1c71a6-a1af-529f-a1a5-1d39deff6bcf",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "fa3c4059-d5bd-5e06-a82c-26a461ab3736": {
+                    "description": "",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/07a7fad8-f3c7-4a49-ba1c-44d332c0b359.jpeg",
+                    "price": 799,
+                    "title": "6 Boneless Wings",
+                    "uuid": "fa3c4059-d5bd-5e06-a82c-26a461ab3736",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "54bea8c6-97d6-5fc0-a275-ad2950454c1b": {
+                    "description": "Crispy chicken strips tossed in piri piri sauce, topped with melted cheese and jalapenos. Served in a toasted brioche bun with crispy lettuce, sliced juicy tomatoes, gherkins, red onions, and mayo.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/1dddfcd2-4c74-4f08-b669-76ba47334d01.png",
+                    "price": 799,
+                    "title": "Chicken Spicy Deluxe",
+                    "uuid": "54bea8c6-97d6-5fc0-a275-ad2950454c1b",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "39b661f2-34e8-5ca6-b2e6-acdd88dec38d": {
+                    "description": "Can 330ml",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/4aa0af7a-41f3-4ffa-9955-59fd6e5d140e.jpeg",
+                    "price": 199,
+                    "title": "Coke Zero Can",
+                    "uuid": "39b661f2-34e8-5ca6-b2e6-acdd88dec38d",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "8a8f87a7-ccf3-5fd5-8798-b9b06043e5b9": {
+                    "description": "330ml can",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/0f7d9fda-5531-4fde-8b45-ff827196446f.jpeg",
+                    "price": 220,
+                    "title": "Original Coca Cola",
+                    "uuid": "8a8f87a7-ccf3-5fd5-8798-b9b06043e5b9",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "f19a3f11-04fb-5463-aebf-a4040688d321": {
+                    "description": "",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/49822f17-bf14-4366-8db9-298e56907b71.jpeg",
+                    "price": 449,
+                    "title": "Triple Chocolate",
+                    "uuid": "f19a3f11-04fb-5463-aebf-a4040688d321",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "e51c85d1-0cb3-5582-b726-5a71fe7582ca": {
+                    "description": "Melt in your mouth magic. An indulgent soft\nchocolate cake, oozing with a melted chocolate\nlava center & sprinkled with chocolate sprinkles.",
+                    "imageUrl": null,
+                    "price": 699,
+                    "title": "Molten Chocolate Cake",
+                    "uuid": "e51c85d1-0cb3-5582-b726-5a71fe7582ca",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "b87af8b5-d97f-5dd8-bebc-c44350ff045b": {
+                    "description": "",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/b0864dbd-a6aa-4f40-b48e-0a5a7cc4ff44.jpeg",
+                    "price": 449,
+                    "title": "Classic Oreo",
+                    "uuid": "b87af8b5-d97f-5dd8-bebc-c44350ff045b",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "1b119be1-d784-5632-ab91-a05ad1e8eebc": {
+                    "description": "",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/fc7c7b7f-e07a-486a-8ff3-aa2eedc0b24d.jpeg",
+                    "price": 399,
+                    "title": "Spicy Cheesy Chunky Fries",
+                    "uuid": "1b119be1-d784-5632-ab91-a05ad1e8eebc",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "2279f00c-cfb6-5c41-86d1-ee36ef24bbe8": {
+                    "description": "",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/0768dd43-b64e-4762-a89e-d4c353af2791.jpeg",
+                    "price": 425,
+                    "title": "Cheesy Jalapeno Chunky Fries",
+                    "uuid": "2279f00c-cfb6-5c41-86d1-ee36ef24bbe8",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "0c545236-a5c1-5abc-89b7-00c7eb4183cc": {
+                    "description": "",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/7e8c62f8-241f-442d-bda9-ce9ca9c89659.jpeg",
+                    "price": 450,
+                    "title": "6 Crispy Chicken Bites",
+                    "uuid": "0c545236-a5c1-5abc-89b7-00c7eb4183cc",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "3149fbc3-f5f4-5877-8587-afabf4d20ae2": {
+                    "description": "",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/23f1ab29-f8b2-483b-af3c-d1e15d5191bb.jpeg",
+                    "price": 499,
+                    "title": "Peanut Butter, Toffee, and Banana    ",
+                    "uuid": "3149fbc3-f5f4-5877-8587-afabf4d20ae2",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "94921573-42cf-5100-a83a-f6f9e53a0974": {
+                    "description": "",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/398fde9f-e859-4dbf-b095-867b1ca8f189.jpeg",
+                    "price": 1099,
+                    "title": "9 Jumbo Buffalo Wings",
+                    "uuid": "94921573-42cf-5100-a83a-f6f9e53a0974",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "c4220ad7-558f-54f2-b45d-4845a4aa75af": {
+                    "description": "Crispy chicken strips tossed in smoky BBQ sauce, topped with melted cheese. Served in a toasted brioche bun with crispy lettuce, sliced juicy tomatoes, gherkins, red onions, and mayo.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/93587833-c118-4113-b6f1-0be834045ef4.png",
+                    "price": 799,
+                    "title": "Chicken BBQ Deluxe",
+                    "uuid": "c4220ad7-558f-54f2-b45d-4845a4aa75af",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "e0e921ba-932a-58a6-86ca-fe5c9d707d62": {
+                    "description": "",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/355d3f33-ab84-43dd-a30d-d1bfc44bc436.jpeg",
+                    "price": 499,
+                    "title": "Peanut Butter and Choc Brownie      ",
+                    "uuid": "e0e921ba-932a-58a6-86ca-fe5c9d707d62",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "31abb6d1-15bd-53aa-8394-de6424e9ad31": {
+                    "description": "",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/5a6792a8-7bee-445c-a8cc-2880cede1b27.jpeg",
+                    "price": 799,
+                    "title": "6 Jumbo Buffalo Wings",
+                    "uuid": "31abb6d1-15bd-53aa-8394-de6424e9ad31",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "41cb622f-1fd0-5e94-8d77-9af65a53b977": {
+                    "description": "Crispy chicken strips tossed in smoky BBQ sauce, topped with melted cheese. Served in a toasted brioche bun with crispy lettuce, sliced juicy tomatoes, gherkins, red onions, and mayo.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/92bd26b9-1e46-454e-a8b0-72fe4e29a00f.jpeg",
+                    "price": 799,
+                    "title": "Southern Cajun Deluxe",
+                    "uuid": "41cb622f-1fd0-5e94-8d77-9af65a53b977",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "857f7222-49f1-5abd-b86f-e52c57dc30ae": {
+                    "description": "",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/31919b26-1d00-418e-a0f4-262fbb1dc73d.png",
+                    "price": 325,
+                    "title": "Spicy Chunky Fries",
+                    "uuid": "857f7222-49f1-5abd-b86f-e52c57dc30ae",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "223664e0-21ff-5855-b3a8-cbecda9ccd9a": {
+                    "description": "",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/0bdfbda6-bef5-476b-b2ef-69db8c27abb8.jpeg",
+                    "price": 449,
+                    "title": "Mango",
+                    "uuid": "223664e0-21ff-5855-b3a8-cbecda9ccd9a",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                }
+            }
+        },
+        "sections": [
+            {
+                "subsectionUuids": [
+                    "68ae488d-19ef-5b3f-a834-c8aab5daab47",
+                    "439bafbc-2527-555d-9c90-c5b25113ed60",
+                    "d97c8beb-1c09-5587-9249-05d6c2ac4f79",
+                    "118c6c84-aa78-5ae1-8097-694d348d004b",
+                    "cbf85a4a-a430-5885-bc1b-545b2f49eb4c",
+                    "8242bab0-4391-562e-aa49-b4a0b9e9fb51",
+                    "ae747c40-927c-5937-a691-41931b033898",
+                    "51ab83f1-b548-5b90-8ce1-9cad29e34641",
+                    "6f73ab8b-87b7-5018-bd99-6b56f7f5c0ac"
+                ],
+                "title": "King of Wings Menu",
+                "subtitle": "12:00 PM – 11:50 PM",
+                "uuid": "0a86d9b0-d7c2-5b35-a1b9-1cd3ab44c63f",
+                "isTop": true,
+                "isOnSale": true
+            }
+        ],
+        "subsectionsMap": {
+            "cbf85a4a-a430-5885-bc1b-545b2f49eb4c": {
+                "itemUuids": [
+                    "c4220ad7-558f-54f2-b45d-4845a4aa75af",
+                    "54bea8c6-97d6-5fc0-a275-ad2950454c1b",
+                    "4b1c71a6-a1af-529f-a1a5-1d39deff6bcf",
+                    "41cb622f-1fd0-5e94-8d77-9af65a53b977"
+                ],
+                "subtitle": "",
+                "title": "Chicken Burgers",
+                "uuid": "cbf85a4a-a430-5885-bc1b-545b2f49eb4c",
+                "displayType": null
+            },
+            "439bafbc-2527-555d-9c90-c5b25113ed60": {
+                "itemUuids": [
+                    "31abb6d1-15bd-53aa-8394-de6424e9ad31",
+                    "94921573-42cf-5100-a83a-f6f9e53a0974",
+                    "ca4b7025-f39a-57f2-af35-86fd172ae6dc"
+                ],
+                "subtitle": "",
+                "title": "Jumbo Buffalo Wings",
+                "uuid": "439bafbc-2527-555d-9c90-c5b25113ed60",
+                "displayType": null
+            },
+            "6f73ab8b-87b7-5018-bd99-6b56f7f5c0ac": {
+                "itemUuids": [
+                    "e51c85d1-0cb3-5582-b726-5a71fe7582ca",
+                    "c3fdd63e-2182-5f74-93ad-9ca1e86e8aea",
+                    "71b81971-9622-554e-82f7-125be73c68c0",
+                    "f3e0a2b1-4d59-5351-afd9-8340bd2f7492",
+                    "042dd93c-8cdd-5f05-bc15-e348b9427c3e",
+                    "f3e3823e-93ad-579f-a90f-9694a5c190ef"
+                ],
+                "subtitle": null,
+                "title": "Desserts",
+                "uuid": "6f73ab8b-87b7-5018-bd99-6b56f7f5c0ac",
+                "displayType": null
+            },
+            "ae747c40-927c-5937-a691-41931b033898": {
+                "itemUuids": [
+                    "b87af8b5-d97f-5dd8-bebc-c44350ff045b",
+                    "223664e0-21ff-5855-b3a8-cbecda9ccd9a",
+                    "f19a3f11-04fb-5463-aebf-a4040688d321",
+                    "3149fbc3-f5f4-5877-8587-afabf4d20ae2",
+                    "52b3853a-466f-530d-9327-9f474fcb8299",
+                    "e0e921ba-932a-58a6-86ca-fe5c9d707d62"
+                ],
+                "subtitle": "",
+                "title": "Shakes",
+                "uuid": "ae747c40-927c-5937-a691-41931b033898",
+                "displayType": null
+            },
+            "d97c8beb-1c09-5587-9249-05d6c2ac4f79": {
+                "itemUuids": [
+                    "0c545236-a5c1-5abc-89b7-00c7eb4183cc",
+                    "2ec1762e-d8e0-5019-92dc-a9c04045c7a7",
+                    "0cf83675-4785-5308-8417-60a82035fa61"
+                ],
+                "subtitle": "",
+                "title": "Chicken Bites",
+                "uuid": "d97c8beb-1c09-5587-9249-05d6c2ac4f79",
+                "displayType": null
+            },
+            "8242bab0-4391-562e-aa49-b4a0b9e9fb51": {
+                "itemUuids": [
+                    "266f30c1-26f0-55da-90c4-2b3a54e5b634",
+                    "857f7222-49f1-5abd-b86f-e52c57dc30ae",
+                    "05b8542c-618b-563b-88e9-49041f0a9f16",
+                    "76363180-69ac-531a-b9da-8e54d63ab3b4",
+                    "1b119be1-d784-5632-ab91-a05ad1e8eebc",
+                    "2279f00c-cfb6-5c41-86d1-ee36ef24bbe8"
+                ],
+                "subtitle": "",
+                "title": "Sides",
+                "uuid": "8242bab0-4391-562e-aa49-b4a0b9e9fb51",
+                "displayType": null
+            },
+            "51ab83f1-b548-5b90-8ce1-9cad29e34641": {
+                "itemUuids": [
+                    "39b661f2-34e8-5ca6-b2e6-acdd88dec38d",
+                    "38c00da7-aee6-5770-8fb9-6a6f72e8b693",
+                    "8a8f87a7-ccf3-5fd5-8798-b9b06043e5b9",
+                    "dfad62dc-d5e4-528a-98d1-0b6ac2272646",
+                    "1a2ebaab-470c-5298-94d3-ed9031024722",
+                    "253181f9-31b7-5b56-9567-1824ff6aba6f"
+                ],
+                "subtitle": null,
+                "title": "Drinks",
+                "uuid": "51ab83f1-b548-5b90-8ce1-9cad29e34641",
+                "displayType": null
+            },
+            "68ae488d-19ef-5b3f-a834-c8aab5daab47": {
+                "itemUuids": [
+                    "8c15071c-947b-5b00-adb9-3a4c6c34f1c7",
+                    "58848edf-5cc9-5a42-98ff-e51df7e854df",
+                    "e3050661-cbac-5ba4-ab80-5e28e0cd0c2d"
+                ],
+                "subtitle": "",
+                "title": "Buffalo Wings",
+                "uuid": "68ae488d-19ef-5b3f-a834-c8aab5daab47",
+                "displayType": null
+            },
+            "118c6c84-aa78-5ae1-8097-694d348d004b": {
+                "itemUuids": [
+                    "fa3c4059-d5bd-5e06-a82c-26a461ab3736",
+                    "a5026c78-ed39-59a1-a1aa-9931b8975ce8",
+                    "3d0fd7a6-594f-59e3-b7d1-a5fbb5e1f44e"
+                ],
+                "subtitle": "",
+                "title": "Boneless Wings",
+                "uuid": "118c6c84-aa78-5ae1-8097-694d348d004b",
+                "displayType": null
+            }
+        },
+        "title": "King of Wings (Great Portland Street)",
+        "uuid": "dc808deb-eab9-4ef6-9cd8-97f3f6ecaf4c",
+        "categories": [
+            "₴",
+            "Фастфуд",
+            "Бургери",
+            "Крильця",
+            "Десерти"
+        ],
+        "cuisineList": [
+            "Фастфуд",
+            "Бургери",
+            "Крильця",
+            "Десерти"
+        ],
+        "priceBucket": "₴",
+        "etaRange": {
+            "text": "35–45 min",
+            "iconUrl": ""
+        },
+        "ratingBadge": {
+            "text": "<span><span style=\"font-family: inherit; color: #3a3a48;\">4.1 <img src=\"https://d1a3f4spazzrp4.cloudfront.net/static/images/Star_Black_Eats_3.png\" width=\"14\" height=\"14\" vertical-align=\"middle\"> </span><span style=\"font-family: inherit; color: #757575;\">(97)</span></span>"
+        },
+        "disclaimerBadge": null,
+        "fareBadge": null,
+        "fareInfo": {
+            "serviceFee": 30,
+            "serviceFeeCents": 3000
+        },
+        "promotion": null,
+        "shouldIndex": false,
+        "heroImageUrls": [
+            {
+                "url": "https://d1ralsognjng37.cloudfront.net/2199bfec-3348-4fde-97c8-7a41d0c0936e",
+                "width": 240
+            },
+            {
+                "url": "https://d1ralsognjng37.cloudfront.net/aa4e296a-768d-4d6f-a75a-562196a0702c",
+                "width": 550
+            },
+            {
+                "url": "https://d1ralsognjng37.cloudfront.net/6b0ec3d9-81ee-4976-a095-0cf3a664f4c3",
+                "width": 640
+            },
+            {
+                "url": "https://d1ralsognjng37.cloudfront.net/e6be879f-56a9-4feb-b3ca-be0a9c28ff49",
+                "width": 750
+            },
+            {
+                "url": "https://d1ralsognjng37.cloudfront.net/5dd5b117-d951-4f28-8129-a176942f9208",
+                "width": 1080
+            },
+            {
+                "url": "https://d1ralsognjng37.cloudfront.net/b7575203-dde5-4dd7-a9bf-2b1f81e7c074",
+                "width": 2880
+            }
+        ],
+        "isOpen": true,
+        "currencyCode": "GBP",
+        "closedMessage": "Currently unavailable",
+        "location": {
+            "address": "Great Portland St, 35, England W1W 8QQ",
+            "streetAddress": "Great Portland St",
+            "city": "",
+            "country": "GB",
+            "postalCode": "W1W 8QQ",
+            "region": "England",
+            "latitude": 51.5169965,
+            "longitude": -0.1415055
+        },
+        "isDeliveryThirdParty": false,
+        "hours": [
+            {
+                "dayRange": "Sunday",
+                "sectionHours": [
+                    {
+                        "startTime": 720,
+                        "endTime": 1439,
+                        "sectionTitle": "King of Wings Menu"
+                    },
+                    {
+                        "startTime": 0,
+                        "endTime": 90,
+                        "sectionTitle": "King of Wings Menu"
+                    }
+                ]
+            },
+            {
+                "dayRange": "Monday - Wednesday",
+                "sectionHours": [
+                    {
+                        "startTime": 720,
+                        "endTime": 1425,
+                        "sectionTitle": "King of Wings Menu"
+                    }
+                ]
+            },
+            {
+                "dayRange": "Thursday - Friday",
+                "sectionHours": [
+                    {
+                        "startTime": 720,
+                        "endTime": 1430,
+                        "sectionTitle": "King of Wings Menu"
+                    }
+                ]
+            },
+            {
+                "dayRange": "Saturday",
+                "sectionHours": [
+                    {
+                        "startTime": 0,
+                        "endTime": 90,
+                        "sectionTitle": "King of Wings Menu"
+                    },
+                    {
+                        "startTime": 720,
+                        "endTime": 1439,
+                        "sectionTitle": "King of Wings Menu"
+                    }
+                ]
+            }
+        ],
+        "disableOrderInstruction": false,
+        "disableCheckoutInstruction": false,
+        "nuggets": [],
+        "isWithinDeliveryRange": false,
+        "slug": "king-of-wings-great-portland-street",
+        "citySlug": "london",
+        "phoneNumber": "+442072552221",
+        "metaJson": "{\"@context\":\"http:\\u002F\\u002Fschema.org\",\"@type\":\"Restaurant\",\"@id\":\"https:\\u002F\\u002Fwww.ubereats.com\\u002Fen-UA\\u002Flondon\\u002Ffood-delivery\\u002Fking-of-wings-great-portland-street\\u002F3ICN6-q5Tvac2Jfz9uyvTA\\u002F\",\"name\":\"King of Wings (Great Portland Street)\",\"priceRange\":\"₴\",\"potentialAction\":{\"@type\":\"OrderAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\\u002F\\u002Fwww.ubereats.com\\u002Fen-UA\\u002Flondon\\u002Ffood-delivery\\u002Fking-of-wings-great-portland-street\\u002F3ICN6-q5Tvac2Jfz9uyvTA\\u002F?utm_campaign=order-action&utm_medium=organic\",\"inLanguage\":\"English\",\"actionPlatform\":[\"http:\\u002F\\u002Fschema.org\\u002FDesktopWebPlatform\",\"http:\\u002F\\u002Fschema.org\\u002FMobileWebPlatform\"]},\"deliveryMethod\":[\"http:\\u002F\\u002Fpurl.org\\u002Fgoodrelations\\u002Fv1#DeliveryModeOwnFleet\"]},\"geo\":{\"@type\":\"GeoCoordinates\",\"latitude\":51.5169965,\"longitude\":-0.1415055}}",
+        "promoTrackings": [],
+        "suggestedPromotion": {
+            "text": "",
+            "promotionUuid": ""
+        },
+        "supportedDiningModes": [
+            {
+                "mode": "DELIVERY",
+                "title": "Delivery",
+                "isSelected": true,
+                "isAvailable": true
+            }
+        ],
+        "isPreview": false,
+        "pinnedInfo": null
+    }
+}

@@ -1,0 +1,875 @@
+{
+    "status": "success",
+    "data": {
+        "sectionEntitiesMap": {
+            "c34cf565-6fdd-455f-aa6a-3d5c05b365fc": {
+                "3a2a8b18-9614-4606-aef6-f7754e8c684c": {
+                    "description": "",
+                    "imageUrl": null,
+                    "price": 99,
+                    "title": "Mango Chutney",
+                    "uuid": "3a2a8b18-9614-4606-aef6-f7754e8c684c",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "fdf4a455-3801-4b1f-9924-dc4323569204": {
+                    "description": "Spinach with Indian cottage cheese. (Choose portion side/ main) (V)",
+                    "imageUrl": null,
+                    "price": 699,
+                    "title": "Paneer Saagwala (V)",
+                    "uuid": "fdf4a455-3801-4b1f-9924-dc4323569204",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "a252c2e9-6fd9-4dcf-a33f-0bdfc7461372": {
+                    "description": "Homestyle chicken curry inspired from Mum’s recipe, deliciously hot and spicy! ",
+                    "imageUrl": null,
+                    "price": 1099,
+                    "title": "Mum’s Chicken Curry",
+                    "uuid": "a252c2e9-6fd9-4dcf-a33f-0bdfc7461372",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "50fccc76-1c7b-43b2-8233-1a259b6c0317": {
+                    "description": "750ml.",
+                    "imageUrl": null,
+                    "price": 299,
+                    "title": "Sparkling Water",
+                    "uuid": "50fccc76-1c7b-43b2-8233-1a259b6c0317",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": "",
+                    "suspendUntil": 8640000000,
+                    "classifications": []
+                },
+                "05ba2e9b-41d9-4ac2-bd78-f0b76daa9bed": {
+                    "description": "",
+                    "imageUrl": null,
+                    "price": 299,
+                    "title": "Pilao Rice",
+                    "uuid": "05ba2e9b-41d9-4ac2-bd78-f0b76daa9bed",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "77ef77e0-11fa-420d-a0d0-fd6b56aac114": {
+                    "description": "330ml",
+                    "imageUrl": null,
+                    "price": 399,
+                    "title": "Kingfisher Indian Beer",
+                    "uuid": "77ef77e0-11fa-420d-a0d0-fd6b56aac114",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "a9ed29f4-d1ff-4d11-a099-72a8b1f7639b": {
+                    "description": "House special - finest basmati rice cooked with aromatic spices and choice of meat or veg. Served with raita ",
+                    "imageUrl": null,
+                    "price": 1099,
+                    "title": "Dum Biryani",
+                    "uuid": "a9ed29f4-d1ff-4d11-a099-72a8b1f7639b",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "e4579bc7-5b9e-4975-87bf-21ecb5059ed7": {
+                    "description": "Crispy & spicy potato fries with ketchup",
+                    "imageUrl": null,
+                    "price": 329,
+                    "title": "Masala Fries (V)",
+                    "uuid": "e4579bc7-5b9e-4975-87bf-21ecb5059ed7",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "901b933c-bcaa-48af-8296-ca913d30c482": {
+                    "description": "House special black lentils. (Choose portion side/ main) (V)",
+                    "imageUrl": null,
+                    "price": 699,
+                    "title": "Dal Makhani",
+                    "uuid": "901b933c-bcaa-48af-8296-ca913d30c482",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "0613caff-0828-4a21-aa2a-fa22d9bd4ef0": {
+                    "description": "Chowpatty style famous wada, pav.",
+                    "imageUrl": null,
+                    "price": 399,
+                    "title": "Bombay Slider (Vegetarian)",
+                    "uuid": "0613caff-0828-4a21-aa2a-fa22d9bd4ef0",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "endorsement": {
+                        "text": "Vegetarian",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png"
+                    },
+                    "classifications": []
+                },
+                "c1ce55cc-7d2b-4404-9c20-5422765be23f": {
+                    "description": "",
+                    "imageUrl": null,
+                    "price": 99,
+                    "title": "Mint and Coriander Chutney",
+                    "uuid": "c1ce55cc-7d2b-4404-9c20-5422765be23f",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "e3b8dc88-ea47-4ce6-b1f1-15d2fc433be3": {
+                    "description": "Made with gram flour, onions, and fresh herbs.",
+                    "imageUrl": null,
+                    "price": 399,
+                    "title": "Onion Bhajia (Vegetarian)",
+                    "uuid": "e3b8dc88-ea47-4ce6-b1f1-15d2fc433be3",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "endorsement": {
+                        "text": "Vegetarian",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png"
+                    },
+                    "classifications": []
+                },
+                "f06c8842-676b-480c-8b7f-0fc3d9c0cded": {
+                    "description": "",
+                    "imageUrl": null,
+                    "price": 99,
+                    "title": "Plain Papadum",
+                    "uuid": "f06c8842-676b-480c-8b7f-0fc3d9c0cded",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "7a2015c0-4bf9-42a9-af3b-0032c7777813": {
+                    "description": "",
+                    "imageUrl": null,
+                    "price": 99,
+                    "title": "Onion Salad",
+                    "uuid": "7a2015c0-4bf9-42a9-af3b-0032c7777813",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "16d3b3c9-9798-4996-b43a-694c056044d6": {
+                    "description": "",
+                    "imageUrl": null,
+                    "price": 349,
+                    "title": "Mixed Raita",
+                    "uuid": "16d3b3c9-9798-4996-b43a-694c056044d6",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "5e6b7ac7-7e56-4e8d-95ec-4393e9184308": {
+                    "description": "",
+                    "imageUrl": null,
+                    "price": 299,
+                    "title": "Brown Rice",
+                    "uuid": "5e6b7ac7-7e56-4e8d-95ec-4393e9184308",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": "",
+                    "suspendUntil": 8640000000,
+                    "classifications": []
+                },
+                "5eb4b74c-213b-4b05-b6d4-0908a646fe15": {
+                    "description": "",
+                    "imageUrl": null,
+                    "price": 149,
+                    "title": "Extra Pao",
+                    "uuid": "5eb4b74c-213b-4b05-b6d4-0908a646fe15",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "d05466d2-8bee-417d-bc1a-5f33809af8cf": {
+                    "description": "Goan spices with coconut, mustard and curry leaf",
+                    "imageUrl": null,
+                    "price": 1099,
+                    "title": "Goan Fish Curry",
+                    "uuid": "d05466d2-8bee-417d-bc1a-5f33809af8cf",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "437da659-cb56-439f-8afa-25285bbec58f": {
+                    "description": "",
+                    "imageUrl": null,
+                    "price": 349,
+                    "title": "Garlic Naan",
+                    "uuid": "437da659-cb56-439f-8afa-25285bbec58f",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "81991dd1-9092-478d-bc41-51745befd08f": {
+                    "description": "\"Coca-Cola Classic is the world's favourite soft drink and has been enjoyed since 1886.\n \n Great Coke taste\n Only natural flavours\n No added preservatives\n Gluten-free, dairy-free and nut-free\n \n Serve ice cold for maximum refreshment.\"",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/2a6964e1-659f-4805-938f-6055df2d8dd6.jpeg",
+                    "price": 129,
+                    "title": "Coca-Cola Original Taste 330ml",
+                    "uuid": "81991dd1-9092-478d-bc41-51745befd08f",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "bfb59e3d-aba5-4173-946b-66a1cd289fec": {
+                    "description": "",
+                    "imageUrl": null,
+                    "price": 99,
+                    "title": "Mint and Yogurt Chutney",
+                    "uuid": "bfb59e3d-aba5-4173-946b-66a1cd289fec",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "9438e1d3-d520-4f0d-b21b-05a714e9c538": {
+                    "description": "Packed with rustic flavours and freshness of Punjabi roasted spices. Hot and spicy!",
+                    "imageUrl": null,
+                    "price": 1149,
+                    "title": "Desi Dhaba Lamb",
+                    "uuid": "9438e1d3-d520-4f0d-b21b-05a714e9c538",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "a065e9a6-da4d-41df-a260-da1ba47d65db": {
+                    "description": "Mashed vegetables with buttered soft roll ",
+                    "imageUrl": null,
+                    "price": 499,
+                    "title": "Pav Bhaji (Vegetarian)",
+                    "uuid": "a065e9a6-da4d-41df-a260-da1ba47d65db",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "endorsement": {
+                        "text": "Vegetarian",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png"
+                    },
+                    "classifications": []
+                },
+                "83d65ba0-c64e-453a-a3fc-a76f2adc19a1": {
+                    "description": "Authentic and original version of chicken tikka masala",
+                    "imageUrl": null,
+                    "price": 1098,
+                    "title": "Chicken Butter Masala",
+                    "uuid": "83d65ba0-c64e-453a-a3fc-a76f2adc19a1",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "fa231cbf-5318-479b-a980-7e9f3757fcae": {
+                    "description": "Dhaba style yellow lentils. (Choose portion side/ main) (V)",
+                    "imageUrl": null,
+                    "price": 699,
+                    "title": "Tadka Dal",
+                    "uuid": "fa231cbf-5318-479b-a980-7e9f3757fcae",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "75e8b316-4d64-44e9-92d7-9320921b3d17": {
+                    "description": "Special Lucknowi spice grilled chunks of tender lamb",
+                    "imageUrl": null,
+                    "price": 699,
+                    "title": "Lamb Boti Kebab",
+                    "uuid": "75e8b316-4d64-44e9-92d7-9320921b3d17",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "39f70170-4457-4b08-a2e4-4058ce36b5b0": {
+                    "description": "Indian cottage cheese stuffed with mint chutney (V)",
+                    "imageUrl": null,
+                    "price": 599,
+                    "title": "Paneer Tikka",
+                    "uuid": "39f70170-4457-4b08-a2e4-4058ce36b5b0",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "44b51942-957a-4d2b-a22e-0df6fbdc6eaf": {
+                    "description": "Punjabi style spinach and seasonal vegetables",
+                    "imageUrl": null,
+                    "price": 699,
+                    "title": "Veg Saagwala (V)",
+                    "uuid": "44b51942-957a-4d2b-a22e-0df6fbdc6eaf",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "f8b81fe0-2b3d-4ec0-802f-d8c63472c307": {
+                    "description": "Famous Indian cheese in butter masala gravy",
+                    "imageUrl": null,
+                    "price": 999,
+                    "title": "Paneer Makhani (V)",
+                    "uuid": "f8b81fe0-2b3d-4ec0-802f-d8c63472c307",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "19e5e684-8348-401f-88e3-30a2edd51036": {
+                    "description": "",
+                    "imageUrl": null,
+                    "price": 99,
+                    "title": "Spicy Papadum",
+                    "uuid": "19e5e684-8348-401f-88e3-30a2edd51036",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "8ce848fd-98ee-4db6-b2ab-0fceb35e68fe": {
+                    "description": "Homestyle vegetable curry. (Choose portion side/ main)",
+                    "imageUrl": null,
+                    "price": 699,
+                    "title": "Mix Veg Curry (V)",
+                    "uuid": "8ce848fd-98ee-4db6-b2ab-0fceb35e68fe",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "27b4461f-8ed7-4d50-91c5-feb3e417f3c0": {
+                    "description": "500ml.",
+                    "imageUrl": null,
+                    "price": 249,
+                    "title": "Still Water",
+                    "uuid": "27b4461f-8ed7-4d50-91c5-feb3e417f3c0",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "505cd7b1-9f31-4de8-997b-cdd781368dd1": {
+                    "description": "Crisp papdi, chickpeas, yoghurt, potatoes, and chutneys.",
+                    "imageUrl": null,
+                    "price": 449,
+                    "title": "Papdi Chaat (Vegetarian)",
+                    "uuid": "505cd7b1-9f31-4de8-997b-cdd781368dd1",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "endorsement": {
+                        "text": "Vegetarian",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png"
+                    },
+                    "classifications": []
+                },
+                "41ca4386-e062-4a07-ad07-76e39cced06b": {
+                    "description": "750ml.",
+                    "imageUrl": null,
+                    "price": 299,
+                    "title": "Still Water",
+                    "uuid": "41ca4386-e062-4a07-ad07-76e39cced06b",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "b8ba711e-ad7a-4590-b7f0-454efc8c1a8d": {
+                    "description": "",
+                    "imageUrl": null,
+                    "price": 249,
+                    "title": "Basmati Rice",
+                    "uuid": "b8ba711e-ad7a-4590-b7f0-454efc8c1a8d",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "5e6fe8f7-3b2b-4183-9b51-e347656c24a1": {
+                    "description": "",
+                    "imageUrl": null,
+                    "price": 299,
+                    "title": "Classic Naan",
+                    "uuid": "5e6fe8f7-3b2b-4183-9b51-e347656c24a1",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "3349b8c0-ef2a-4a49-b609-b45ac295f8ff": {
+                    "description": "North Indian pastry stuffed with potato and peas ",
+                    "imageUrl": null,
+                    "price": 449,
+                    "title": "Punjabi Samosa (Vegetarian)",
+                    "uuid": "3349b8c0-ef2a-4a49-b609-b45ac295f8ff",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "endorsement": {
+                        "text": "Vegetarian",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png"
+                    },
+                    "classifications": []
+                },
+                "b98a5907-56de-4a49-89cb-b2c285e71777": {
+                    "description": "330ml",
+                    "imageUrl": null,
+                    "price": 399,
+                    "title": "Tiger Asian Beer",
+                    "uuid": "b98a5907-56de-4a49-89cb-b2c285e71777",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "f6baeea8-718d-4c1e-8260-6e170e500037": {
+                    "description": "Selection of chicken tikka, lamb boti kebab & paneer tikka",
+                    "imageUrl": null,
+                    "price": 1299,
+                    "title": "Mix Grill Combo",
+                    "uuid": "f6baeea8-718d-4c1e-8260-6e170e500037",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "abe35fe9-4e2d-41d5-b2ed-2660124e4fbd": {
+                    "description": "",
+                    "imageUrl": null,
+                    "price": 249,
+                    "title": "Tandoori Roti",
+                    "uuid": "abe35fe9-4e2d-41d5-b2ed-2660124e4fbd",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "f67b8d10-7e2e-40e5-825a-b8b901a6d9cd": {
+                    "description": "Famous Punjabi dhaba style succulent on-the-bone, medium spice grilled.",
+                    "imageUrl": null,
+                    "price": 599,
+                    "title": "Tandoori Chicken",
+                    "uuid": "f67b8d10-7e2e-40e5-825a-b8b901a6d9cd",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "1c1d5c2a-e922-48a2-9022-fe551f3ef777": {
+                    "description": "Flavourful and delicate in taste marinated in special aromatic pickling spices.",
+                    "imageUrl": null,
+                    "price": 649,
+                    "title": "Achari Chicken Tikka",
+                    "uuid": "1c1d5c2a-e922-48a2-9022-fe551f3ef777",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "1d697db1-c680-4a7e-ae60-c7779b76bf41": {
+                    "description": "\"Love it light? Add some sparkle to your day, minus the calories with Diet Coke\n \n Diet Coke is a sugar free, low calorie soft drink.\n No Sugar\n No Calories\n Gluten-free, dairy-free and nut-free\n Contains vegetables extracts and sweeteners\n \n Serve over ice with a slice of lime.\"",
+                    "imageUrl": null,
+                    "price": 129,
+                    "title": "Diet Coke 330ml",
+                    "uuid": "1d697db1-c680-4a7e-ae60-c7779b76bf41",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                }
+            }
+        },
+        "sections": [
+            {
+                "subsectionUuids": [
+                    "5d561c1c-8ef5-4d65-836a-264abd1f6cb9",
+                    "18aaa8a5-67b9-4136-acf7-39956ff54e64",
+                    "0013e662-f83e-4e96-a233-66e7c8962030",
+                    "16cfb6d7-1ca6-4b13-aa32-4aa987228755",
+                    "48069cde-6c54-4c5d-b689-00b21adfcace",
+                    "9ad69d87-53d1-4f2a-a59a-957a5b92f371",
+                    "c8ec38ec-c90e-4431-a7ae-fdd06a21a142"
+                ],
+                "title": "Menu",
+                "subtitle": "6:00 PM – 11:00 PM",
+                "uuid": "c34cf565-6fdd-455f-aa6a-3d5c05b365fc",
+                "isTop": true,
+                "isOnSale": false
+            }
+        ],
+        "subsectionsMap": {
+            "16cfb6d7-1ca6-4b13-aa32-4aa987228755": {
+                "itemUuids": [
+                    "b8ba711e-ad7a-4590-b7f0-454efc8c1a8d",
+                    "5e6b7ac7-7e56-4e8d-95ec-4393e9184308",
+                    "abe35fe9-4e2d-41d5-b2ed-2660124e4fbd",
+                    "5e6fe8f7-3b2b-4183-9b51-e347656c24a1",
+                    "437da659-cb56-439f-8afa-25285bbec58f",
+                    "5eb4b74c-213b-4b05-b6d4-0908a646fe15",
+                    "05ba2e9b-41d9-4ac2-bd78-f0b76daa9bed"
+                ],
+                "subtitle": null,
+                "title": "Rice and Bread",
+                "uuid": "16cfb6d7-1ca6-4b13-aa32-4aa987228755",
+                "displayType": null
+            },
+            "48069cde-6c54-4c5d-b689-00b21adfcace": {
+                "itemUuids": [
+                    "f06c8842-676b-480c-8b7f-0fc3d9c0cded",
+                    "19e5e684-8348-401f-88e3-30a2edd51036",
+                    "3a2a8b18-9614-4606-aef6-f7754e8c684c",
+                    "bfb59e3d-aba5-4173-946b-66a1cd289fec",
+                    "c1ce55cc-7d2b-4404-9c20-5422765be23f",
+                    "7a2015c0-4bf9-42a9-af3b-0032c7777813",
+                    "16d3b3c9-9798-4996-b43a-694c056044d6"
+                ],
+                "subtitle": null,
+                "title": "Sundries",
+                "uuid": "48069cde-6c54-4c5d-b689-00b21adfcace",
+                "displayType": null
+            },
+            "c8ec38ec-c90e-4431-a7ae-fdd06a21a142": {
+                "itemUuids": [
+                    "77ef77e0-11fa-420d-a0d0-fd6b56aac114",
+                    "b98a5907-56de-4a49-89cb-b2c285e71777"
+                ],
+                "subtitle": null,
+                "title": "Beers and Wines",
+                "uuid": "c8ec38ec-c90e-4431-a7ae-fdd06a21a142",
+                "displayType": null
+            },
+            "9ad69d87-53d1-4f2a-a59a-957a5b92f371": {
+                "itemUuids": [
+                    "81991dd1-9092-478d-bc41-51745befd08f",
+                    "1d697db1-c680-4a7e-ae60-c7779b76bf41",
+                    "41ca4386-e062-4a07-ad07-76e39cced06b",
+                    "50fccc76-1c7b-43b2-8233-1a259b6c0317",
+                    "27b4461f-8ed7-4d50-91c5-feb3e417f3c0"
+                ],
+                "subtitle": null,
+                "title": "Soft Drinks",
+                "uuid": "9ad69d87-53d1-4f2a-a59a-957a5b92f371",
+                "displayType": null
+            },
+            "5d561c1c-8ef5-4d65-836a-264abd1f6cb9": {
+                "itemUuids": [
+                    "505cd7b1-9f31-4de8-997b-cdd781368dd1",
+                    "a065e9a6-da4d-41df-a260-da1ba47d65db",
+                    "e3b8dc88-ea47-4ce6-b1f1-15d2fc433be3",
+                    "3349b8c0-ef2a-4a49-b609-b45ac295f8ff",
+                    "0613caff-0828-4a21-aa2a-fa22d9bd4ef0",
+                    "e4579bc7-5b9e-4975-87bf-21ecb5059ed7"
+                ],
+                "subtitle": null,
+                "title": "Street Food",
+                "uuid": "5d561c1c-8ef5-4d65-836a-264abd1f6cb9",
+                "displayType": null
+            },
+            "18aaa8a5-67b9-4136-acf7-39956ff54e64": {
+                "itemUuids": [
+                    "1c1d5c2a-e922-48a2-9022-fe551f3ef777",
+                    "f67b8d10-7e2e-40e5-825a-b8b901a6d9cd",
+                    "75e8b316-4d64-44e9-92d7-9320921b3d17",
+                    "39f70170-4457-4b08-a2e4-4058ce36b5b0",
+                    "f6baeea8-718d-4c1e-8260-6e170e500037"
+                ],
+                "subtitle": null,
+                "title": "Tandoori Grill",
+                "uuid": "18aaa8a5-67b9-4136-acf7-39956ff54e64",
+                "displayType": null
+            },
+            "0013e662-f83e-4e96-a233-66e7c8962030": {
+                "itemUuids": [
+                    "9438e1d3-d520-4f0d-b21b-05a714e9c538",
+                    "a252c2e9-6fd9-4dcf-a33f-0bdfc7461372",
+                    "d05466d2-8bee-417d-bc1a-5f33809af8cf",
+                    "83d65ba0-c64e-453a-a3fc-a76f2adc19a1",
+                    "a9ed29f4-d1ff-4d11-a099-72a8b1f7639b",
+                    "fa231cbf-5318-479b-a980-7e9f3757fcae",
+                    "8ce848fd-98ee-4db6-b2ab-0fceb35e68fe",
+                    "901b933c-bcaa-48af-8296-ca913d30c482",
+                    "fdf4a455-3801-4b1f-9924-dc4323569204",
+                    "44b51942-957a-4d2b-a22e-0df6fbdc6eaf",
+                    "f8b81fe0-2b3d-4ec0-802f-d8c63472c307"
+                ],
+                "subtitle": null,
+                "title": "Curries",
+                "uuid": "0013e662-f83e-4e96-a233-66e7c8962030",
+                "displayType": null
+            }
+        },
+        "title": "New Delis - Indian Kitchen",
+        "uuid": "21a0abb0-6c81-45d7-9bdb-42369f98f205",
+        "categories": [
+            "₴",
+            "Індійська",
+            "Вулична їжа"
+        ],
+        "cuisineList": [
+            "Індійська",
+            "Вулична їжа"
+        ],
+        "priceBucket": "₴",
+        "etaRange": null,
+        "ratingBadge": {
+            "text": "<span><span style=\"font-family: inherit; color: #3a3a48;\">4.4 <img src=\"https://d1a3f4spazzrp4.cloudfront.net/static/images/Star_Black_Eats_3.png\" width=\"14\" height=\"14\" vertical-align=\"middle\"> </span><span style=\"font-family: inherit; color: #757575;\">(64)</span></span>"
+        },
+        "disclaimerBadge": {
+            "text": "<span style=\"font-family: inherit;\">Allergies, intolerances and dietary requirements: before ordering, please contact the restaurant directly and ask to speak to a member of staff who can assist if you require information about ingredients and help cater for your needs. For more information on food safety and hygiene, please visit the <a href=\"http://ratings.food.gov.uk/\" style=\"color:#61ad5f;\">Food Standards Agency</a></span>"
+        },
+        "fareBadge": null,
+        "fareInfo": {
+            "serviceFeeCents": null
+        },
+        "promotion": null,
+        "shouldIndex": false,
+        "heroImageUrls": [
+            {
+                "url": "https://duyt4h9nfnj50.cloudfront.net/resized/aca6e839cef194a0e13141c6be198cd1-w240-9c.jpg",
+                "width": 240
+            },
+            {
+                "url": "https://duyt4h9nfnj50.cloudfront.net/resized/aca6e839cef194a0e13141c6be198cd1-w550-e7.jpg",
+                "width": 550
+            },
+            {
+                "url": "https://duyt4h9nfnj50.cloudfront.net/resized/aca6e839cef194a0e13141c6be198cd1-w640-e5.jpg",
+                "width": 640
+            },
+            {
+                "url": "https://duyt4h9nfnj50.cloudfront.net/resized/aca6e839cef194a0e13141c6be198cd1-w750-2f.jpg",
+                "width": 750
+            },
+            {
+                "url": "https://duyt4h9nfnj50.cloudfront.net/resized/aca6e839cef194a0e13141c6be198cd1-w1080-48.jpg",
+                "width": 1080
+            },
+            {
+                "url": "https://duyt4h9nfnj50.cloudfront.net/resized/aca6e839cef194a0e13141c6be198cd1-w2880-54.jpg",
+                "width": 2880
+            }
+        ],
+        "isOpen": false,
+        "currencyCode": "GBP",
+        "closedMessage": "Opens at 6:00 PM",
+        "location": {
+            "address": "35 Grays Inn Rd, London Wc1x 8pg, Uk, England WC1X 8PG",
+            "streetAddress": "35 Grays Inn Rd",
+            "city": "London",
+            "country": "GB",
+            "postalCode": "WC1X 8PG",
+            "region": "England",
+            "latitude": 51.521544,
+            "longitude": -0.113819
+        },
+        "isDeliveryThirdParty": false,
+        "hours": [
+            {
+                "dayRange": "Sunday",
+                "sectionHours": [
+                    {
+                        "startTime": 1050,
+                        "endTime": 1380,
+                        "sectionTitle": "Menu"
+                    }
+                ]
+            },
+            {
+                "dayRange": "Monday - Friday",
+                "sectionHours": [
+                    {
+                        "startTime": 720,
+                        "endTime": 870,
+                        "sectionTitle": "Menu"
+                    },
+                    {
+                        "startTime": 1080,
+                        "endTime": 1380,
+                        "sectionTitle": "Menu"
+                    }
+                ]
+            },
+            {
+                "dayRange": "Saturday",
+                "sectionHours": [
+                    {
+                        "startTime": 1080,
+                        "endTime": 1380,
+                        "sectionTitle": "Menu"
+                    }
+                ]
+            }
+        ],
+        "disableOrderInstruction": false,
+        "disableCheckoutInstruction": false,
+        "nuggets": [],
+        "isWithinDeliveryRange": false,
+        "slug": "new-delis-indian-kitchen",
+        "citySlug": "london",
+        "phoneNumber": "+442078316208",
+        "metaJson": "{\"@context\":\"http:\\u002F\\u002Fschema.org\",\"@type\":\"Restaurant\",\"@id\":\"https:\\u002F\\u002Fwww.ubereats.com\\u002Fen-UA\\u002Flondon\\u002Ffood-delivery\\u002Fnew-delis-indian-kitchen\\u002FIaCrsGyBRdeb20I2n5jyBQ\\u002F\",\"name\":\"New Delis - Indian Kitchen\",\"priceRange\":\"₴\",\"potentialAction\":{\"@type\":\"OrderAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\\u002F\\u002Fwww.ubereats.com\\u002Fen-UA\\u002Flondon\\u002Ffood-delivery\\u002Fnew-delis-indian-kitchen\\u002FIaCrsGyBRdeb20I2n5jyBQ\\u002F?utm_campaign=order-action&utm_medium=organic\",\"inLanguage\":\"English\",\"actionPlatform\":[\"http:\\u002F\\u002Fschema.org\\u002FDesktopWebPlatform\",\"http:\\u002F\\u002Fschema.org\\u002FMobileWebPlatform\"]},\"deliveryMethod\":[\"http:\\u002F\\u002Fpurl.org\\u002Fgoodrelations\\u002Fv1#DeliveryModeOwnFleet\"]},\"address\":{\"@type\":\"PostalAddress\",\"addressLocality\":\"London\",\"addressRegion\":\"England\",\"postalCode\":\"WC1X 8PG\",\"addressCountry\":\"GB\",\"streetAddress\":\"35 Grays Inn Rd\"},\"geo\":{\"@type\":\"GeoCoordinates\",\"latitude\":51.521544,\"longitude\":-0.113819}}",
+        "promoTrackings": [],
+        "suggestedPromotion": {
+            "text": "",
+            "promotionUuid": ""
+        },
+        "supportedDiningModes": [
+            {
+                "mode": "DELIVERY",
+                "title": "Delivery",
+                "isSelected": true,
+                "isAvailable": true
+            }
+        ],
+        "isPreview": false,
+        "pinnedInfo": null
+    }
+}

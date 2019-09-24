@@ -1,0 +1,1266 @@
+{
+    "status": "success",
+    "data": {
+        "sectionEntitiesMap": {
+            "cb53da60-5971-42bc-a756-f5a7383b41b6": {
+                "b3b54c76-3fd6-4cc4-b88f-bdb74d8dc7cc": {
+                    "description": "Portobello mushroom topped with fried goats cheese, green pesto sauce, cheddar cheese, house mayo, wild rocket, lettuce, tomato, onion, and gherkins.",
+                    "imageUrl": null,
+                    "price": 750,
+                    "title": "Meat Is Murder (V)",
+                    "uuid": "b3b54c76-3fd6-4cc4-b88f-bdb74d8dc7cc",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "01e84644-2eb2-4120-8d6e-0f865087c299": {
+                    "description": "",
+                    "imageUrl": null,
+                    "price": 195,
+                    "title": "Hildon Glass Bottle - 330ml ",
+                    "uuid": "01e84644-2eb2-4120-8d6e-0f865087c299",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "7b94b798-ca5c-49c9-be52-1f4d5272e562": {
+                    "description": "Chicken steak burger topped with cheddar cheese, house mayo, lettuce, tomato, red onion, and gherkins.",
+                    "imageUrl": null,
+                    "price": 695,
+                    "title": "Funky Chicken",
+                    "uuid": "7b94b798-ca5c-49c9-be52-1f4d5272e562",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "e6053175-8721-479f-a4fd-b7683a8a88d0": {
+                    "description": "home made Tortilla, Cheese sauce, tomato salsa, red pepper mayo, Guacamole. sour cream and diorite crumble. ",
+                    "imageUrl": null,
+                    "price": 500,
+                    "title": "Nachos with fried tortilla ",
+                    "uuid": "e6053175-8721-479f-a4fd-b7683a8a88d0",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "58420cc7-3c3f-4bad-94e3-45a4af4b75c6": {
+                    "description": "Cheese cake.",
+                    "imageUrl": null,
+                    "price": 500,
+                    "title": "Soul Cake",
+                    "uuid": "58420cc7-3c3f-4bad-94e3-45a4af4b75c6",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "1b49ffbb-7aea-4f0d-a13b-9e148104746a": {
+                    "description": "Chicken mini burger served in a soft bun with cheese, tomato, and lettuce.",
+                    "imageUrl": null,
+                    "price": 500,
+                    "title": "The Mini Me Chicken",
+                    "uuid": "1b49ffbb-7aea-4f0d-a13b-9e148104746a",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "fdc0cb5d-72f6-4030-9287-0c0f6d566537": {
+                    "description": "Crispy coated sweet potato fries.",
+                    "imageUrl": null,
+                    "price": 390,
+                    "title": "Sweet Potato Fry O’Mine",
+                    "uuid": "fdc0cb5d-72f6-4030-9287-0c0f6d566537",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "f3854cd4-be7c-466e-843b-af7798eb6e4e": {
+                    "description": "Green leaf salad with olives and feta cheese.",
+                    "imageUrl": null,
+                    "price": 450,
+                    "title": "Green Leaves",
+                    "uuid": "f3854cd4-be7c-466e-843b-af7798eb6e4e",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "3f9a4ecc-6ad4-4ac3-84a1-749cace1d6b3": {
+                    "description": "180 g beef burger served with olives and sun dried tomato tapenade, wild rocket, cheddar cheese, house mayo, lettuce, tomato, red onion, and gherkin.\n",
+                    "imageUrl": null,
+                    "price": 890,
+                    "title": "O'live Forever",
+                    "uuid": "3f9a4ecc-6ad4-4ac3-84a1-749cace1d6b3",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "881b5385-afab-4439-9acd-d38319160d07": {
+                    "description": "Spicy chicken steak burger topped with chili sauce and layered with red peppers, cheddar cheese, house mayo, lettuce, tomato, onion, and gherkins.",
+                    "imageUrl": null,
+                    "price": 780,
+                    "title": "Hot Chick",
+                    "uuid": "881b5385-afab-4439-9acd-d38319160d07",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "ada2274b-547e-4e44-bf50-89c32e37ee94": {
+                    "description": "180g Angus beef burger layered with creamy mushrooms sauce, cheddar cheese, house mayo, lettuce, tomato, red onion, and gherkins.",
+                    "imageUrl": null,
+                    "price": 790,
+                    "title": "Magical Mystery Mushroom",
+                    "uuid": "ada2274b-547e-4e44-bf50-89c32e37ee94",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "a5c4ca6f-52e0-4286-851b-c1f0e9aa8aeb": {
+                    "description": "Chicken steak burger topped with creamy mushrooms, cheddar cheese, house mayo, lettuce, tomato, red onion, and gherkins.",
+                    "imageUrl": null,
+                    "price": 780,
+                    "title": "The Rock Chick",
+                    "uuid": "a5c4ca6f-52e0-4286-851b-c1f0e9aa8aeb",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "524e1404-9360-41de-904d-bdaab081b328": {
+                    "description": "Apple juice, mango, and blueberry.",
+                    "imageUrl": null,
+                    "price": 450,
+                    "title": "Violet Hill",
+                    "uuid": "524e1404-9360-41de-904d-bdaab081b328",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "07d77f4f-23c1-495b-8c0b-b44bb2ae2350": {
+                    "description": "",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/d4e6fed7-2740-49d0-adfe-c771d2f25426",
+                    "price": 500,
+                    "title": "Wings of Love ",
+                    "uuid": "07d77f4f-23c1-495b-8c0b-b44bb2ae2350",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "01105ccb-6b8f-48ec-a7de-24cf967d946f": {
+                    "description": "Nutella shake.",
+                    "imageUrl": null,
+                    "price": 490,
+                    "title": "Chocolate Rain",
+                    "uuid": "01105ccb-6b8f-48ec-a7de-24cf967d946f",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "217e8260-2f7b-4ddf-bd20-41bc0eb58852": {
+                    "description": "Homemade onion rings.",
+                    "imageUrl": null,
+                    "price": 395,
+                    "title": "Rings of Fire",
+                    "uuid": "217e8260-2f7b-4ddf-bd20-41bc0eb58852",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "f6973cc6-0da1-4bff-8308-b49cbd2cb363": {
+                    "description": "BBQ, SWEET CHILLI, PERI PERI ",
+                    "imageUrl": null,
+                    "price": 50,
+                    "title": "EXTRA SUACE",
+                    "uuid": "f6973cc6-0da1-4bff-8308-b49cbd2cb363",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "81754101-ff15-4124-9a0d-0cc1c529cded": {
+                    "description": "Fentimans botanically brewed natural victorian lemonade.",
+                    "imageUrl": null,
+                    "price": 290,
+                    "title": "Nina Limone",
+                    "uuid": "81754101-ff15-4124-9a0d-0cc1c529cded",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "a82a42d6-bf3b-4edb-b4c3-a70bec9eca43": {
+                    "description": "Mini Beef kids size burger served in a soft bun with cheese, tomato, and lettuce.",
+                    "imageUrl": null,
+                    "price": 500,
+                    "title": "The Mini Me Beef",
+                    "uuid": "a82a42d6-bf3b-4edb-b4c3-a70bec9eca43",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "9108a830-e46d-4bac-8bc7-df8969df7695": {
+                    "description": "",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/ffdaac2c-7bb6-4437-9df6-aa8c92e52fbc",
+                    "price": 500,
+                    "title": "Wings of Love ",
+                    "uuid": "9108a830-e46d-4bac-8bc7-df8969df7695",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "03ab92b1-9e68-40ed-8083-afa0467f5497": {
+                    "description": "180g Angus beef burger topped with BBQ sauce, caramelized onions, cheddar cheese, house mayo, lettuce, tomato, onion, and gherkins.",
+                    "imageUrl": null,
+                    "price": 790,
+                    "title": "The B.B King",
+                    "uuid": "03ab92b1-9e68-40ed-8083-afa0467f5497",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "81006357-d617-4fb0-91d3-07c43d71e3b3": {
+                    "description": "Chicken steak burger topped with BBQ sauce and layered with caramelized onions, cheddar cheese, house mayo, lettuce, tomato, onion, and gherkins.",
+                    "imageUrl": null,
+                    "price": 780,
+                    "title": "The B.B Queen",
+                    "uuid": "81006357-d617-4fb0-91d3-07c43d71e3b3",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "354cf0ac-c4e7-43ec-92d3-84349b7aeb97": {
+                    "description": "Fresh Jalapeno coleslaw.",
+                    "imageUrl": null,
+                    "price": 275,
+                    "title": "The Second Slaw",
+                    "uuid": "354cf0ac-c4e7-43ec-92d3-84349b7aeb97",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "f1c59527-3d4a-48d2-8e56-8fc7833f99a3": {
+                    "description": "Coated wings glazed with spicy red pepper sauce, sour cream and blue cheese crumble. ",
+                    "imageUrl": null,
+                    "price": 550,
+                    "title": "CRISPY WINGS",
+                    "uuid": "f1c59527-3d4a-48d2-8e56-8fc7833f99a3",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "1080435f-e105-4914-9187-df16ee9c1d44": {
+                    "description": "Orange juice, banana, and strawberry.",
+                    "imageUrl": null,
+                    "price": 450,
+                    "title": "Bananarama",
+                    "uuid": "1080435f-e105-4914-9187-df16ee9c1d44",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "55a18ce6-bd70-4636-b6c1-eaeb4773672f": {
+                    "description": "Premium Wagyu beef burger with red onion marmalade, maple glazed turkey bacon, Monterey Jack Cheese, Lettuce, Tomato, onion and Gherkins.  ",
+                    "imageUrl": null,
+                    "price": 1280,
+                    "title": "Signature Wagyu Beef Burger",
+                    "uuid": "55a18ce6-bd70-4636-b6c1-eaeb4773672f",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "e8db242d-374f-4388-8825-8147b444366b": {
+                    "description": "Fentimans brewed traditional ginger beer.",
+                    "imageUrl": null,
+                    "price": 290,
+                    "title": "Ginger Spice",
+                    "uuid": "e8db242d-374f-4388-8825-8147b444366b",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "da431071-3c2b-4efe-9a47-11640f2dba25": {
+                    "description": "Chicken steak burger served with olive and sun dried tomato tapenade, wild rocket, cheddar cheese, house mayo, lettuce, tomato, red onion, and gherkin.",
+                    "imageUrl": null,
+                    "price": 880,
+                    "title": "Chicken Tapenade",
+                    "uuid": "da431071-3c2b-4efe-9a47-11640f2dba25",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "8b6a999c-2cb7-49e2-91fd-ea65cb8ba70b": {
+                    "description": "Chicken burger served with jalapenos, chili cheese, spicy tomato relish, guacamole, and sour cream on the side.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/02589205-ebe1-4593-9a7a-f2bbbb3e8771",
+                    "price": 880,
+                    "title": "Sexy Mexican Maid",
+                    "uuid": "8b6a999c-2cb7-49e2-91fd-ea65cb8ba70b",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "3d8dc66c-bcc5-4ab4-90fa-003e94884f7a": {
+                    "description": "Strawberry shake.",
+                    "imageUrl": null,
+                    "price": 490,
+                    "title": "Strawberry Blonde",
+                    "uuid": "3d8dc66c-bcc5-4ab4-90fa-003e94884f7a",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "68fe2c24-7896-4395-be0f-94dc56666fff": {
+                    "description": "Apple juice, strawberry, raspberry, and blueberry.",
+                    "imageUrl": null,
+                    "price": 450,
+                    "title": "Electric Feel",
+                    "uuid": "68fe2c24-7896-4395-be0f-94dc56666fff",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "6842bf9e-cd7b-4c41-a6b6-3b91fb2f8189": {
+                    "description": "Fish fingers.",
+                    "imageUrl": null,
+                    "price": 300,
+                    "title": "Sticky Fingers",
+                    "uuid": "6842bf9e-cd7b-4c41-a6b6-3b91fb2f8189",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "bd1e43cf-66f4-42cf-8b0c-b1e006c65681": {
+                    "description": "",
+                    "imageUrl": null,
+                    "price": 220,
+                    "title": "Soda- 330 ml Bottle",
+                    "uuid": "bd1e43cf-66f4-42cf-8b0c-b1e006c65681",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "f69c45eb-4b69-41b2-add8-40cc3ea1ec95": {
+                    "description": "Halloumi cheese layered with grilled aubergine, courgette, and red peppers topped with cheddar cheese, house mayo, lettuce, tomato, onion, and gherkins.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/c03bb3de-0a07-4117-9a6d-fbd4ad8b8a86",
+                    "price": 780,
+                    "title": "Halloumi of Fame (V)",
+                    "uuid": "f69c45eb-4b69-41b2-add8-40cc3ea1ec95",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "91070cca-97a1-4e4d-a82e-917d277b8898": {
+                    "description": "Deep fried mac 'n' cheese served with spicy red pepper relish and garlic sour cream. ",
+                    "imageUrl": null,
+                    "price": 500,
+                    "title": "MAC'N CHEESE LOLLIES",
+                    "uuid": "91070cca-97a1-4e4d-a82e-917d277b8898",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "e0c734e0-265b-4d79-93ac-6f6a7625cade": {
+                    "description": "Fentimans botanically brewed Rose lemonade ",
+                    "imageUrl": null,
+                    "price": 290,
+                    "title": "Waterloo Sunset ",
+                    "uuid": "e0c734e0-265b-4d79-93ac-6f6a7625cade",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "5a1284f3-1b0f-4821-972d-6df93178f753": {
+                    "description": "180 g beef burger topped with guacamole, cheddar cheese, house mayo, lettuce, tomato, red onion, and gherkins.",
+                    "imageUrl": null,
+                    "price": 780,
+                    "title": "Loveocado",
+                    "uuid": "5a1284f3-1b0f-4821-972d-6df93178f753",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "f135328d-fc3c-48ad-88d7-f11ed6d9c736": {
+                    "description": "The B.B King Burger with hand cut fries and lemonade  (180g Angus beef burger topped with BBQ sauce, caramelised onions, Monetary Jack cheese, house mayo, lettuce, tomato, onion and gherkin) ",
+                    "imageUrl": null,
+                    "price": 1095,
+                    "title": "MEAL DEAL FOR 1 ",
+                    "uuid": "f135328d-fc3c-48ad-88d7-f11ed6d9c736",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "c9419646-59cf-49e3-a15f-d3adf8ad2e9b": {
+                    "description": "Green leaf salad with olives, feta, and chicken breast.",
+                    "imageUrl": null,
+                    "price": 650,
+                    "title": "Green Day Chicken",
+                    "uuid": "c9419646-59cf-49e3-a15f-d3adf8ad2e9b",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "23e743a4-7af2-4d55-ad94-e813f4511f51": {
+                    "description": "beetroot patty, vegan cheese, gaucamole, wild rocket, roasted red pepper, jalapeño, spicy tomato relish in a seeded vegan bun ",
+                    "imageUrl": null,
+                    "price": 790,
+                    "title": "VEGAN BURGER (VG)",
+                    "uuid": "23e743a4-7af2-4d55-ad94-e813f4511f51",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "02ba9366-b641-417b-a5ac-e3ea6f89c04f": {
+                    "description": "Layers of smoked salmon with grilled halloumi cheese, aubergine, courgette, and red peppers.",
+                    "imageUrl": null,
+                    "price": 875,
+                    "title": "Yellow Submarine",
+                    "uuid": "02ba9366-b641-417b-a5ac-e3ea6f89c04f",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "74cfb59b-3639-42da-b506-4cb0af057d1a": {
+                    "description": "Aged mild cheddar fried cheese patty- Let us know if you want in the burger or aside",
+                    "imageUrl": null,
+                    "price": 200,
+                    "title": "EXTRA FRIED CHEESE PATTY",
+                    "uuid": "74cfb59b-3639-42da-b506-4cb0af057d1a",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "3a5510cc-20f6-4aa2-9762-4a05e3b1502b": {
+                    "description": "Chicken nuggets.",
+                    "imageUrl": null,
+                    "price": 390,
+                    "title": "Love Bites",
+                    "uuid": "3a5510cc-20f6-4aa2-9762-4a05e3b1502b",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "e17e2dcf-8638-4a69-b441-5b195cef68dd": {
+                    "description": "TURKEY BACON- Let us know in which burger do you want that. ",
+                    "imageUrl": null,
+                    "price": 100,
+                    "title": "EXTRA BACON",
+                    "uuid": "e17e2dcf-8638-4a69-b441-5b195cef68dd",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "8daf0160-e42b-4fc9-82bc-16e43f1a7a98": {
+                    "description": "Home made fries topped with cheese sauce, tomato salsa, red pepper mayo, guacamole and Beef Chilli Con Carne. ",
+                    "imageUrl": null,
+                    "price": 600,
+                    "title": "Chilli Con Carne Chips",
+                    "uuid": "8daf0160-e42b-4fc9-82bc-16e43f1a7a98",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "e8e47ec5-1d75-430c-b3bd-201bf4505a5d": {
+                    "description": "Rocket and Parmesan salad with sundried tomatoes.",
+                    "imageUrl": null,
+                    "price": 400,
+                    "title": "Rocket Man Parmesan",
+                    "uuid": "e8e47ec5-1d75-430c-b3bd-201bf4505a5d",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "420ee5ac-5772-4c4d-8e87-a86f6d2acfb7": {
+                    "description": "Vanilla shake.",
+                    "imageUrl": null,
+                    "price": 490,
+                    "title": "Vanilla Sky",
+                    "uuid": "420ee5ac-5772-4c4d-8e87-a86f6d2acfb7",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "b185233c-2b65-4a3d-b26e-da6e4834b925": {
+                    "description": "180 g Angus beef burger topped with blue cheese sauce, cheddar cheese, house mayo, lettuce, tomato, red onion, and gherkins.",
+                    "imageUrl": null,
+                    "price": 790,
+                    "title": "True Blue",
+                    "uuid": "b185233c-2b65-4a3d-b26e-da6e4834b925",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "727f8fdb-633f-40c5-ae4d-5be2600dc0f6": {
+                    "description": "Deep fried breaded mushrooms.",
+                    "imageUrl": null,
+                    "price": 350,
+                    "title": "Fungi Town",
+                    "uuid": "727f8fdb-633f-40c5-ae4d-5be2600dc0f6",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "561a1500-ea37-4c03-baa7-309a3bc02aaf": {
+                    "description": "180 g beef burger topped with chili sauce, red peppers, cheddar cheese, house mayo, lettuce, tomato, onion, and gherkins.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/dd0b4a0c-9a46-40eb-8a8c-c3d15ccb8f06",
+                    "price": 790,
+                    "title": "Voodoo Chill",
+                    "uuid": "561a1500-ea37-4c03-baa7-309a3bc02aaf",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "26f6d77e-0d82-4f03-897b-37f73781af76": {
+                    "description": "Peanut butter shake with chocolate sauce ",
+                    "imageUrl": null,
+                    "price": 490,
+                    "title": "Peanut Dreams ",
+                    "uuid": "26f6d77e-0d82-4f03-897b-37f73781af76",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "2a709fc3-84bf-46b6-8128-40b5f5762979": {
+                    "description": "Bobs classic homemade chips.",
+                    "imageUrl": null,
+                    "price": 250,
+                    "title": "Gold fingers",
+                    "uuid": "2a709fc3-84bf-46b6-8128-40b5f5762979",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "d3c2067a-df2d-4b82-ae4b-2fd13de46c67": {
+                    "description": "Green leaf salad with olives, feta, and smoked salmon.",
+                    "imageUrl": null,
+                    "price": 650,
+                    "title": "Green Day Salmon",
+                    "uuid": "d3c2067a-df2d-4b82-ae4b-2fd13de46c67",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "f95b8677-f218-4278-8fe5-7257d723cba9": {
+                    "description": "Fentimans Traditional Wild English elderflower lemonade ",
+                    "imageUrl": null,
+                    "price": 290,
+                    "title": "Elderflower Power",
+                    "uuid": "f95b8677-f218-4278-8fe5-7257d723cba9",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "d640a1f7-9351-4f0f-9fa7-c35247062901": {
+                    "description": "Home made fries topped with premium melted cheese ",
+                    "imageUrl": null,
+                    "price": 480,
+                    "title": "Mucky Fingers ",
+                    "uuid": "d640a1f7-9351-4f0f-9fa7-c35247062901",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "07e70cd2-6548-4dcc-882e-a99c9df17255": {
+                    "description": "Minced lamb shoulder burger served with fried goats cheese, Pesto, lettuce, tomato, onion, gherkin and house mayo in a brioche bun ",
+                    "imageUrl": null,
+                    "price": 900,
+                    "title": "Lamb of God",
+                    "uuid": "07e70cd2-6548-4dcc-882e-a99c9df17255",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "41b6ee4e-ebe4-4355-96cc-2c96a177d454": {
+                    "description": "BOB’s classic 180 g cheese burger, topped with cheddar cheese, house mayo, lettuce, tomato, red onion, and gherkins.",
+                    "imageUrl": null,
+                    "price": 780,
+                    "title": "The Big Cheese",
+                    "uuid": "41b6ee4e-ebe4-4355-96cc-2c96a177d454",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "52f4b4a0-9fab-488a-9426-18f9b3214103": {
+                    "description": "Angus beef topped with aged mild cheddar fried cheese patty, spicy tomato relish, lettuce, tomato, onion, gherkins and house mayo. ",
+                    "imageUrl": null,
+                    "price": 890,
+                    "title": "THE AMERICAN",
+                    "uuid": "52f4b4a0-9fab-488a-9426-18f9b3214103",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "3d64bae2-a3ad-4e80-ac05-ad6923c81431": {
+                    "description": "Halloumi cheese layered with grilled aubergine, courgette, and red peppers topped with cheddar cheese, house mayo, lettuce, tomato, onion, and gherkins.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/ed557c2b-e274-49c2-8d8d-f0b4213da2e9",
+                    "price": 780,
+                    "title": "Halloumi of Fame  (V)",
+                    "uuid": "3d64bae2-a3ad-4e80-ac05-ad6923c81431",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "a6080982-6879-4f64-b3ac-2205137337ab": {
+                    "description": "Rosemary and thyme fries.",
+                    "imageUrl": null,
+                    "price": 280,
+                    "title": "Thyme After Thyme",
+                    "uuid": "a6080982-6879-4f64-b3ac-2205137337ab",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "2b0701ab-1eba-41bf-96ad-1589bada706d": {
+                    "description": "Bob's classic double cheese burger with 360g beef, lettuce, tomato, onion, gherkins topped with melted cheddar cheese, house mayo in a brioche bun. ",
+                    "imageUrl": null,
+                    "price": 1050,
+                    "title": "The Elvis",
+                    "uuid": "2b0701ab-1eba-41bf-96ad-1589bada706d",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "c0814b51-858c-4405-891d-8db2f6000f1e": {
+                    "description": "Sea salted caramel shake.",
+                    "imageUrl": null,
+                    "price": 490,
+                    "title": "Caramel Caramel",
+                    "uuid": "c0814b51-858c-4405-891d-8db2f6000f1e",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "b3900662-9f52-4ff6-aba4-88a59a459ec6": {
+                    "description": "Chicken burger served with jalapenos, chili cheese, spicy tomato relish, guacamole, and sour cream on the side.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/6e328cb3-c223-4e21-af8e-3b18ff9cb771",
+                    "price": 850,
+                    "title": "Sexy Mexican Maid",
+                    "uuid": "b3900662-9f52-4ff6-aba4-88a59a459ec6",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "ab03bf9b-7406-4ffe-8908-9ac0aea9c456": {
+                    "description": "Orange juice, mango, and raspberry.",
+                    "imageUrl": null,
+                    "price": 450,
+                    "title": "Sweet Disposition",
+                    "uuid": "ab03bf9b-7406-4ffe-8908-9ac0aea9c456",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "20eb8be0-0bfb-421c-893e-6c7443cf776c": {
+                    "description": "Oreo shake.",
+                    "imageUrl": null,
+                    "price": 490,
+                    "title": "Cookies and Cream",
+                    "uuid": "20eb8be0-0bfb-421c-893e-6c7443cf776c",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "e6a3fa81-039b-4312-832c-365b47379913": {
+                    "description": "180g Angus beef burger served with jalapenos, chili cheese, spicy tomato relish, guacamole, and sour cream on the side.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/a4297717-e71e-4767-935c-93ac9f6a71b9",
+                    "price": 890,
+                    "title": "The Mexican",
+                    "uuid": "e6a3fa81-039b-4312-832c-365b47379913",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "0efbeede-e34a-4732-b131-762940de6e31": {
+                    "description": "Fried chicken burger topped with spicy buffalo sauce, lettuce, tomato, onion, gherkin and house mayo. ",
+                    "imageUrl": null,
+                    "price": 880,
+                    "title": "chicks on Fire",
+                    "uuid": "0efbeede-e34a-4732-b131-762940de6e31",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                }
+            }
+        },
+        "sections": [
+            {
+                "subsectionUuids": [
+                    "2a94d7d1-7dd3-49c5-9fa7-229184d228e9",
+                    "4058ae7e-9014-43d6-827d-ffce5133ee3b",
+                    "faa37894-9334-4dd7-b343-ec8d5b45fe06",
+                    "9d06da8a-b6df-43ce-8b8f-262889c6ee31",
+                    "f1ab207d-1c34-497f-9752-54207d186354",
+                    "ed32cc2d-e6df-4d7b-afde-2ef638e739d9",
+                    "db040a68-3c3b-4e79-a0e5-460b07db69de",
+                    "4706d416-9274-43af-a172-1fc6b12fc7ba",
+                    "8bfe9afc-bd05-4e35-b41c-a4f9180d2a72",
+                    "ff310ed6-f91b-40a9-ab0d-ba04a73582fd",
+                    "03ffa38b-522b-44e7-a6b8-4d733e2adf7b"
+                ],
+                "title": "Menu",
+                "subtitle": "12:00 PM – 10:30 PM",
+                "uuid": "cb53da60-5971-42bc-a756-f5a7383b41b6",
+                "isTop": true,
+                "isOnSale": true
+            }
+        ],
+        "subsectionsMap": {
+            "f1ab207d-1c34-497f-9752-54207d186354": {
+                "itemUuids": [
+                    "a82a42d6-bf3b-4edb-b4c3-a70bec9eca43",
+                    "1b49ffbb-7aea-4f0d-a13b-9e148104746a",
+                    "3a5510cc-20f6-4aa2-9762-4a05e3b1502b",
+                    "6842bf9e-cd7b-4c41-a6b6-3b91fb2f8189"
+                ],
+                "subtitle": null,
+                "title": "For The Little Rockers",
+                "uuid": "f1ab207d-1c34-497f-9752-54207d186354",
+                "displayType": null
+            },
+            "2a94d7d1-7dd3-49c5-9fa7-229184d228e9": {
+                "itemUuids": [
+                    "07d77f4f-23c1-495b-8c0b-b44bb2ae2350",
+                    "03ab92b1-9e68-40ed-8083-afa0467f5497",
+                    "3f9a4ecc-6ad4-4ac3-84a1-749cace1d6b3",
+                    "561a1500-ea37-4c03-baa7-309a3bc02aaf",
+                    "f69c45eb-4b69-41b2-add8-40cc3ea1ec95",
+                    "b3900662-9f52-4ff6-aba4-88a59a459ec6",
+                    "e6a3fa81-039b-4312-832c-365b47379913",
+                    "52f4b4a0-9fab-488a-9426-18f9b3214103"
+                ],
+                "subtitle": null,
+                "title": "Most Popular",
+                "uuid": "2a94d7d1-7dd3-49c5-9fa7-229184d228e9",
+                "displayType": null
+            },
+            "03ffa38b-522b-44e7-a6b8-4d733e2adf7b": {
+                "itemUuids": [
+                    "f6973cc6-0da1-4bff-8308-b49cbd2cb363",
+                    "74cfb59b-3639-42da-b506-4cb0af057d1a",
+                    "e17e2dcf-8638-4a69-b441-5b195cef68dd"
+                ],
+                "subtitle": null,
+                "title": "EXTRAS",
+                "uuid": "03ffa38b-522b-44e7-a6b8-4d733e2adf7b",
+                "displayType": null
+            },
+            "faa37894-9334-4dd7-b343-ec8d5b45fe06": {
+                "itemUuids": [
+                    "41b6ee4e-ebe4-4355-96cc-2c96a177d454",
+                    "2b0701ab-1eba-41bf-96ad-1589bada706d",
+                    "b185233c-2b65-4a3d-b26e-da6e4834b925",
+                    "ada2274b-547e-4e44-bf50-89c32e37ee94",
+                    "5a1284f3-1b0f-4821-972d-6df93178f753",
+                    "03ab92b1-9e68-40ed-8083-afa0467f5497",
+                    "561a1500-ea37-4c03-baa7-309a3bc02aaf",
+                    "e6a3fa81-039b-4312-832c-365b47379913",
+                    "3f9a4ecc-6ad4-4ac3-84a1-749cace1d6b3",
+                    "7b94b798-ca5c-49c9-be52-1f4d5272e562",
+                    "a5c4ca6f-52e0-4286-851b-c1f0e9aa8aeb",
+                    "81006357-d617-4fb0-91d3-07c43d71e3b3",
+                    "881b5385-afab-4439-9acd-d38319160d07",
+                    "da431071-3c2b-4efe-9a47-11640f2dba25",
+                    "8b6a999c-2cb7-49e2-91fd-ea65cb8ba70b",
+                    "07e70cd2-6548-4dcc-882e-a99c9df17255",
+                    "02ba9366-b641-417b-a5ac-e3ea6f89c04f",
+                    "b3b54c76-3fd6-4cc4-b88f-bdb74d8dc7cc",
+                    "3d64bae2-a3ad-4e80-ac05-ad6923c81431",
+                    "55a18ce6-bd70-4636-b6c1-eaeb4773672f",
+                    "52f4b4a0-9fab-488a-9426-18f9b3214103",
+                    "0efbeede-e34a-4732-b131-762940de6e31",
+                    "23e743a4-7af2-4d55-ad94-e813f4511f51",
+                    "f135328d-fc3c-48ad-88d7-f11ed6d9c736"
+                ],
+                "subtitle": null,
+                "title": "Burgers",
+                "uuid": "faa37894-9334-4dd7-b343-ec8d5b45fe06",
+                "displayType": null
+            },
+            "9d06da8a-b6df-43ce-8b8f-262889c6ee31": {
+                "itemUuids": [
+                    "2a709fc3-84bf-46b6-8128-40b5f5762979",
+                    "a6080982-6879-4f64-b3ac-2205137337ab",
+                    "fdc0cb5d-72f6-4030-9287-0c0f6d566537",
+                    "217e8260-2f7b-4ddf-bd20-41bc0eb58852",
+                    "727f8fdb-633f-40c5-ae4d-5be2600dc0f6",
+                    "f3854cd4-be7c-466e-843b-af7798eb6e4e",
+                    "e8e47ec5-1d75-430c-b3bd-201bf4505a5d",
+                    "354cf0ac-c4e7-43ec-92d3-84349b7aeb97",
+                    "8daf0160-e42b-4fc9-82bc-16e43f1a7a98",
+                    "d640a1f7-9351-4f0f-9fa7-c35247062901"
+                ],
+                "subtitle": null,
+                "title": "Sides",
+                "uuid": "9d06da8a-b6df-43ce-8b8f-262889c6ee31",
+                "displayType": null
+            },
+            "cdd6f44d-9b7c-11e9-8000-246e961d415c": {
+                "itemUuids": [
+                    "07d77f4f-23c1-495b-8c0b-b44bb2ae2350",
+                    "91070cca-97a1-4e4d-a82e-917d277b8898",
+                    "3a5510cc-20f6-4aa2-9762-4a05e3b1502b"
+                ],
+                "subtitle": null,
+                "title": "Buy one get one free",
+                "uuid": "cdd6f44d-9b7c-11e9-8000-246e961d415c",
+                "displayType": null
+            },
+            "ed32cc2d-e6df-4d7b-afde-2ef638e739d9": {
+                "itemUuids": [
+                    "58420cc7-3c3f-4bad-94e3-45a4af4b75c6"
+                ],
+                "subtitle": null,
+                "title": "Encores- (Dessert)",
+                "uuid": "ed32cc2d-e6df-4d7b-afde-2ef638e739d9",
+                "displayType": null
+            },
+            "8bfe9afc-bd05-4e35-b41c-a4f9180d2a72": {
+                "itemUuids": [
+                    "81754101-ff15-4124-9a0d-0cc1c529cded",
+                    "e8db242d-374f-4388-8825-8147b444366b",
+                    "e0c734e0-265b-4d79-93ac-6f6a7625cade",
+                    "f95b8677-f218-4278-8fe5-7257d723cba9"
+                ],
+                "subtitle": null,
+                "title": "Legondary Lemonades",
+                "uuid": "8bfe9afc-bd05-4e35-b41c-a4f9180d2a72",
+                "displayType": null
+            },
+            "ff310ed6-f91b-40a9-ab0d-ba04a73582fd": {
+                "itemUuids": [
+                    "68fe2c24-7896-4395-be0f-94dc56666fff",
+                    "ab03bf9b-7406-4ffe-8908-9ac0aea9c456",
+                    "524e1404-9360-41de-904d-bdaab081b328",
+                    "1080435f-e105-4914-9187-df16ee9c1d44"
+                ],
+                "subtitle": null,
+                "title": "Smoothies",
+                "uuid": "ff310ed6-f91b-40a9-ab0d-ba04a73582fd",
+                "displayType": null
+            },
+            "db040a68-3c3b-4e79-a0e5-460b07db69de": {
+                "itemUuids": [
+                    "420ee5ac-5772-4c4d-8e87-a86f6d2acfb7",
+                    "3d8dc66c-bcc5-4ab4-90fa-003e94884f7a",
+                    "20eb8be0-0bfb-421c-893e-6c7443cf776c",
+                    "c0814b51-858c-4405-891d-8db2f6000f1e",
+                    "01105ccb-6b8f-48ec-a7de-24cf967d946f",
+                    "26f6d77e-0d82-4f03-897b-37f73781af76"
+                ],
+                "subtitle": null,
+                "title": "Heartbreak Shakes",
+                "uuid": "db040a68-3c3b-4e79-a0e5-460b07db69de",
+                "displayType": null
+            },
+            "4058ae7e-9014-43d6-827d-ffce5133ee3b": {
+                "itemUuids": [
+                    "c9419646-59cf-49e3-a15f-d3adf8ad2e9b",
+                    "d3c2067a-df2d-4b82-ae4b-2fd13de46c67",
+                    "9108a830-e46d-4bac-8bc7-df8969df7695",
+                    "f1c59527-3d4a-48d2-8e56-8fc7833f99a3",
+                    "91070cca-97a1-4e4d-a82e-917d277b8898",
+                    "e6053175-8721-479f-a4fd-b7683a8a88d0"
+                ],
+                "subtitle": null,
+                "title": "Support Acts- STARTERS",
+                "uuid": "4058ae7e-9014-43d6-827d-ffce5133ee3b",
+                "displayType": null
+            },
+            "4706d416-9274-43af-a172-1fc6b12fc7ba": {
+                "itemUuids": [
+                    "01e84644-2eb2-4120-8d6e-0f865087c299",
+                    "bd1e43cf-66f4-42cf-8b0c-b1e006c65681"
+                ],
+                "subtitle": null,
+                "title": "Beverages",
+                "uuid": "4706d416-9274-43af-a172-1fc6b12fc7ba",
+                "displayType": null
+            }
+        },
+        "title": "Band of Burgers (Camden)",
+        "uuid": "2853d012-99a4-4e8b-b0b1-4773580e7258",
+        "categories": [
+            "₴",
+            "Бургери",
+            "Американська",
+            "Халяль",
+            "Для вегетаріанців"
+        ],
+        "cuisineList": [
+            "Бургери",
+            "Американська",
+            "Халяль",
+            "Для вегетаріанців"
+        ],
+        "priceBucket": "₴",
+        "etaRange": {
+            "text": "25–35 min",
+            "iconUrl": ""
+        },
+        "ratingBadge": {
+            "text": "<span><span style=\"font-family: inherit; color: #3a3a48;\">4.0 <img src=\"https://d1a3f4spazzrp4.cloudfront.net/static/images/Star_Black_Eats_3.png\" width=\"14\" height=\"14\" vertical-align=\"middle\"> </span><span style=\"font-family: inherit; color: #757575;\">(130)</span></span>"
+        },
+        "disclaimerBadge": {
+            "text": "<span style=\"font-family: inherit;\">Allergies, intolerances and dietary requirements: before ordering, please contact the restaurant directly and ask to speak to a member of staff who can assist if you require information about ingredients and help cater for your needs. For more information on food safety and hygiene, please visit the <a href=\"http://ratings.food.gov.uk/\" style=\"color:#61ad5f;\">Food Standards Agency</a></span>"
+        },
+        "fareBadge": null,
+        "fareInfo": {
+            "serviceFee": 30,
+            "serviceFeeCents": 3000
+        },
+        "promotion": null,
+        "shouldIndex": false,
+        "heroImageUrls": [
+            {
+                "url": "https://duyt4h9nfnj50.cloudfront.net/resized/6e90bbc556fbd6898eaf3b5551865ea2-w240-34.jpg",
+                "width": 240
+            },
+            {
+                "url": "https://duyt4h9nfnj50.cloudfront.net/resized/6e90bbc556fbd6898eaf3b5551865ea2-w550-62.jpg",
+                "width": 550
+            },
+            {
+                "url": "https://duyt4h9nfnj50.cloudfront.net/resized/6e90bbc556fbd6898eaf3b5551865ea2-w640-7f.jpg",
+                "width": 640
+            },
+            {
+                "url": "https://duyt4h9nfnj50.cloudfront.net/resized/6e90bbc556fbd6898eaf3b5551865ea2-w750-1f.jpg",
+                "width": 750
+            },
+            {
+                "url": "https://duyt4h9nfnj50.cloudfront.net/resized/6e90bbc556fbd6898eaf3b5551865ea2-w1080-cb.jpg",
+                "width": 1080
+            },
+            {
+                "url": "https://duyt4h9nfnj50.cloudfront.net/resized/6e90bbc556fbd6898eaf3b5551865ea2-w2880-a9.jpg",
+                "width": 2880
+            }
+        ],
+        "isOpen": true,
+        "currencyCode": "GBP",
+        "closedMessage": "Currently unavailable",
+        "location": {
+            "address": "Nw1 7je, London, England NW1 7JE",
+            "streetAddress": "NW1 7JE",
+            "city": "London",
+            "country": "GB",
+            "postalCode": "NW1 7JE",
+            "region": "England",
+            "latitude": 51.535019,
+            "longitude": -0.139323
+        },
+        "isDeliveryThirdParty": false,
+        "hours": [
+            {
+                "dayRange": "Sunday",
+                "sectionHours": [
+                    {
+                        "startTime": 720,
+                        "endTime": 1320,
+                        "sectionTitle": ""
+                    }
+                ]
+            },
+            {
+                "dayRange": "Monday - Saturday",
+                "sectionHours": [
+                    {
+                        "startTime": 720,
+                        "endTime": 1350,
+                        "sectionTitle": ""
+                    }
+                ]
+            }
+        ],
+        "disableOrderInstruction": false,
+        "disableCheckoutInstruction": false,
+        "nuggets": [],
+        "isWithinDeliveryRange": false,
+        "slug": "band-of-burgers-camden",
+        "citySlug": "london",
+        "phoneNumber": "+442073873898",
+        "metaJson": "{\"@context\":\"http:\\u002F\\u002Fschema.org\",\"@type\":\"Restaurant\",\"@id\":\"https:\\u002F\\u002Fwww.ubereats.com\\u002Fen-UA\\u002Flondon\\u002Ffood-delivery\\u002Fband-of-burgers-camden\\u002FKFPQEpmkTouwsUdzWA5yWA\\u002F\",\"name\":\"Band of Burgers (Camden)\",\"priceRange\":\"₴\",\"potentialAction\":{\"@type\":\"OrderAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\\u002F\\u002Fwww.ubereats.com\\u002Fen-UA\\u002Flondon\\u002Ffood-delivery\\u002Fband-of-burgers-camden\\u002FKFPQEpmkTouwsUdzWA5yWA\\u002F?utm_campaign=order-action&utm_medium=organic\",\"inLanguage\":\"English\",\"actionPlatform\":[\"http:\\u002F\\u002Fschema.org\\u002FDesktopWebPlatform\",\"http:\\u002F\\u002Fschema.org\\u002FMobileWebPlatform\"]},\"deliveryMethod\":[\"http:\\u002F\\u002Fpurl.org\\u002Fgoodrelations\\u002Fv1#DeliveryModeOwnFleet\",\"http:\\u002F\\u002Fpurl.org\\u002Fgoodrelations\\u002Fv1#DeliveryModePickUp\"]},\"address\":{\"@type\":\"PostalAddress\",\"addressLocality\":\"London\",\"addressRegion\":\"England\",\"postalCode\":\"NW1 7JE\",\"addressCountry\":\"GB\",\"streetAddress\":\"NW1 7JE\"},\"geo\":{\"@type\":\"GeoCoordinates\",\"latitude\":51.535019,\"longitude\":-0.139323}}",
+        "promoTrackings": [],
+        "suggestedPromotion": {
+            "text": "",
+            "promotionUuid": ""
+        },
+        "supportedDiningModes": [
+            {
+                "mode": "DELIVERY",
+                "title": "Delivery",
+                "isSelected": true,
+                "isAvailable": true
+            },
+            {
+                "mode": "PICKUP",
+                "title": "Pickup",
+                "isSelected": false,
+                "isAvailable": true
+            }
+        ],
+        "isPreview": false,
+        "pinnedInfo": null
+    }
+}

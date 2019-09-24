@@ -1,0 +1,1791 @@
+{
+    "status": "success",
+    "data": {
+        "sectionEntitiesMap": {
+            "f45fbdca-a8f3-5d1d-85c6-8a0b162d81a0": {
+                "f464945e-ea6a-5b99-86f3-a322c1f53071": {
+                    "description": "",
+                    "imageUrl": "",
+                    "price": 550,
+                    "title": "Breakfast Wrap",
+                    "uuid": "f464945e-ea6a-5b99-86f3-a322c1f53071",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "172e9284-3fd7-578c-b8af-22bc053e49b8": {
+                    "description": "",
+                    "imageUrl": "",
+                    "price": 250,
+                    "title": "Americano",
+                    "uuid": "172e9284-3fd7-578c-b8af-22bc053e49b8",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "a4c448a0-b47a-56df-b0a5-24aac31b4d33": {
+                    "description": "",
+                    "imageUrl": "",
+                    "price": 275,
+                    "title": "Cappuccino",
+                    "uuid": "a4c448a0-b47a-56df-b0a5-24aac31b4d33",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "33346b10-47ab-5546-873b-af1e1cf8c484": {
+                    "description": "Traditional English style tea with milk.",
+                    "imageUrl": "",
+                    "price": 225,
+                    "title": "Tea",
+                    "uuid": "33346b10-47ab-5546-873b-af1e1cf8c484",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "5657dfb6-f28c-5646-8dd6-b5f4660b1615": {
+                    "description": "",
+                    "imageUrl": "",
+                    "price": 275,
+                    "title": "Mocha",
+                    "uuid": "5657dfb6-f28c-5646-8dd6-b5f4660b1615",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "9990fc49-6928-5132-8c6d-2d84556df94c": {
+                    "description": "Traditionallly made masala chai, with a warm blend of spices.",
+                    "imageUrl": "",
+                    "price": 275,
+                    "title": "Masala Chai",
+                    "uuid": "9990fc49-6928-5132-8c6d-2d84556df94c",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "08f72226-bd68-5345-9203-3577dbaefc00": {
+                    "description": "Traditionally made Indian tea.",
+                    "imageUrl": "",
+                    "price": 275,
+                    "title": "Desi Chai",
+                    "uuid": "08f72226-bd68-5345-9203-3577dbaefc00",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "ab32fbbf-5836-52dd-a670-3eab2d2a0a2c": {
+                    "description": "",
+                    "imageUrl": "",
+                    "price": 250,
+                    "title": "Espresso Single",
+                    "uuid": "ab32fbbf-5836-52dd-a670-3eab2d2a0a2c",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "b19b99c1-7885-58b9-8ff4-c8f1c85c4c8e": {
+                    "description": "",
+                    "imageUrl": "",
+                    "price": 295,
+                    "title": "Espresso Double",
+                    "uuid": "b19b99c1-7885-58b9-8ff4-c8f1c85c4c8e",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "f0748693-0fa1-579d-b489-25782646b448": {
+                    "description": "",
+                    "imageUrl": "",
+                    "price": 275,
+                    "title": "Hot Chocolate",
+                    "uuid": "f0748693-0fa1-579d-b489-25782646b448",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "15f6206a-dd19-520e-bef7-dd1cafc14a33": {
+                    "description": "",
+                    "imageUrl": "",
+                    "price": 275,
+                    "title": "Latte",
+                    "uuid": "15f6206a-dd19-520e-bef7-dd1cafc14a33",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                }
+            },
+            "074f704a-9623-50f2-803e-483f2c4a82d4": {
+                "1a1bb252-3e96-56f1-a5e7-7f1130ee8a02": {
+                    "description": "Lamb pieces (off the bone) cooked in onion and tomato gravy with special home-made ground five seed\nAchaar spices and whole nigella seeds. (Hot).",
+                    "imageUrl": null,
+                    "price": 495,
+                    "title": "Lamb Achaari",
+                    "uuid": "1a1bb252-3e96-56f1-a5e7-7f1130ee8a02",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "endorsement": {
+                        "text": "Halal",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_check@3x.png"
+                    },
+                    "classifications": []
+                },
+                "3af840b3-dcba-43d8-82fa-6babb00beff8": {
+                    "description": "Homemade layered flatbread",
+                    "imageUrl": null,
+                    "price": 250,
+                    "title": "Paratha",
+                    "uuid": "3af840b3-dcba-43d8-82fa-6babb00beff8",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "1d35025d-86f5-5116-8447-143235955a17": {
+                    "description": "The pride of punjabi cooking - a hot lamb based dish merged with a unique blend of pickled spices and dried chillies, served with plain pilau rice.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/47eb7294-6946-4b77-8726-b6cf517ce004.jpeg",
+                    "price": 850,
+                    "title": "Lamb Achaari with Rice",
+                    "uuid": "1d35025d-86f5-5116-8447-143235955a17",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "endorsement": {
+                        "text": "Halal",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_check@3x.png"
+                    },
+                    "classifications": []
+                },
+                "45bcbc9c-6dac-59a7-b31a-cd71da5a3242": {
+                    "description": "Sweet and fruity mango sauce has a subtle hint of spices that gives it a distinctive flavour. Great with lamb fillings and salads. ",
+                    "imageUrl": null,
+                    "price": 50,
+                    "title": "Mango Sauce",
+                    "uuid": "45bcbc9c-6dac-59a7-b31a-cd71da5a3242",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "endorsement": {
+                        "text": "Vegan",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png"
+                    },
+                    "classifications": []
+                },
+                "172e9284-3fd7-578c-b8af-22bc053e49b8": {
+                    "description": "",
+                    "imageUrl": "",
+                    "price": 250,
+                    "title": "Americano",
+                    "uuid": "172e9284-3fd7-578c-b8af-22bc053e49b8",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "dacc6b36-0e25-5af7-afaa-d0fbd46d235a": {
+                    "description": "Chicken pieces in a tandoori marinade.",
+                    "imageUrl": null,
+                    "price": 395,
+                    "title": "Chicken Tikka",
+                    "uuid": "dacc6b36-0e25-5af7-afaa-d0fbd46d235a",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "endorsement": {
+                        "text": "Halal",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_check@3x.png"
+                    },
+                    "classifications": []
+                },
+                "a82672c1-6dd1-5e87-8b1a-1a546845b1a9": {
+                    "description": null,
+                    "imageUrl": null,
+                    "price": 695,
+                    "title": "Regular Salad With 2 Fillings And Green Leaves Base",
+                    "uuid": "a82672c1-6dd1-5e87-8b1a-1a546845b1a9",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "1bc20ac5-2e76-5e54-98db-3cf9718e57fa": {
+                    "description": "Paneer cheese cubes in a tandoori marinade.",
+                    "imageUrl": null,
+                    "price": 395,
+                    "title": "Paneer Tikka",
+                    "uuid": "1bc20ac5-2e76-5e54-98db-3cf9718e57fa",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "endorsement": {
+                        "text": "Vegan",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png"
+                    },
+                    "classifications": []
+                },
+                "5fd90ce4-b440-5a6f-ba72-a029b5056381": {
+                    "description": "Chicken pieces (off the bone) cooked in an onion and tomato gravy with special home-made ground five\nseed Achaar spices and whole nigella seeds. (Hot).",
+                    "imageUrl": null,
+                    "price": 395,
+                    "title": "Chicken Achaari",
+                    "uuid": "5fd90ce4-b440-5a6f-ba72-a029b5056381",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "endorsement": {
+                        "text": "Halal",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_check@3x.png"
+                    },
+                    "classifications": []
+                },
+                "affc56d1-2998-5019-9f52-36d15ba812a0": {
+                    "description": "Chicken pieces in a coriander and mint marinade.",
+                    "imageUrl": null,
+                    "price": 395,
+                    "title": "Chicken Hari Boti",
+                    "uuid": "affc56d1-2998-5019-9f52-36d15ba812a0",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "endorsement": {
+                        "text": "Halal",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_check@3x.png"
+                    },
+                    "classifications": []
+                },
+                "bfe5a175-29eb-5885-98ba-01fdb6b9802b": {
+                    "description": "Fresh garden peas (matar) with Indian cottage cheese (Paneer) cooked in an onion and tomato sauce with gentle spices. (Mild)",
+                    "imageUrl": null,
+                    "price": 395,
+                    "title": "Matar Paneer",
+                    "uuid": "bfe5a175-29eb-5885-98ba-01fdb6b9802b",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "endorsement": {
+                        "text": "Vegetarian",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png"
+                    },
+                    "classifications": []
+                },
+                "6c95ecbb-0c87-5e51-9a31-0595f630b2bd": {
+                    "description": "",
+                    "imageUrl": "",
+                    "price": 180,
+                    "title": "Coke Cola Bottle",
+                    "uuid": "6c95ecbb-0c87-5e51-9a31-0595f630b2bd",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "be8b61f2-bae1-5d31-9540-7b6d257a93cc": {
+                    "description": "",
+                    "imageUrl": "",
+                    "price": 150,
+                    "title": "Cawston Press Cloudy Apple",
+                    "uuid": "be8b61f2-bae1-5d31-9540-7b6d257a93cc",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "4380d05a-cd62-5722-aa89-4846ccaf1d21": {
+                    "description": "",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/e29d561b-060c-4471-8657-5c921c1814b7",
+                    "price": 695,
+                    "title": "Regular Wrap with 2 Fillings",
+                    "uuid": "4380d05a-cd62-5722-aa89-4846ccaf1d21",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "159c5897-e324-5060-bc3f-4249135f179c": {
+                    "description": "Ground lamb kofta mixed with light herbs.",
+                    "imageUrl": null,
+                    "price": 395,
+                    "title": "Lamb Kofta",
+                    "uuid": "159c5897-e324-5060-bc3f-4249135f179c",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "endorsement": {
+                        "text": "Halal",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_check@3x.png"
+                    },
+                    "classifications": []
+                },
+                "33346b10-47ab-5546-873b-af1e1cf8c484": {
+                    "description": "Traditional English style tea with milk.",
+                    "imageUrl": "",
+                    "price": 225,
+                    "title": "Tea",
+                    "uuid": "33346b10-47ab-5546-873b-af1e1cf8c484",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "15f6206a-dd19-520e-bef7-dd1cafc14a33": {
+                    "description": "",
+                    "imageUrl": "",
+                    "price": 275,
+                    "title": "Latte",
+                    "uuid": "15f6206a-dd19-520e-bef7-dd1cafc14a33",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "877e8aae-9a44-5b4a-884b-4d036e8afae7": {
+                    "description": "Peanuts nuts, chick pea, noodles, lentils, rapesed oil, spices, and salt.",
+                    "imageUrl": "",
+                    "price": 150,
+                    "title": "Zabardast Nibbles Bombay Mix",
+                    "uuid": "877e8aae-9a44-5b4a-884b-4d036e8afae7",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": "",
+                    "suspendUntil": 8640000000,
+                    "classifications": []
+                },
+                "f0748693-0fa1-579d-b489-25782646b448": {
+                    "description": "",
+                    "imageUrl": "",
+                    "price": 275,
+                    "title": "Hot Chocolate",
+                    "uuid": "f0748693-0fa1-579d-b489-25782646b448",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "a03cc821-9e14-506d-89e1-782be821b540": {
+                    "description": "Coriander, the king of herbs, is known for its numerous health benefits. This refreshing sauce adds life to any wrap",
+                    "imageUrl": null,
+                    "price": 50,
+                    "title": "Coriander Sauce",
+                    "uuid": "a03cc821-9e14-506d-89e1-782be821b540",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "endorsement": {
+                        "text": "Vegan",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png"
+                    },
+                    "classifications": []
+                },
+                "75bf55b8-40ba-5258-a698-267c15200d95": {
+                    "description": "",
+                    "imageUrl": "",
+                    "price": 180,
+                    "title": "Diet Coke Bottle",
+                    "uuid": "75bf55b8-40ba-5258-a698-267c15200d95",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "ce020bc7-dab7-50c2-80cb-dd945229b11e": {
+                    "description": "Vegan heaven in a box, this mild lentil dish is served with plain pilau rice.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/9ab947ac-ac4f-46bd-abe8-2debae1c574d.jpeg",
+                    "price": 750,
+                    "title": "Tarka Daal with Rice",
+                    "uuid": "ce020bc7-dab7-50c2-80cb-dd945229b11e",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "endorsement": {
+                        "text": "Vegan",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png"
+                    },
+                    "classifications": []
+                },
+                "3e8e7342-3b3d-5972-a832-621b934e2ae6": {
+                    "description": "",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/d5f61dbc-8269-49fa-8f1f-dae0ff369f91",
+                    "price": 795,
+                    "title": "Large Wrap with 3 Fillings",
+                    "uuid": "3e8e7342-3b3d-5972-a832-621b934e2ae6",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "ee45b439-5aa2-4dd6-a6dd-6afee49fd998": {
+                    "description": "Potato and spiced seasonal vegetable patties",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/e167a892-8574-4b84-aa2e-6b5222acfe26.jpeg",
+                    "price": 395,
+                    "title": "Vegetable Tikki",
+                    "uuid": "ee45b439-5aa2-4dd6-a6dd-6afee49fd998",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "endorsement": {
+                        "text": "Vegetarian",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png"
+                    },
+                    "classifications": []
+                },
+                "9bcfcbb9-91f7-512e-bca5-726d4f9d2b27": {
+                    "description": "(Ground lamb,mixed with traditional spices)",
+                    "imageUrl": null,
+                    "price": 395,
+                    "title": "Lamb Seekh Kebab",
+                    "uuid": "9bcfcbb9-91f7-512e-bca5-726d4f9d2b27",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "endorsement": {
+                        "text": "Halal",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_check@3x.png"
+                    },
+                    "classifications": []
+                },
+                "00f5ea4d-cabe-5a77-9f6b-a75c237c4531": {
+                    "description": "A vegan dish and one of our favourites, a blend of chickpeas and masala sauce, served with plain pilau rice.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/b97390b9-9320-4b1f-9aef-1bff41efa0c0.jpeg",
+                    "price": 750,
+                    "title": "Chana Masala with Rice",
+                    "uuid": "00f5ea4d-cabe-5a77-9f6b-a75c237c4531",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "endorsement": {
+                        "text": "Vegan",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png"
+                    },
+                    "classifications": []
+                },
+                "e410f204-4ec5-499d-815d-8059dff8b59d": {
+                    "description": "Selection of spicy Lamb Achari, Tarka dal and Chana Masala, served with fragrant pilau rice, mint yogurt pot and traditional Indian bread Paratha",
+                    "imageUrl": null,
+                    "price": 1195,
+                    "title": "Lamb Thali",
+                    "uuid": "e410f204-4ec5-499d-815d-8059dff8b59d",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "17c0d2e3-4613-48d3-8ca9-161ceb6c284a": {
+                    "description": "Potato pieces, cooked in an  onion, ginger and cumin sauce",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/fa7e7767-c900-4f00-bc21-4c8bc453aaac.jpeg",
+                    "price": 395,
+                    "title": "Bombay Aloo",
+                    "uuid": "17c0d2e3-4613-48d3-8ca9-161ceb6c284a",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "endorsement": {
+                        "text": "Vegan",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png"
+                    },
+                    "classifications": []
+                },
+                "3a2e01c5-a3bc-57a0-84b1-eb5cc946a7a9": {
+                    "description": "",
+                    "imageUrl": "",
+                    "price": 275,
+                    "title": "Mangajo Acai Berry and Green Tea",
+                    "uuid": "3a2e01c5-a3bc-57a0-84b1-eb5cc946a7a9",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "ef92271f-bae0-51fa-b45f-cdcbabbcc421": {
+                    "description": "",
+                    "imageUrl": "",
+                    "price": 150,
+                    "title": "Diet Coke Can",
+                    "uuid": "ef92271f-bae0-51fa-b45f-cdcbabbcc421",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "6250eb8a-3538-5e85-99c9-fec31416862f": {
+                    "description": null,
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/6bf7451c-61b7-4ee3-9542-ef9983b8bc46.jpeg",
+                    "price": 795,
+                    "title": "Large Salad With 3 Fillings And Green Leaves Base",
+                    "uuid": "6250eb8a-3538-5e85-99c9-fec31416862f",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "8ae93a16-5ff0-5b39-be25-2beea6c8bf11": {
+                    "description": "Raisins, sugar milk powder, sunflower, gum Arabic, cocoa butter, and cocoa solids.",
+                    "imageUrl": "",
+                    "price": 150,
+                    "title": "Zabardast Nibbles Milk and White Chocolate Raisins",
+                    "uuid": "8ae93a16-5ff0-5b39-be25-2beea6c8bf11",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": "",
+                    "suspendUntil": 8640000000,
+                    "classifications": []
+                },
+                "5657dfb6-f28c-5646-8dd6-b5f4660b1615": {
+                    "description": "",
+                    "imageUrl": "",
+                    "price": 275,
+                    "title": "Mocha",
+                    "uuid": "5657dfb6-f28c-5646-8dd6-b5f4660b1615",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "c97f5897-5e4c-5501-bf82-b48ff4315856": {
+                    "description": "A mild favourite balancing peas with paneer, an Indian cottage cheese, in a spiced tomato based sauce, served with plain pilau rice.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/1cd3900e-75ee-4c11-8317-a55eefcd4ec0.jpeg",
+                    "price": 750,
+                    "title": "Matar Paneer with Rice",
+                    "uuid": "c97f5897-5e4c-5501-bf82-b48ff4315856",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "endorsement": {
+                        "text": "Vegetarian",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png"
+                    },
+                    "classifications": []
+                },
+                "14837f49-1d28-5d0d-bc65-374c268ef7a0": {
+                    "description": "",
+                    "imageUrl": "",
+                    "price": 215,
+                    "title": "Lemony Lemonade",
+                    "uuid": "14837f49-1d28-5d0d-bc65-374c268ef7a0",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "a250c09a-9c77-5785-937a-8978f3418a17": {
+                    "description": "",
+                    "imageUrl": "",
+                    "price": 295,
+                    "title": "Mango Lassi",
+                    "uuid": "a250c09a-9c77-5785-937a-8978f3418a17",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "b19b99c1-7885-58b9-8ff4-c8f1c85c4c8e": {
+                    "description": "",
+                    "imageUrl": "",
+                    "price": 295,
+                    "title": "Espresso Double",
+                    "uuid": "b19b99c1-7885-58b9-8ff4-c8f1c85c4c8e",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "7f8140d6-8a24-5ac0-8951-723a53a7e11c": {
+                    "description": "Mayo based sauce with unique blend of spicies made in the house.",
+                    "imageUrl": null,
+                    "price": 50,
+                    "title": "Mughlai Signature Sauce",
+                    "uuid": "7f8140d6-8a24-5ac0-8951-723a53a7e11c",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "endorsement": {
+                        "text": "Vegetarian",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png"
+                    },
+                    "classifications": []
+                },
+                "bc0c9249-fb02-5657-8fca-d73aaa93195b": {
+                    "description": "",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/2bcbc337-eb8e-4ea7-a8f2-c802ab0f9c40",
+                    "price": 150,
+                    "title": "Burts Salt and Vinegar Crisps",
+                    "uuid": "bc0c9249-fb02-5657-8fca-d73aaa93195b",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "d9853337-cd3e-54c7-8c36-f71fcb238fce": {
+                    "description": "Chicken pieces (off the bone) cooked in an onion-based gravy with authentic Indian spices. (Mild).",
+                    "imageUrl": null,
+                    "price": 395,
+                    "title": "Chicken Korma",
+                    "uuid": "d9853337-cd3e-54c7-8c36-f71fcb238fce",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "endorsement": {
+                        "text": "Halal",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_check@3x.png"
+                    },
+                    "classifications": []
+                },
+                "d135c508-a007-585c-b6b6-9f0a663da44f": {
+                    "description": "",
+                    "imageUrl": "",
+                    "price": 150,
+                    "title": "Coke Cola Can",
+                    "uuid": "d135c508-a007-585c-b6b6-9f0a663da44f",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "2e776b5a-b7a6-404c-87f8-fe81e6b522ac": {
+                    "description": null,
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/16bbac3a-f5fb-4469-9456-a267738c75be.jpeg",
+                    "price": 395,
+                    "title": "Chana Masala Pot",
+                    "uuid": "2e776b5a-b7a6-404c-87f8-fe81e6b522ac",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "endorsement": {
+                        "text": "Vegan",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png"
+                    },
+                    "classifications": []
+                },
+                "f33df02a-1550-5a76-9fc9-548e657326be": {
+                    "description": "Chicken pieces (off the bone) marinated in yogurt and tikka spices then cooked in a creamy tomato-based gravy. (mild).",
+                    "imageUrl": null,
+                    "price": 395,
+                    "title": "Chicken Tikka Masala",
+                    "uuid": "f33df02a-1550-5a76-9fc9-548e657326be",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "endorsement": {
+                        "text": "Halal",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_check@3x.png"
+                    },
+                    "classifications": []
+                },
+                "a6f779b0-22cc-5fc7-8d02-c4a2c7b99874": {
+                    "description": "",
+                    "imageUrl": "",
+                    "price": 275,
+                    "title": "Mangajo Pomegranate and Green Tea",
+                    "uuid": "a6f779b0-22cc-5fc7-8d02-c4a2c7b99874",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "6cc98f52-d91e-5516-ad77-1633914a2afb": {
+                    "description": "A special balance of fresh garlic and mayonnaise. Goes well with meats and vegetable fillings. Especially good with Chicken Malai Boti and Falafel.",
+                    "imageUrl": null,
+                    "price": 50,
+                    "title": "Garlic Mayonnaise",
+                    "uuid": "6cc98f52-d91e-5516-ad77-1633914a2afb",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "endorsement": {
+                        "text": "Vegetarian",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png"
+                    },
+                    "classifications": []
+                },
+                "56fb4f1f-9f5e-5943-846b-95a81f6537f7": {
+                    "description": "Deliciously creamy yoghurt blended with mint and other spices. This healthy sauce is great with meat fillings and is also a healthy salad dressing",
+                    "imageUrl": null,
+                    "price": 50,
+                    "title": "Mint Yoghurt Sauce",
+                    "uuid": "56fb4f1f-9f5e-5943-846b-95a81f6537f7",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "endorsement": {
+                        "text": "Vegetarian",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png"
+                    },
+                    "classifications": []
+                },
+                "f2bb3cdc-6020-5394-93d7-6a8b04c1227b": {
+                    "description": null,
+                    "imageUrl": null,
+                    "price": 50,
+                    "title": "Light Mayonnaise",
+                    "uuid": "f2bb3cdc-6020-5394-93d7-6a8b04c1227b",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "endorsement": {
+                        "text": "Vegetarian",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png"
+                    },
+                    "classifications": []
+                },
+                "e79f4d1f-e0b4-5c6d-90ec-97cb46c692cf": {
+                    "description": "Chicken pieces in a mild cream and yogurt marinade.",
+                    "imageUrl": null,
+                    "price": 395,
+                    "title": "Chicken Malai Boti",
+                    "uuid": "e79f4d1f-e0b4-5c6d-90ec-97cb46c692cf",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "endorsement": {
+                        "text": "Halal",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_check@3x.png"
+                    },
+                    "classifications": []
+                },
+                "a666e21f-217b-5091-9cd5-027a1f1da44f": {
+                    "description": "",
+                    "imageUrl": "",
+                    "price": 150,
+                    "title": "Cawston Press Ginger Beer",
+                    "uuid": "a666e21f-217b-5091-9cd5-027a1f1da44f",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "4e9a55b9-a420-52d2-a1ed-27553478eb14": {
+                    "description": "Much loved, timeless, medium spiced chicken dish cooked in a tikka marinade. Served with plain pilau rice.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/3e2b459d-53f9-454b-880d-664bd479bccd.jpeg",
+                    "price": 750,
+                    "title": "Chicken Tikka Masala with Rice",
+                    "uuid": "4e9a55b9-a420-52d2-a1ed-27553478eb14",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "endorsement": {
+                        "text": "Halal",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_check@3x.png"
+                    },
+                    "classifications": []
+                },
+                "ab32fbbf-5836-52dd-a670-3eab2d2a0a2c": {
+                    "description": "",
+                    "imageUrl": "",
+                    "price": 250,
+                    "title": "Espresso Single",
+                    "uuid": "ab32fbbf-5836-52dd-a670-3eab2d2a0a2c",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "d40527fc-d83a-5e9d-8032-5cca1fab98bd": {
+                    "description": "",
+                    "imageUrl": "",
+                    "price": 150,
+                    "title": "Cawston Press Elderflower Lemonade",
+                    "uuid": "d40527fc-d83a-5e9d-8032-5cca1fab98bd",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "6286e2c2-a1c5-5ba8-991b-e6c83e8ca277": {
+                    "description": "The nation's favourite - Mild Chicken curry cooked in onion-based gravy with authentic Indian spices.",
+                    "imageUrl": "",
+                    "price": 750,
+                    "title": "Chicken Korma with Rice",
+                    "uuid": "6286e2c2-a1c5-5ba8-991b-e6c83e8ca277",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "endorsement": {
+                        "text": "Halal",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_check@3x.png"
+                    },
+                    "classifications": []
+                },
+                "18fa3456-3db1-5692-9e36-f7ee7ce9185a": {
+                    "description": "",
+                    "imageUrl": "",
+                    "price": 275,
+                    "title": "Mangajo Goji Berry and Green Tea",
+                    "uuid": "18fa3456-3db1-5692-9e36-f7ee7ce9185a",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "e0eede59-4289-5b08-b972-72f39498ff3a": {
+                    "description": "Spiced roasted chick peas, rapeseed oil, corn starch, chilli and lemon corn nuts, cayenne, pumpkin seeds, paprika, and siracha peas.",
+                    "imageUrl": "",
+                    "price": 150,
+                    "title": "Zabardast Nibbles Spicy Mix",
+                    "uuid": "e0eede59-4289-5b08-b972-72f39498ff3a",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": "",
+                    "suspendUntil": 8640000000,
+                    "endorsement": {
+                        "text": "Spicy",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_check@3x.png"
+                    },
+                    "classifications": []
+                },
+                "08f72226-bd68-5345-9203-3577dbaefc00": {
+                    "description": "Traditionally made Indian tea.",
+                    "imageUrl": "",
+                    "price": 275,
+                    "title": "Desi Chai",
+                    "uuid": "08f72226-bd68-5345-9203-3577dbaefc00",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "c3b3141c-6445-51c3-ac2b-132c82ad0a8e": {
+                    "description": "",
+                    "imageUrl": "",
+                    "price": 215,
+                    "title": "Gingerella Ginger Ale",
+                    "uuid": "c3b3141c-6445-51c3-ac2b-132c82ad0a8e",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "a4d387ee-de6f-53d4-b805-96fb4f55a606": {
+                    "description": "Ground chicken,mixed with traditional spices.",
+                    "imageUrl": null,
+                    "price": 395,
+                    "title": "Chicken Seekh Kebab",
+                    "uuid": "a4d387ee-de6f-53d4-b805-96fb4f55a606",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "endorsement": {
+                        "text": "Halal",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_check@3x.png"
+                    },
+                    "classifications": []
+                },
+                "34cbf9ce-af9c-59f9-b76d-a4dbfb72684c": {
+                    "description": "",
+                    "imageUrl": "",
+                    "price": 180,
+                    "title": "Sprite Bottle",
+                    "uuid": "34cbf9ce-af9c-59f9-b76d-a4dbfb72684c",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "74c92ca5-c577-590c-a3dc-91c4a8d7a4eb": {
+                    "description": "",
+                    "imageUrl": "",
+                    "price": 150,
+                    "title": "Burts Thai Sweet Chilli",
+                    "uuid": "74c92ca5-c577-590c-a3dc-91c4a8d7a4eb",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "817c2460-84d7-5a19-a9bb-b787405704ae": {
+                    "description": "Our special chilli sauce has just the right amount of hotness to bring out the flavours of any filling, giving it a spicy boost.",
+                    "imageUrl": null,
+                    "price": 50,
+                    "title": "Chilli Sauce",
+                    "uuid": "817c2460-84d7-5a19-a9bb-b787405704ae",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "endorsement": {
+                        "text": "Vegan",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png"
+                    },
+                    "classifications": []
+                },
+                "89a5f5ee-9543-5715-b0e4-0a3f2aedcf66": {
+                    "description": "Chicken kofta mixed with light herbs.",
+                    "imageUrl": null,
+                    "price": 395,
+                    "title": "Chicken Kofta",
+                    "uuid": "89a5f5ee-9543-5715-b0e4-0a3f2aedcf66",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "endorsement": {
+                        "text": "Halal",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_check@3x.png"
+                    },
+                    "classifications": []
+                },
+                "eceebb79-5841-5f2b-bcb5-ae5bd19feeb9": {
+                    "description": "Fragrant basmati rice with a mixture of flavours and vegetables. This dish is vegan-friendly.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/47b4c09e-4005-49e6-89b6-9b47ff42c3c8.jpeg",
+                    "price": 750,
+                    "title": "Vegetable Biryani",
+                    "uuid": "eceebb79-5841-5f2b-bcb5-ae5bd19feeb9",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "endorsement": {
+                        "text": "Vegan",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png"
+                    },
+                    "classifications": []
+                },
+                "1e755942-d0a4-50f0-8402-f95152138bc5": {
+                    "description": "Fragrant basmati rice with on the bone pieces of succulent chicken.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/fc9f181f-d8bc-4c03-b203-b1a228261e6a",
+                    "price": 750,
+                    "title": "Chicken Biryani",
+                    "uuid": "1e755942-d0a4-50f0-8402-f95152138bc5",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "endorsement": {
+                        "text": "Halal",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_check@3x.png"
+                    },
+                    "classifications": []
+                },
+                "1a953dd4-714b-565a-99dd-cd484649a1c3": {
+                    "description": "An old family recipe. This sweet and tangy sauce has a delicious sour fruity flavour. It is great with barbequed meats and ideal for all our chicken and lamb fillings",
+                    "imageUrl": null,
+                    "price": 50,
+                    "title": "Tamarind Sauce",
+                    "uuid": "1a953dd4-714b-565a-99dd-cd484649a1c3",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "endorsement": {
+                        "text": "Vegan",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png"
+                    },
+                    "classifications": []
+                },
+                "46053b4d-c309-5aa3-833d-e8db62e90933": {
+                    "description": "The pride of punjabi cooking - a hot chicken based dish merged with a unique blend of pickled spices and dried chillies, served with plain pilau rice.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/02069781-0aa4-484a-90b2-25d7ffa5bf5c.jpeg",
+                    "price": 750,
+                    "title": "Chicken Achaari with Rice",
+                    "uuid": "46053b4d-c309-5aa3-833d-e8db62e90933",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "endorsement": {
+                        "text": "Halal",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_check@3x.png"
+                    },
+                    "classifications": []
+                },
+                "57dc70c4-62ce-5925-8dab-fc1700a69679": {
+                    "description": "Fragrant basmati rice with tender pieces of lamb.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/67e68d46-af27-447d-998b-b8ba1730cbd7.jpeg",
+                    "price": 850,
+                    "title": "Lamb Biryani",
+                    "uuid": "57dc70c4-62ce-5925-8dab-fc1700a69679",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "endorsement": {
+                        "text": "Halal",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_check@3x.png"
+                    },
+                    "classifications": []
+                },
+                "7e24d2f9-dc25-5a23-a1dc-3a5b2918760a": {
+                    "description": "",
+                    "imageUrl": "",
+                    "price": 150,
+                    "title": "Burts Mature Cheddar Crisps",
+                    "uuid": "7e24d2f9-dc25-5a23-a1dc-3a5b2918760a",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "c7470e2b-d8eb-51fe-84fb-c5d63b9a6f49": {
+                    "description": "",
+                    "imageUrl": "",
+                    "price": 150,
+                    "title": "Still Water",
+                    "uuid": "c7470e2b-d8eb-51fe-84fb-c5d63b9a6f49",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "41eca95a-c8ca-440a-8844-b32896dca6fd": {
+                    "description": "Selection of Chicken Tikka Masala , Tarka Dal and Chana Masala served with fragrant pilau rice, mint yogurt pot and traditional Indian bread Paratha",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/40284690-9604-48b6-8702-833501288388.jpeg",
+                    "price": 1095,
+                    "title": "Chicken Thali",
+                    "uuid": "41eca95a-c8ca-440a-8844-b32896dca6fd",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "9990fc49-6928-5132-8c6d-2d84556df94c": {
+                    "description": "Traditionallly made masala chai, with a warm blend of spices.",
+                    "imageUrl": "",
+                    "price": 275,
+                    "title": "Masala Chai",
+                    "uuid": "9990fc49-6928-5132-8c6d-2d84556df94c",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "4fdf648e-4ec9-4265-883a-ad79868e72d1": {
+                    "description": "Selection of three vegetarian curries served with fragrant pilau rice, mint yogurt pot and traditional Indian bread Paratha",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/25b3eefa-109e-4d32-a3c0-e7bad4bd4954.jpeg",
+                    "price": 1095,
+                    "title": "Vegetarian Thali",
+                    "uuid": "4fdf648e-4ec9-4265-883a-ad79868e72d1",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "endorsement": {
+                        "text": "Vegetarian",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png"
+                    },
+                    "classifications": []
+                },
+                "a4c448a0-b47a-56df-b0a5-24aac31b4d33": {
+                    "description": "",
+                    "imageUrl": "",
+                    "price": 275,
+                    "title": "Cappuccino",
+                    "uuid": "a4c448a0-b47a-56df-b0a5-24aac31b4d33",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "f3bebd7f-3c38-48aa-bbf0-70f469bde5d5": {
+                    "description": null,
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/963a3644-6abb-4dc1-9d55-f40e1098af6d.jpeg",
+                    "price": 395,
+                    "title": "Tarka Daal Pot",
+                    "uuid": "f3bebd7f-3c38-48aa-bbf0-70f469bde5d5",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "endorsement": {
+                        "text": "Vegan",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png"
+                    },
+                    "classifications": []
+                }
+            }
+        },
+        "sections": [
+            {
+                "subsectionUuids": [
+                    "9a580563-d8d5-570f-82c1-754e5bee9185",
+                    "ce94525b-9b47-591f-95cc-4844236e90da"
+                ],
+                "title": "Breakfast",
+                "subtitle": "Fri 9:00 AM – 10:30 AM",
+                "uuid": "f45fbdca-a8f3-5d1d-85c6-8a0b162d81a0",
+                "isTop": false,
+                "isOnSale": false
+            },
+            {
+                "subsectionUuids": [
+                    "e77f1bde-16f5-580b-aa16-273e5db6ef0e",
+                    "9686923f-366f-5912-aafe-acdd35c5bd7d",
+                    "badadb39-ded0-4531-8a05-faa8d06fc2a9",
+                    "bfd0fc01-2b84-538c-8f38-f4a98ee3d870",
+                    "c78e3028-44e3-563a-82b0-38679d5867a0",
+                    "ade47693-2134-5e10-ba36-c3595c541127",
+                    "a5fee1fe-bdb1-505a-83ae-c721f7fb75e5",
+                    "ce94525b-9b47-591f-95cc-4844236e90da",
+                    "acb60f56-5058-51ab-a626-652fedf8333a",
+                    "86672129-e1cd-536f-b4c6-7160b0def3eb"
+                ],
+                "title": "Menu",
+                "subtitle": "9:00 AM – 8:30 PM",
+                "uuid": "074f704a-9623-50f2-803e-483f2c4a82d4",
+                "isTop": true,
+                "isOnSale": true
+            }
+        ],
+        "subsectionsMap": {
+            "ce94525b-9b47-591f-95cc-4844236e90da": {
+                "itemUuids": [
+                    "a4c448a0-b47a-56df-b0a5-24aac31b4d33",
+                    "15f6206a-dd19-520e-bef7-dd1cafc14a33",
+                    "f0748693-0fa1-579d-b489-25782646b448",
+                    "172e9284-3fd7-578c-b8af-22bc053e49b8",
+                    "ab32fbbf-5836-52dd-a670-3eab2d2a0a2c",
+                    "b19b99c1-7885-58b9-8ff4-c8f1c85c4c8e",
+                    "5657dfb6-f28c-5646-8dd6-b5f4660b1615",
+                    "08f72226-bd68-5345-9203-3577dbaefc00",
+                    "9990fc49-6928-5132-8c6d-2d84556df94c",
+                    "33346b10-47ab-5546-873b-af1e1cf8c484"
+                ],
+                "subtitle": "",
+                "title": "Hot Drinks",
+                "uuid": "ce94525b-9b47-591f-95cc-4844236e90da",
+                "displayType": null
+            },
+            "ade47693-2134-5e10-ba36-c3595c541127": {
+                "itemUuids": [
+                    "e79f4d1f-e0b4-5c6d-90ec-97cb46c692cf",
+                    "9bcfcbb9-91f7-512e-bca5-726d4f9d2b27",
+                    "a4d387ee-de6f-53d4-b805-96fb4f55a606",
+                    "159c5897-e324-5060-bc3f-4249135f179c",
+                    "89a5f5ee-9543-5715-b0e4-0a3f2aedcf66",
+                    "1bc20ac5-2e76-5e54-98db-3cf9718e57fa",
+                    "bfe5a175-29eb-5885-98ba-01fdb6b9802b",
+                    "d9853337-cd3e-54c7-8c36-f71fcb238fce",
+                    "f33df02a-1550-5a76-9fc9-548e657326be",
+                    "5fd90ce4-b440-5a6f-ba72-a029b5056381",
+                    "1a1bb252-3e96-56f1-a5e7-7f1130ee8a02",
+                    "dacc6b36-0e25-5af7-afaa-d0fbd46d235a",
+                    "affc56d1-2998-5019-9f52-36d15ba812a0",
+                    "17c0d2e3-4613-48d3-8ca9-161ceb6c284a",
+                    "ee45b439-5aa2-4dd6-a6dd-6afee49fd998",
+                    "f3bebd7f-3c38-48aa-bbf0-70f469bde5d5",
+                    "2e776b5a-b7a6-404c-87f8-fe81e6b522ac"
+                ],
+                "subtitle": "",
+                "title": "Side Pots",
+                "uuid": "ade47693-2134-5e10-ba36-c3595c541127",
+                "displayType": null
+            },
+            "c78e3028-44e3-563a-82b0-38679d5867a0": {
+                "itemUuids": [
+                    "a82672c1-6dd1-5e87-8b1a-1a546845b1a9",
+                    "6250eb8a-3538-5e85-99c9-fec31416862f"
+                ],
+                "subtitle": null,
+                "title": "Salads",
+                "uuid": "c78e3028-44e3-563a-82b0-38679d5867a0",
+                "displayType": null
+            },
+            "bfd0fc01-2b84-538c-8f38-f4a98ee3d870": {
+                "itemUuids": [
+                    "ce020bc7-dab7-50c2-80cb-dd945229b11e",
+                    "c97f5897-5e4c-5501-bf82-b48ff4315856",
+                    "00f5ea4d-cabe-5a77-9f6b-a75c237c4531",
+                    "6286e2c2-a1c5-5ba8-991b-e6c83e8ca277",
+                    "4e9a55b9-a420-52d2-a1ed-27553478eb14",
+                    "46053b4d-c309-5aa3-833d-e8db62e90933",
+                    "1d35025d-86f5-5116-8447-143235955a17"
+                ],
+                "subtitle": "",
+                "title": "Curry and Rice Boxes",
+                "uuid": "bfd0fc01-2b84-538c-8f38-f4a98ee3d870",
+                "displayType": null
+            },
+            "acb60f56-5058-51ab-a626-652fedf8333a": {
+                "itemUuids": [
+                    "a250c09a-9c77-5785-937a-8978f3418a17",
+                    "be8b61f2-bae1-5d31-9540-7b6d257a93cc",
+                    "a666e21f-217b-5091-9cd5-027a1f1da44f",
+                    "d40527fc-d83a-5e9d-8032-5cca1fab98bd",
+                    "3a2e01c5-a3bc-57a0-84b1-eb5cc946a7a9",
+                    "a6f779b0-22cc-5fc7-8d02-c4a2c7b99874",
+                    "18fa3456-3db1-5692-9e36-f7ee7ce9185a",
+                    "c3b3141c-6445-51c3-ac2b-132c82ad0a8e",
+                    "14837f49-1d28-5d0d-bc65-374c268ef7a0",
+                    "6c95ecbb-0c87-5e51-9a31-0595f630b2bd",
+                    "75bf55b8-40ba-5258-a698-267c15200d95",
+                    "34cbf9ce-af9c-59f9-b76d-a4dbfb72684c",
+                    "c7470e2b-d8eb-51fe-84fb-c5d63b9a6f49",
+                    "ef92271f-bae0-51fa-b45f-cdcbabbcc421",
+                    "d135c508-a007-585c-b6b6-9f0a663da44f"
+                ],
+                "subtitle": "",
+                "title": "Cold Drinks",
+                "uuid": "acb60f56-5058-51ab-a626-652fedf8333a",
+                "displayType": null
+            },
+            "86672129-e1cd-536f-b4c6-7160b0def3eb": {
+                "itemUuids": [
+                    "a03cc821-9e14-506d-89e1-782be821b540",
+                    "45bcbc9c-6dac-59a7-b31a-cd71da5a3242",
+                    "1a953dd4-714b-565a-99dd-cd484649a1c3",
+                    "817c2460-84d7-5a19-a9bb-b787405704ae",
+                    "56fb4f1f-9f5e-5943-846b-95a81f6537f7",
+                    "6cc98f52-d91e-5516-ad77-1633914a2afb",
+                    "f2bb3cdc-6020-5394-93d7-6a8b04c1227b",
+                    "7f8140d6-8a24-5ac0-8951-723a53a7e11c"
+                ],
+                "subtitle": null,
+                "title": "Sauce Pots",
+                "uuid": "86672129-e1cd-536f-b4c6-7160b0def3eb",
+                "displayType": null
+            },
+            "e77f1bde-16f5-580b-aa16-273e5db6ef0e": {
+                "itemUuids": [
+                    "4380d05a-cd62-5722-aa89-4846ccaf1d21",
+                    "3e8e7342-3b3d-5972-a832-621b934e2ae6"
+                ],
+                "subtitle": "",
+                "title": "Wraps",
+                "uuid": "e77f1bde-16f5-580b-aa16-273e5db6ef0e",
+                "displayType": null
+            },
+            "9686923f-366f-5912-aafe-acdd35c5bd7d": {
+                "itemUuids": [
+                    "eceebb79-5841-5f2b-bcb5-ae5bd19feeb9",
+                    "1e755942-d0a4-50f0-8402-f95152138bc5",
+                    "57dc70c4-62ce-5925-8dab-fc1700a69679"
+                ],
+                "subtitle": "",
+                "title": "Biryani Boxes",
+                "uuid": "9686923f-366f-5912-aafe-acdd35c5bd7d",
+                "displayType": null
+            },
+            "badadb39-ded0-4531-8a05-faa8d06fc2a9": {
+                "itemUuids": [
+                    "4fdf648e-4ec9-4265-883a-ad79868e72d1",
+                    "41eca95a-c8ca-440a-8844-b32896dca6fd",
+                    "e410f204-4ec5-499d-815d-8059dff8b59d"
+                ],
+                "subtitle": null,
+                "title": "Thali Box",
+                "uuid": "badadb39-ded0-4531-8a05-faa8d06fc2a9",
+                "displayType": null
+            },
+            "a5fee1fe-bdb1-505a-83ae-c721f7fb75e5": {
+                "itemUuids": [
+                    "877e8aae-9a44-5b4a-884b-4d036e8afae7",
+                    "8ae93a16-5ff0-5b39-be25-2beea6c8bf11",
+                    "e0eede59-4289-5b08-b972-72f39498ff3a",
+                    "7e24d2f9-dc25-5a23-a1dc-3a5b2918760a",
+                    "bc0c9249-fb02-5657-8fca-d73aaa93195b",
+                    "74c92ca5-c577-590c-a3dc-91c4a8d7a4eb",
+                    "3af840b3-dcba-43d8-82fa-6babb00beff8"
+                ],
+                "subtitle": null,
+                "title": "Extras",
+                "uuid": "a5fee1fe-bdb1-505a-83ae-c721f7fb75e5",
+                "displayType": null
+            },
+            "9a580563-d8d5-570f-82c1-754e5bee9185": {
+                "itemUuids": [
+                    "f464945e-ea6a-5b99-86f3-a322c1f53071"
+                ],
+                "subtitle": "",
+                "title": "Breakfast Wraps",
+                "uuid": "9a580563-d8d5-570f-82c1-754e5bee9185",
+                "displayType": null
+            }
+        },
+        "title": "Zabardast: The Indian Wrap Company, Waterloo",
+        "uuid": "3a3dbc6d-0901-454e-b7e9-e7a5277d3202",
+        "categories": [
+            "₴",
+            "Індійська",
+            "Халяль"
+        ],
+        "cuisineList": [
+            "Індійська",
+            "Халяль"
+        ],
+        "priceBucket": "₴",
+        "etaRange": {
+            "text": "20–30 min",
+            "iconUrl": ""
+        },
+        "ratingBadge": {
+            "text": "<span><span style=\"font-family: inherit; color: #3a3a48;\">3.9 <img src=\"https://d1a3f4spazzrp4.cloudfront.net/static/images/Star_Black_Eats_3.png\" width=\"14\" height=\"14\" vertical-align=\"middle\"> </span><span style=\"font-family: inherit; color: #757575;\">(42)</span></span>"
+        },
+        "disclaimerBadge": null,
+        "fareBadge": null,
+        "fareInfo": {
+            "serviceFee": 30,
+            "serviceFeeCents": 3000
+        },
+        "promotion": null,
+        "shouldIndex": false,
+        "heroImageUrls": [
+            {
+                "url": "https://d1ralsognjng37.cloudfront.net/327c0dd2-0ded-47a8-8f76-9b47f82653cc",
+                "width": 240
+            },
+            {
+                "url": "https://d1ralsognjng37.cloudfront.net/61f49e15-f274-416c-85c8-b378a426d725",
+                "width": 550
+            },
+            {
+                "url": "https://d1ralsognjng37.cloudfront.net/871de949-1ced-4faa-9b41-da8f13910fe5",
+                "width": 640
+            },
+            {
+                "url": "https://d1ralsognjng37.cloudfront.net/9760b11f-fe1f-4d6a-ab25-b9e6441fb053",
+                "width": 750
+            },
+            {
+                "url": "https://d1ralsognjng37.cloudfront.net/f966f503-a24c-4242-9ea3-e632fe24d4f8",
+                "width": 1080
+            },
+            {
+                "url": "https://d1ralsognjng37.cloudfront.net/3e1f3c10-504f-4311-8687-2d6addc7c633",
+                "width": 2880
+            }
+        ],
+        "isOpen": true,
+        "currencyCode": "GBP",
+        "closedMessage": "Currently unavailable",
+        "location": {
+            "address": "45 York Rd, England SE1 7NJ",
+            "streetAddress": "45 York Rd",
+            "city": "",
+            "country": "GB",
+            "postalCode": "SE1 7NJ",
+            "region": "England",
+            "latitude": 51.5030724,
+            "longitude": -0.1156205
+        },
+        "isDeliveryThirdParty": false,
+        "hours": [
+            {
+                "dayRange": "Sunday",
+                "sectionHours": [
+                    {
+                        "startTime": 600,
+                        "endTime": 630,
+                        "sectionTitle": "Breakfast"
+                    },
+                    {
+                        "startTime": 600,
+                        "endTime": 1230,
+                        "sectionTitle": "Menu"
+                    }
+                ]
+            },
+            {
+                "dayRange": "Monday - Friday",
+                "sectionHours": [
+                    {
+                        "startTime": 540,
+                        "endTime": 630,
+                        "sectionTitle": "Breakfast"
+                    },
+                    {
+                        "startTime": 540,
+                        "endTime": 1230,
+                        "sectionTitle": "Menu"
+                    }
+                ]
+            },
+            {
+                "dayRange": "Saturday",
+                "sectionHours": [
+                    {
+                        "startTime": 600,
+                        "endTime": 630,
+                        "sectionTitle": "Breakfast"
+                    },
+                    {
+                        "startTime": 600,
+                        "endTime": 1230,
+                        "sectionTitle": "Menu"
+                    }
+                ]
+            }
+        ],
+        "disableOrderInstruction": false,
+        "disableCheckoutInstruction": false,
+        "nuggets": [],
+        "isWithinDeliveryRange": false,
+        "slug": "zabardast:-the-indian-wrap-company-waterloo",
+        "citySlug": "london",
+        "phoneNumber": "+442072611624",
+        "metaJson": "{\"@context\":\"http:\\u002F\\u002Fschema.org\",\"@type\":\"Restaurant\",\"@id\":\"https:\\u002F\\u002Fwww.ubereats.com\\u002Fen-UA\\u002Flondon\\u002Ffood-delivery\\u002Fzabardast%3A-the-indian-wrap-company-waterloo\\u002FOj28bQkBRU636eelJ30yAg\\u002F\",\"name\":\"Zabardast: The Indian Wrap Company, Waterloo\",\"priceRange\":\"₴\",\"potentialAction\":{\"@type\":\"OrderAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\\u002F\\u002Fwww.ubereats.com\\u002Fen-UA\\u002Flondon\\u002Ffood-delivery\\u002Fzabardast%3A-the-indian-wrap-company-waterloo\\u002FOj28bQkBRU636eelJ30yAg\\u002F?utm_campaign=order-action&utm_medium=organic\",\"inLanguage\":\"English\",\"actionPlatform\":[\"http:\\u002F\\u002Fschema.org\\u002FDesktopWebPlatform\",\"http:\\u002F\\u002Fschema.org\\u002FMobileWebPlatform\"]},\"deliveryMethod\":[\"http:\\u002F\\u002Fpurl.org\\u002Fgoodrelations\\u002Fv1#DeliveryModeOwnFleet\"]},\"geo\":{\"@type\":\"GeoCoordinates\",\"latitude\":51.5030724,\"longitude\":-0.1156205}}",
+        "promoTrackings": [],
+        "suggestedPromotion": {
+            "text": "",
+            "promotionUuid": ""
+        },
+        "supportedDiningModes": [
+            {
+                "mode": "DELIVERY",
+                "title": "Delivery",
+                "isSelected": true,
+                "isAvailable": true
+            }
+        ],
+        "isPreview": false,
+        "pinnedInfo": null
+    }
+}

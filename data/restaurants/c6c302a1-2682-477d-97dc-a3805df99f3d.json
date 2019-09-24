@@ -1,0 +1,2737 @@
+{
+    "status": "success",
+    "data": {
+        "sectionEntitiesMap": {
+            "d864bd15-94d2-4637-bd24-ea270beadc96": {
+                "9e1aa809-9a05-4ba9-b065-0cbf249e33ab": {
+                    "description": "Mozzarella, tomato sauce, parma ham, rocket salad, and parmesan cheese.   ",
+                    "imageUrl": null,
+                    "price": 1095,
+                    "title": "10'' La Rocchetta Pizza",
+                    "uuid": "9e1aa809-9a05-4ba9-b065-0cbf249e33ab",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "5ea337fc-18b3-4e9b-b12a-21cdfb4b5c72": {
+                    "description": "Tomato, mozzarella, and basil.",
+                    "imageUrl": null,
+                    "price": 795,
+                    "title": "10\" Margarita Pizza",
+                    "uuid": "5ea337fc-18b3-4e9b-b12a-21cdfb4b5c72",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "ac18b2a3-2f7d-4fa4-9991-ee86d6b68b89": {
+                    "description": "Layers of pasta with bolognese sauce, parmesan and béchamel sauce.",
+                    "imageUrl": null,
+                    "price": 649,
+                    "title": "Lasagne Tradizionale",
+                    "uuid": "ac18b2a3-2f7d-4fa4-9991-ee86d6b68b89",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "fd5325fe-3ec0-425d-a941-fc1274311881": {
+                    "description": "BBQ sauce, mozzarella, chicken, bacon, sweet corn, and tomato.         ",
+                    "imageUrl": null,
+                    "price": 1095,
+                    "title": "10\" BBQ Pizza",
+                    "uuid": "fd5325fe-3ec0-425d-a941-fc1274311881",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "7c52de77-ecc1-4bab-b37c-0f4e0065fcf2": {
+                    "description": "Mozzarella, tomato sauce, pepperoni, ham, beef, roasted onion, mushroom, and red pepper.",
+                    "imageUrl": null,
+                    "price": 1195,
+                    "title": "10'' La Parma Special Pizza",
+                    "uuid": "7c52de77-ecc1-4bab-b37c-0f4e0065fcf2",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "98dcd954-030d-44d0-9c68-241d70088a8c": {
+                    "description": "Mozzarella, tomato sauce, roasted onion, mushroom, red pepper, sweetcorn, and olives.",
+                    "imageUrl": null,
+                    "price": 1195,
+                    "title": "13\" Vegetariana Pizza",
+                    "uuid": "98dcd954-030d-44d0-9c68-241d70088a8c",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "02d7463b-a3d9-46c7-8750-babe30428a4d": {
+                    "description": "",
+                    "imageUrl": null,
+                    "price": 295,
+                    "title": "Strawberry Cheese Cake",
+                    "uuid": "02d7463b-a3d9-46c7-8750-babe30428a4d",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "b59a783c-284b-48f9-86e9-bc31845c9eff": {
+                    "description": "",
+                    "imageUrl": null,
+                    "price": 299,
+                    "title": "Potato Wedges",
+                    "uuid": "b59a783c-284b-48f9-86e9-bc31845c9eff",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "03543947-211b-4f72-8b51-f417c101a144": {
+                    "description": "Tomato sauce, mozzarella, Italian ham, beef, pepperoni and salami. ",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/c99a927b-9801-48cf-90b8-39a98d18f059",
+                    "price": 1050,
+                    "title": "13\" Calzone Meat",
+                    "uuid": "03543947-211b-4f72-8b51-f417c101a144",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "9c72bf62-1656-4c1c-bfe0-a640cb81e614": {
+                    "description": "Tomato, mozzarella, sun dried tomatoes, spinach, feta cheese, and red onions. ",
+                    "imageUrl": null,
+                    "price": 1095,
+                    "title": "10'' Californian Pizza",
+                    "uuid": "9c72bf62-1656-4c1c-bfe0-a640cb81e614",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "d9363f01-f4a8-4f67-a24e-73f5ed96c238": {
+                    "description": "Mozzarella, tomato sauce, pepperoni, ham, beef, roasted onion, mushroom, and red pepper.",
+                    "imageUrl": null,
+                    "price": 1495,
+                    "title": "15'' La Parma Special Pizza",
+                    "uuid": "d9363f01-f4a8-4f67-a24e-73f5ed96c238",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "1acc653d-b9e9-4e27-ae7d-2aa2bb228372": {
+                    "description": "",
+                    "imageUrl": null,
+                    "price": 295,
+                    "title": "Tiramisu",
+                    "uuid": "1acc653d-b9e9-4e27-ae7d-2aa2bb228372",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "5a47305c-24a9-45c2-bace-578bba64db9d": {
+                    "description": "Mozzarella, tomato sauce, beef, roasted mushrooms, and green chili.     ",
+                    "imageUrl": null,
+                    "price": 1195,
+                    "title": "13'' Morso Beefy Pizza",
+                    "uuid": "5a47305c-24a9-45c2-bace-578bba64db9d",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "5e3ad85e-1677-4c41-8589-f279d7d45ee5": {
+                    "description": "Bacon and egg in cream sauce with parmesan. ",
+                    "imageUrl": null,
+                    "price": 649,
+                    "title": "Penne Carbonara",
+                    "uuid": "5e3ad85e-1677-4c41-8589-f279d7d45ee5",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "63825164-7e6c-4c93-af29-3d251768f334": {
+                    "description": "1.5 liter.   ",
+                    "imageUrl": null,
+                    "price": 180,
+                    "title": "Bottle of Mineral Water",
+                    "uuid": "63825164-7e6c-4c93-af29-3d251768f334",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "f40a2b67-ccf5-410b-9b2d-b629ada5169e": {
+                    "description": "Tomato sauce, double mozzarella, and double pepperoni.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/e42e0f1b-aefb-4b1b-8ec7-06115632d885",
+                    "price": 1195,
+                    "title": "13'' Doppio Pepperoni Pizza",
+                    "uuid": "f40a2b67-ccf5-410b-9b2d-b629ada5169e",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "c926bf6c-23a5-4350-84cb-dfd97048621d": {
+                    "description": "Tomato, mozzarella, chicken tikka, roasted mushrooms, sweetcorn, and jalapeno peppers.",
+                    "imageUrl": null,
+                    "price": 1195,
+                    "title": "13'' Chicken Tikka Pizza",
+                    "uuid": "c926bf6c-23a5-4350-84cb-dfd97048621d",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "7f8e9046-6838-471f-ad9a-7259ec177a8e": {
+                    "description": "Eight pieces.",
+                    "imageUrl": null,
+                    "price": 399,
+                    "title": "Spicy Chicken Wings",
+                    "uuid": "7f8e9046-6838-471f-ad9a-7259ec177a8e",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "814c5fdc-d564-417f-a3b4-acff3dbfd596": {
+                    "description": "Mozzarella, tomato sauce, artichoke, gorgonzola, parmesan, tomato, and oregano.    ",
+                    "imageUrl": null,
+                    "price": 1195,
+                    "title": "13\" La Parma Pizza",
+                    "uuid": "814c5fdc-d564-417f-a3b4-acff3dbfd596",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "c504c5a6-5fc7-4e38-87e8-06e24a4a5f63": {
+                    "description": "Mozzarella, tomato sauce, artichoke, gorgonzola, parmesan, tomato, and oregano.    ",
+                    "imageUrl": null,
+                    "price": 1095,
+                    "title": "10\" La Parma Pizza",
+                    "uuid": "c504c5a6-5fc7-4e38-87e8-06e24a4a5f63",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "0c245d53-294e-4d56-a468-73e195ed03ee": {
+                    "description": "Tomato, mozzarella, gorgonzola cheese, goat cheese, parmesan cheese, and basil.           ",
+                    "imageUrl": null,
+                    "price": 1345,
+                    "title": "15'' Quattro Formaggi Pizza",
+                    "uuid": "0c245d53-294e-4d56-a468-73e195ed03ee",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "e45ed78e-7874-41f1-af66-470b3449ae65": {
+                    "description": "Mozzarella, tomato sauce, roasted onion, mushroom, red pepper, jalapeno, and green chili.   ",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/56ad44df-11e6-41bb-993d-23751fe881f3",
+                    "price": 1195,
+                    "title": "13\" Vegetarian Piccante Pizza",
+                    "uuid": "e45ed78e-7874-41f1-af66-470b3449ae65",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "f3f4cfa1-be24-4892-a480-135c7079e406": {
+                    "description": "Mozzarella, tomato sauce, spicy salami, smoked ham, artichokes, and boiled eggs.",
+                    "imageUrl": null,
+                    "price": 1195,
+                    "title": "13\" Capricciosa Pizza",
+                    "uuid": "f3f4cfa1-be24-4892-a480-135c7079e406",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "2ef4a838-028a-4280-b126-df1b4bfa4ce7": {
+                    "description": "Mozzarella, tomato sauce, pepperoni, beef, red peppers, and green chilies.      ",
+                    "imageUrl": null,
+                    "price": 1095,
+                    "title": "10'' Mexicana Pizza",
+                    "uuid": "2ef4a838-028a-4280-b126-df1b4bfa4ce7",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "334ca7d1-8642-4000-ae29-e4878f21f56a": {
+                    "description": "Mozzarella, tomato sauce with five toppings of your choice. ",
+                    "imageUrl": null,
+                    "price": 1195,
+                    "title": "10'' Free Choice Pizza",
+                    "uuid": "334ca7d1-8642-4000-ae29-e4878f21f56a",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "7209f8cb-c224-4388-9370-33bca8beb582": {
+                    "description": "Mozzarella, tomato sauce with five toppings of your choice. ",
+                    "imageUrl": null,
+                    "price": 1195,
+                    "title": "10'' Free Choice Pizza",
+                    "uuid": "7209f8cb-c224-4388-9370-33bca8beb582",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "b0e955f1-d1f4-4c04-91f9-3ccfb2659a20": {
+                    "description": "",
+                    "imageUrl": null,
+                    "price": 295,
+                    "title": "Tennessee Toffee Pie",
+                    "uuid": "b0e955f1-d1f4-4c04-91f9-3ccfb2659a20",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "bcc607be-a171-40e3-93f8-d857c4e21506": {
+                    "description": "Mozzarella, garlic sauce, pepperoni, beef, ham, and bacon.",
+                    "imageUrl": null,
+                    "price": 1450,
+                    "title": "15'' Garlic Meat Lovers Pizza",
+                    "uuid": "bcc607be-a171-40e3-93f8-d857c4e21506",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "e5299867-0914-4c0d-9ede-0cbd375a23f9": {
+                    "description": "Tomato, mozzarella, and basil.",
+                    "imageUrl": null,
+                    "price": 895,
+                    "title": "13\" Margarita Pizza",
+                    "uuid": "e5299867-0914-4c0d-9ede-0cbd375a23f9",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "ec4ee912-5ba2-4c53-8ae9-aecf92a20dcc": {
+                    "description": "Mozzarella, tomato sauce, tuna, prawns, anchovies, and chopped tomatoes.",
+                    "imageUrl": null,
+                    "price": 1090,
+                    "title": "10'' Veneto Pizza",
+                    "uuid": "ec4ee912-5ba2-4c53-8ae9-aecf92a20dcc",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "38ec5fad-e6e0-4d44-ae87-de457d68cc0e": {
+                    "description": "Mozzarella, tomato sauce, buffalo mozzarella, cherry tomato, and roasted aubergine. ",
+                    "imageUrl": null,
+                    "price": 1195,
+                    "title": "13'' Ortolana Pizza",
+                    "uuid": "38ec5fad-e6e0-4d44-ae87-de457d68cc0e",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "3e432f3c-792d-4857-a510-c9eb047b3e26": {
+                    "description": "Mozzarella, tomato sauce, spicy salami, smoked ham, artichokes, and boiled eggs.",
+                    "imageUrl": null,
+                    "price": 1095,
+                    "title": "10\" Capricciosa Pizza",
+                    "uuid": "3e432f3c-792d-4857-a510-c9eb047b3e26",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "260e846f-3ed3-4738-a277-b1533dda98be": {
+                    "description": "Avocado, buffalo mozzarella, cherry tomatoes, marinated olives, and pesto dressing.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/a4f7d591-da44-4be3-97b2-1c41f91da403",
+                    "price": 549,
+                    "title": "Tricolore",
+                    "uuid": "260e846f-3ed3-4738-a277-b1533dda98be",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "097aefbc-a3e7-4f82-bd6d-0ab08cb14c74": {
+                    "description": "Mozzarella, tomato sauce, beef, roasted mushrooms, and green chili.     ",
+                    "imageUrl": null,
+                    "price": 1095,
+                    "title": "10'' Morso Beefy Pizza",
+                    "uuid": "097aefbc-a3e7-4f82-bd6d-0ab08cb14c74",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "455b2083-fc04-4c1f-a8c6-ed87d84018f2": {
+                    "description": "Tomato, mozzarella, chicken tikka, roasted mushrooms, sweetcorn, and jalapeno peppers.",
+                    "imageUrl": null,
+                    "price": 1095,
+                    "title": "10'' Chicken Tikka Pizza",
+                    "uuid": "455b2083-fc04-4c1f-a8c6-ed87d84018f2",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "78916cc0-2c22-4fc5-ae9e-cc52846bf84d": {
+                    "description": "Mozzarella, tomato sauce, ham, pepperoni, salami and spicy pork.",
+                    "imageUrl": null,
+                    "price": 1195,
+                    "title": "13\" Messina Pizza",
+                    "uuid": "78916cc0-2c22-4fc5-ae9e-cc52846bf84d",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "48d3fbed-144e-4386-9093-596fb2453c91": {
+                    "description": "Italian bacon, basil, and tomato sauce.     ",
+                    "imageUrl": null,
+                    "price": 799,
+                    "title": "La Parma Pasta",
+                    "uuid": "48d3fbed-144e-4386-9093-596fb2453c91",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "d4d23562-0a6f-429b-8dff-93aded881650": {
+                    "description": "",
+                    "imageUrl": null,
+                    "price": 295,
+                    "title": "Chocolate Fudge Cake",
+                    "uuid": "d4d23562-0a6f-429b-8dff-93aded881650",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "824e5e42-7ac5-4f7e-8830-1aa81145e340": {
+                    "description": "Mozzarella, tomato sauce, roasted onion, mushroom, red pepper, jalapeno, and green chili.   ",
+                    "imageUrl": null,
+                    "price": 1095,
+                    "title": "10\" Vegetarian Piccante Pizza",
+                    "uuid": "824e5e42-7ac5-4f7e-8830-1aa81145e340",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "9e10c4f5-5665-4cb8-837a-36613b450a9d": {
+                    "description": "Tomato, herbs, and meat sauce with Italian spaghetti.",
+                    "imageUrl": null,
+                    "price": 649,
+                    "title": "Spaghetti Bolognese",
+                    "uuid": "9e10c4f5-5665-4cb8-837a-36613b450a9d",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "f1fb7d94-4b67-44a0-aef8-c31e4be3355c": {
+                    "description": "Pizza dough topped with mozzarella, cherry tomato, garlic, basil, and olive oil. \n",
+                    "imageUrl": null,
+                    "price": 599,
+                    "title": "Bruschetta",
+                    "uuid": "f1fb7d94-4b67-44a0-aef8-c31e4be3355c",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "dc70cbb3-07a8-4f3d-8e21-570a94cb5f91": {
+                    "description": "Mozzarella, tomato sauce, roasted aubergine, onion, courgette, mushroom, and oregano.  ",
+                    "imageUrl": null,
+                    "price": 1095,
+                    "title": "10\" Funghi Pizza",
+                    "uuid": "dc70cbb3-07a8-4f3d-8e21-570a94cb5f91",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "4265c43f-f944-4ec7-98f6-58757f7d81ae": {
+                    "description": "Tomato, mozzarella, sun dried tomatoes, spinach, feta cheese, and red onions. ",
+                    "imageUrl": null,
+                    "price": 1345,
+                    "title": "15'' Californian Pizza",
+                    "uuid": "4265c43f-f944-4ec7-98f6-58757f7d81ae",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "e053e069-3edb-42f9-979b-668952aeb11a": {
+                    "description": "",
+                    "imageUrl": null,
+                    "price": 399,
+                    "title": "Garlic Bread",
+                    "uuid": "e053e069-3edb-42f9-979b-668952aeb11a",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "08bbe5d2-b59e-4c29-a58a-c618ac3f9b1e": {
+                    "description": "Vine tomatoes, red onions, cucumber, marinated green olives, and black olives.",
+                    "imageUrl": null,
+                    "price": 399,
+                    "title": "Organic Salad",
+                    "uuid": "08bbe5d2-b59e-4c29-a58a-c618ac3f9b1e",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "df98903b-efac-4f01-b917-fe1b770fc227": {
+                    "description": "Mozzarella, tomato sauce, parma ham, rocket salad, and parmesan cheese.   ",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/00bfdd2c-b936-4e43-a4ed-303f14f5d14c",
+                    "price": 1195,
+                    "title": "13'' La Rocchetta Pizza",
+                    "uuid": "df98903b-efac-4f01-b917-fe1b770fc227",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "f7a5bf96-abfd-487d-bde0-e903f92a6619": {
+                    "description": "Mozzarella, tomato sauce, smoked ham, and mushrooms. ",
+                    "imageUrl": null,
+                    "price": 1195,
+                    "title": "15\" Prosciutto e Funghi Pizza",
+                    "uuid": "f7a5bf96-abfd-487d-bde0-e903f92a6619",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "ebcfbaee-390a-4a65-ae31-fcb92c016c55": {
+                    "description": "",
+                    "imageUrl": null,
+                    "price": 49,
+                    "title": "Dips",
+                    "uuid": "ebcfbaee-390a-4a65-ae31-fcb92c016c55",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "f1bdb508-1090-4ae7-be50-312b33d1b1fb": {
+                    "description": "Eight pieces with a choice of dip.  ",
+                    "imageUrl": null,
+                    "price": 449,
+                    "title": "Jalapeno Cream Cheese",
+                    "uuid": "f1bdb508-1090-4ae7-be50-312b33d1b1fb",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "f946f491-99bf-445f-abe4-d967599b52b1": {
+                    "description": "Contains 100% pure pressed fruit and 1 of your 5 a day.",
+                    "imageUrl": null,
+                    "price": 299,
+                    "title": "Tropicana Original Orange Juice 950ml",
+                    "uuid": "f946f491-99bf-445f-abe4-d967599b52b1",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "f6fb0ee6-81fd-4653-8b4f-e9f607c65ae9": {
+                    "description": "Mozzarella, tomato sauce with five toppings of your choice. ",
+                    "imageUrl": null,
+                    "price": 1495,
+                    "title": "15'' Free Choice Pizza",
+                    "uuid": "f6fb0ee6-81fd-4653-8b4f-e9f607c65ae9",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "34455259-ddc1-4821-a23d-b0c84315e716": {
+                    "description": "Tomato sauce, mozzarella, roasted aubergine, roasted mushrooms, roasted red peppers,\nroasted onions, and jalapeno peppers. ",
+                    "imageUrl": null,
+                    "price": 850,
+                    "title": "10'' Calzone Vegetariano",
+                    "uuid": "34455259-ddc1-4821-a23d-b0c84315e716",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "f09b724c-4262-4007-b0f6-03a7ee8d64e1": {
+                    "description": "Mozzarella, tomato sauce, artichoke, gorgonzola, parmesan, tomato, and oregano.    ",
+                    "imageUrl": null,
+                    "price": 1345,
+                    "title": "15\" La Parma Pizza",
+                    "uuid": "f09b724c-4262-4007-b0f6-03a7ee8d64e1",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "5b2c869e-4c80-47de-9767-a462958c3240": {
+                    "description": "Tomato sauce, mozzarella, roasted aubergine, roasted mushrooms, roasted red peppers, roasted onions, and jalapeno peppers.    ",
+                    "imageUrl": null,
+                    "price": 950,
+                    "title": "13\" Calzone Vegetariano",
+                    "uuid": "5b2c869e-4c80-47de-9767-a462958c3240",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "8dc92027-5986-4922-a028-62dbc3852288": {
+                    "description": "Black and green marinated olives. Served with buffalo mozzarella.",
+                    "imageUrl": null,
+                    "price": 499,
+                    "title": "Olive Garden",
+                    "uuid": "8dc92027-5986-4922-a028-62dbc3852288",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "f2561d6b-74f3-4e6d-a64f-7f9e1baab478": {
+                    "description": "Deep fried squid served with lemon and a choice of dip.",
+                    "imageUrl": null,
+                    "price": 499,
+                    "title": "Calamari Fritti",
+                    "uuid": "f2561d6b-74f3-4e6d-a64f-7f9e1baab478",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "75c75f00-73b4-4ce9-9aee-8e6abca9a831": {
+                    "description": "Spicy pepperoni, hot chili, mozzarella, tomato, and roasted red onion.     ",
+                    "imageUrl": null,
+                    "price": 1195,
+                    "title": "13'' Pepperoni Piccante Pizza",
+                    "uuid": "75c75f00-73b4-4ce9-9aee-8e6abca9a831",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "cca68c7a-c7db-41fd-9c25-13a627c361cf": {
+                    "description": "Mozzarella, tomato sauce, buffalo mozzarella, cherry tomato, and roasted aubergine. ",
+                    "imageUrl": null,
+                    "price": 1095,
+                    "title": "10'' Ortolana Pizza",
+                    "uuid": "cca68c7a-c7db-41fd-9c25-13a627c361cf",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "9c97cd8e-60d0-4ddd-b740-cf72674f8180": {
+                    "description": "Mozzarella, tomato sauce, pepperoni, salami,garlic, and green chili.      ",
+                    "imageUrl": null,
+                    "price": 1495,
+                    "title": "15'' Italian Piccante Pizza",
+                    "uuid": "9c97cd8e-60d0-4ddd-b740-cf72674f8180",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "bc2ba326-ed98-494c-99b4-52f517020285": {
+                    "description": "Mozzarella, tomato sauce, roasted onion, mushroom, red pepper, sweetcorn, and olives.",
+                    "imageUrl": null,
+                    "price": 1345,
+                    "title": "13\" Vegetariana Pizza",
+                    "uuid": "bc2ba326-ed98-494c-99b4-52f517020285",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "ee6fe050-02b5-4fea-8beb-29fc10478199": {
+                    "description": "Prawns cooked in garlic butter, cream sauce and black pepper.",
+                    "imageUrl": null,
+                    "price": 649,
+                    "title": "Shrimp Fettuccine",
+                    "uuid": "ee6fe050-02b5-4fea-8beb-29fc10478199",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "338ea6b2-6dfe-49eb-bd48-402734bf649c": {
+                    "description": "",
+                    "imageUrl": null,
+                    "price": 295,
+                    "title": "Coppa Mousse Chocolato",
+                    "uuid": "338ea6b2-6dfe-49eb-bd48-402734bf649c",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "d51a0d6e-155d-4160-92da-3a5a4b05224a": {
+                    "description": "Mozzarella, tomato sauce, buffalo mozzarella, cherry tomato, and roasted aubergine. ",
+                    "imageUrl": null,
+                    "price": 1345,
+                    "title": "15'' Ortolana Pizza",
+                    "uuid": "d51a0d6e-155d-4160-92da-3a5a4b05224a",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "dbe71a82-e1bd-4102-94f8-2af1ac00704f": {
+                    "description": "Mozzarella, tomato sauce, roasted aubergine, onion, courgette, mushroom, and oregano.  ",
+                    "imageUrl": null,
+                    "price": 1195,
+                    "title": "13\" Funghi Pizza",
+                    "uuid": "dbe71a82-e1bd-4102-94f8-2af1ac00704f",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "3a0acfe0-2d2a-4026-8348-7e49dfbda49c": {
+                    "description": "Mozzarella, tomato sauce, calamiri, prawns, and clams. ",
+                    "imageUrl": null,
+                    "price": 1190,
+                    "title": "10'' Seafood Pizza",
+                    "uuid": "3a0acfe0-2d2a-4026-8348-7e49dfbda49c",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "7552e681-510d-4c6a-87d9-c935283b24f1": {
+                    "description": "Mozzarella, tomato sauce, tuna, prawns, anchovies, and chopped tomatoes.",
+                    "imageUrl": null,
+                    "price": 1250,
+                    "title": "13'' Veneto Pizza",
+                    "uuid": "7552e681-510d-4c6a-87d9-c935283b24f1",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "2aceaf15-25ba-4d3e-a39b-908d98c7dc84": {
+                    "description": "Tomato, mozzarella, anchovies, capers, and olives.",
+                    "imageUrl": null,
+                    "price": 1195,
+                    "title": "15\" Napolitana Pizza",
+                    "uuid": "2aceaf15-25ba-4d3e-a39b-908d98c7dc84",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "8c5d0437-6b3c-4c52-a592-e8ac93db09b4": {
+                    "description": "With a choice of dip.",
+                    "imageUrl": null,
+                    "price": 299,
+                    "title": "Potato Twisters Curly Fries",
+                    "uuid": "8c5d0437-6b3c-4c52-a592-e8ac93db09b4",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "25c646a2-da4d-4b3d-b27a-fa7937ae8833": {
+                    "description": "Mozzarella, tomato sauce, smoked ham, and mushrooms. ",
+                    "imageUrl": null,
+                    "price": 1095,
+                    "title": "13\" Prosciutto e Funghi Pizza",
+                    "uuid": "25c646a2-da4d-4b3d-b27a-fa7937ae8833",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "54dc8872-adf1-4b1f-85d5-5bf930b3e5bf": {
+                    "description": "Crispy mixed leaves, feta cheese, marinated olives, cherry tomatoes, cucumber, red peppers, and olive oil dressing.   ",
+                    "imageUrl": null,
+                    "price": 599,
+                    "title": "Greek Salad",
+                    "uuid": "54dc8872-adf1-4b1f-85d5-5bf930b3e5bf",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "9dfdd18d-df23-4d81-af74-0de40c0fe839": {
+                    "description": "Mozzarella, tomato sauce, calamiri, prawns, and clams. ",
+                    "imageUrl": null,
+                    "price": 1290,
+                    "title": "13'' Seafood Pizza",
+                    "uuid": "9dfdd18d-df23-4d81-af74-0de40c0fe839",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "d2a1a3b9-a8f3-4d96-923b-c7d7e4e6afe9": {
+                    "description": "Buffalo mozzarella with pesto dressing and sliced vine tomatoes.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/3a92c6db-514c-4857-9a43-4f40ff0f53bc",
+                    "price": 399,
+                    "title": "Caprese Salad",
+                    "uuid": "d2a1a3b9-a8f3-4d96-923b-c7d7e4e6afe9",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "2c77b9d1-31e1-4bfe-ad0d-5d42dd2d7590": {
+                    "description": "Crispy romaine lettuce, roasted chicken strips, shaved parmesan, and Caesar dressing.   ",
+                    "imageUrl": null,
+                    "price": 499,
+                    "title": "Caesar Salad",
+                    "uuid": "2c77b9d1-31e1-4bfe-ad0d-5d42dd2d7590",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "fe35fd04-6e0d-4866-95be-ca8e7f15fe08": {
+                    "description": "BBQ sauce, mozzarella, chicken, bacon, sweet corn, and tomato.         ",
+                    "imageUrl": null,
+                    "price": 1195,
+                    "title": "13\" BBQ Pizza",
+                    "uuid": "fe35fd04-6e0d-4866-95be-ca8e7f15fe08",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "37333c0b-a4b6-40fa-91a3-1a7283926951": {
+                    "description": "Aubergine rolled with ham, tomato and parmesan topped with tomato sauce and provoloncino then baked in the oven.  Serves four slices.       ",
+                    "imageUrl": null,
+                    "price": 599,
+                    "title": "Involtini Melanzane",
+                    "uuid": "37333c0b-a4b6-40fa-91a3-1a7283926951",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "5247dd0f-cc5b-4a3a-8026-5a444a986535": {
+                    "description": "Bacon and egg in cream sauce with parmesan.  ",
+                    "imageUrl": null,
+                    "price": 649,
+                    "title": "Spaghetti Carbonara",
+                    "uuid": "5247dd0f-cc5b-4a3a-8026-5a444a986535",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "735f6fce-cdac-413f-a87b-c94bfeb596f2": {
+                    "description": "Tomato, mozzarella, sun dried tomatoes, spinach, feta cheese, and red onions. ",
+                    "imageUrl": null,
+                    "price": 1195,
+                    "title": "13'' Californian Pizza",
+                    "uuid": "735f6fce-cdac-413f-a87b-c94bfeb596f2",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "4582b02d-856c-4db9-8ba9-baa486c2d2e8": {
+                    "description": "Half rack.",
+                    "imageUrl": null,
+                    "price": 595,
+                    "title": "BBQ Spare Ribs",
+                    "uuid": "4582b02d-856c-4db9-8ba9-baa486c2d2e8",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "638c2373-2989-4800-9b5d-5aac72f4db7c": {
+                    "description": "Mozzarella, tomato sauce, parma ham, rocket salad, and parmesan cheese.   ",
+                    "imageUrl": null,
+                    "price": 1345,
+                    "title": "15'' La Rocchetta Pizza",
+                    "uuid": "638c2373-2989-4800-9b5d-5aac72f4db7c",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "5637bdad-1355-4567-85b0-61ea6d260fdb": {
+                    "description": "Tomato, mozzarella, gorgonzola cheese, goat cheese, parmesan cheese, and basil.           ",
+                    "imageUrl": null,
+                    "price": 1095,
+                    "title": "10'' Quattro Formaggi Pizza",
+                    "uuid": "5637bdad-1355-4567-85b0-61ea6d260fdb",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "c5e94be2-2915-49a7-a41d-3f9536900708": {
+                    "description": "Mozzarella, tomato sauce, spinach, egg, shavings parmesan cheese, and anchovies.",
+                    "imageUrl": null,
+                    "price": 1345,
+                    "title": "15'' Pizza Roma Pizza",
+                    "uuid": "c5e94be2-2915-49a7-a41d-3f9536900708",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "d7ef53b9-8199-4a9f-969c-5576028ef9b3": {
+                    "description": "Tomato, mozzarella, spicy beef, pepperoni, ham, and grilled chicken.",
+                    "imageUrl": null,
+                    "price": 1495,
+                    "title": "15'' Meat Treat Pizza",
+                    "uuid": "d7ef53b9-8199-4a9f-969c-5576028ef9b3",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "84f53d77-70d1-45a0-9457-32ed5b8f8df5": {
+                    "description": "Mozzarella, tomato sauce, smoky bacon, cherry tomato, black olives, and garlic.        ",
+                    "imageUrl": null,
+                    "price": 1095,
+                    "title": "10\" Pancetta Pizza",
+                    "uuid": "84f53d77-70d1-45a0-9457-32ed5b8f8df5",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "07f4525b-6c9b-4e51-b4f3-bafe11487fe8": {
+                    "description": "",
+                    "imageUrl": null,
+                    "price": 399,
+                    "title": "BBQ Chicken Wings",
+                    "uuid": "07f4525b-6c9b-4e51-b4f3-bafe11487fe8",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "423a32f5-65ab-4bfa-9ba2-68d50385caeb": {
+                    "description": "Mozzarella, tomato sauce, chicken, salami, ham and black olives.    ",
+                    "imageUrl": null,
+                    "price": 1095,
+                    "title": "10'' Tutto Le Carni Pizza",
+                    "uuid": "423a32f5-65ab-4bfa-9ba2-68d50385caeb",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "de074dcc-18a3-48f5-a059-e821dd8f4188": {
+                    "description": "Mozzarella, garlic sauce, pepperoni, beef, ham, and bacon.",
+                    "imageUrl": null,
+                    "price": 1290,
+                    "title": "13'' Garlic Meat Lovers Pizza",
+                    "uuid": "de074dcc-18a3-48f5-a059-e821dd8f4188",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "f2045182-2341-4c68-b077-1fa856e0a59b": {
+                    "description": "Mozzarella, tomato sauce, spinach, egg, shavings parmesan cheese, and anchovies.",
+                    "imageUrl": null,
+                    "price": 1195,
+                    "title": "13'' Pizza Roma Pizza",
+                    "uuid": "f2045182-2341-4c68-b077-1fa856e0a59b",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "3d19e25f-9e5a-462b-9121-e058ada9de5d": {
+                    "description": "Mozzarella, tomato sauce, pepperoni, red pepper, roasted onion, jalapeno, and chopped tomatoes.     ",
+                    "imageUrl": null,
+                    "price": 1345,
+                    "title": "15\" Americana Pizza",
+                    "uuid": "3d19e25f-9e5a-462b-9121-e058ada9de5d",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "ec185c14-709c-4b42-9657-592c923e4d63": {
+                    "description": "Chunks of chicken breast and mushrooms in a cream sauce with a touch of tomato sauce. ",
+                    "imageUrl": null,
+                    "price": 799,
+                    "title": "Penne Con Pollo Funghi",
+                    "uuid": "ec185c14-709c-4b42-9657-592c923e4d63",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "2ba15f33-ca63-47c7-abca-cc3c40a96546": {
+                    "description": "Tomato, mozzarella, chicken tikka, roasted mushrooms, sweetcorn, and jalapeno peppers.",
+                    "imageUrl": null,
+                    "price": 1345,
+                    "title": "15'' Chicken Tikka Pizza",
+                    "uuid": "2ba15f33-ca63-47c7-abca-cc3c40a96546",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "5d181fca-2f2f-43dc-9a60-a3ef2c9d13e1": {
+                    "description": "Spicy pepperoni, hot chili, mozzarella, tomato, and roasted red onion.     ",
+                    "imageUrl": null,
+                    "price": 1345,
+                    "title": "15'' Pepperoni Piccante Pizza",
+                    "uuid": "5d181fca-2f2f-43dc-9a60-a3ef2c9d13e1",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "b79cc76b-bfa0-4dde-8089-fffbbcd592c2": {
+                    "description": "Mozzarella, tomato sauce, pepperoni, beef, red peppers, and green chilies.      ",
+                    "imageUrl": null,
+                    "price": 1345,
+                    "title": "15'' Mexicana Pizza",
+                    "uuid": "b79cc76b-bfa0-4dde-8089-fffbbcd592c2",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "7842d39e-063e-4131-9f0d-f6096f8b149a": {
+                    "description": "Mozzarella, tomato sauce, chicken, salami, ham and black olives.    ",
+                    "imageUrl": null,
+                    "price": 1345,
+                    "title": "15'' Tutto Le Carni Pizza",
+                    "uuid": "7842d39e-063e-4131-9f0d-f6096f8b149a",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "f8b3263f-5880-4c53-be9a-2248b6f3df32": {
+                    "description": "Mozzarella, tomato sauce, smoky bacon, cherry tomato, black olives, and garlic.        ",
+                    "imageUrl": null,
+                    "price": 1345,
+                    "title": "15\" Pancetta Pizza",
+                    "uuid": "f8b3263f-5880-4c53-be9a-2248b6f3df32",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "f23da25d-b81b-48c6-b1e7-e5e1975fb66d": {
+                    "description": "Spicy pepperoni, hot chili, mozzarella, tomato, and roasted red onion.     ",
+                    "imageUrl": null,
+                    "price": 1095,
+                    "title": "10'' Pepperoni Piccante Pizza",
+                    "uuid": "f23da25d-b81b-48c6-b1e7-e5e1975fb66d",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "e8a9efe8-e3f6-4701-88f6-1aa2d4719f32": {
+                    "description": "Mixed leaves, roasted chicken strips, olives, cherry tomatoes, goat cheese croutons, and balsamic vinegar.",
+                    "imageUrl": null,
+                    "price": 599,
+                    "title": "Pollo Salad",
+                    "uuid": "e8a9efe8-e3f6-4701-88f6-1aa2d4719f32",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "d7ab64ad-0ada-4dc4-a554-aa7942001692": {
+                    "description": "Baby rocket, spinach, sun dried tomatoes, pine nuts, shaved parmesan, and balsamic vinegar.   ",
+                    "imageUrl": null,
+                    "price": 549,
+                    "title": "Insalata Verdi",
+                    "uuid": "d7ab64ad-0ada-4dc4-a554-aa7942001692",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "7bfd4b03-8556-48bf-bc79-3a9da5625bda": {
+                    "description": "Mozzarella, tomato sauce, ham, pepperoni, salami and spicy pork.",
+                    "imageUrl": null,
+                    "price": 1345,
+                    "title": "15\" Messina Pizza",
+                    "uuid": "7bfd4b03-8556-48bf-bc79-3a9da5625bda",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "829c538a-eb42-46b1-b089-bf8fb2867949": {
+                    "description": "Mozzarella, tomato sauce, roasted aubergine, onion, courgette, mushroom, and oregano.  ",
+                    "imageUrl": null,
+                    "price": 1345,
+                    "title": "15\" Funghi Pizza",
+                    "uuid": "829c538a-eb42-46b1-b089-bf8fb2867949",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "40bdf3a3-90d6-4731-ac6f-c59ee317d422": {
+                    "description": "Tomato, mozzarella, ham, and pineapple.   ",
+                    "imageUrl": null,
+                    "price": 1095,
+                    "title": "13\" Hawaiian Pizza",
+                    "uuid": "40bdf3a3-90d6-4731-ac6f-c59ee317d422",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "cd347b17-5865-4b1e-99d1-2411a39d2ebe": {
+                    "description": "Mozzarella, tomato sauce, tuna, prawns, anchovies, and chopped tomatoes.",
+                    "imageUrl": null,
+                    "price": 1450,
+                    "title": "15'' Veneto Pizza",
+                    "uuid": "cd347b17-5865-4b1e-99d1-2411a39d2ebe",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "9a73f8b5-af20-438d-9dcd-831142c9845e": {
+                    "description": "Mozzarella, tomato sauce, spinach, egg, shavings parmesan cheese, and anchovies.",
+                    "imageUrl": null,
+                    "price": 1095,
+                    "title": "10'' Pizza Roma Pizza",
+                    "uuid": "9a73f8b5-af20-438d-9dcd-831142c9845e",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "07318689-a293-4918-81ee-b504468ac1ee": {
+                    "description": "Mozzarella, tomato sauce, roasted onion, mushroom, red pepper, sweetcorn, and olives.",
+                    "imageUrl": null,
+                    "price": 1095,
+                    "title": "10\" Vegetariana Pizza",
+                    "uuid": "07318689-a293-4918-81ee-b504468ac1ee",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "46cfac22-0973-4445-8a17-0f1b10a76c6d": {
+                    "description": "330 milliliter. \n  ",
+                    "imageUrl": null,
+                    "price": 80,
+                    "title": "Cans",
+                    "uuid": "46cfac22-0973-4445-8a17-0f1b10a76c6d",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "4de45736-e523-44b1-8111-316b4ee12461": {
+                    "description": "Mozzarella, tomato sauce, pepperoni, ham, beef, roasted onion, mushroom, and red pepper.",
+                    "imageUrl": null,
+                    "price": 1295,
+                    "title": "13'' La Parma Special Pizza",
+                    "uuid": "4de45736-e523-44b1-8111-316b4ee12461",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "c5a7a914-aaad-4707-9b63-df3b9602d982": {
+                    "description": "Tomato, mozzarella, spicy beef, pepperoni, ham, and grilled chicken.",
+                    "imageUrl": null,
+                    "price": 1195,
+                    "title": "10'' Meat Treat Pizza",
+                    "uuid": "c5a7a914-aaad-4707-9b63-df3b9602d982",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "5458eb25-c2ef-4639-be0c-2567522ec576": {
+                    "description": "Mozzarella, tomato sauce, pepperoni, red pepper, roasted onion, jalapeno, and chopped tomatoes.     ",
+                    "imageUrl": null,
+                    "price": 1195,
+                    "title": "13\" Americana Pizza",
+                    "uuid": "5458eb25-c2ef-4639-be0c-2567522ec576",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "ed3b62d5-c91f-4055-ad9a-1c7cd587f4cd": {
+                    "description": "Tomato, mozzarella, spicy beef, pepperoni, ham, and grilled chicken.",
+                    "imageUrl": null,
+                    "price": 1295,
+                    "title": "13'' Meat Treat Pizza",
+                    "uuid": "ed3b62d5-c91f-4055-ad9a-1c7cd587f4cd",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "f0524564-e181-47c2-8ed5-d929e443a714": {
+                    "description": "Ten pieces.",
+                    "imageUrl": null,
+                    "price": 299,
+                    "title": "Onion Rings",
+                    "uuid": "f0524564-e181-47c2-8ed5-d929e443a714",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "381e54f4-9c6c-44e3-b543-2d9e38f22188": {
+                    "description": "Tomato, mozzarella, anchovies, capers, and olives.",
+                    "imageUrl": null,
+                    "price": 995,
+                    "title": "10\" Napolitana Pizza",
+                    "uuid": "381e54f4-9c6c-44e3-b543-2d9e38f22188",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "eeed1465-8997-48d6-86f6-1fbe1de11ddf": {
+                    "description": "BBQ sauce, mozzarella, chicken, bacon, sweet corn, and tomato.         ",
+                    "imageUrl": null,
+                    "price": 1345,
+                    "title": "15\" BBQ Pizza",
+                    "uuid": "eeed1465-8997-48d6-86f6-1fbe1de11ddf",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "90a71954-e755-4e5e-9cdd-f1dd7b59189b": {
+                    "description": "Mozzarella, garlic sauce, pepperoni, beef, ham, and bacon.",
+                    "imageUrl": null,
+                    "price": 1190,
+                    "title": "10'' Garlic Meat Lovers Pizza",
+                    "uuid": "90a71954-e755-4e5e-9cdd-f1dd7b59189b",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "062ec7e4-8443-46c5-bc54-6b3d3ff46366": {
+                    "description": "Tomato, mozzarella, anchovies, capers, and olives.",
+                    "imageUrl": null,
+                    "price": 1095,
+                    "title": "13\" Napolitana Pizza",
+                    "uuid": "062ec7e4-8443-46c5-bc54-6b3d3ff46366",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "3bac9e84-f427-4896-b8c1-9b2d550bd6cb": {
+                    "description": "Chillies and garlic in spicy tomato sauce.",
+                    "imageUrl": null,
+                    "price": 649,
+                    "title": "Penne Arrabbiata",
+                    "uuid": "3bac9e84-f427-4896-b8c1-9b2d550bd6cb",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "09c164b2-4b35-46fd-a5e1-6f1c28840502": {
+                    "description": "Porcini mushrooms, garlic, parsley, black peppers, and whipping cream with white wine.  ",
+                    "imageUrl": null,
+                    "price": 699,
+                    "title": "La Porcini Pasta",
+                    "uuid": "09c164b2-4b35-46fd-a5e1-6f1c28840502",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "e640dadb-8f35-424d-9b49-eaddcad8278b": {
+                    "description": "Mozzarella, tomato sauce, pepperoni, salami,garlic, and green chili.      ",
+                    "imageUrl": null,
+                    "price": 1295,
+                    "title": "13'' Italian Piccante Pizza",
+                    "uuid": "e640dadb-8f35-424d-9b49-eaddcad8278b",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "5e10d9b6-0428-4868-a58e-b26888fee03c": {
+                    "description": "Mozzarella, tomato sauce, smoked ham, and mushrooms. ",
+                    "imageUrl": null,
+                    "price": 995,
+                    "title": "10\" Prosciutto e Funghi Pizza",
+                    "uuid": "5e10d9b6-0428-4868-a58e-b26888fee03c",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "2a53d9e4-545d-4bc4-a1b0-a83ae1966f10": {
+                    "description": "Cotto ham, spicy pepperoni, mushroom, artichoke, mozzarella, and tomato sauce.",
+                    "imageUrl": null,
+                    "price": 1495,
+                    "title": "15'' Quattro Stagioni Pizza",
+                    "uuid": "2a53d9e4-545d-4bc4-a1b0-a83ae1966f10",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "313a84d8-8b03-411f-b44e-f445a844d2d1": {
+                    "description": "Mozzarella, tomato sauce, roasted onion, mushroom, red pepper, jalapeno, and green chili.   ",
+                    "imageUrl": null,
+                    "price": 1345,
+                    "title": "15\" Vegetarian Piccante Pizza",
+                    "uuid": "313a84d8-8b03-411f-b44e-f445a844d2d1",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "97c1ea19-1ce9-4c57-9575-68e55a054bd6": {
+                    "description": "Tomato, herbs, and meat sauce with Italian penne.",
+                    "imageUrl": null,
+                    "price": 649,
+                    "title": "Penne Bolognese",
+                    "uuid": "97c1ea19-1ce9-4c57-9575-68e55a054bd6",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "e12c0a39-bb9c-43db-84ea-e6295eebfa3e": {
+                    "description": "Mozzarella, tomato sauce, pepperoni, beef, red peppers, and green chilies.      ",
+                    "imageUrl": null,
+                    "price": 1195,
+                    "title": "13'' Mexicana Pizza",
+                    "uuid": "e12c0a39-bb9c-43db-84ea-e6295eebfa3e",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "3a8e36ad-6700-4e1b-a74f-644b63460134": {
+                    "description": "Tomato sauce, mozzarella, Italian ham, beef, pepperoni and salami.      ",
+                    "imageUrl": null,
+                    "price": 950,
+                    "title": "10\" Calzone Meat",
+                    "uuid": "3a8e36ad-6700-4e1b-a74f-644b63460134",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "50392cdd-45dc-4bef-874e-90fba9e54736": {
+                    "description": "Aubergine rolled with goat cheese, tomato and parmesan topped with tomato sauce and provoloncino then baked in the oven.    ",
+                    "imageUrl": null,
+                    "price": 599,
+                    "title": "Involtini di Vegetariani",
+                    "uuid": "50392cdd-45dc-4bef-874e-90fba9e54736",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "55fce398-a7e3-4878-8344-e4c6082b26fc": {
+                    "description": "Strips of the breaded chicken breast. Served with a choice of dip.    ",
+                    "imageUrl": null,
+                    "price": 499,
+                    "title": "Chicken Strips",
+                    "uuid": "55fce398-a7e3-4878-8344-e4c6082b26fc",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "d7581020-132f-4523-9cd3-738beb522f51": {
+                    "description": "Tomato, mozzarella, and basil.",
+                    "imageUrl": null,
+                    "price": 1045,
+                    "title": "15\" Margarita Pizza",
+                    "uuid": "d7581020-132f-4523-9cd3-738beb522f51",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "3878d93e-fdf6-467f-a349-b0f5f25d8b74": {
+                    "description": "Selection of mixed seafood, mixed leaves, tomatoes, onion, and cucumber.  ",
+                    "imageUrl": null,
+                    "price": 599,
+                    "title": "Mixed Seafood Salad",
+                    "uuid": "3878d93e-fdf6-467f-a349-b0f5f25d8b74",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "cfb026f1-8a44-4157-beef-faf385cf4e5c": {
+                    "description": "Mozzarella, tomato sauce, beef, roasted mushrooms, and green chili.     ",
+                    "imageUrl": null,
+                    "price": 1345,
+                    "title": "15'' Morso Beefy Pizza",
+                    "uuid": "cfb026f1-8a44-4157-beef-faf385cf4e5c",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "2c996df0-ddc1-4360-b6de-4ec1350a4c78": {
+                    "description": "Mozzarella, tomato sauce with five toppings of your choice. ",
+                    "imageUrl": null,
+                    "price": 1295,
+                    "title": "13'' Free Choice Pizza",
+                    "uuid": "2c996df0-ddc1-4360-b6de-4ec1350a4c78",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "216c839b-5c30-4563-a7ce-175e262f581f": {
+                    "description": "Mozzarella, tomato sauce, calamiri, prawns, and clams. ",
+                    "imageUrl": null,
+                    "price": 1450,
+                    "title": "15'' Seafood Pizza",
+                    "uuid": "216c839b-5c30-4563-a7ce-175e262f581f",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "295d5f29-72bf-4555-b84d-7a8999d511ed": {
+                    "description": "Tomato, mozzarella, ham, and pineapple.   ",
+                    "imageUrl": null,
+                    "price": 995,
+                    "title": "10\" Hawaiian Pizza",
+                    "uuid": "295d5f29-72bf-4555-b84d-7a8999d511ed",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "770323b4-f115-4d13-8f8d-124f0e541c53": {
+                    "description": "",
+                    "imageUrl": null,
+                    "price": 295,
+                    "title": "Coppa Profiteroles",
+                    "uuid": "770323b4-f115-4d13-8f8d-124f0e541c53",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "f9cf5238-b6af-4365-a19a-1cf7640564ac": {
+                    "description": "Wild rocket, parmesan shavings, and balsamic vinegar.",
+                    "imageUrl": null,
+                    "price": 399,
+                    "title": "Rocket and Parmesan Salad",
+                    "uuid": "f9cf5238-b6af-4365-a19a-1cf7640564ac",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "c0ba5107-b16e-46ad-8654-5d932b345ada": {
+                    "description": "Mozzarella, tomato sauce, chicken, salami, ham and black olives.    ",
+                    "imageUrl": null,
+                    "price": 1195,
+                    "title": "13'' Tutto Le Carni Pizza",
+                    "uuid": "c0ba5107-b16e-46ad-8654-5d932b345ada",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "27717321-e999-4de7-9d65-8be5795183a8": {
+                    "description": "Serves eight pieces with a choice of dip. ",
+                    "imageUrl": null,
+                    "price": 449,
+                    "title": "Breaded Mozzarella Sticks",
+                    "uuid": "27717321-e999-4de7-9d65-8be5795183a8",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "6a1b9dd3-f151-4e31-8572-3eb1bc301876": {
+                    "description": "Mozzarella, tomato sauce, pepperoni, red pepper, roasted onion, jalapeno, and chopped tomatoes.     ",
+                    "imageUrl": null,
+                    "price": 1095,
+                    "title": "10\" Americana Pizza",
+                    "uuid": "6a1b9dd3-f151-4e31-8572-3eb1bc301876",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "bb6c79e8-a0fa-4402-9fa2-fe38eb386af2": {
+                    "description": "Tomato sauce, double mozzarella, and double pepperoni.",
+                    "imageUrl": null,
+                    "price": 1345,
+                    "title": "15'' Doppio Pepperoni Pizza",
+                    "uuid": "bb6c79e8-a0fa-4402-9fa2-fe38eb386af2",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "d2756df7-419f-4be9-ac1c-74816fdb04aa": {
+                    "description": "Tomato sauce, double mozzarella, and double pepperoni.",
+                    "imageUrl": null,
+                    "price": 1095,
+                    "title": "10'' Doppio Pepperoni Pizza",
+                    "uuid": "d2756df7-419f-4be9-ac1c-74816fdb04aa",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "f0d52d14-c6f1-4399-bc07-5b443705fb54": {
+                    "description": "1.5 liter.",
+                    "imageUrl": null,
+                    "price": 180,
+                    "title": "Bottles",
+                    "uuid": "f0d52d14-c6f1-4399-bc07-5b443705fb54",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "8da4adaf-3035-4b9b-969b-4e96f24e3b58": {
+                    "description": "Mozzarella, tomato sauce, smoky bacon, cherry tomato, black olives, and garlic.        ",
+                    "imageUrl": null,
+                    "price": 1195,
+                    "title": "13\" Pancetta Pizza",
+                    "uuid": "8da4adaf-3035-4b9b-969b-4e96f24e3b58",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "02969621-0065-4c18-a13a-efb38e4b8b7e": {
+                    "description": "Cotto ham, spicy pepperoni, mushroom, artichoke, mozzarella, and tomato sauce.",
+                    "imageUrl": null,
+                    "price": 1295,
+                    "title": "13'' Quattro Stagioni Pizza",
+                    "uuid": "02969621-0065-4c18-a13a-efb38e4b8b7e",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "931dadec-efa1-4543-9fd7-b26b7ea8166d": {
+                    "description": "Serves five pieces with cheese.",
+                    "imageUrl": null,
+                    "price": 495,
+                    "title": "Potato Skins",
+                    "uuid": "931dadec-efa1-4543-9fd7-b26b7ea8166d",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "25ec1033-b271-4425-8c6e-2bd993179fd8": {
+                    "description": "With a choice of dip.",
+                    "imageUrl": null,
+                    "price": 199,
+                    "title": "French Fries",
+                    "uuid": "25ec1033-b271-4425-8c6e-2bd993179fd8",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "3c812fa5-0408-406d-9372-7e7340b8253d": {
+                    "description": "Mozzarella, tomato sauce, ham, pepperoni, salami and spicy pork.",
+                    "imageUrl": null,
+                    "price": 1095,
+                    "title": "10\" Messina Pizza",
+                    "uuid": "3c812fa5-0408-406d-9372-7e7340b8253d",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "94012649-78a8-45af-aa24-b72f87ce797a": {
+                    "description": "Tomato, mozzarella, gorgonzola cheese, goat cheese, parmesan cheese, and basil.           ",
+                    "imageUrl": null,
+                    "price": 1195,
+                    "title": "13'' Quattro Formaggi Pizza",
+                    "uuid": "94012649-78a8-45af-aa24-b72f87ce797a",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "a705f033-acc9-4b85-b031-5b02d9b7917b": {
+                    "description": "Tomato, mozzarella, ham, and pineapple.   ",
+                    "imageUrl": null,
+                    "price": 1195,
+                    "title": "15\" Hawaiian Pizza",
+                    "uuid": "a705f033-acc9-4b85-b031-5b02d9b7917b",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "b80434b8-11e3-4c55-b034-3ab93a6ec619": {
+                    "description": "Crispy mixed leaves, cherry tomatoes, marinated olives, red peppers, cucumber and balsamic vinegar.  ",
+                    "imageUrl": null,
+                    "price": 399,
+                    "title": "Insalata Mista Salad",
+                    "uuid": "b80434b8-11e3-4c55-b034-3ab93a6ec619",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "6e461ca3-4009-4ab8-83fa-02562cc2606c": {
+                    "description": "Mozzarella, tomato sauce, pepperoni, salami,garlic, and green chili.      ",
+                    "imageUrl": null,
+                    "price": 1195,
+                    "title": "10'' Italian Piccante Pizza",
+                    "uuid": "6e461ca3-4009-4ab8-83fa-02562cc2606c",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "9a341130-25fc-40d2-b808-858847a2d56c": {
+                    "description": "Mozzarella, tomato sauce, spicy salami, smoked ham, artichokes, and boiled eggs.",
+                    "imageUrl": null,
+                    "price": 1345,
+                    "title": "15\" Capricciosa Pizza",
+                    "uuid": "9a341130-25fc-40d2-b808-858847a2d56c",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "e716f498-508d-4db7-8e3d-92fd866e19fa": {
+                    "description": "Tomato sauce, buffalo mozzarella, cherry tomatoes, garlic, parsley, capers, red peppers, and olive oil.       ",
+                    "imageUrl": null,
+                    "price": 799,
+                    "title": "Fusilli Alla Mediterranea",
+                    "uuid": "e716f498-508d-4db7-8e3d-92fd866e19fa",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                }
+            },
+            "e292f193-3b30-42a1-a48f-450f7f77f66f": {
+                "c296cb89-41e8-41b3-a726-4728f3e9c87c": {
+                    "description": "Any fifteen inch pizza with one potato wedges and two cans of drink. ",
+                    "imageUrl": null,
+                    "price": 1299,
+                    "title": "Deal 2",
+                    "uuid": "c296cb89-41e8-41b3-a726-4728f3e9c87c",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "6196c7ed-9671-4ff5-b73c-34010cd6bc96": {
+                    "description": "Any thirteen inch pizza with one garlic bread and a can of drink. ",
+                    "imageUrl": null,
+                    "price": 1199,
+                    "title": "Deal 1",
+                    "uuid": "6196c7ed-9671-4ff5-b73c-34010cd6bc96",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "75d6739d-f575-451e-abec-94b6bff763eb": {
+                    "description": "Serves three fifteen inch pizzas.",
+                    "imageUrl": null,
+                    "price": 2795,
+                    "title": "La Parma Special 2",
+                    "uuid": "75d6739d-f575-451e-abec-94b6bff763eb",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "f651d23c-c8b5-4076-bf43-81b765727b9d": {
+                    "description": "Serves three thirteen inch pizzas.",
+                    "imageUrl": null,
+                    "price": 2495,
+                    "title": "La Parma Deal 2",
+                    "uuid": "f651d23c-c8b5-4076-bf43-81b765727b9d",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "0214fc29-89b4-4d60-83d3-953caba7ce2d": {
+                    "description": "Serves three ten inch pizzas.",
+                    "imageUrl": null,
+                    "price": 2195,
+                    "title": "Italian Deal 2",
+                    "uuid": "0214fc29-89b4-4d60-83d3-953caba7ce2d",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "f09a2056-4c22-4df8-b163-20253af95a68": {
+                    "description": "Serves two fifteen inch pizzas.",
+                    "imageUrl": null,
+                    "price": 1995,
+                    "title": "La Parma Special 1",
+                    "uuid": "f09a2056-4c22-4df8-b163-20253af95a68",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "35de55bc-e11e-4c95-a971-93876ebfc831": {
+                    "description": "Serves two thirteen inch pizzas.",
+                    "imageUrl": null,
+                    "price": 1795,
+                    "title": "La Parma Deal 1",
+                    "uuid": "35de55bc-e11e-4c95-a971-93876ebfc831",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "3e08bff1-3452-4e65-bd98-a13ca8edd524": {
+                    "description": "Serves two ten inch pizzas.",
+                    "imageUrl": null,
+                    "price": 1595,
+                    "title": "Italian Deal 1",
+                    "uuid": "3e08bff1-3452-4e65-bd98-a13ca8edd524",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                }
+            }
+        },
+        "sections": [
+            {
+                "subsectionUuids": [
+                    "d21e3625-0c94-4ad3-8a6f-99e15e0b120c",
+                    "6fc60416-0577-466b-8eaf-8c33afbd7701",
+                    "e213992e-5b21-4d90-a239-d37726edfe7d",
+                    "c618a929-3a7a-40df-bd2f-0c599277a998",
+                    "99003308-32c5-43c7-8dfc-f461026eea62",
+                    "9befc96b-c9dc-44c1-8343-62f762555b38",
+                    "f957c51c-6649-43cd-b9e3-ada9d34e2cd8",
+                    "d953b8bc-4911-4c0e-bd72-68adb535074e",
+                    "45b4c555-4e4f-4749-adfe-53dbaf1fc120",
+                    "6b613217-6095-4a26-896f-c9349c5c205d",
+                    "7df3b5e7-fe2e-4490-a78b-7b4684453168"
+                ],
+                "title": "Menu",
+                "subtitle": "11:00 AM – 11:59 PM",
+                "uuid": "d864bd15-94d2-4637-bd24-ea270beadc96",
+                "isTop": true,
+                "isOnSale": true
+            },
+            {
+                "subsectionUuids": [
+                    "4aeffaf6-ed11-459c-85da-fab4de37f54b",
+                    "d1e29833-e797-44ca-83b3-2d9f498a4385"
+                ],
+                "title": "Lunch Menu",
+                "subtitle": "Mon 11:00 AM – 4:00 PM",
+                "uuid": "e292f193-3b30-42a1-a48f-450f7f77f66f",
+                "isTop": false,
+                "isOnSale": false
+            }
+        ],
+        "subsectionsMap": {
+            "45b4c555-4e4f-4749-adfe-53dbaf1fc120": {
+                "itemUuids": [
+                    "f9cf5238-b6af-4365-a19a-1cf7640564ac",
+                    "d2a1a3b9-a8f3-4d96-923b-c7d7e4e6afe9",
+                    "08bbe5d2-b59e-4c29-a58a-c618ac3f9b1e",
+                    "b80434b8-11e3-4c55-b034-3ab93a6ec619"
+                ],
+                "subtitle": null,
+                "title": "Side Salads",
+                "uuid": "45b4c555-4e4f-4749-adfe-53dbaf1fc120",
+                "displayType": null
+            },
+            "6fc60416-0577-466b-8eaf-8c33afbd7701": {
+                "itemUuids": [
+                    "7c52de77-ecc1-4bab-b37c-0f4e0065fcf2",
+                    "6e461ca3-4009-4ab8-83fa-02562cc2606c",
+                    "c5a7a914-aaad-4707-9b63-df3b9602d982",
+                    "7209f8cb-c224-4388-9370-33bca8beb582",
+                    "334ca7d1-8642-4000-ae29-e4878f21f56a",
+                    "90a71954-e755-4e5e-9cdd-f1dd7b59189b",
+                    "3a0acfe0-2d2a-4026-8348-7e49dfbda49c",
+                    "07318689-a293-4918-81ee-b504468ac1ee",
+                    "dc70cbb3-07a8-4f3d-8e21-570a94cb5f91",
+                    "824e5e42-7ac5-4f7e-8830-1aa81145e340",
+                    "c504c5a6-5fc7-4e38-87e8-06e24a4a5f63",
+                    "6a1b9dd3-f151-4e31-8572-3eb1bc301876",
+                    "3c812fa5-0408-406d-9372-7e7340b8253d",
+                    "3e432f3c-792d-4857-a510-c9eb047b3e26",
+                    "fd5325fe-3ec0-425d-a941-fc1274311881",
+                    "84f53d77-70d1-45a0-9457-32ed5b8f8df5",
+                    "9a73f8b5-af20-438d-9dcd-831142c9845e",
+                    "2ef4a838-028a-4280-b126-df1b4bfa4ce7",
+                    "cca68c7a-c7db-41fd-9c25-13a627c361cf",
+                    "f23da25d-b81b-48c6-b1e7-e5e1975fb66d",
+                    "d2756df7-419f-4be9-ac1c-74816fdb04aa",
+                    "5637bdad-1355-4567-85b0-61ea6d260fdb",
+                    "097aefbc-a3e7-4f82-bd6d-0ab08cb14c74",
+                    "9c72bf62-1656-4c1c-bfe0-a640cb81e614",
+                    "9e1aa809-9a05-4ba9-b065-0cbf249e33ab",
+                    "423a32f5-65ab-4bfa-9ba2-68d50385caeb",
+                    "455b2083-fc04-4c1f-a8c6-ed87d84018f2",
+                    "ec4ee912-5ba2-4c53-8ae9-aecf92a20dcc",
+                    "381e54f4-9c6c-44e3-b543-2d9e38f22188",
+                    "295d5f29-72bf-4555-b84d-7a8999d511ed",
+                    "5e10d9b6-0428-4868-a58e-b26888fee03c",
+                    "5ea337fc-18b3-4e9b-b12a-21cdfb4b5c72"
+                ],
+                "subtitle": null,
+                "title": "10\" Pizza",
+                "uuid": "6fc60416-0577-466b-8eaf-8c33afbd7701",
+                "displayType": null
+            },
+            "c618a929-3a7a-40df-bd2f-0c599277a998": {
+                "itemUuids": [
+                    "d9363f01-f4a8-4f67-a24e-73f5ed96c238",
+                    "2a53d9e4-545d-4bc4-a1b0-a83ae1966f10",
+                    "9c97cd8e-60d0-4ddd-b740-cf72674f8180",
+                    "d7ef53b9-8199-4a9f-969c-5576028ef9b3",
+                    "f6fb0ee6-81fd-4653-8b4f-e9f607c65ae9",
+                    "bcc607be-a171-40e3-93f8-d857c4e21506",
+                    "216c839b-5c30-4563-a7ce-175e262f581f",
+                    "cd347b17-5865-4b1e-99d1-2411a39d2ebe",
+                    "bc2ba326-ed98-494c-99b4-52f517020285",
+                    "829c538a-eb42-46b1-b089-bf8fb2867949",
+                    "313a84d8-8b03-411f-b44e-f445a844d2d1",
+                    "f09b724c-4262-4007-b0f6-03a7ee8d64e1",
+                    "3d19e25f-9e5a-462b-9121-e058ada9de5d",
+                    "7bfd4b03-8556-48bf-bc79-3a9da5625bda",
+                    "9a341130-25fc-40d2-b808-858847a2d56c",
+                    "eeed1465-8997-48d6-86f6-1fbe1de11ddf",
+                    "f8b3263f-5880-4c53-be9a-2248b6f3df32",
+                    "c5e94be2-2915-49a7-a41d-3f9536900708",
+                    "b79cc76b-bfa0-4dde-8089-fffbbcd592c2",
+                    "d51a0d6e-155d-4160-92da-3a5a4b05224a",
+                    "5d181fca-2f2f-43dc-9a60-a3ef2c9d13e1",
+                    "bb6c79e8-a0fa-4402-9fa2-fe38eb386af2",
+                    "0c245d53-294e-4d56-a468-73e195ed03ee",
+                    "cfb026f1-8a44-4157-beef-faf385cf4e5c",
+                    "4265c43f-f944-4ec7-98f6-58757f7d81ae",
+                    "638c2373-2989-4800-9b5d-5aac72f4db7c",
+                    "7842d39e-063e-4131-9f0d-f6096f8b149a",
+                    "2ba15f33-ca63-47c7-abca-cc3c40a96546",
+                    "2aceaf15-25ba-4d3e-a39b-908d98c7dc84",
+                    "a705f033-acc9-4b85-b031-5b02d9b7917b",
+                    "f7a5bf96-abfd-487d-bde0-e903f92a6619",
+                    "d7581020-132f-4523-9cd3-738beb522f51"
+                ],
+                "subtitle": null,
+                "title": "15\" Pizza",
+                "uuid": "c618a929-3a7a-40df-bd2f-0c599277a998",
+                "displayType": null
+            },
+            "d21e3625-0c94-4ad3-8a6f-99e15e0b120c": {
+                "itemUuids": [
+                    "e45ed78e-7874-41f1-af66-470b3449ae65",
+                    "f40a2b67-ccf5-410b-9b2d-b629ada5169e",
+                    "df98903b-efac-4f01-b917-fe1b770fc227",
+                    "03543947-211b-4f72-8b51-f417c101a144",
+                    "260e846f-3ed3-4738-a277-b1533dda98be",
+                    "d2a1a3b9-a8f3-4d96-923b-c7d7e4e6afe9"
+                ],
+                "subtitle": null,
+                "title": "Most Popular",
+                "uuid": "d21e3625-0c94-4ad3-8a6f-99e15e0b120c",
+                "displayType": null
+            },
+            "9befc96b-c9dc-44c1-8343-62f762555b38": {
+                "itemUuids": [
+                    "48d3fbed-144e-4386-9093-596fb2453c91",
+                    "ec185c14-709c-4b42-9657-592c923e4d63",
+                    "e716f498-508d-4db7-8e3d-92fd866e19fa",
+                    "3bac9e84-f427-4896-b8c1-9b2d550bd6cb",
+                    "ac18b2a3-2f7d-4fa4-9991-ee86d6b68b89",
+                    "9e10c4f5-5665-4cb8-837a-36613b450a9d",
+                    "97c1ea19-1ce9-4c57-9575-68e55a054bd6",
+                    "09c164b2-4b35-46fd-a5e1-6f1c28840502",
+                    "5247dd0f-cc5b-4a3a-8026-5a444a986535",
+                    "5e3ad85e-1677-4c41-8589-f279d7d45ee5",
+                    "ee6fe050-02b5-4fea-8beb-29fc10478199"
+                ],
+                "subtitle": null,
+                "title": "Pastas",
+                "uuid": "9befc96b-c9dc-44c1-8343-62f762555b38",
+                "displayType": null
+            },
+            "f957c51c-6649-43cd-b9e3-ada9d34e2cd8": {
+                "itemUuids": [
+                    "f1fb7d94-4b67-44a0-aef8-c31e4be3355c",
+                    "4582b02d-856c-4db9-8ba9-baa486c2d2e8",
+                    "55fce398-a7e3-4878-8344-e4c6082b26fc",
+                    "f2561d6b-74f3-4e6d-a64f-7f9e1baab478",
+                    "931dadec-efa1-4543-9fd7-b26b7ea8166d",
+                    "f1bdb508-1090-4ae7-be50-312b33d1b1fb",
+                    "27717321-e999-4de7-9d65-8be5795183a8",
+                    "e053e069-3edb-42f9-979b-668952aeb11a",
+                    "7f8e9046-6838-471f-ad9a-7259ec177a8e",
+                    "07f4525b-6c9b-4e51-b4f3-bafe11487fe8",
+                    "8c5d0437-6b3c-4c52-a592-e8ac93db09b4",
+                    "f0524564-e181-47c2-8ed5-d929e443a714",
+                    "b59a783c-284b-48f9-86e9-bc31845c9eff",
+                    "25ec1033-b271-4425-8c6e-2bd993179fd8",
+                    "ebcfbaee-390a-4a65-ae31-fcb92c016c55",
+                    "37333c0b-a4b6-40fa-91a3-1a7283926951",
+                    "50392cdd-45dc-4bef-874e-90fba9e54736"
+                ],
+                "subtitle": null,
+                "title": "Starters and Side Orders",
+                "uuid": "f957c51c-6649-43cd-b9e3-ada9d34e2cd8",
+                "displayType": null
+            },
+            "e213992e-5b21-4d90-a239-d37726edfe7d": {
+                "itemUuids": [
+                    "4de45736-e523-44b1-8111-316b4ee12461",
+                    "02969621-0065-4c18-a13a-efb38e4b8b7e",
+                    "e640dadb-8f35-424d-9b49-eaddcad8278b",
+                    "ed3b62d5-c91f-4055-ad9a-1c7cd587f4cd",
+                    "2c996df0-ddc1-4360-b6de-4ec1350a4c78",
+                    "de074dcc-18a3-48f5-a059-e821dd8f4188",
+                    "9dfdd18d-df23-4d81-af74-0de40c0fe839",
+                    "7552e681-510d-4c6a-87d9-c935283b24f1",
+                    "98dcd954-030d-44d0-9c68-241d70088a8c",
+                    "dbe71a82-e1bd-4102-94f8-2af1ac00704f",
+                    "e45ed78e-7874-41f1-af66-470b3449ae65",
+                    "814c5fdc-d564-417f-a3b4-acff3dbfd596",
+                    "5458eb25-c2ef-4639-be0c-2567522ec576",
+                    "78916cc0-2c22-4fc5-ae9e-cc52846bf84d",
+                    "f3f4cfa1-be24-4892-a480-135c7079e406",
+                    "fe35fd04-6e0d-4866-95be-ca8e7f15fe08",
+                    "8da4adaf-3035-4b9b-969b-4e96f24e3b58",
+                    "f2045182-2341-4c68-b077-1fa856e0a59b",
+                    "e12c0a39-bb9c-43db-84ea-e6295eebfa3e",
+                    "38ec5fad-e6e0-4d44-ae87-de457d68cc0e",
+                    "75c75f00-73b4-4ce9-9aee-8e6abca9a831",
+                    "f40a2b67-ccf5-410b-9b2d-b629ada5169e",
+                    "94012649-78a8-45af-aa24-b72f87ce797a",
+                    "5a47305c-24a9-45c2-bace-578bba64db9d",
+                    "735f6fce-cdac-413f-a87b-c94bfeb596f2",
+                    "df98903b-efac-4f01-b917-fe1b770fc227",
+                    "c0ba5107-b16e-46ad-8654-5d932b345ada",
+                    "c926bf6c-23a5-4350-84cb-dfd97048621d",
+                    "062ec7e4-8443-46c5-bc54-6b3d3ff46366",
+                    "40bdf3a3-90d6-4731-ac6f-c59ee317d422",
+                    "25c646a2-da4d-4b3d-b27a-fa7937ae8833",
+                    "e5299867-0914-4c0d-9ede-0cbd375a23f9"
+                ],
+                "subtitle": null,
+                "title": "13\" Pizza",
+                "uuid": "e213992e-5b21-4d90-a239-d37726edfe7d",
+                "displayType": null
+            },
+            "6b613217-6095-4a26-896f-c9349c5c205d": {
+                "itemUuids": [
+                    "1acc653d-b9e9-4e27-ae7d-2aa2bb228372",
+                    "b0e955f1-d1f4-4c04-91f9-3ccfb2659a20",
+                    "d4d23562-0a6f-429b-8dff-93aded881650",
+                    "02d7463b-a3d9-46c7-8750-babe30428a4d",
+                    "770323b4-f115-4d13-8f8d-124f0e541c53",
+                    "338ea6b2-6dfe-49eb-bd48-402734bf649c"
+                ],
+                "subtitle": null,
+                "title": "Dessert",
+                "uuid": "6b613217-6095-4a26-896f-c9349c5c205d",
+                "displayType": null
+            },
+            "4aeffaf6-ed11-459c-85da-fab4de37f54b": {
+                "itemUuids": [
+                    "c296cb89-41e8-41b3-a726-4728f3e9c87c",
+                    "6196c7ed-9671-4ff5-b73c-34010cd6bc96"
+                ],
+                "subtitle": null,
+                "title": "Mains",
+                "uuid": "4aeffaf6-ed11-459c-85da-fab4de37f54b",
+                "displayType": null
+            },
+            "d1e29833-e797-44ca-83b3-2d9f498a4385": {
+                "itemUuids": [
+                    "75d6739d-f575-451e-abec-94b6bff763eb",
+                    "f651d23c-c8b5-4076-bf43-81b765727b9d",
+                    "0214fc29-89b4-4d60-83d3-953caba7ce2d",
+                    "f09a2056-4c22-4df8-b163-20253af95a68",
+                    "35de55bc-e11e-4c95-a971-93876ebfc831",
+                    "3e08bff1-3452-4e65-bd98-a13ca8edd524"
+                ],
+                "subtitle": null,
+                "title": "Special Offers",
+                "uuid": "d1e29833-e797-44ca-83b3-2d9f498a4385",
+                "displayType": null
+            },
+            "99003308-32c5-43c7-8dfc-f461026eea62": {
+                "itemUuids": [
+                    "03543947-211b-4f72-8b51-f417c101a144",
+                    "5b2c869e-4c80-47de-9767-a462958c3240",
+                    "34455259-ddc1-4821-a23d-b0c84315e716",
+                    "3a8e36ad-6700-4e1b-a74f-644b63460134"
+                ],
+                "subtitle": null,
+                "title": "Calzone Pizza Roll",
+                "uuid": "99003308-32c5-43c7-8dfc-f461026eea62",
+                "displayType": null
+            },
+            "7df3b5e7-fe2e-4490-a78b-7b4684453168": {
+                "itemUuids": [
+                    "f946f491-99bf-445f-abe4-d967599b52b1",
+                    "f0d52d14-c6f1-4399-bc07-5b443705fb54",
+                    "63825164-7e6c-4c93-af29-3d251768f334",
+                    "46cfac22-0973-4445-8a17-0f1b10a76c6d"
+                ],
+                "subtitle": null,
+                "title": "Drinks",
+                "uuid": "7df3b5e7-fe2e-4490-a78b-7b4684453168",
+                "displayType": null
+            },
+            "d953b8bc-4911-4c0e-bd72-68adb535074e": {
+                "itemUuids": [
+                    "54dc8872-adf1-4b1f-85d5-5bf930b3e5bf",
+                    "e8a9efe8-e3f6-4701-88f6-1aa2d4719f32",
+                    "3878d93e-fdf6-467f-a349-b0f5f25d8b74",
+                    "d7ab64ad-0ada-4dc4-a554-aa7942001692",
+                    "260e846f-3ed3-4738-a277-b1533dda98be",
+                    "2c77b9d1-31e1-4bfe-ad0d-5d42dd2d7590",
+                    "8dc92027-5986-4922-a028-62dbc3852288"
+                ],
+                "subtitle": null,
+                "title": "Salads",
+                "uuid": "d953b8bc-4911-4c0e-bd72-68adb535074e",
+                "displayType": null
+            }
+        },
+        "title": "La Parma Pizzeria (Kennington Road)",
+        "uuid": "c6c302a1-2682-477d-97dc-a3805df99f3d",
+        "categories": [
+            "₴",
+            "Італійська",
+            "Піца",
+            "Салати"
+        ],
+        "cuisineList": [
+            "Італійська",
+            "Піца",
+            "Салати"
+        ],
+        "priceBucket": "₴",
+        "etaRange": {
+            "text": "30–40 min",
+            "iconUrl": ""
+        },
+        "ratingBadge": {
+            "text": "<span><span style=\"font-family: inherit; color: #3a3a48;\">4.0 <img src=\"https://d1a3f4spazzrp4.cloudfront.net/static/images/Star_Black_Eats_3.png\" width=\"14\" height=\"14\" vertical-align=\"middle\"> </span><span style=\"font-family: inherit; color: #757575;\">(105)</span></span>"
+        },
+        "disclaimerBadge": {
+            "text": "<span style=\"font-family: inherit;\">Allergies, intolerances and dietary requirements: before ordering, please contact the restaurant directly and ask to speak to a member of staff who can assist if you require information about ingredients and help cater for your needs. For more information on food safety and hygiene, please visit the <a href=\"http://ratings.food.gov.uk/\" style=\"color:#61ad5f;\">Food Standards Agency</a></span>"
+        },
+        "fareBadge": null,
+        "fareInfo": {
+            "serviceFee": 30,
+            "serviceFeeCents": 3000
+        },
+        "promotion": null,
+        "shouldIndex": false,
+        "heroImageUrls": [
+            {
+                "url": "https://duyt4h9nfnj50.cloudfront.net/resized/f16bd271255bbfdacfc7f9e8ea7211ce-w240-c5.jpg",
+                "width": 240
+            },
+            {
+                "url": "https://duyt4h9nfnj50.cloudfront.net/resized/f16bd271255bbfdacfc7f9e8ea7211ce-w550-06.jpg",
+                "width": 550
+            },
+            {
+                "url": "https://duyt4h9nfnj50.cloudfront.net/resized/f16bd271255bbfdacfc7f9e8ea7211ce-w640-b7.jpg",
+                "width": 640
+            },
+            {
+                "url": "https://duyt4h9nfnj50.cloudfront.net/resized/f16bd271255bbfdacfc7f9e8ea7211ce-w750-e7.jpg",
+                "width": 750
+            },
+            {
+                "url": "https://duyt4h9nfnj50.cloudfront.net/resized/f16bd271255bbfdacfc7f9e8ea7211ce-w1080-1d.jpg",
+                "width": 1080
+            },
+            {
+                "url": "https://duyt4h9nfnj50.cloudfront.net/resized/f16bd271255bbfdacfc7f9e8ea7211ce-w2880-9f.jpg",
+                "width": 2880
+            }
+        ],
+        "isOpen": true,
+        "currencyCode": "GBP",
+        "closedMessage": "Currently unavailable",
+        "location": {
+            "address": "Se11 6sf, 113a, London, England SE11 6SF",
+            "streetAddress": "SE11 6SF",
+            "city": "London",
+            "country": "GB",
+            "postalCode": "SE11 6SF",
+            "region": "England",
+            "latitude": 51.4942,
+            "longitude": -0.110502
+        },
+        "isDeliveryThirdParty": false,
+        "hours": [
+            {
+                "dayRange": "Sunday",
+                "sectionHours": [
+                    {
+                        "startTime": 0,
+                        "endTime": 180,
+                        "sectionTitle": "Menu"
+                    },
+                    {
+                        "startTime": 0,
+                        "endTime": 180,
+                        "sectionTitle": "Menu"
+                    },
+                    {
+                        "startTime": 660,
+                        "endTime": 1439,
+                        "sectionTitle": "Menu"
+                    },
+                    {
+                        "startTime": 660,
+                        "endTime": 1439,
+                        "sectionTitle": "Menu"
+                    }
+                ]
+            },
+            {
+                "dayRange": "Monday",
+                "sectionHours": [
+                    {
+                        "startTime": 0,
+                        "endTime": 180,
+                        "sectionTitle": "Menu"
+                    },
+                    {
+                        "startTime": 0,
+                        "endTime": 180,
+                        "sectionTitle": "Menu"
+                    },
+                    {
+                        "startTime": 660,
+                        "endTime": 1439,
+                        "sectionTitle": "Menu"
+                    },
+                    {
+                        "startTime": 660,
+                        "endTime": 1439,
+                        "sectionTitle": "Menu"
+                    },
+                    {
+                        "startTime": 660,
+                        "endTime": 960,
+                        "sectionTitle": "Lunch Menu"
+                    }
+                ]
+            },
+            {
+                "dayRange": "Tuesday - Wednesday",
+                "sectionHours": [
+                    {
+                        "startTime": 0,
+                        "endTime": 180,
+                        "sectionTitle": "Menu"
+                    },
+                    {
+                        "startTime": 660,
+                        "endTime": 1439,
+                        "sectionTitle": "Menu"
+                    },
+                    {
+                        "startTime": 660,
+                        "endTime": 960,
+                        "sectionTitle": "Lunch Menu"
+                    }
+                ]
+            },
+            {
+                "dayRange": "Thursday",
+                "sectionHours": [
+                    {
+                        "startTime": 0,
+                        "endTime": 180,
+                        "sectionTitle": "Menu"
+                    },
+                    {
+                        "startTime": 0,
+                        "endTime": 180,
+                        "sectionTitle": "Menu"
+                    },
+                    {
+                        "startTime": 660,
+                        "endTime": 1439,
+                        "sectionTitle": "Menu"
+                    },
+                    {
+                        "startTime": 660,
+                        "endTime": 1439,
+                        "sectionTitle": "Menu"
+                    },
+                    {
+                        "startTime": 660,
+                        "endTime": 960,
+                        "sectionTitle": "Lunch Menu"
+                    }
+                ]
+            },
+            {
+                "dayRange": "Friday - Saturday",
+                "sectionHours": [
+                    {
+                        "startTime": 0,
+                        "endTime": 180,
+                        "sectionTitle": "Menu"
+                    },
+                    {
+                        "startTime": 0,
+                        "endTime": 180,
+                        "sectionTitle": "Menu"
+                    },
+                    {
+                        "startTime": 660,
+                        "endTime": 1439,
+                        "sectionTitle": "Menu"
+                    },
+                    {
+                        "startTime": 660,
+                        "endTime": 1439,
+                        "sectionTitle": "Menu"
+                    }
+                ]
+            }
+        ],
+        "disableOrderInstruction": false,
+        "disableCheckoutInstruction": false,
+        "nuggets": [],
+        "isWithinDeliveryRange": false,
+        "slug": "la-parma-pizzeria-kennington-road",
+        "citySlug": "london",
+        "phoneNumber": "+442077359555",
+        "metaJson": "{\"@context\":\"http:\\u002F\\u002Fschema.org\",\"@type\":\"Restaurant\",\"@id\":\"https:\\u002F\\u002Fwww.ubereats.com\\u002Fen-UA\\u002Flondon\\u002Ffood-delivery\\u002Fla-parma-pizzeria-kennington-road\\u002FxsMCoSaCR32X3KOAXfmfPQ\\u002F\",\"name\":\"La Parma Pizzeria (Kennington Road)\",\"priceRange\":\"₴\",\"potentialAction\":{\"@type\":\"OrderAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\\u002F\\u002Fwww.ubereats.com\\u002Fen-UA\\u002Flondon\\u002Ffood-delivery\\u002Fla-parma-pizzeria-kennington-road\\u002FxsMCoSaCR32X3KOAXfmfPQ\\u002F?utm_campaign=order-action&utm_medium=organic\",\"inLanguage\":\"English\",\"actionPlatform\":[\"http:\\u002F\\u002Fschema.org\\u002FDesktopWebPlatform\",\"http:\\u002F\\u002Fschema.org\\u002FMobileWebPlatform\"]},\"deliveryMethod\":[\"http:\\u002F\\u002Fpurl.org\\u002Fgoodrelations\\u002Fv1#DeliveryModeOwnFleet\"]},\"address\":{\"@type\":\"PostalAddress\",\"addressLocality\":\"London\",\"addressRegion\":\"England\",\"postalCode\":\"SE11 6SF\",\"addressCountry\":\"GB\",\"streetAddress\":\"SE11 6SF\"},\"geo\":{\"@type\":\"GeoCoordinates\",\"latitude\":51.4942,\"longitude\":-0.110502}}",
+        "promoTrackings": [],
+        "suggestedPromotion": {
+            "text": "",
+            "promotionUuid": ""
+        },
+        "supportedDiningModes": [
+            {
+                "mode": "DELIVERY",
+                "title": "Delivery",
+                "isSelected": true,
+                "isAvailable": true
+            }
+        ],
+        "isPreview": false,
+        "pinnedInfo": null
+    }
+}

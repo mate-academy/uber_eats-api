@@ -1,0 +1,1321 @@
+{
+    "status": "success",
+    "data": {
+        "sectionEntitiesMap": {
+            "ba933f37-0880-4049-9926-1f9d0663565c": {
+                "7d1e8578-2e55-4ce7-88d9-1643972373c5": {
+                    "description": "",
+                    "imageUrl": null,
+                    "price": 945,
+                    "title": "Nine Item English Breakfast",
+                    "uuid": "7d1e8578-2e55-4ce7-88d9-1643972373c5",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "4a455ba1-7628-4d76-8552-cfd7e8038197": {
+                    "description": "Two eggs, chips, beans, chicken sausages, mushrooms, and two slices. Note : We use a different grill for cooking our Halal products",
+                    "imageUrl": null,
+                    "price": 745,
+                    "title": "Halal Breakfast",
+                    "uuid": "4a455ba1-7628-4d76-8552-cfd7e8038197",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "endorsement": {
+                        "text": "Halal",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_check@3x.png"
+                    },
+                    "classifications": []
+                },
+                "023ce117-04e5-4429-8513-0a9c3492aad9": {
+                    "description": "2 Fried Eggs on 2 Burgers(no buns), Grilled Chicken, Mushrooms, 2x Sausage, 2x Bacon, Grilled Halloumi (if you specify Halal in your notes then you will get 2 Halal sausages in replacement to Bacon & Sausage). Note : We use a different grill for cooking for our Halal products.    ",
+                    "imageUrl": null,
+                    "price": 1195,
+                    "title": "Mixed Grill",
+                    "uuid": "023ce117-04e5-4429-8513-0a9c3492aad9",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "bfdee208-84a1-4dde-83ed-4508300deab7": {
+                    "description": "",
+                    "imageUrl": null,
+                    "price": 485,
+                    "title": "Bacon and Egg Sandwich",
+                    "uuid": "bfdee208-84a1-4dde-83ed-4508300deab7",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "561ddd24-089e-4db0-a953-29a00f45f114": {
+                    "description": "",
+                    "imageUrl": null,
+                    "price": 385,
+                    "title": "Sausage Sandwich",
+                    "uuid": "561ddd24-089e-4db0-a953-29a00f45f114",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "47915f0a-01ad-42a6-93c0-5ec1efb60ac3": {
+                    "description": "",
+                    "imageUrl": null,
+                    "price": 745,
+                    "title": "Seven Item English Breakfast",
+                    "uuid": "47915f0a-01ad-42a6-93c0-5ec1efb60ac3",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "879412aa-dea7-4c7e-a2c2-071c02955969": {
+                    "description": "",
+                    "imageUrl": null,
+                    "price": 485,
+                    "title": "Sausage and Egg Sandwich",
+                    "uuid": "879412aa-dea7-4c7e-a2c2-071c02955969",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "aae743ee-e1ef-4ad5-b084-688c27dbbfbf": {
+                    "description": "",
+                    "imageUrl": null,
+                    "price": 385,
+                    "title": "Bacon Sandwich",
+                    "uuid": "aae743ee-e1ef-4ad5-b084-688c27dbbfbf",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "ac21c973-fe5c-442b-8860-be5a5476be93": {
+                    "description": "",
+                    "imageUrl": null,
+                    "price": 485,
+                    "title": "Bacon & Sausage Sandwich",
+                    "uuid": "ac21c973-fe5c-442b-8860-be5a5476be93",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "ea441e8f-9100-45aa-912a-5eeb0017df77": {
+                    "description": "",
+                    "imageUrl": null,
+                    "price": 385,
+                    "title": "Egg Sandwich",
+                    "uuid": "ea441e8f-9100-45aa-912a-5eeb0017df77",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "d513cfc3-be9f-4ac1-9dd1-019c3210d61e": {
+                    "description": "Two eggs, beans, mushrooms, veg suasage, hash browns, and two slices.",
+                    "imageUrl": null,
+                    "price": 745,
+                    "title": "Veg Medium Breakfast",
+                    "uuid": "d513cfc3-be9f-4ac1-9dd1-019c3210d61e",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "56c031eb-c088-45b9-8922-7302aae26646": {
+                    "description": "Bacon, two eggs, sausage, chips, beans, and two slices.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/33fe6c6d-9875-447e-bac6-68b7a64ad366",
+                    "price": 745,
+                    "title": "Full English Breakfast",
+                    "uuid": "56c031eb-c088-45b9-8922-7302aae26646",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "32091d46-1936-43bd-a5a4-a6e04b457c27": {
+                    "description": "",
+                    "imageUrl": null,
+                    "price": 595,
+                    "title": "Five Item English Breakfast",
+                    "uuid": "32091d46-1936-43bd-a5a4-a6e04b457c27",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                }
+            },
+            "c034f419-4855-4b31-a947-90d22d937318": {
+                "782b4320-5e4e-4f8b-aa9c-94edace779ae": {
+                    "description": "",
+                    "imageUrl": null,
+                    "price": 525,
+                    "title": "Cheese and Tomatos Melt Panini",
+                    "uuid": "782b4320-5e4e-4f8b-aa9c-94edace779ae",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "6c4ecb5d-34c5-4488-98bb-96e9ab40dc4d": {
+                    "description": "Mushroom Cheese Omelette, Choose from Chips, Salad or Beans and also a choice of soft drink",
+                    "imageUrl": null,
+                    "price": 845,
+                    "title": "Mushroom Cheese Omlette Meal",
+                    "uuid": "6c4ecb5d-34c5-4488-98bb-96e9ab40dc4d",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "9e3e3ca8-d4e2-4fa7-ad5f-2be6aa3b6bd8": {
+                    "description": "",
+                    "imageUrl": null,
+                    "price": 475,
+                    "title": "Cheese Burger",
+                    "uuid": "9e3e3ca8-d4e2-4fa7-ad5f-2be6aa3b6bd8",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "7c7f255a-9cf7-481c-b035-1a634f93ccb6": {
+                    "description": "",
+                    "imageUrl": null,
+                    "price": 250,
+                    "title": "Large Portion Of Chips",
+                    "uuid": "7c7f255a-9cf7-481c-b035-1a634f93ccb6",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "43764bb7-dbb9-4fb6-bef0-d4ffc4daae18": {
+                    "description": "",
+                    "imageUrl": null,
+                    "price": 645,
+                    "title": "Mushroom Cheese Omlette",
+                    "uuid": "43764bb7-dbb9-4fb6-bef0-d4ffc4daae18",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "4a73e90f-cd6e-4da2-b6bd-ae2bf3c8440b": {
+                    "description": "Chilli Con Carne, Choose from Rice, Chips or Salad",
+                    "imageUrl": null,
+                    "price": 799,
+                    "title": "Chilli Con Carne",
+                    "uuid": "4a73e90f-cd6e-4da2-b6bd-ae2bf3c8440b",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 8640000000,
+                    "classifications": []
+                },
+                "b85d2601-13cd-4d93-9b5d-53875cecceef": {
+                    "description": "",
+                    "imageUrl": null,
+                    "price": 535,
+                    "title": "Minestrone Soup",
+                    "uuid": "b85d2601-13cd-4d93-9b5d-53875cecceef",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 8640000000,
+                    "classifications": []
+                },
+                "258abce6-8d33-4bb9-9c52-4fb5309de0b2": {
+                    "description": "Cheese Burger, Chips and a choice of soft drink.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/bba84a7a-c969-4ed5-8b88-1c1c8abe7e00",
+                    "price": 745,
+                    "title": "Cheese Burger Meal",
+                    "uuid": "258abce6-8d33-4bb9-9c52-4fb5309de0b2",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "bde4635e-cb37-4aa2-a3cb-bcba749946d9": {
+                    "description": "Grilled Chicken, Choose from Rice, Chips or Salad",
+                    "imageUrl": null,
+                    "price": 799,
+                    "title": "Grilled Chicken",
+                    "uuid": "bde4635e-cb37-4aa2-a3cb-bcba749946d9",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "53e4d3f9-ffbb-4ef3-8156-9ad8b9986758": {
+                    "description": "",
+                    "imageUrl": null,
+                    "price": 535,
+                    "title": "Country Vegetable Soup",
+                    "uuid": "53e4d3f9-ffbb-4ef3-8156-9ad8b9986758",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 8640000000,
+                    "classifications": []
+                },
+                "a3a13cfe-c2ae-48e1-987d-a7c5e54986a6": {
+                    "description": "Scampi, Chips and a choice of soft drink. ",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/d6b22eb7-4cae-439a-80a2-2663e872664b",
+                    "price": 845,
+                    "title": "Scampi Meal",
+                    "uuid": "a3a13cfe-c2ae-48e1-987d-a7c5e54986a6",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "f3ab2af6-0b26-4762-987b-b8d28546c969": {
+                    "description": "",
+                    "imageUrl": null,
+                    "price": 535,
+                    "title": "Thai Chicken",
+                    "uuid": "f3ab2af6-0b26-4762-987b-b8d28546c969",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 8640000000,
+                    "classifications": []
+                },
+                "26b40f3a-c9f1-456f-b0c5-3c5714698c83": {
+                    "description": "Cheese Omelette, Choose from Chips, Salad or Beans and also a choice of soft drink",
+                    "imageUrl": null,
+                    "price": 745,
+                    "title": "Cheese Omlette Meal",
+                    "uuid": "26b40f3a-c9f1-456f-b0c5-3c5714698c83",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "bae5e50f-cf4c-455e-baf0-f98f27818cd4": {
+                    "description": "",
+                    "imageUrl": null,
+                    "price": 100,
+                    "title": "Small Pack of Ready Salted Crisps",
+                    "uuid": "bae5e50f-cf4c-455e-baf0-f98f27818cd4",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "55a52846-1d65-4d30-8886-e1f5110be9de": {
+                    "description": "Tuna Cheese Melt Panini, Chips and a choice of soft drink.",
+                    "imageUrl": null,
+                    "price": 765,
+                    "title": "Tuna Cheese Melt Panini Meal",
+                    "uuid": "55a52846-1d65-4d30-8886-e1f5110be9de",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "a3915b7a-e775-483a-99d7-d91ecf5178f8": {
+                    "description": "",
+                    "imageUrl": null,
+                    "price": 595,
+                    "title": "Vegetarian Melt Panini",
+                    "uuid": "a3915b7a-e775-483a-99d7-d91ecf5178f8",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "e738ee9d-b8ef-4a40-92bc-2ee5d34467b5": {
+                    "description": "",
+                    "imageUrl": null,
+                    "price": 100,
+                    "title": "Portion of Baked Beans",
+                    "uuid": "e738ee9d-b8ef-4a40-92bc-2ee5d34467b5",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "a0d12ff9-9c12-4ba2-85a3-2142c7be9851": {
+                    "description": "",
+                    "imageUrl": null,
+                    "price": 100,
+                    "title": "Small Pack of Salt & Vinegar Crisps",
+                    "uuid": "a0d12ff9-9c12-4ba2-85a3-2142c7be9851",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "63e9d9c7-37f0-4572-a7aa-a9cac8d48ef5": {
+                    "description": "",
+                    "imageUrl": null,
+                    "price": 200,
+                    "title": "Small Portion of Chips",
+                    "uuid": "63e9d9c7-37f0-4572-a7aa-a9cac8d48ef5",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "cce0ca1d-17d1-4c88-9735-84fe32bd3587": {
+                    "description": "",
+                    "imageUrl": null,
+                    "price": 475,
+                    "title": "Veggie Burger",
+                    "uuid": "cce0ca1d-17d1-4c88-9735-84fe32bd3587",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "52b644a3-c504-4e55-8e5f-f18d234f3df2": {
+                    "description": "",
+                    "imageUrl": null,
+                    "price": 100,
+                    "title": "Small Twix bar",
+                    "uuid": "52b644a3-c504-4e55-8e5f-f18d234f3df2",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "b1f780a6-b0c4-45c3-9463-675af12965da": {
+                    "description": "",
+                    "imageUrl": null,
+                    "price": 100,
+                    "title": "Small Kitkat bar",
+                    "uuid": "b1f780a6-b0c4-45c3-9463-675af12965da",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "d1d0b7e4-5c62-4432-8437-2a46ce70ae41": {
+                    "description": "Cheese & Tomatoes Melt Panini, Chips and a choice of soft drink.",
+                    "imageUrl": null,
+                    "price": 695,
+                    "title": "Cheese and Tomatoes Melt Panini Meal",
+                    "uuid": "d1d0b7e4-5c62-4432-8437-2a46ce70ae41",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "ca971d73-29bc-4bf3-a8a5-0c82a0ef0139": {
+                    "description": "",
+                    "imageUrl": null,
+                    "price": 475,
+                    "title": "Chicken Burger",
+                    "uuid": "ca971d73-29bc-4bf3-a8a5-0c82a0ef0139",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "119ad0df-ec5d-4e97-acf3-4f625e37e5a6": {
+                    "description": "Chicken Curry, Choose from Rice, Chips or Salad",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/c9459701-9c9b-4b40-b19b-28ea94273869",
+                    "price": 799,
+                    "title": "Chicken Curry",
+                    "uuid": "119ad0df-ec5d-4e97-acf3-4f625e37e5a6",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 8640000000,
+                    "classifications": []
+                },
+                "20538d5f-2847-4135-bcba-e202383d2f29": {
+                    "description": "",
+                    "imageUrl": null,
+                    "price": 595,
+                    "title": "Double Cheese Burger",
+                    "uuid": "20538d5f-2847-4135-bcba-e202383d2f29",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "9662a776-e113-4875-beb4-62a5cdda5349": {
+                    "description": "\"Coca-Cola Classic is the world's favourite soft drink and has been enjoyed since 1886.\n \n Great Coke taste\n Only natural flavours\n No added preservatives\n Gluten-free, dairy-free and nut-free\n \n Serve ice cold for maximum refreshment.\"",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/4e696303-2603-4c2c-98a4-fb52c6980af6.jpeg",
+                    "price": 100,
+                    "title": "Coca-Cola Original Taste 330ml",
+                    "uuid": "9662a776-e113-4875-beb4-62a5cdda5349",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "2b1d83b5-e491-4675-8196-1cc52ad2f2db": {
+                    "description": "",
+                    "imageUrl": null,
+                    "price": 100,
+                    "title": "Can of Fanta Lemon",
+                    "uuid": "2b1d83b5-e491-4675-8196-1cc52ad2f2db",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "7ee22ad7-3b57-4a22-a697-0c8a3e49a515": {
+                    "description": "",
+                    "imageUrl": null,
+                    "price": 595,
+                    "title": "Halloumi Sucuk Panini",
+                    "uuid": "7ee22ad7-3b57-4a22-a697-0c8a3e49a515",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "548d69c8-74b7-4b68-ac09-856d0c4b709a": {
+                    "description": "Spicy Chicken, Choose from Rice, Chips or Salad",
+                    "imageUrl": null,
+                    "price": 799,
+                    "title": "Spicy Chicken",
+                    "uuid": "548d69c8-74b7-4b68-ac09-856d0c4b709a",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 8640000000,
+                    "classifications": []
+                },
+                "297fe55f-3f08-47f0-8ca7-7ce688a34958": {
+                    "description": "",
+                    "imageUrl": null,
+                    "price": 100,
+                    "title": "Small(51g) Mars bar",
+                    "uuid": "297fe55f-3f08-47f0-8ca7-7ce688a34958",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "98c6d219-552f-4677-969c-ab1d0511562e": {
+                    "description": "",
+                    "imageUrl": null,
+                    "price": 535,
+                    "title": "Leek & Potato Soup",
+                    "uuid": "98c6d219-552f-4677-969c-ab1d0511562e",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 8640000000,
+                    "classifications": []
+                },
+                "f668814d-4a19-45e8-9eb0-f95b6a7dade3": {
+                    "description": "",
+                    "imageUrl": null,
+                    "price": 545,
+                    "title": "Cheese Omlette",
+                    "uuid": "f668814d-4a19-45e8-9eb0-f95b6a7dade3",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "737afc50-c272-4881-b3ee-c078a68c640d": {
+                    "description": "",
+                    "imageUrl": null,
+                    "price": 795,
+                    "title": "Halloumi Sucuk Panini Meal",
+                    "uuid": "737afc50-c272-4881-b3ee-c078a68c640d",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "1e05d80e-3840-4e01-9cb4-4a894cf34312": {
+                    "description": "",
+                    "imageUrl": null,
+                    "price": 645,
+                    "title": "Ham and Cheese Omlette",
+                    "uuid": "1e05d80e-3840-4e01-9cb4-4a894cf34312",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "c0d00f16-195a-4b51-a896-47de98b20aac": {
+                    "description": "Ham and Cheese Omelette, Choose from Chips, Salad or Beans and also a choice of soft drink",
+                    "imageUrl": null,
+                    "price": 845,
+                    "title": "Ham and Cheese Omlette Meal",
+                    "uuid": "c0d00f16-195a-4b51-a896-47de98b20aac",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "ab1b7ca3-bc3a-45d4-a162-6aae74d86037": {
+                    "description": "",
+                    "imageUrl": null,
+                    "price": 100,
+                    "title": "Small Pack of Cheese & Onion Crisps",
+                    "uuid": "ab1b7ca3-bc3a-45d4-a162-6aae74d86037",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "c3c1871c-d616-4a30-9a5e-d7c4f8943a23": {
+                    "description": "",
+                    "imageUrl": null,
+                    "price": 535,
+                    "title": "Tomato & Basil Soup",
+                    "uuid": "c3c1871c-d616-4a30-9a5e-d7c4f8943a23",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 8640000000,
+                    "classifications": []
+                },
+                "b3241e0e-cfe3-4eb6-879a-929c16de81ee": {
+                    "description": "Lasagne, Choose from Rice, Chips or Salad",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/d15ae277-7230-42c5-95ae-b3fbecc8b24b",
+                    "price": 799,
+                    "title": "Lasagne",
+                    "uuid": "b3241e0e-cfe3-4eb6-879a-929c16de81ee",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 8640000000,
+                    "classifications": []
+                },
+                "192a6bda-393d-4e5c-8d6a-30c3d89c694c": {
+                    "description": "",
+                    "imageUrl": null,
+                    "price": 595,
+                    "title": "Grilled Chicken Melt Panini",
+                    "uuid": "192a6bda-393d-4e5c-8d6a-30c3d89c694c",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "628f4883-ba0d-4f1b-a833-fb4564856c0a": {
+                    "description": "\"Love it light? Add some sparkle to your day, minus the calories with Diet Coke\n \n Diet Coke is a sugar free, low calorie soft drink.\n No Sugar\n No Calories\n Gluten-free, dairy-free and nut-free\n Contains vegetables extracts and sweeteners\n \n Serve over ice with a slice of lime.\"",
+                    "imageUrl": null,
+                    "price": 100,
+                    "title": "Diet Coke 330ml",
+                    "uuid": "628f4883-ba0d-4f1b-a833-fb4564856c0a",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "ebff1a09-764b-4f1a-914e-9818d9bcf8c1": {
+                    "description": "",
+                    "imageUrl": null,
+                    "price": 100,
+                    "title": "Can of Fanta Orange",
+                    "uuid": "ebff1a09-764b-4f1a-914e-9818d9bcf8c1",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "c71e4f69-fb05-40a6-8472-a333f746e11c": {
+                    "description": "",
+                    "imageUrl": null,
+                    "price": 645,
+                    "title": "Vegetables and Cheese Omelette",
+                    "uuid": "c71e4f69-fb05-40a6-8472-a333f746e11c",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "4eab3440-9385-4107-8a24-91eba4eb1c09": {
+                    "description": "",
+                    "imageUrl": null,
+                    "price": 100,
+                    "title": "Can of Sprite",
+                    "uuid": "4eab3440-9385-4107-8a24-91eba4eb1c09",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "c5b0b868-c1c7-493f-b94d-28f92c5a9557": {
+                    "description": "Chicken Burger, Chips and a choice of soft drink.",
+                    "imageUrl": null,
+                    "price": 745,
+                    "title": "Chicken Burger Meal",
+                    "uuid": "c5b0b868-c1c7-493f-b94d-28f92c5a9557",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "ea3ddcfe-3a8b-403a-8c3c-cf3686b33e97": {
+                    "description": "Vegetable and Cheese Omelette, Choose from Chips, Salad or Beans and also a choice of soft drink. ",
+                    "imageUrl": null,
+                    "price": 845,
+                    "title": "Vegetable and Cheese Omlette Meal",
+                    "uuid": "ea3ddcfe-3a8b-403a-8c3c-cf3686b33e97",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "ee0310ee-5a38-43c2-af12-bb32da3e4e64": {
+                    "description": "",
+                    "imageUrl": null,
+                    "price": 795,
+                    "title": "Scrambled Egg Sucuk Panini Meal",
+                    "uuid": "ee0310ee-5a38-43c2-af12-bb32da3e4e64",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "dc329a79-e980-43fb-82af-d78efeee2cc6": {
+                    "description": "",
+                    "imageUrl": null,
+                    "price": 100,
+                    "title": "Small Bottle of Evian Water",
+                    "uuid": "dc329a79-e980-43fb-82af-d78efeee2cc6",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "0093d8f1-8ef8-4d8c-9e54-97a998e3fcca": {
+                    "description": "",
+                    "imageUrl": null,
+                    "price": 535,
+                    "title": "Carrot & Coriander Soup ",
+                    "uuid": "0093d8f1-8ef8-4d8c-9e54-97a998e3fcca",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 8640000000,
+                    "classifications": []
+                },
+                "2c1795b4-706e-4eac-b9ad-b619d1bd7d9b": {
+                    "description": "Double Cheese Burger, Chips and a choice of soft drink.",
+                    "imageUrl": null,
+                    "price": 895,
+                    "title": "Double Cheese Burger Meal",
+                    "uuid": "2c1795b4-706e-4eac-b9ad-b619d1bd7d9b",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "b9f794a5-983d-41f7-8f82-acbe78dbf96a": {
+                    "description": "Grilled Chicken Melt Panini, Chips and a choice of soft drink.",
+                    "imageUrl": null,
+                    "price": 765,
+                    "title": "Grilled Chicken Melt Panini Meal",
+                    "uuid": "b9f794a5-983d-41f7-8f82-acbe78dbf96a",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "8949055d-1f64-4b36-9ff7-1c8835aa7449": {
+                    "description": "8 Fish Fingers, Chips and a choice of soft drink. ",
+                    "imageUrl": null,
+                    "price": 845,
+                    "title": "Fish Fingers Meal",
+                    "uuid": "8949055d-1f64-4b36-9ff7-1c8835aa7449",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "165a14b7-ecb9-42b8-bfe4-db124b908116": {
+                    "description": "Cheese and Tomatoes Omelette, Choose from Chips, Salad or Beans and also a choice of soft drink",
+                    "imageUrl": null,
+                    "price": 845,
+                    "title": "Cheese and Tomatoes Omlette Meal",
+                    "uuid": "165a14b7-ecb9-42b8-bfe4-db124b908116",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "2b432ec7-23fe-4450-82b9-f3007e306680": {
+                    "description": "",
+                    "imageUrl": null,
+                    "price": 595,
+                    "title": "Tuna Cheese Melt Panini",
+                    "uuid": "2b432ec7-23fe-4450-82b9-f3007e306680",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "748d8e83-82d9-4181-bc41-e9f40bd6ed95": {
+                    "description": "",
+                    "imageUrl": null,
+                    "price": 595,
+                    "title": "Scrambled Egg Sucuk Panini",
+                    "uuid": "748d8e83-82d9-4181-bc41-e9f40bd6ed95",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "4719bbd9-811f-442b-931c-e9a7ad3a3d59": {
+                    "description": "Vegetarian Melt Panini, Chips and a choice of soft drink.",
+                    "imageUrl": null,
+                    "price": 765,
+                    "title": "Vegetarian Melt Panini Meal",
+                    "uuid": "4719bbd9-811f-442b-931c-e9a7ad3a3d59",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "e30b9d53-1e70-4cdf-aeed-c360fddc42af": {
+                    "description": "Veggie Burger, Chips and a choice of soft drink.",
+                    "imageUrl": null,
+                    "price": 745,
+                    "title": "Veggie Burger Meal",
+                    "uuid": "e30b9d53-1e70-4cdf-aeed-c360fddc42af",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                }
+            }
+        },
+        "sections": [
+            {
+                "subsectionUuids": [
+                    "b74f57ae-b48e-4271-99d3-9e66dc89f7d9",
+                    "a5e9b71c-9d98-4c73-a21e-f10e71036bdd"
+                ],
+                "title": "Breakfast",
+                "subtitle": "Fri 7:00 AM – 3:30 PM",
+                "uuid": "ba933f37-0880-4049-9926-1f9d0663565c",
+                "isTop": true,
+                "isOnSale": false
+            },
+            {
+                "subsectionUuids": [
+                    "76943924-5044-4d46-9eff-bc69527c409f",
+                    "4fd0c1a0-ea16-4de6-b8f4-2cd3daba55cf",
+                    "b78ab518-1fe7-4843-8aae-80a800248973",
+                    "b6f59909-0673-4275-b8ac-f5f7d58dd2ed",
+                    "b514db16-4999-4daf-9bbe-f5d41258cb8b",
+                    "af1f7959-9808-4f92-8588-0bb97a619e1f",
+                    "8b514b64-2be3-41fc-bc04-36a02bcd1fb7",
+                    "729c6f68-a0d8-440e-bce1-82fc65d58550",
+                    "a0f53819-abff-429c-88ed-135b510fa73c"
+                ],
+                "title": "Menu",
+                "subtitle": "Fri 7:00 AM – 3:30 PM",
+                "uuid": "c034f419-4855-4b31-a947-90d22d937318",
+                "isTop": false,
+                "isOnSale": false
+            }
+        ],
+        "subsectionsMap": {
+            "b74f57ae-b48e-4271-99d3-9e66dc89f7d9": {
+                "itemUuids": [
+                    "56c031eb-c088-45b9-8922-7302aae26646",
+                    "d513cfc3-be9f-4ac1-9dd1-019c3210d61e",
+                    "4a455ba1-7628-4d76-8552-cfd7e8038197",
+                    "32091d46-1936-43bd-a5a4-a6e04b457c27",
+                    "47915f0a-01ad-42a6-93c0-5ec1efb60ac3",
+                    "7d1e8578-2e55-4ce7-88d9-1643972373c5",
+                    "023ce117-04e5-4429-8513-0a9c3492aad9"
+                ],
+                "subtitle": null,
+                "title": "Mains",
+                "uuid": "b74f57ae-b48e-4271-99d3-9e66dc89f7d9",
+                "displayType": null
+            },
+            "4fd0c1a0-ea16-4de6-b8f4-2cd3daba55cf": {
+                "itemUuids": [
+                    "8949055d-1f64-4b36-9ff7-1c8835aa7449",
+                    "a3a13cfe-c2ae-48e1-987d-a7c5e54986a6"
+                ],
+                "subtitle": null,
+                "title": "Fish Specials",
+                "uuid": "4fd0c1a0-ea16-4de6-b8f4-2cd3daba55cf",
+                "displayType": null
+            },
+            "b6f59909-0673-4275-b8ac-f5f7d58dd2ed": {
+                "itemUuids": [
+                    "782b4320-5e4e-4f8b-aa9c-94edace779ae",
+                    "a3915b7a-e775-483a-99d7-d91ecf5178f8",
+                    "2b432ec7-23fe-4450-82b9-f3007e306680",
+                    "192a6bda-393d-4e5c-8d6a-30c3d89c694c",
+                    "d1d0b7e4-5c62-4432-8437-2a46ce70ae41",
+                    "4719bbd9-811f-442b-931c-e9a7ad3a3d59",
+                    "55a52846-1d65-4d30-8886-e1f5110be9de",
+                    "b9f794a5-983d-41f7-8f82-acbe78dbf96a",
+                    "7ee22ad7-3b57-4a22-a697-0c8a3e49a515",
+                    "737afc50-c272-4881-b3ee-c078a68c640d",
+                    "748d8e83-82d9-4181-bc41-e9f40bd6ed95",
+                    "ee0310ee-5a38-43c2-af12-bb32da3e4e64"
+                ],
+                "subtitle": null,
+                "title": "Panini Specials",
+                "uuid": "b6f59909-0673-4275-b8ac-f5f7d58dd2ed",
+                "displayType": null
+            },
+            "8b514b64-2be3-41fc-bc04-36a02bcd1fb7": {
+                "itemUuids": [
+                    "ab1b7ca3-bc3a-45d4-a162-6aae74d86037",
+                    "b1f780a6-b0c4-45c3-9463-675af12965da",
+                    "bae5e50f-cf4c-455e-baf0-f98f27818cd4",
+                    "297fe55f-3f08-47f0-8ca7-7ce688a34958",
+                    "52b644a3-c504-4e55-8e5f-f18d234f3df2",
+                    "a0d12ff9-9c12-4ba2-85a3-2142c7be9851"
+                ],
+                "subtitle": null,
+                "title": "Snacks",
+                "uuid": "8b514b64-2be3-41fc-bc04-36a02bcd1fb7",
+                "displayType": null
+            },
+            "b78ab518-1fe7-4843-8aae-80a800248973": {
+                "itemUuids": [
+                    "f668814d-4a19-45e8-9eb0-f95b6a7dade3",
+                    "1e05d80e-3840-4e01-9cb4-4a894cf34312",
+                    "43764bb7-dbb9-4fb6-bef0-d4ffc4daae18",
+                    "c71e4f69-fb05-40a6-8472-a333f746e11c",
+                    "26b40f3a-c9f1-456f-b0c5-3c5714698c83",
+                    "c0d00f16-195a-4b51-a896-47de98b20aac",
+                    "6c4ecb5d-34c5-4488-98bb-96e9ab40dc4d",
+                    "165a14b7-ecb9-42b8-bfe4-db124b908116",
+                    "ea3ddcfe-3a8b-403a-8c3c-cf3686b33e97"
+                ],
+                "subtitle": null,
+                "title": "Omelettes",
+                "uuid": "b78ab518-1fe7-4843-8aae-80a800248973",
+                "displayType": null
+            },
+            "a0f53819-abff-429c-88ed-135b510fa73c": {
+                "itemUuids": [
+                    "53e4d3f9-ffbb-4ef3-8156-9ad8b9986758",
+                    "b85d2601-13cd-4d93-9b5d-53875cecceef",
+                    "f3ab2af6-0b26-4762-987b-b8d28546c969",
+                    "c3c1871c-d616-4a30-9a5e-d7c4f8943a23",
+                    "0093d8f1-8ef8-4d8c-9e54-97a998e3fcca",
+                    "98c6d219-552f-4677-969c-ab1d0511562e"
+                ],
+                "subtitle": null,
+                "title": "Daily Soups",
+                "uuid": "a0f53819-abff-429c-88ed-135b510fa73c",
+                "displayType": null
+            },
+            "729c6f68-a0d8-440e-bce1-82fc65d58550": {
+                "itemUuids": [
+                    "9662a776-e113-4875-beb4-62a5cdda5349",
+                    "4eab3440-9385-4107-8a24-91eba4eb1c09",
+                    "ebff1a09-764b-4f1a-914e-9818d9bcf8c1",
+                    "2b1d83b5-e491-4675-8196-1cc52ad2f2db",
+                    "628f4883-ba0d-4f1b-a833-fb4564856c0a",
+                    "dc329a79-e980-43fb-82af-d78efeee2cc6"
+                ],
+                "subtitle": null,
+                "title": "Extra Drinks",
+                "uuid": "729c6f68-a0d8-440e-bce1-82fc65d58550",
+                "displayType": null
+            },
+            "af1f7959-9808-4f92-8588-0bb97a619e1f": {
+                "itemUuids": [
+                    "7c7f255a-9cf7-481c-b035-1a634f93ccb6",
+                    "e738ee9d-b8ef-4a40-92bc-2ee5d34467b5",
+                    "63e9d9c7-37f0-4572-a7aa-a9cac8d48ef5"
+                ],
+                "subtitle": null,
+                "title": "Extra Items",
+                "uuid": "af1f7959-9808-4f92-8588-0bb97a619e1f",
+                "displayType": null
+            },
+            "76943924-5044-4d46-9eff-bc69527c409f": {
+                "itemUuids": [
+                    "9e3e3ca8-d4e2-4fa7-ad5f-2be6aa3b6bd8",
+                    "258abce6-8d33-4bb9-9c52-4fb5309de0b2",
+                    "ca971d73-29bc-4bf3-a8a5-0c82a0ef0139",
+                    "c5b0b868-c1c7-493f-b94d-28f92c5a9557",
+                    "cce0ca1d-17d1-4c88-9735-84fe32bd3587",
+                    "e30b9d53-1e70-4cdf-aeed-c360fddc42af",
+                    "20538d5f-2847-4135-bcba-e202383d2f29",
+                    "2c1795b4-706e-4eac-b9ad-b619d1bd7d9b"
+                ],
+                "subtitle": null,
+                "title": "Burgers",
+                "uuid": "76943924-5044-4d46-9eff-bc69527c409f",
+                "displayType": null
+            },
+            "a5e9b71c-9d98-4c73-a21e-f10e71036bdd": {
+                "itemUuids": [
+                    "aae743ee-e1ef-4ad5-b084-688c27dbbfbf",
+                    "ea441e8f-9100-45aa-912a-5eeb0017df77",
+                    "561ddd24-089e-4db0-a953-29a00f45f114",
+                    "bfdee208-84a1-4dde-83ed-4508300deab7",
+                    "879412aa-dea7-4c7e-a2c2-071c02955969",
+                    "ac21c973-fe5c-442b-8860-be5a5476be93"
+                ],
+                "subtitle": null,
+                "title": "Breakfast Sandwiches",
+                "uuid": "a5e9b71c-9d98-4c73-a21e-f10e71036bdd",
+                "displayType": null
+            },
+            "b514db16-4999-4daf-9bbe-f5d41258cb8b": {
+                "itemUuids": [
+                    "119ad0df-ec5d-4e97-acf3-4f625e37e5a6",
+                    "4a73e90f-cd6e-4da2-b6bd-ae2bf3c8440b",
+                    "548d69c8-74b7-4b68-ac09-856d0c4b709a",
+                    "b3241e0e-cfe3-4eb6-879a-929c16de81ee",
+                    "bde4635e-cb37-4aa2-a3cb-bcba749946d9"
+                ],
+                "subtitle": null,
+                "title": "Home Made Hot Food",
+                "uuid": "b514db16-4999-4daf-9bbe-f5d41258cb8b",
+                "displayType": null
+            }
+        },
+        "title": "People's Choice Cafe",
+        "uuid": "b625de6a-c495-4595-a921-cdfb5d0a2c67",
+        "categories": [
+            "₴",
+            "Сніданок і бранч",
+            "Британська"
+        ],
+        "cuisineList": [
+            "Сніданок і бранч",
+            "Британська"
+        ],
+        "priceBucket": "₴",
+        "etaRange": null,
+        "ratingBadge": {
+            "text": "<span><span style=\"font-family: inherit; color: #3a3a48;\">4.6 <img src=\"https://d1a3f4spazzrp4.cloudfront.net/static/images/Star_Yellow_Eats_3.png\" width=\"14\" height=\"14\" vertical-align=\"middle\"> </span><span style=\"font-family: inherit; color: #757575;\">(106)</span></span>"
+        },
+        "disclaimerBadge": {
+            "text": "<span style=\"font-family: inherit;\">Allergies, intolerances and dietary requirements: before ordering, please contact the restaurant directly and ask to speak to a member of staff who can assist if you require information about ingredients and help cater for your needs. For more information on food safety and hygiene, please visit the <a href=\"http://ratings.food.gov.uk/\" style=\"color:#61ad5f;\">Food Standards Agency</a></span>"
+        },
+        "fareBadge": null,
+        "fareInfo": {
+            "serviceFeeCents": null
+        },
+        "promotion": null,
+        "shouldIndex": false,
+        "heroImageUrls": [
+            {
+                "url": "https://d1ralsognjng37.cloudfront.net/f70d50bd-d313-4942-9b2b-4a63c3b78b99.jpeg",
+                "width": 240
+            },
+            {
+                "url": "https://d1ralsognjng37.cloudfront.net/6f6faab6-c161-47a4-a002-62d1016203d7.jpeg",
+                "width": 550
+            },
+            {
+                "url": "https://d1ralsognjng37.cloudfront.net/12b271e2-d52b-426a-830e-7c06761ddb8d.jpeg",
+                "width": 640
+            },
+            {
+                "url": "https://d1ralsognjng37.cloudfront.net/6a220fcb-7bef-4998-99e4-4fcea1ae9179.jpeg",
+                "width": 750
+            },
+            {
+                "url": "https://d1ralsognjng37.cloudfront.net/272d4c1e-d193-4289-89c0-7dbfbdbab0d1.jpeg",
+                "width": 1080
+            },
+            {
+                "url": "https://d1ralsognjng37.cloudfront.net/b1079ec1-b571-46dc-a397-6f59d1254ab1.jpeg",
+                "width": 2880
+            }
+        ],
+        "isOpen": false,
+        "currencyCode": "GBP",
+        "closedMessage": "Opens on Friday",
+        "location": {
+            "address": "38 Goswell Rd, London, England EC1M 7AA",
+            "streetAddress": "38 Goswell Rd",
+            "city": "London",
+            "country": "GB",
+            "postalCode": "EC1M 7AA",
+            "region": "England",
+            "latitude": 51.522858,
+            "longitude": -0.097638
+        },
+        "isDeliveryThirdParty": false,
+        "hours": [
+            {
+                "dayRange": "Sunday",
+                "sectionHours": [
+                    {
+                        "startTime": 480,
+                        "endTime": 840,
+                        "sectionTitle": "Breakfast"
+                    },
+                    {
+                        "startTime": 480,
+                        "endTime": 840,
+                        "sectionTitle": "Menu"
+                    }
+                ]
+            },
+            {
+                "dayRange": "Monday - Friday",
+                "sectionHours": [
+                    {
+                        "startTime": 420,
+                        "endTime": 930,
+                        "sectionTitle": "Breakfast"
+                    },
+                    {
+                        "startTime": 420,
+                        "endTime": 930,
+                        "sectionTitle": "Menu"
+                    }
+                ]
+            },
+            {
+                "dayRange": "Saturday",
+                "sectionHours": [
+                    {
+                        "startTime": 420,
+                        "endTime": 900,
+                        "sectionTitle": "Breakfast"
+                    },
+                    {
+                        "startTime": 420,
+                        "endTime": 900,
+                        "sectionTitle": "Menu"
+                    }
+                ]
+            }
+        ],
+        "disableOrderInstruction": false,
+        "disableCheckoutInstruction": false,
+        "nuggets": [],
+        "isWithinDeliveryRange": false,
+        "slug": "peoples-choice-cafe",
+        "citySlug": "london",
+        "phoneNumber": "+442072530707",
+        "metaJson": "{\"@context\":\"http:\\u002F\\u002Fschema.org\",\"@type\":\"Restaurant\",\"@id\":\"https:\\u002F\\u002Fwww.ubereats.com\\u002Fen-UA\\u002Flondon\\u002Ffood-delivery\\u002Fpeoples-choice-cafe\\u002FtiXeasSVRZWpIc37XQosZw\\u002F\",\"name\":\"People's Choice Cafe\",\"priceRange\":\"₴\",\"potentialAction\":{\"@type\":\"OrderAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\\u002F\\u002Fwww.ubereats.com\\u002Fen-UA\\u002Flondon\\u002Ffood-delivery\\u002Fpeoples-choice-cafe\\u002FtiXeasSVRZWpIc37XQosZw\\u002F?utm_campaign=order-action&utm_medium=organic\",\"inLanguage\":\"English\",\"actionPlatform\":[\"http:\\u002F\\u002Fschema.org\\u002FDesktopWebPlatform\",\"http:\\u002F\\u002Fschema.org\\u002FMobileWebPlatform\"]},\"deliveryMethod\":[\"http:\\u002F\\u002Fpurl.org\\u002Fgoodrelations\\u002Fv1#DeliveryModeOwnFleet\"]},\"address\":{\"@type\":\"PostalAddress\",\"addressLocality\":\"London\",\"addressRegion\":\"England\",\"postalCode\":\"EC1M 7AA\",\"addressCountry\":\"GB\",\"streetAddress\":\"38 Goswell Rd\"},\"geo\":{\"@type\":\"GeoCoordinates\",\"latitude\":51.522858,\"longitude\":-0.097638}}",
+        "promoTrackings": [],
+        "suggestedPromotion": {
+            "text": "",
+            "promotionUuid": ""
+        },
+        "supportedDiningModes": [
+            {
+                "mode": "DELIVERY",
+                "title": "Delivery",
+                "isSelected": true,
+                "isAvailable": true
+            }
+        ],
+        "isPreview": false,
+        "pinnedInfo": null
+    }
+}

@@ -1,0 +1,684 @@
+{
+    "status": "success",
+    "data": {
+        "sectionEntitiesMap": {
+            "faa31770-72d6-46b5-b7bf-00fd8dcd84f9": {
+                "de51ae6c-8724-455c-b1d3-b736af4050a8": {
+                    "description": "Вода мінеральна 500 мл.",
+                    "imageUrl": "",
+                    "price": 4900,
+                    "title": "Боржомі",
+                    "uuid": "de51ae6c-8724-455c-b1d3-b736af4050a8",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "9a28cd4b-43ee-4025-b95e-d12e1dcbd53c": {
+                    "description": "",
+                    "imageUrl": "",
+                    "price": 5900,
+                    "title": "Сандора",
+                    "uuid": "9a28cd4b-43ee-4025-b95e-d12e1dcbd53c",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "54b69bff-76f5-4040-b8c4-363ab443aa0b": {
+                    "description": "Вершковий соус, сир моцарелла, сир пармезан, сир гауда, сир чеддер, орегано.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/c285b440-dd4e-4e83-aaf9-36282124ad1b",
+                    "price": 21900,
+                    "title": "Піца 4 Сири",
+                    "uuid": "54b69bff-76f5-4040-b8c4-363ab443aa0b",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "6ff12f62-091c-4d0e-8fcc-fab3c9993b73": {
+                    "description": "Соус, сир моцарелла, морський коктейль.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/135632ec-2b3a-446c-bf11-f208004f04e9",
+                    "price": 27900,
+                    "title": "Піца Лагуна",
+                    "uuid": "6ff12f62-091c-4d0e-8fcc-fab3c9993b73",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "0827d7d7-cbb1-47e4-9099-cc44c3389644": {
+                    "description": "Соус, пепероні, сир моцарелла.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/10a1fccc-4f24-4f1c-b7d5-684f3a73ad95",
+                    "price": 19900,
+                    "title": "Піца Пепероні",
+                    "uuid": "0827d7d7-cbb1-47e4-9099-cc44c3389644",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "0d82eecd-e2ba-472f-84a3-4bbc8a861d5b": {
+                    "description": "Cоус, сир моцарелла, помідори, орегано.\n",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/f49aa254-ea91-40a6-ad13-5fd8c7ef8f83",
+                    "price": 16900,
+                    "title": "Піца Маргарита",
+                    "uuid": "0d82eecd-e2ba-472f-84a3-4bbc8a861d5b",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "34c3893b-e0f3-4282-910e-3b43acdd0512": {
+                    "description": "Соус, сир моцарелла, шинка, салямі, пепероні, куряче філе, цибуля.",
+                    "imageUrl": "",
+                    "price": 21900,
+                    "title": "Піца Мисливець за м’ясом",
+                    "uuid": "34c3893b-e0f3-4282-910e-3b43acdd0512",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "56957d57-3d15-4d4a-a41a-3d6089273b4b": {
+                    "description": "Соус, сир моцарелла, пепероні, шинка, печериці.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/81bdd68a-5a2f-457f-94ea-c30466db33ac",
+                    "price": 19900,
+                    "title": "Піца Традиційна",
+                    "uuid": "56957d57-3d15-4d4a-a41a-3d6089273b4b",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "38b47816-da28-4754-9089-2ee0afcbf475": {
+                    "description": "Цибуля червона, оливки (чорні), огірки, перець болгарський, помідор, сир фета.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/39155693-f680-444b-bd0b-c5877f37b703",
+                    "price": 10900,
+                    "title": "Салат Грецький",
+                    "uuid": "38b47816-da28-4754-9089-2ee0afcbf475",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "8cbf3889-5c40-4a0c-a501-dc2670682202": {
+                    "description": "Соус чилі, сир моцарелла, салямі, мисливські ковбаски, пармезан.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/19cba148-641e-47b2-907c-81b26423c3de",
+                    "price": 19900,
+                    "title": "Піца Диабло",
+                    "uuid": "8cbf3889-5c40-4a0c-a501-dc2670682202",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "26873726-f65e-4408-81da-46be25faeaa3": {
+                    "description": "Вершковий соус, сир моцарелла, шинка, бекон, часник, томати, соус цезар.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/877ad2b2-740a-4df3-ba68-7247ccb00cdf",
+                    "price": 22900,
+                    "title": "Піца Ранч",
+                    "uuid": "26873726-f65e-4408-81da-46be25faeaa3",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "0cfdff09-27a7-4663-8b7e-80c3f1d3f504": {
+                    "description": "Соус, сир моцарелла, шинка, печериці, маслини.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/49dce418-b027-4c66-8c62-560622f47dda",
+                    "price": 19900,
+                    "title": "Піца Капрічоза",
+                    "uuid": "0cfdff09-27a7-4663-8b7e-80c3f1d3f504",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "8c8a5047-b4c5-492a-b37d-dbb9e6a06aab": {
+                    "description": "Соус, сир моцарелла, маслини, болгарський перець, цибуля, помідори, печериці, чедер, орегано.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/f8bed563-cf55-4367-bbc4-0cdd13491b88",
+                    "price": 19900,
+                    "title": "Піца Вегетаріанська",
+                    "uuid": "8c8a5047-b4c5-492a-b37d-dbb9e6a06aab",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "0f21a185-28c0-4243-bbe5-1ce63475d4c1": {
+                    "description": "Вода мінеральна не газована 500 мл. ",
+                    "imageUrl": "",
+                    "price": 2900,
+                    "title": "Моршинська",
+                    "uuid": "0f21a185-28c0-4243-bbe5-1ce63475d4c1",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                }
+            },
+            "5d04e5c4-41d3-4d6c-942c-f45722786ac6": {
+                "bbb68682-29d8-47d7-bcfe-d2b30191c68a": {
+                    "description": "Still water 500 ml.",
+                    "imageUrl": "",
+                    "price": 2900,
+                    "title": "Morshinska",
+                    "uuid": "bbb68682-29d8-47d7-bcfe-d2b30191c68a",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "fdcb225c-d2a2-4715-aaa2-157b09197b61": {
+                    "description": "Sauce, mozzarella, olives, sweet pepper, onion, tomatoes, champignons, cheddar, and oregano.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/b53d0dcc-9ab5-4cd4-8afd-65680176ce29",
+                    "price": 19900,
+                    "title": "Pizza Vegetariano",
+                    "uuid": "fdcb225c-d2a2-4715-aaa2-157b09197b61",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "39a598a9-858c-4b06-94c6-d5f63d4bd9d5": {
+                    "description": "Red onion, olives (black), cucumbers, sweet pepper, tomatoes, and feta cheese.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/c299978f-9f94-4ee1-ab1a-c8911d8f2f26",
+                    "price": 10900,
+                    "title": "Greek salad",
+                    "uuid": "39a598a9-858c-4b06-94c6-d5f63d4bd9d5",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "14732987-41e0-4fb4-a51e-e974aa453d3a": {
+                    "description": "Creamy sauce, mozzarella, ham, bacon, garlic, tomatoes, and Caesar sauce.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/94c31de9-5914-400f-9a8d-bbb742befcc3",
+                    "price": 22900,
+                    "title": "Pizza Ranch",
+                    "uuid": "14732987-41e0-4fb4-a51e-e974aa453d3a",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "52060a39-f4e2-42c8-a4b7-e8cad838f261": {
+                    "description": "Mineral water (glass) 500 ml.",
+                    "imageUrl": "",
+                    "price": 4900,
+                    "title": "Borjomi",
+                    "uuid": "52060a39-f4e2-42c8-a4b7-e8cad838f261",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "bffe914d-176d-4a77-b02d-04dc6b13a28a": {
+                    "description": "Sauce, mozzarella, ham, champignons, and olives.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/cb60a703-9d7c-4fd4-b31d-541e045c88c5",
+                    "price": 19900,
+                    "title": "Pizza Capricciosa",
+                    "uuid": "bffe914d-176d-4a77-b02d-04dc6b13a28a",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "8a726aca-229e-4794-9ae7-27648b96c923": {
+                    "description": "Sauce, mozzarella, pepperoni, ham, and champignons.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/b0c0c7df-8c61-4c6d-a846-7d363dd6cd02",
+                    "price": 19900,
+                    "title": "Pizza Tradizionale",
+                    "uuid": "8a726aca-229e-4794-9ae7-27648b96c923",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "c0efa256-73f9-4bd0-8cc5-c57af0eb91f7": {
+                    "description": "Sauce, mozzarella, ham, salami, pepperoni, chicken fillet, and onion.",
+                    "imageUrl": "",
+                    "price": 21900,
+                    "title": "Pizza Con Carne (Meat hunter)",
+                    "uuid": "c0efa256-73f9-4bd0-8cc5-c57af0eb91f7",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "8796fa2a-3291-440e-aad3-f67973aa67c4": {
+                    "description": "Sauce, pepperoni, and mozzarella.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/d31edeea-eccb-4bda-9e04-8df5286f90c0",
+                    "price": 19900,
+                    "title": "Pizza Pepperoni",
+                    "uuid": "8796fa2a-3291-440e-aad3-f67973aa67c4",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "7992ee86-e622-4ad7-b5fc-37e79a4b96b5": {
+                    "description": "Sauce, mozzarella, tomatoes, and oregano.\n",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/b38fabb2-758f-4760-9777-0e7f073b9136",
+                    "price": 16900,
+                    "title": "Pizza Margarita",
+                    "uuid": "7992ee86-e622-4ad7-b5fc-37e79a4b96b5",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "c79a18e0-a4c6-4abc-b705-3e615f143750": {
+                    "description": "Chili sauce, mozzarella, salami, hunter's (smoked) sausages, and Parmesan.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/0155a3a3-186a-401c-85ab-3d4704e2b9c4",
+                    "price": 19900,
+                    "title": "Pizza Diablo",
+                    "uuid": "c79a18e0-a4c6-4abc-b705-3e615f143750",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "09225537-56c9-47cc-b72b-9ad6dd5c8c92": {
+                    "description": "Sandora juice to choose.",
+                    "imageUrl": "",
+                    "price": 5900,
+                    "title": "Sandora",
+                    "uuid": "09225537-56c9-47cc-b72b-9ad6dd5c8c92",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "ca0468e3-d62c-4965-8a17-a140048a72b4": {
+                    "description": "Creamy sauce, mozzarella, Parmesan, gouda cheese, cheddar, and oregano.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/71e23dfa-b375-4bf6-9e5c-9d3c7bb74eae",
+                    "price": 21900,
+                    "title": "Pizza Quattro Formaggi",
+                    "uuid": "ca0468e3-d62c-4965-8a17-a140048a72b4",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "0f9dcb96-237f-4ab7-b2ab-80f404b31e35": {
+                    "description": "Sauce, mozzarella, and sea cocktail.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/62873483-400a-4885-bcaf-056e9c3edf4b",
+                    "price": 27900,
+                    "title": "Pizza Frutti di Mare (Lagoon)",
+                    "uuid": "0f9dcb96-237f-4ab7-b2ab-80f404b31e35",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                }
+            }
+        },
+        "sections": [
+            {
+                "subsectionUuids": [
+                    "e5fc664e-0f9c-4769-ab8f-4d1737ec42b2",
+                    "690eca55-8748-40cc-87f2-40ca6ee2ce98",
+                    "c1e78bb1-3020-4480-9897-2cb4398310da",
+                    "632ae03a-ae75-4674-a9b3-a3d56f93749e"
+                ],
+                "title": "SWITCH LANGUAGE (UKR)",
+                "subtitle": "10:00 AM – 10:00 PM",
+                "uuid": "faa31770-72d6-46b5-b7bf-00fd8dcd84f9",
+                "isTop": true,
+                "isOnSale": true
+            },
+            {
+                "subsectionUuids": [
+                    "f5a1dd9d-023e-4685-866b-750b39654825",
+                    "f520e32c-b4cd-483d-835d-fdfe7da8b2c4",
+                    "726de0cd-160d-464f-8e9d-da18ae24f699"
+                ],
+                "title": "SWITCH LANGUAGE (ENG)",
+                "subtitle": "10:00 AM – 10:00 PM",
+                "uuid": "5d04e5c4-41d3-4d6c-942c-f45722786ac6",
+                "isTop": false,
+                "isOnSale": true
+            }
+        ],
+        "subsectionsMap": {
+            "c1e78bb1-3020-4480-9897-2cb4398310da": {
+                "itemUuids": [
+                    "38b47816-da28-4754-9089-2ee0afcbf475"
+                ],
+                "subtitle": "",
+                "title": "Салат",
+                "uuid": "c1e78bb1-3020-4480-9897-2cb4398310da",
+                "displayType": null
+            },
+            "632ae03a-ae75-4674-a9b3-a3d56f93749e": {
+                "itemUuids": [
+                    "9a28cd4b-43ee-4025-b95e-d12e1dcbd53c",
+                    "0f21a185-28c0-4243-bbe5-1ce63475d4c1",
+                    "de51ae6c-8724-455c-b1d3-b736af4050a8"
+                ],
+                "subtitle": "",
+                "title": "Напої",
+                "uuid": "632ae03a-ae75-4674-a9b3-a3d56f93749e",
+                "displayType": null
+            },
+            "690eca55-8748-40cc-87f2-40ca6ee2ce98": {
+                "itemUuids": [
+                    "0d82eecd-e2ba-472f-84a3-4bbc8a861d5b",
+                    "54b69bff-76f5-4040-b8c4-363ab443aa0b",
+                    "56957d57-3d15-4d4a-a41a-3d6089273b4b",
+                    "8cbf3889-5c40-4a0c-a501-dc2670682202",
+                    "0cfdff09-27a7-4663-8b7e-80c3f1d3f504",
+                    "6ff12f62-091c-4d0e-8fcc-fab3c9993b73",
+                    "34c3893b-e0f3-4282-910e-3b43acdd0512",
+                    "8c8a5047-b4c5-492a-b37d-dbb9e6a06aab",
+                    "26873726-f65e-4408-81da-46be25faeaa3",
+                    "0827d7d7-cbb1-47e4-9099-cc44c3389644"
+                ],
+                "subtitle": "",
+                "title": "Піца",
+                "uuid": "690eca55-8748-40cc-87f2-40ca6ee2ce98",
+                "displayType": null
+            },
+            "f5a1dd9d-023e-4685-866b-750b39654825": {
+                "itemUuids": [
+                    "7992ee86-e622-4ad7-b5fc-37e79a4b96b5",
+                    "ca0468e3-d62c-4965-8a17-a140048a72b4",
+                    "8a726aca-229e-4794-9ae7-27648b96c923",
+                    "c79a18e0-a4c6-4abc-b705-3e615f143750",
+                    "bffe914d-176d-4a77-b02d-04dc6b13a28a",
+                    "0f9dcb96-237f-4ab7-b2ab-80f404b31e35",
+                    "c0efa256-73f9-4bd0-8cc5-c57af0eb91f7",
+                    "fdcb225c-d2a2-4715-aaa2-157b09197b61",
+                    "14732987-41e0-4fb4-a51e-e974aa453d3a",
+                    "8796fa2a-3291-440e-aad3-f67973aa67c4"
+                ],
+                "subtitle": "",
+                "title": "Pizza",
+                "uuid": "f5a1dd9d-023e-4685-866b-750b39654825",
+                "displayType": null
+            },
+            "f520e32c-b4cd-483d-835d-fdfe7da8b2c4": {
+                "itemUuids": [
+                    "39a598a9-858c-4b06-94c6-d5f63d4bd9d5"
+                ],
+                "subtitle": "",
+                "title": "Salad",
+                "uuid": "f520e32c-b4cd-483d-835d-fdfe7da8b2c4",
+                "displayType": null
+            },
+            "726de0cd-160d-464f-8e9d-da18ae24f699": {
+                "itemUuids": [
+                    "09225537-56c9-47cc-b72b-9ad6dd5c8c92",
+                    "bbb68682-29d8-47d7-bcfe-d2b30191c68a",
+                    "52060a39-f4e2-42c8-a4b7-e8cad838f261"
+                ],
+                "subtitle": "",
+                "title": "Beverages",
+                "uuid": "726de0cd-160d-464f-8e9d-da18ae24f699",
+                "displayType": null
+            },
+            "e5fc664e-0f9c-4769-ab8f-4d1737ec42b2": {
+                "itemUuids": [
+                    "8c8a5047-b4c5-492a-b37d-dbb9e6a06aab",
+                    "0cfdff09-27a7-4663-8b7e-80c3f1d3f504",
+                    "0827d7d7-cbb1-47e4-9099-cc44c3389644",
+                    "54b69bff-76f5-4040-b8c4-363ab443aa0b",
+                    "38b47816-da28-4754-9089-2ee0afcbf475"
+                ],
+                "subtitle": "",
+                "title": "Популярне",
+                "uuid": "e5fc664e-0f9c-4769-ab8f-4d1737ec42b2",
+                "displayType": null
+            }
+        },
+        "title": "Napoli-Pizza",
+        "uuid": "cf68d4ec-4f37-4ac7-bb97-ec12b49d7d83",
+        "categories": [
+            "₴₴",
+            "Італійська",
+            "Піца"
+        ],
+        "cuisineList": [
+            "Італійська",
+            "Піца"
+        ],
+        "priceBucket": "₴₴",
+        "etaRange": {
+            "text": "40–50 min",
+            "iconUrl": ""
+        },
+        "ratingBadge": {
+            "text": "<span><span style=\"font-family: inherit; color: #3a3a48;\">4.1 <img src=\"https://d1a3f4spazzrp4.cloudfront.net/static/images/Star_Black_Eats_3.png\" width=\"14\" height=\"14\" vertical-align=\"middle\"> </span><span style=\"font-family: inherit; color: #757575;\">(73)</span></span>"
+        },
+        "disclaimerBadge": null,
+        "fareBadge": null,
+        "fareInfo": {
+            "serviceFee": 30,
+            "serviceFeeCents": 3000
+        },
+        "promotion": null,
+        "shouldIndex": true,
+        "heroImageUrls": [
+            {
+                "url": "https://d1ralsognjng37.cloudfront.net/8f47c7ac-8e15-468b-8017-3d2d82630d5e",
+                "width": 240
+            },
+            {
+                "url": "https://d1ralsognjng37.cloudfront.net/8fe50d84-eee6-47dc-ab6b-22218d9910ca",
+                "width": 550
+            },
+            {
+                "url": "https://d1ralsognjng37.cloudfront.net/9c9f6921-6d73-4820-88db-5f631d0cfe12",
+                "width": 640
+            },
+            {
+                "url": "https://d1ralsognjng37.cloudfront.net/62ca8106-0e17-47e3-a890-d9382d993672",
+                "width": 750
+            },
+            {
+                "url": "https://d1ralsognjng37.cloudfront.net/67ddbbce-cb6e-4f48-b186-362f62d49f80",
+                "width": 1080
+            },
+            {
+                "url": "https://d1ralsognjng37.cloudfront.net/be3bae86-fa56-490e-b0fd-db0e68fbbddc",
+                "width": 2880
+            }
+        ],
+        "isOpen": true,
+        "currencyCode": "UAH",
+        "closedMessage": "Currently unavailable",
+        "location": {
+            "address": "Hlybochytska St, 33/37, Kyiv, Kyiv city 02000",
+            "streetAddress": "Hlybochytska St, 33/37",
+            "city": "Kyiv",
+            "country": "UA",
+            "postalCode": "02000",
+            "region": "Kyiv city",
+            "latitude": 50.462782,
+            "longitude": 30.494972
+        },
+        "isDeliveryThirdParty": false,
+        "hours": [
+            {
+                "dayRange": "Every Day",
+                "sectionHours": [
+                    {
+                        "startTime": 600,
+                        "endTime": 1320,
+                        "sectionTitle": "SWITCH LANGUAGE (UKR)"
+                    },
+                    {
+                        "startTime": 600,
+                        "endTime": 1320,
+                        "sectionTitle": "SWITCH LANGUAGE (ENG)"
+                    }
+                ]
+            }
+        ],
+        "disableOrderInstruction": false,
+        "disableCheckoutInstruction": false,
+        "nuggets": [],
+        "isWithinDeliveryRange": false,
+        "slug": "napoli-pizza",
+        "citySlug": "kyiv",
+        "phoneNumber": "+380933662527",
+        "metaJson": "{\"@context\":\"http:\\u002F\\u002Fschema.org\",\"@type\":\"Restaurant\",\"@id\":\"https:\\u002F\\u002Fwww.ubereats.com\\u002Fen-UA\\u002Fkyiv\\u002Ffood-delivery\\u002Fnapoli-pizza\\u002Fz2jU7E83Sse7l-wStJ19gw\\u002F\",\"name\":\"Napoli-Pizza\",\"priceRange\":\"₴₴\",\"potentialAction\":{\"@type\":\"OrderAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\\u002F\\u002Fwww.ubereats.com\\u002Fen-UA\\u002Fkyiv\\u002Ffood-delivery\\u002Fnapoli-pizza\\u002Fz2jU7E83Sse7l-wStJ19gw\\u002F?utm_campaign=order-action&utm_medium=organic\",\"inLanguage\":\"English\",\"actionPlatform\":[\"http:\\u002F\\u002Fschema.org\\u002FDesktopWebPlatform\",\"http:\\u002F\\u002Fschema.org\\u002FMobileWebPlatform\"]},\"deliveryMethod\":[\"http:\\u002F\\u002Fpurl.org\\u002Fgoodrelations\\u002Fv1#DeliveryModeOwnFleet\"]},\"address\":{\"@type\":\"PostalAddress\",\"addressLocality\":\"Kyiv\",\"addressRegion\":\"Kyiv city\",\"postalCode\":\"02000\",\"addressCountry\":\"UA\",\"streetAddress\":\"Hlybochytska St, 33\\u002F37\"},\"geo\":{\"@type\":\"GeoCoordinates\",\"latitude\":50.462782,\"longitude\":30.494972}}",
+        "promoTrackings": [],
+        "suggestedPromotion": {
+            "text": "",
+            "promotionUuid": ""
+        },
+        "supportedDiningModes": [
+            {
+                "mode": "DELIVERY",
+                "title": "Delivery",
+                "isSelected": true,
+                "isAvailable": true
+            }
+        ],
+        "isPreview": false,
+        "pinnedInfo": null
+    }
+}

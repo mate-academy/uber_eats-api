@@ -1,0 +1,683 @@
+{
+    "status": "success",
+    "data": {
+        "sectionEntitiesMap": {
+            "8e49006f-ca78-4421-a9f0-50dd4d8a5e3e": {
+                "091d0b09-4a2a-460a-9c85-7f820d47dfae": {
+                    "description": "+ Кока кола (500мл).\n222г.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/fdd7212b-0b2f-4a97-9740-2b7b06a32296",
+                    "price": 6800,
+                    "title": "Веганський хот-дог з подвійною сосискою меню",
+                    "uuid": "091d0b09-4a2a-460a-9c85-7f820d47dfae",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "endorsement": {
+                        "text": "Вегетаріанська страва",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png"
+                    },
+                    "classifications": []
+                },
+                "864f75b3-2900-41e2-a50e-feb23b9ece5d": {
+                    "description": "Наливка 0,5 яблучна 17%",
+                    "imageUrl": null,
+                    "price": 21500,
+                    "title": "Наливка яблучна Biliy Naliv 0,5",
+                    "uuid": "864f75b3-2900-41e2-a50e-feb23b9ece5d",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "bb73b6b0-8458-4cce-afce-98c223b30b47": {
+                    "description": null,
+                    "imageUrl": null,
+                    "price": 3900,
+                    "title": "Пиріг з яблуком",
+                    "uuid": "bb73b6b0-8458-4cce-afce-98c223b30b47",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "b795caaf-0851-4f67-b7ee-245b7aedb2fe": {
+                    "description": null,
+                    "imageUrl": null,
+                    "price": 5800,
+                    "title": "Пиріг з куркою +кола",
+                    "uuid": "b795caaf-0851-4f67-b7ee-245b7aedb2fe",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "7bbec788-176e-490c-85d1-32f90825ac4c": {
+                    "description": "Солодка,пряна наливка яблучна 17% алкоголю",
+                    "imageUrl": null,
+                    "price": 7900,
+                    "title": "Наливка Biliy Naliv 0,2",
+                    "uuid": "7bbec788-176e-490c-85d1-32f90825ac4c",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "a9742537-cf8f-4dab-b236-2203a4b483bd": {
+                    "description": "Авоська (сітка) , Кальвадос 0.5 та кола 0.5",
+                    "imageUrl": null,
+                    "price": 29900,
+                    "title": "Авоська Кальвадос",
+                    "uuid": "a9742537-cf8f-4dab-b236-2203a4b483bd",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "9163204a-d179-4e04-9371-95022b27e012": {
+                    "description": "+ Кока кола (330мл).\n162г.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/dee95d68-eb46-4323-86f8-cc87dae65f43",
+                    "price": 5800,
+                    "title": "Веганський хот-дог меню",
+                    "uuid": "9163204a-d179-4e04-9371-95022b27e012",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "endorsement": {
+                        "text": "Вегетаріанська страва",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png"
+                    },
+                    "classifications": []
+                },
+                "ce6ef11e-8f6f-4516-9da7-372e81fa9056": {
+                    "description": "Кальвадос яблучний 40% , 0,5",
+                    "imageUrl": null,
+                    "price": 29000,
+                    "title": "Кальвадос 0,5",
+                    "uuid": "ce6ef11e-8f6f-4516-9da7-372e81fa9056",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "9bcc751a-9318-4ff1-97bd-1113c6c40e29": {
+                    "description": "Авоська (сітка) , сидр 0.7 та наливка 0.2",
+                    "imageUrl": null,
+                    "price": 19900,
+                    "title": "Авоська ",
+                    "uuid": "9bcc751a-9318-4ff1-97bd-1113c6c40e29",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "5e2b56bb-93c1-480f-b214-697e68bfe9ce": {
+                    "description": "500мл.",
+                    "imageUrl": "",
+                    "price": 1900,
+                    "title": "Кока-Кола",
+                    "uuid": "5e2b56bb-93c1-480f-b214-697e68bfe9ce",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "ce693357-a37b-4a86-b02a-bc054b43ff6c": {
+                    "description": "+ Кока кола (500мл).\n244г.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/fb03ea8e-fbb8-4d8e-8893-0439225b0ee3",
+                    "price": 6800,
+                    "title": "Класичний хот-дог з подвійною сосискою меню",
+                    "uuid": "ce693357-a37b-4a86-b02a-bc054b43ff6c",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "54fa3b4f-e34f-4f36-8a6c-a66ec3a5eb5c": {
+                    "description": "500мл.",
+                    "imageUrl": "",
+                    "price": 1900,
+                    "title": "BonAqua/Бонаква",
+                    "uuid": "54fa3b4f-e34f-4f36-8a6c-a66ec3a5eb5c",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "43c70aed-d0f1-4e16-8680-771539a064e9": {
+                    "description": "Сидр яблучний ,напівсолодкий  (5%) . \n0,75 л \n",
+                    "imageUrl": null,
+                    "price": 9900,
+                    "title": "Сидр Biliy Naliv",
+                    "uuid": "43c70aed-d0f1-4e16-8680-771539a064e9",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "ac05ac18-e9ad-4165-964d-a70e7c9c8624": {
+                    "description": "+ Кока кола (500мл).\n174г.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/c528c1c9-d90c-4b0f-85a0-ee9502fd10c2",
+                    "price": 5800,
+                    "title": "Класичний хот-дог меню",
+                    "uuid": "ac05ac18-e9ad-4165-964d-a70e7c9c8624",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "111c4e1d-06bc-4e6e-ad77-e089f8f1f874": {
+                    "description": "Авоська (сітка) , сидр 0.7 , наливка 0.5 та наливка 0.2",
+                    "imageUrl": null,
+                    "price": 29900,
+                    "title": "Авоська МАХ",
+                    "uuid": "111c4e1d-06bc-4e6e-ad77-e089f8f1f874",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                }
+            },
+            "82361989-7e12-4111-84a3-a88372bb263d": {
+                "5d27d76c-bd6f-4a41-a22f-b8395085ab3c": {
+                    "description": "500ml.",
+                    "imageUrl": "",
+                    "price": 1900,
+                    "title": "Coca-Cola",
+                    "uuid": "5d27d76c-bd6f-4a41-a22f-b8395085ab3c",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "9646896b-be97-4ca4-a8f8-5daca5bd1816": {
+                    "description": "+ Coca-Cola (330ml).\n162g.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/980dc030-b5bc-46f1-8a19-e5ce2f52a96f",
+                    "price": 5800,
+                    "title": "Vegan Hot Dog Menu",
+                    "uuid": "9646896b-be97-4ca4-a8f8-5daca5bd1816",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "endorsement": {
+                        "text": "Vegetarian",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png"
+                    },
+                    "classifications": []
+                },
+                "445564ca-1481-41b5-9a48-93669e12856f": {
+                    "description": "500ml.",
+                    "imageUrl": "",
+                    "price": 1900,
+                    "title": "Bottled water",
+                    "uuid": "445564ca-1481-41b5-9a48-93669e12856f",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "2c2708c5-11e0-47f4-af6e-3ce548da4aed": {
+                    "description": "40% of alcohol",
+                    "imageUrl": null,
+                    "price": 29000,
+                    "title": "Calvados 0,5",
+                    "uuid": "2c2708c5-11e0-47f4-af6e-3ce548da4aed",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "43c70aed-d0f1-4e16-8680-771539a064e9": {
+                    "description": "Сидр яблучний ,напівсолодкий  (5%) . \n0,75 л \n",
+                    "imageUrl": null,
+                    "price": 9900,
+                    "title": "Сидр Biliy Naliv",
+                    "uuid": "43c70aed-d0f1-4e16-8680-771539a064e9",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "b0d5a6ec-5fb6-4839-bf60-7788a7579085": {
+                    "description": null,
+                    "imageUrl": null,
+                    "price": 3900,
+                    "title": "Apple pie",
+                    "uuid": "b0d5a6ec-5fb6-4839-bf60-7788a7579085",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "bd0418bb-0321-4f69-b030-44521ac0c839": {
+                    "description": "+ Coca-Cola (330ml).\n244g.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/debee1ab-c566-47e6-8e52-70bd014667ef",
+                    "price": 6800,
+                    "title": "Classic Hot Dog with double sausage Menu",
+                    "uuid": "bd0418bb-0321-4f69-b030-44521ac0c839",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "9bde18c5-532c-4c67-8523-551fd3d99b0c": {
+                    "description": "Avoska (handmade mash bag) , apple liqueur 0.2 + 0.5 and cider 0.7",
+                    "imageUrl": null,
+                    "price": 29900,
+                    "title": "Avoska MAX",
+                    "uuid": "9bde18c5-532c-4c67-8523-551fd3d99b0c",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "4919ca40-5910-41cf-bb49-7180f0b2901b": {
+                    "description": "+ Coca-Cola (330ml).\n222g.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/439b0c3e-7cda-4c18-82dc-1473e6108082",
+                    "price": 6800,
+                    "title": "Vegan Hot Dog with double sausage Menu",
+                    "uuid": "4919ca40-5910-41cf-bb49-7180f0b2901b",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "endorsement": {
+                        "text": "Vegetarian",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png"
+                    },
+                    "classifications": []
+                },
+                "579442c0-15b1-4626-a7bb-95fee8159af7": {
+                    "description": null,
+                    "imageUrl": null,
+                    "price": 7900,
+                    "title": "Apple liqueur Biliy Naliv 0,2",
+                    "uuid": "579442c0-15b1-4626-a7bb-95fee8159af7",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "3d5a1c9d-aced-472e-8b9e-59d02dc3de06": {
+                    "description": null,
+                    "imageUrl": null,
+                    "price": 21500,
+                    "title": "Apple Liqueur Biliy Naliv 0,5",
+                    "uuid": "3d5a1c9d-aced-472e-8b9e-59d02dc3de06",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "9878e0da-1c0e-40b2-9479-57ba1e70a3a3": {
+                    "description": "+ Coca-Cola (330ml).\n174g.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/a1612435-8c7d-41f3-8c12-b8d7ca998c85",
+                    "price": 5800,
+                    "title": "Classic Hot Dog Menu",
+                    "uuid": "9878e0da-1c0e-40b2-9479-57ba1e70a3a3",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "e378e99b-3984-4c89-badc-136e55541d1c": {
+                    "description": "Avoska (handmade mash bag) , Calvados 0.5 + Coca-cola 0.5",
+                    "imageUrl": null,
+                    "price": 29900,
+                    "title": "Avoska Calvados",
+                    "uuid": "e378e99b-3984-4c89-badc-136e55541d1c",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "c2c440ca-ee03-4bda-8633-cba40bac0399": {
+                    "description": "Сидр яблочный , полусладкий, слабоалкогольный (5%) . \n0,75 л \n",
+                    "imageUrl": null,
+                    "price": 9900,
+                    "title": "Apple Cider Biliy Naliv",
+                    "uuid": "c2c440ca-ee03-4bda-8633-cba40bac0399",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "a3774beb-552f-469b-8d7d-0daa655edabc": {
+                    "description": "Avoska ( handmade mesh bag) , apple liqueur 0.2 and cider 0.7 ",
+                    "imageUrl": null,
+                    "price": 19900,
+                    "title": "Avoska ",
+                    "uuid": "a3774beb-552f-469b-8d7d-0daa655edabc",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "7bbec788-176e-490c-85d1-32f90825ac4c": {
+                    "description": "Солодка,пряна наливка яблучна 17% алкоголю",
+                    "imageUrl": null,
+                    "price": 7900,
+                    "title": "Наливка Biliy Naliv 0,2",
+                    "uuid": "7bbec788-176e-490c-85d1-32f90825ac4c",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                }
+            }
+        },
+        "sections": [
+            {
+                "subsectionUuids": [
+                    "6b11c9e4-912e-41d2-8f3c-972b54856c84",
+                    "db5a85ce-1e9f-4c00-ab72-d216e0f53710"
+                ],
+                "title": "SWITCH LANGUAGE (UKR)",
+                "subtitle": "10:00 AM – 10:00 PM",
+                "uuid": "8e49006f-ca78-4421-a9f0-50dd4d8a5e3e",
+                "isTop": true,
+                "isOnSale": true
+            },
+            {
+                "subsectionUuids": [
+                    "536febc0-9316-4c74-8662-8019317d050c",
+                    "9eb7f8cb-e29d-4d19-b52b-8a5d75e7c1ac"
+                ],
+                "title": "SWITCH LANGUAGE (ENG)",
+                "subtitle": "10:00 AM – 10:00 PM",
+                "uuid": "82361989-7e12-4111-84a3-a88372bb263d",
+                "isTop": false,
+                "isOnSale": true
+            }
+        ],
+        "subsectionsMap": {
+            "db5a85ce-1e9f-4c00-ab72-d216e0f53710": {
+                "itemUuids": [
+                    "54fa3b4f-e34f-4f36-8a6c-a66ec3a5eb5c",
+                    "5e2b56bb-93c1-480f-b214-697e68bfe9ce",
+                    "43c70aed-d0f1-4e16-8680-771539a064e9",
+                    "7bbec788-176e-490c-85d1-32f90825ac4c",
+                    "864f75b3-2900-41e2-a50e-feb23b9ece5d",
+                    "ce6ef11e-8f6f-4516-9da7-372e81fa9056",
+                    "9bcc751a-9318-4ff1-97bd-1113c6c40e29",
+                    "111c4e1d-06bc-4e6e-ad77-e089f8f1f874",
+                    "a9742537-cf8f-4dab-b236-2203a4b483bd"
+                ],
+                "subtitle": "",
+                "title": "Напої",
+                "uuid": "db5a85ce-1e9f-4c00-ab72-d216e0f53710",
+                "displayType": null
+            },
+            "536febc0-9316-4c74-8662-8019317d050c": {
+                "itemUuids": [
+                    "9646896b-be97-4ca4-a8f8-5daca5bd1816",
+                    "4919ca40-5910-41cf-bb49-7180f0b2901b",
+                    "9878e0da-1c0e-40b2-9479-57ba1e70a3a3",
+                    "bd0418bb-0321-4f69-b030-44521ac0c839",
+                    "b0d5a6ec-5fb6-4839-bf60-7788a7579085"
+                ],
+                "subtitle": "",
+                "title": "Dishes",
+                "uuid": "536febc0-9316-4c74-8662-8019317d050c",
+                "displayType": null
+            },
+            "9eb7f8cb-e29d-4d19-b52b-8a5d75e7c1ac": {
+                "itemUuids": [
+                    "445564ca-1481-41b5-9a48-93669e12856f",
+                    "5d27d76c-bd6f-4a41-a22f-b8395085ab3c",
+                    "43c70aed-d0f1-4e16-8680-771539a064e9",
+                    "c2c440ca-ee03-4bda-8633-cba40bac0399",
+                    "7bbec788-176e-490c-85d1-32f90825ac4c",
+                    "579442c0-15b1-4626-a7bb-95fee8159af7",
+                    "3d5a1c9d-aced-472e-8b9e-59d02dc3de06",
+                    "2c2708c5-11e0-47f4-af6e-3ce548da4aed",
+                    "a3774beb-552f-469b-8d7d-0daa655edabc",
+                    "9bde18c5-532c-4c67-8523-551fd3d99b0c",
+                    "e378e99b-3984-4c89-badc-136e55541d1c"
+                ],
+                "subtitle": "",
+                "title": "Drinks",
+                "uuid": "9eb7f8cb-e29d-4d19-b52b-8a5d75e7c1ac",
+                "displayType": null
+            },
+            "6b11c9e4-912e-41d2-8f3c-972b54856c84": {
+                "itemUuids": [
+                    "9163204a-d179-4e04-9371-95022b27e012",
+                    "091d0b09-4a2a-460a-9c85-7f820d47dfae",
+                    "ac05ac18-e9ad-4165-964d-a70e7c9c8624",
+                    "ce693357-a37b-4a86-b02a-bc054b43ff6c",
+                    "bb73b6b0-8458-4cce-afce-98c223b30b47",
+                    "b795caaf-0851-4f67-b7ee-245b7aedb2fe"
+                ],
+                "subtitle": "",
+                "title": "Страви",
+                "uuid": "6b11c9e4-912e-41d2-8f3c-972b54856c84",
+                "displayType": null
+            }
+        },
+        "title": "Білий Налив (вул. Г. Кірпи)",
+        "uuid": "b1ece763-fc76-437a-b0c7-d38eedc45c34",
+        "categories": [
+            "₴",
+            "Американська",
+            "Вулична їжа",
+            "Для вегетаріанців"
+        ],
+        "cuisineList": [
+            "Американська",
+            "Вулична їжа",
+            "Для вегетаріанців"
+        ],
+        "priceBucket": "₴",
+        "etaRange": {
+            "text": "25–35 min",
+            "iconUrl": ""
+        },
+        "ratingBadge": {
+            "text": "<span><span style=\"font-family: inherit; color: #3a3a48;\">4.5 <img src=\"https://d1a3f4spazzrp4.cloudfront.net/static/images/Star_Yellow_Eats_3.png\" width=\"14\" height=\"14\" vertical-align=\"middle\"> </span><span style=\"font-family: inherit; color: #757575;\">(31)</span></span>"
+        },
+        "disclaimerBadge": null,
+        "fareBadge": null,
+        "fareInfo": {
+            "serviceFee": 30,
+            "serviceFeeCents": 3000
+        },
+        "promotion": null,
+        "shouldIndex": true,
+        "heroImageUrls": [
+            {
+                "url": "https://d1ralsognjng37.cloudfront.net/78efea07-228c-483e-8dbc-47aaa9ea4acb",
+                "width": 240
+            },
+            {
+                "url": "https://d1ralsognjng37.cloudfront.net/3a8b0d4c-ab44-495e-a416-ebc2d1928141",
+                "width": 550
+            },
+            {
+                "url": "https://d1ralsognjng37.cloudfront.net/910f068f-23bc-422d-bcb5-458720cd5d1a",
+                "width": 640
+            },
+            {
+                "url": "https://d1ralsognjng37.cloudfront.net/57bdfb55-6fa6-46bd-9b44-248a1275955e",
+                "width": 750
+            },
+            {
+                "url": "https://d1ralsognjng37.cloudfront.net/50e397d8-10fb-40fc-9999-79282914ddde",
+                "width": 1080
+            },
+            {
+                "url": "https://d1ralsognjng37.cloudfront.net/2807e20a-8d19-4f87-b869-4e2e664d64c9",
+                "width": 2880
+            }
+        ],
+        "isOpen": true,
+        "currencyCode": "UAH",
+        "closedMessage": "Currently unavailable",
+        "location": {
+            "address": "Heorhiia Kirpy St, 4, Kyiv, 03035",
+            "streetAddress": "Heorhiia Kirpy St, 4",
+            "city": "Kyiv",
+            "country": "UA",
+            "postalCode": "03035",
+            "region": "",
+            "latitude": 50.4399281,
+            "longitude": 30.4885747
+        },
+        "isDeliveryThirdParty": false,
+        "hours": [
+            {
+                "dayRange": "Every Day",
+                "sectionHours": [
+                    {
+                        "startTime": 600,
+                        "endTime": 1320,
+                        "sectionTitle": "SWITCH LANGUAGE (UKR)"
+                    },
+                    {
+                        "startTime": 600,
+                        "endTime": 1320,
+                        "sectionTitle": "SWITCH LANGUAGE (ENG)"
+                    }
+                ]
+            }
+        ],
+        "disableOrderInstruction": false,
+        "disableCheckoutInstruction": false,
+        "nuggets": [],
+        "isWithinDeliveryRange": false,
+        "slug": "білии-налив-вул-г-кірпи",
+        "citySlug": "kyiv",
+        "phoneNumber": "+380970841131",
+        "metaJson": "{\"@context\":\"http:\\u002F\\u002Fschema.org\",\"@type\":\"Restaurant\",\"@id\":\"https:\\u002F\\u002Fwww.ubereats.com\\u002Fen-UA\\u002Fkyiv\\u002Ffood-delivery\\u002F%D0%B1%D1%96%D0%BB%D0%B8%D0%B8-%D0%BD%D0%B0%D0%BB%D0%B8%D0%B2-%D0%B2%D1%83%D0%BB-%D0%B3-%D0%BA%D1%96%D1%80%D0%BF%D0%B8\\u002FseznY_x2Q3qwx9OO7cRcNA\\u002F\",\"name\":\"Білий Налив (вул. Г. Кірпи)\",\"priceRange\":\"₴\",\"potentialAction\":{\"@type\":\"OrderAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\\u002F\\u002Fwww.ubereats.com\\u002Fen-UA\\u002Fkyiv\\u002Ffood-delivery\\u002F%D0%B1%D1%96%D0%BB%D0%B8%D0%B8-%D0%BD%D0%B0%D0%BB%D0%B8%D0%B2-%D0%B2%D1%83%D0%BB-%D0%B3-%D0%BA%D1%96%D1%80%D0%BF%D0%B8\\u002FseznY_x2Q3qwx9OO7cRcNA\\u002F?utm_campaign=order-action&utm_medium=organic\",\"inLanguage\":\"English\",\"actionPlatform\":[\"http:\\u002F\\u002Fschema.org\\u002FDesktopWebPlatform\",\"http:\\u002F\\u002Fschema.org\\u002FMobileWebPlatform\"]},\"deliveryMethod\":[\"http:\\u002F\\u002Fpurl.org\\u002Fgoodrelations\\u002Fv1#DeliveryModeOwnFleet\"]},\"address\":{\"@type\":\"PostalAddress\",\"addressLocality\":\"Kyiv\",\"addressRegion\":\"\",\"postalCode\":\"03035\",\"addressCountry\":\"UA\",\"streetAddress\":\"Heorhiia Kirpy St, 4\"},\"geo\":{\"@type\":\"GeoCoordinates\",\"latitude\":50.4399281,\"longitude\":30.4885747}}",
+        "promoTrackings": [],
+        "suggestedPromotion": {
+            "text": "",
+            "promotionUuid": ""
+        },
+        "supportedDiningModes": [
+            {
+                "mode": "DELIVERY",
+                "title": "Delivery",
+                "isSelected": true,
+                "isAvailable": true
+            }
+        ],
+        "isPreview": false,
+        "pinnedInfo": null
+    }
+}

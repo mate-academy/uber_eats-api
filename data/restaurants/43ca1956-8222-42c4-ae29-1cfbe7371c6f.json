@@ -1,0 +1,406 @@
+{
+    "status": "success",
+    "data": {
+        "sectionEntitiesMap": {
+            "d90dc509-5c1c-41e1-9ef1-26ae992a5eb6": {
+                "324b025f-217a-4999-b463-62cc6c875513": {
+                    "description": "Sparkling or still water 250ml.",
+                    "imageUrl": null,
+                    "price": 3900,
+                    "title": "Bonaqua water",
+                    "uuid": "324b025f-217a-4999-b463-62cc6c875513",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "2bf17695-342b-40a6-a520-c373dff96092": {
+                    "description": "330ml.",
+                    "imageUrl": null,
+                    "price": 3900,
+                    "title": "Coca-Cola",
+                    "uuid": "2bf17695-342b-40a6-a520-c373dff96092",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "1089effd-b204-4f5f-8c3d-2b310d41eb25": {
+                    "description": "Burger (167g), potato dips with cheese sauce (220g), Coca-cola (330ml).",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/341e545e-6a68-4d03-a838-bf6012c08d6c",
+                    "price": 13700,
+                    "title": "Surf&Turf BURGER Set",
+                    "uuid": "1089effd-b204-4f5f-8c3d-2b310d41eb25",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "87b1ecbb-7b68-4d1c-9ea6-a3749e100e31": {
+                    "description": "Sandwich with mildly salted herring (175g), potato dips with cheese sauce (220g), Coca-cola (330ml).",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/234cc181-58e6-43d5-a03d-6b0a5345f2c7",
+                    "price": 11700,
+                    "title": "Sandwich with mildly salted herring Set",
+                    "uuid": "87b1ecbb-7b68-4d1c-9ea6-a3749e100e31",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "363c46b5-1237-406e-bb31-fbf713a008e1": {
+                    "description": "Sandwich with grilled mackerel (175g), potato dips with cheese sauce (220g), Coca-cola (330ml).",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/bd0e30df-e3d2-44e5-8368-a7e05f534a62",
+                    "price": 11700,
+                    "title": "Sandwich with grilled mackerel Set",
+                    "uuid": "363c46b5-1237-406e-bb31-fbf713a008e1",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "1d48468c-dc39-4595-833f-e20616e52736": {
+                    "description": "Blacksea shrimps, whiteleg shrimps. and Argentinian shrimps (440g).",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/c01f163d-9e1b-4cc9-8684-b72f43b6a915",
+                    "price": 23400,
+                    "title": "Shrimp plato",
+                    "uuid": "1d48468c-dc39-4595-833f-e20616e52736",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "fae7c2de-b749-4a83-b2c8-8342e37f4788": {
+                    "description": "Baby octopus, squid, baby cuttlefish, Argentinian shrimps, and potato dips with cheese sauce (630g).",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/c2262bdd-ed4b-4fa6-9634-1ee728f0c493",
+                    "price": 25900,
+                    "title": "Grilled Plato XL",
+                    "uuid": "fae7c2de-b749-4a83-b2c8-8342e37f4788",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                }
+            },
+            "7bd271b6-3b4c-472f-bfd7-616fae946e0e": {
+                "80903cf9-f015-4261-b12e-faf34bed8d41": {
+                    "description": "Cендвіч зі скумбрією гриль (175г), картопельні діпи з сирним соусом (220г), Кока-кола (330мл).",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/a62f9be7-bbed-4f1d-8abc-7ab8b501cee9",
+                    "price": 11700,
+                    "title": "Меню сендвіч зі скумбрією гриль",
+                    "uuid": "80903cf9-f015-4261-b12e-faf34bed8d41",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "5073bea4-77e4-4faa-883a-51bb14fff940": {
+                    "description": "Чорноморські креветки, креветка білонога , креветка аргентинська (440г).",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/08b337f9-6249-4158-881a-9e85eccd0041",
+                    "price": 23400,
+                    "title": "Плато креветок",
+                    "uuid": "5073bea4-77e4-4faa-883a-51bb14fff940",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "1eff65bd-df5a-46fc-a863-28a320f42e53": {
+                    "description": "Восьминіг бейбі, кальмар, каракатиця бейбі, креветка аргентинська, картопляні діпи з сирним соусом (320г).",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/4be1d75c-dd7e-4bda-95fb-a090cc0c0de3",
+                    "price": 25900,
+                    "title": "Плато гаряче XL",
+                    "uuid": "1eff65bd-df5a-46fc-a863-28a320f42e53",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "e2b95e0c-8c41-48d5-817a-d27f9b414e7b": {
+                    "description": "Газована або негазована 250мл.",
+                    "imageUrl": null,
+                    "price": 3900,
+                    "title": "Вода Бонаква",
+                    "uuid": "e2b95e0c-8c41-48d5-817a-d27f9b414e7b",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "d1709090-6d12-4e8b-9040-50c4424560df": {
+                    "description": "330мл.",
+                    "imageUrl": null,
+                    "price": 3900,
+                    "title": "Кока-кола",
+                    "uuid": "d1709090-6d12-4e8b-9040-50c4424560df",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "56b45eec-af11-4cc6-bded-f2248b2b2a7e": {
+                    "description": "Бургер (167г), картопляні діпи з сирним соусом (220г), Кока-кола (330мл).",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/6d309ed6-1ac0-43be-93d9-42f11a7628a0",
+                    "price": 13700,
+                    "title": "Меню Бургер suft&turf з креветками та м'ясом",
+                    "uuid": "56b45eec-af11-4cc6-bded-f2248b2b2a7e",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "90ece254-3539-47d1-a335-20dedb163bf4": {
+                    "description": "Сендвіч з голандським оселедцем (175г), картопельні діпи з сирним соусом (220г), Кока-кола (330мл).",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/34c78f1e-5c57-4bd1-bdca-b1d9cb4c2992",
+                    "price": 11700,
+                    "title": "Меню Сендвіч з голандським оселедцем",
+                    "uuid": "90ece254-3539-47d1-a335-20dedb163bf4",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                }
+            }
+        },
+        "sections": [
+            {
+                "subsectionUuids": [
+                    "739f6bea-9df2-4d1e-a9b4-782e94f57ecc",
+                    "e4a496ee-2816-4b5a-8ae4-695babd34595",
+                    "94ff6ca2-7006-457b-a156-da247765ee1b"
+                ],
+                "title": "SWITCH LANGUAGE (UKR)",
+                "subtitle": "10:00 AM – 10:00 PM",
+                "uuid": "7bd271b6-3b4c-472f-bfd7-616fae946e0e",
+                "isTop": true,
+                "isOnSale": true
+            },
+            {
+                "subsectionUuids": [
+                    "0bad9860-c713-4c24-9829-8ca224c3a856",
+                    "cfbccab8-cca5-48a7-ba90-634b94d4f740",
+                    "8f8f8ec8-ecab-404c-a051-f277023220a1"
+                ],
+                "title": "SWITCH LANGUAGE (ENG)",
+                "subtitle": "10:00 AM – 10:00 PM",
+                "uuid": "d90dc509-5c1c-41e1-9ef1-26ae992a5eb6",
+                "isTop": false,
+                "isOnSale": true
+            }
+        ],
+        "subsectionsMap": {
+            "739f6bea-9df2-4d1e-a9b4-782e94f57ecc": {
+                "itemUuids": [
+                    "56b45eec-af11-4cc6-bded-f2248b2b2a7e",
+                    "90ece254-3539-47d1-a335-20dedb163bf4",
+                    "80903cf9-f015-4261-b12e-faf34bed8d41"
+                ],
+                "subtitle": null,
+                "title": "Бургер і сендвіч меню",
+                "uuid": "739f6bea-9df2-4d1e-a9b4-782e94f57ecc",
+                "displayType": null
+            },
+            "94ff6ca2-7006-457b-a156-da247765ee1b": {
+                "itemUuids": [
+                    "e2b95e0c-8c41-48d5-817a-d27f9b414e7b",
+                    "d1709090-6d12-4e8b-9040-50c4424560df"
+                ],
+                "subtitle": null,
+                "title": "Напої",
+                "uuid": "94ff6ca2-7006-457b-a156-da247765ee1b",
+                "displayType": null
+            },
+            "0bad9860-c713-4c24-9829-8ca224c3a856": {
+                "itemUuids": [
+                    "1089effd-b204-4f5f-8c3d-2b310d41eb25",
+                    "87b1ecbb-7b68-4d1c-9ea6-a3749e100e31",
+                    "363c46b5-1237-406e-bb31-fbf713a008e1"
+                ],
+                "subtitle": null,
+                "title": "Burger & Sandwich sets",
+                "uuid": "0bad9860-c713-4c24-9829-8ca224c3a856",
+                "displayType": null
+            },
+            "cfbccab8-cca5-48a7-ba90-634b94d4f740": {
+                "itemUuids": [
+                    "1d48468c-dc39-4595-833f-e20616e52736",
+                    "fae7c2de-b749-4a83-b2c8-8342e37f4788"
+                ],
+                "subtitle": null,
+                "title": "Apeeterizers",
+                "uuid": "cfbccab8-cca5-48a7-ba90-634b94d4f740",
+                "displayType": null
+            },
+            "8f8f8ec8-ecab-404c-a051-f277023220a1": {
+                "itemUuids": [
+                    "324b025f-217a-4999-b463-62cc6c875513",
+                    "2bf17695-342b-40a6-a520-c373dff96092"
+                ],
+                "subtitle": null,
+                "title": "Beverages",
+                "uuid": "8f8f8ec8-ecab-404c-a051-f277023220a1",
+                "displayType": null
+            },
+            "e4a496ee-2816-4b5a-8ae4-695babd34595": {
+                "itemUuids": [
+                    "5073bea4-77e4-4faa-883a-51bb14fff940",
+                    "1eff65bd-df5a-46fc-a863-28a320f42e53"
+                ],
+                "subtitle": null,
+                "title": "Закуски",
+                "uuid": "e4a496ee-2816-4b5a-8ae4-695babd34595",
+                "displayType": null
+            }
+        },
+        "title": "Mushlya Bar (вул. Хрещатик)",
+        "uuid": "43ca1956-8222-42c4-ae29-1cfbe7371c6f",
+        "categories": [
+            "₴₴",
+            "Закуски",
+            "Морепродукти",
+            "Бургери"
+        ],
+        "cuisineList": [
+            "Закуски",
+            "Морепродукти",
+            "Бургери"
+        ],
+        "priceBucket": "₴₴",
+        "etaRange": {
+            "text": "35–45 min",
+            "iconUrl": ""
+        },
+        "ratingBadge": {
+            "text": "<span><span style=\"font-family: inherit; color: #3a3a48;\">4.5 <img src=\"https://d1a3f4spazzrp4.cloudfront.net/static/images/Star_Yellow_Eats_3.png\" width=\"14\" height=\"14\" vertical-align=\"middle\"> </span><span style=\"font-family: inherit; color: #757575;\">(15)</span></span>"
+        },
+        "disclaimerBadge": null,
+        "fareBadge": null,
+        "fareInfo": {
+            "serviceFee": 30,
+            "serviceFeeCents": 3000
+        },
+        "promotion": null,
+        "shouldIndex": true,
+        "heroImageUrls": [
+            {
+                "url": "https://d1ralsognjng37.cloudfront.net/4bb8fe2f-04ee-459c-b3ee-2c5446539743",
+                "width": 240
+            },
+            {
+                "url": "https://d1ralsognjng37.cloudfront.net/1d86af4c-e8aa-4caf-b17b-9bfff0a5d474",
+                "width": 550
+            },
+            {
+                "url": "https://d1ralsognjng37.cloudfront.net/b20c5e68-12a4-4cbd-bb9c-c71859bccd61",
+                "width": 640
+            },
+            {
+                "url": "https://d1ralsognjng37.cloudfront.net/4f5404e1-4615-498e-927f-2cd17567b040",
+                "width": 750
+            },
+            {
+                "url": "https://d1ralsognjng37.cloudfront.net/9de4796c-5900-4c50-ac19-927a5590185d",
+                "width": 1080
+            },
+            {
+                "url": "https://d1ralsognjng37.cloudfront.net/8dd159d3-60d7-47f3-a49f-4ca5ca65e166",
+                "width": 2880
+            }
+        ],
+        "isOpen": true,
+        "currencyCode": "UAH",
+        "closedMessage": "Currently unavailable",
+        "location": {
+            "address": "Khreschatyk St, 25, Kyiv, 02000",
+            "streetAddress": "Khreschatyk St, 25",
+            "city": "Kyiv",
+            "country": "UA",
+            "postalCode": "02000",
+            "region": "",
+            "latitude": 50.444754430910514,
+            "longitude": 30.52212252288047
+        },
+        "isDeliveryThirdParty": false,
+        "hours": [
+            {
+                "dayRange": "Every Day",
+                "sectionHours": [
+                    {
+                        "startTime": 600,
+                        "endTime": 1320,
+                        "sectionTitle": "SWITCH LANGUAGE (UKR)"
+                    },
+                    {
+                        "startTime": 600,
+                        "endTime": 1320,
+                        "sectionTitle": "SWITCH LANGUAGE (ENG)"
+                    }
+                ]
+            }
+        ],
+        "disableOrderInstruction": false,
+        "disableCheckoutInstruction": false,
+        "nuggets": [],
+        "isWithinDeliveryRange": false,
+        "slug": "mushlya-bar-вул-хрещатик",
+        "citySlug": "kyiv",
+        "phoneNumber": "+380680487979",
+        "metaJson": "{\"@context\":\"http:\\u002F\\u002Fschema.org\",\"@type\":\"Restaurant\",\"@id\":\"https:\\u002F\\u002Fwww.ubereats.com\\u002Fen-UA\\u002Fkyiv\\u002Ffood-delivery\\u002Fmushlya-bar-%D0%B2%D1%83%D0%BB-%D1%85%D1%80%D0%B5%D1%89%D0%B0%D1%82%D0%B8%D0%BA\\u002FQ8oZVoIiQsSuKRz75zccbw\\u002F\",\"name\":\"Mushlya Bar (вул. Хрещатик)\",\"priceRange\":\"₴₴\",\"potentialAction\":{\"@type\":\"OrderAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\\u002F\\u002Fwww.ubereats.com\\u002Fen-UA\\u002Fkyiv\\u002Ffood-delivery\\u002Fmushlya-bar-%D0%B2%D1%83%D0%BB-%D1%85%D1%80%D0%B5%D1%89%D0%B0%D1%82%D0%B8%D0%BA\\u002FQ8oZVoIiQsSuKRz75zccbw\\u002F?utm_campaign=order-action&utm_medium=organic\",\"inLanguage\":\"English\",\"actionPlatform\":[\"http:\\u002F\\u002Fschema.org\\u002FDesktopWebPlatform\",\"http:\\u002F\\u002Fschema.org\\u002FMobileWebPlatform\"]},\"deliveryMethod\":[\"http:\\u002F\\u002Fpurl.org\\u002Fgoodrelations\\u002Fv1#DeliveryModeOwnFleet\"]},\"address\":{\"@type\":\"PostalAddress\",\"addressLocality\":\"Kyiv\",\"addressRegion\":\"\",\"postalCode\":\"02000\",\"addressCountry\":\"UA\",\"streetAddress\":\"Khreschatyk St, 25\"},\"geo\":{\"@type\":\"GeoCoordinates\",\"latitude\":50.444754430910514,\"longitude\":30.52212252288047}}",
+        "promoTrackings": [],
+        "suggestedPromotion": {
+            "text": "",
+            "promotionUuid": ""
+        },
+        "supportedDiningModes": [
+            {
+                "mode": "DELIVERY",
+                "title": "Delivery",
+                "isSelected": true,
+                "isAvailable": true
+            }
+        ],
+        "isPreview": false,
+        "pinnedInfo": null
+    }
+}

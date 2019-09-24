@@ -1,0 +1,1643 @@
+{
+    "status": "success",
+    "data": {
+        "sectionEntitiesMap": {
+            "caae96f4-4f72-57e4-899a-0e08e70f8949": {
+                "a0ae74de-b4da-576c-bfd4-a8d6eab33f43": {
+                    "description": "New to our patisserie selection, a crisp puff pastry tartlet topped with thinly sliced apple.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/f200c6fe-1e10-4fef-8800-2fbe70a6b378.jpeg",
+                    "price": 385,
+                    "title": "Tartelette Fine Pommes (V)",
+                    "uuid": "a0ae74de-b4da-576c-bfd4-a8d6eab33f43",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "endorsement": {
+                        "text": "Vegetarian. Allergens: Gluten (Wheat), Milk",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png"
+                    },
+                    "classifications": []
+                },
+                "fe7d2201-5c16-50ae-89d2-2b222e72c2a4": {
+                    "description": "British sparkling spring water, infused with whole, wonky cucumbers for a crisp dash of flavour.  No sugar, sweeteners or calories.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/84ee5ea1-7470-4a7a-b476-2b86f282fa81.jpeg",
+                    "price": 205,
+                    "title": "Dash Sparkling Water with Cucumbers 330ml",
+                    "uuid": "fe7d2201-5c16-50ae-89d2-2b222e72c2a4",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "47d3dee3-5379-5415-ab50-43c521a44875": {
+                    "description": "Pale green pistachio flavoured almond macaroon biscuit sandwiched with pistachio buttercream.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/43c1f1ed-4cc3-4544-b78e-0401131b3950.jpeg",
+                    "price": 375,
+                    "title": "Macaron Pistache",
+                    "uuid": "47d3dee3-5379-5415-ab50-43c521a44875",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "8ce02fe3-dfc4-5330-9afd-96597a8a9d31": {
+                    "description": "",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/3791c6be-7669-4709-8c17-edb2b260a784.jpeg",
+                    "price": 305,
+                    "title": "Naked Blue Machine",
+                    "uuid": "8ce02fe3-dfc4-5330-9afd-96597a8a9d31",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "bb98f25f-b6b0-5f12-bc88-bfb4b4e8c6f7": {
+                    "description": "Rich and tasty croissant with a crisp crust and a deliciously soft centre.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/85f88a33-e9e9-4145-a7bd-49013551a39a.jpeg",
+                    "price": 200,
+                    "title": "Croissant (V)",
+                    "uuid": "bb98f25f-b6b0-5f12-bc88-bfb4b4e8c6f7",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "endorsement": {
+                        "text": "Vegetarian. Allergens: Gluten (Wheat), Milk, Egg",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png"
+                    },
+                    "classifications": []
+                },
+                "b3ba4fd3-a44f-51b5-adfe-685c5b1c0425": {
+                    "description": "Hand cooked English crisps flavoured with chardonnay wine vinegar.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/93d1b2bf-2003-44c1-a226-4e4d1e3879a8.jpeg",
+                    "price": 115,
+                    "title": "Paul Crisps - Chardonnay Wine Vinegar",
+                    "uuid": "b3ba4fd3-a44f-51b5-adfe-685c5b1c0425",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "96959692-c606-5274-bea7-cf94c5bfbd03": {
+                    "description": "Pure butter croissant, enriched with frangipane with added pistachio, sprinkled with pistachio pieces. Please note: this product contains alcohol.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/8828040b-2309-4b90-bd69-a5c0a6bf2a3f.jpeg",
+                    "price": 325,
+                    "title": "Croissant Pistache (V)",
+                    "uuid": "96959692-c606-5274-bea7-cf94c5bfbd03",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": "",
+                    "suspendUntil": 1568933999,
+                    "endorsement": {
+                        "text": "Vegetarian. Allergens: Gluten (Wheat), Milk, Egg, Nuts (Almond, Pistachio)",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png"
+                    },
+                    "classifications": []
+                },
+                "57454cd3-455a-53d6-842a-da7e33dc6e57": {
+                    "description": "Ham and Emmental cheese in our classic Ancien bread.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/a5c9029d-dc81-49cd-941e-147a88737720.jpeg",
+                    "price": 495,
+                    "title": "Sandwich Mixte",
+                    "uuid": "57454cd3-455a-53d6-842a-da7e33dc6e57",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "d49b38d7-866f-54b9-95cd-c1afddb12164": {
+                    "description": "Milk Chocolate , Dates, Rice Flour, Himalayan Pink Sea Salt 80g",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/d7298b21-da26-42a2-a3b9-16faa6422e51.jpeg",
+                    "price": 125,
+                    "title": "Doisy & Dam Milk Chocolate - Date & Himalayan Pink Salt",
+                    "uuid": "d49b38d7-866f-54b9-95cd-c1afddb12164",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "217b6e15-f35c-535c-85da-ad6d910f230a": {
+                    "description": "Hand cooked English crisp flavoured with natural sea salt.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/e74bc08a-c6c9-4bf0-bb56-c43fbc37ae0b.jpeg",
+                    "price": 115,
+                    "title": "Paul Crisps - Natural Sea Salt",
+                    "uuid": "217b6e15-f35c-535c-85da-ad6d910f230a",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "e1642b17-27cb-5638-91c3-3ec4d13c6e7c": {
+                    "description": "",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/64031b25-123a-4763-82f9-aebaeb97cd9c.jpeg",
+                    "price": 485,
+                    "title": "Tartine Tomate Mozzarella (V)",
+                    "uuid": "e1642b17-27cb-5638-91c3-3ec4d13c6e7c",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": "",
+                    "suspendUntil": 1568933999,
+                    "endorsement": {
+                        "text": "Vegetarian. Allergens: Gluten (Wheat, Rye), Milk, Nuts, Nuts (Cashew)",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png"
+                    },
+                    "classifications": []
+                },
+                "04f14c94-8606-5847-97c1-03ac357e6387": {
+                    "description": "",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/98f3642a-6c16-4d51-bb94-804289d09347.jpeg",
+                    "price": 185,
+                    "title": "Evian Still Water (500ml)",
+                    "uuid": "04f14c94-8606-5847-97c1-03ac357e6387",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "977c741d-4ce5-549d-8963-36e45c3e0ae6": {
+                    "description": "Mini Choux Pastry balls, studded with crunchy pearl sugar pieces.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/b7e401c4-dc3f-4c69-b3ab-848e57e73047.jpeg",
+                    "price": 395,
+                    "title": "Chouquettes Bag (10) (V)",
+                    "uuid": "977c741d-4ce5-549d-8963-36e45c3e0ae6",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": "",
+                    "suspendUntil": 1568933999,
+                    "endorsement": {
+                        "text": "Vegetarian. Allergens: Gluten (Wheat), Milk",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png"
+                    },
+                    "classifications": []
+                },
+                "810db26f-1d4a-5d18-ac36-b8be011863ca": {
+                    "description": "Cocoa Mass, Organic Cane Sugar, Cocoa Butter, Coconut Flakes, Lucuma, Coconut Essence, Vanilla Powder 80g",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/3fe02bb4-3b6c-4729-9f99-ffbb6d0404bf.jpeg",
+                    "price": 125,
+                    "title": "Doisy & Dam Dark Chocolate - Coconut & Lucuma",
+                    "uuid": "810db26f-1d4a-5d18-ac36-b8be011863ca",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "1c9c7f3e-bd1d-5257-9f6f-ac5eacfa8701": {
+                    "description": "",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/1841135c-dbed-4049-9da5-c0c58e719f9d.jpeg",
+                    "price": 305,
+                    "title": "Naked Green Machine",
+                    "uuid": "1c9c7f3e-bd1d-5257-9f6f-ac5eacfa8701",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "fb50f3d0-607c-5dae-8cab-a7b5f06fe9dd": {
+                    "description": "Sliced chicken breast, tomato and green batavia leaves, enlivened by a zingy mustard mayonnaise, and our poppy seed bread.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/91c6d82e-c459-461b-926d-0b312f2dd905.jpeg",
+                    "price": 495,
+                    "title": "Sandwich Pavot Poulet",
+                    "uuid": "fb50f3d0-607c-5dae-8cab-a7b5f06fe9dd",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": "",
+                    "suspendUntil": 1568933999,
+                    "classifications": []
+                },
+                "b5ab45c4-b132-5c3d-bd12-86cf3c40894c": {
+                    "description": "Strawberry tartlet with a sweet shortcrust pastry case filled with vanilla custard cream and topped with fresh strawberries.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/e209c61c-1eaa-4947-b4f3-c96c43e6f541.jpeg",
+                    "price": 425,
+                    "title": "Tartelette Fraise",
+                    "uuid": "b5ab45c4-b132-5c3d-bd12-86cf3c40894c",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": "",
+                    "suspendUntil": 1568933999,
+                    "classifications": []
+                },
+                "4b58d23d-33c0-5647-b451-b8894fa2e5cd": {
+                    "description": "",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/2ab82390-18e1-4bce-b46c-918f18347d1d.jpeg",
+                    "price": 195,
+                    "title": "Coca Cola (330ml)",
+                    "uuid": "4b58d23d-33c0-5647-b451-b8894fa2e5cd",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "927619d7-8509-5a1c-b5e0-693ee158d599": {
+                    "description": "",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/9aee446e-4cdc-4e30-939f-c232785edbe1.jpeg",
+                    "price": 315,
+                    "title": "Naked Coconut Water",
+                    "uuid": "927619d7-8509-5a1c-b5e0-693ee158d599",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "7b1c4f7d-7708-5e47-9ca5-fee3b58be748": {
+                    "description": "A selection of 24 mini Vegan Falafel Salad sandwiches featuring spinach falafel, fresh spinach leaves, houmous and vegan tzatziki, presented in freshly baked PAUL turmeric bread.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/18a99103-983b-4a7e-ad53-b2e033c78096.jpeg",
+                    "price": 2650,
+                    "title": "NEW Spiced Falafel Vegan Sandwich Platter",
+                    "uuid": "7b1c4f7d-7708-5e47-9ca5-fee3b58be748",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": "",
+                    "suspendUntil": 1568933999,
+                    "classifications": []
+                },
+                "0d1532f2-08a5-58c0-ba13-9cf8c98cc9a8": {
+                    "description": "",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/7b749a9a-6f9d-4d6e-94ca-f9c71c4a9bbe.jpeg",
+                    "price": 220,
+                    "title": "Copella Apple Juice",
+                    "uuid": "0d1532f2-08a5-58c0-ba13-9cf8c98cc9a8",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "903a58bd-85ec-5ce7-9ced-d18f965ce4eb": {
+                    "description": "Freshly baked PAUL croissant filled with a delicious soft omelette.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/3ff1072a-71a2-4c15-9e7f-fc0e26ebd6c5.jpeg",
+                    "price": 395,
+                    "title": "Croissant Omelette (V)",
+                    "uuid": "903a58bd-85ec-5ce7-9ced-d18f965ce4eb",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": "",
+                    "suspendUntil": 1568933999,
+                    "endorsement": {
+                        "text": "Vegetarian. Allergens: Gluten (Wheat), Milk, Egg",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png"
+                    },
+                    "classifications": []
+                },
+                "31ec0902-3ced-5bc1-9a27-81584d55bd13": {
+                    "description": "Salmon and spinach quiche with a flaky, buttery pastry case filled with spinach, and smoked salmon in an egg custard made with cream.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/e0091aee-4201-4973-b529-d3c82baaee51.jpeg",
+                    "price": 495,
+                    "title": "Quiche Tourte Saumon Epinard",
+                    "uuid": "31ec0902-3ced-5bc1-9a27-81584d55bd13",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": "",
+                    "suspendUntil": 1568933999,
+                    "classifications": []
+                },
+                "aa9c95e2-1330-5e00-9e3a-8643ffc6bad5": {
+                    "description": "A dark chocolate sponge cake with chocolate mousse, a thin layer of crisp praline and a dark chocolate glaze. Allergens: Gluten (Wheat, Barley), Milk, Egg, Nuts (Almond, Hazelnut), Soya",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/ec8cb4eb-6861-40af-a6d7-7ad499fe28d1.jpeg",
+                    "price": 475,
+                    "title": "Craquant - Slice",
+                    "uuid": "aa9c95e2-1330-5e00-9e3a-8643ffc6bad5",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": "",
+                    "suspendUntil": 1568933999,
+                    "classifications": []
+                },
+                "8d8695a8-34d9-5744-8754-289589c14a0a": {
+                    "description": "A classic of the French pâtissier's art, this stunning looking cake has layers of Genoese sponge, mousseline cream and fresh strawberries, finished with pale green marzipan and decorated with more strawberries.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/e05785d1-4299-49e8-801c-7d465d48b430.jpeg",
+                    "price": 475,
+                    "title": "Fraisier - Slice (V)",
+                    "uuid": "8d8695a8-34d9-5744-8754-289589c14a0a",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": "",
+                    "suspendUntil": 1568933999,
+                    "classifications": []
+                },
+                "deaaabfc-8ec1-5212-8823-b9695bb8dfcc": {
+                    "description": "Decadent dark chocolate almond macaroon biscuit sandwiched with chocolate buttercream.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/9e74bb20-7374-4e47-a4eb-bb3ce645ecd1.jpeg",
+                    "price": 375,
+                    "title": "Macaron Chocolat",
+                    "uuid": "deaaabfc-8ec1-5212-8823-b9695bb8dfcc",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "59a76966-eb34-54dc-bc4d-3a6eb7634c16": {
+                    "description": "This fresh fruit salad includes pineapple, apple, honey drew melon, cantaloupe melon, and red grapes.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/99caddf1-d9d2-4a9b-88cd-4dec4fff40c6.jpeg",
+                    "price": 350,
+                    "title": "Salade de Fruits (V)",
+                    "uuid": "59a76966-eb34-54dc-bc4d-3a6eb7634c16",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": "",
+                    "suspendUntil": 1568933999,
+                    "endorsement": {
+                        "text": "Vegetarian.",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png"
+                    },
+                    "classifications": []
+                },
+                "a4523362-2571-50bf-92fa-55b40425c309": {
+                    "description": "",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/2c7ac434-0f4e-475d-ae29-051fa00ad3af.jpeg",
+                    "price": 220,
+                    "title": "Tropicana Orange Juice",
+                    "uuid": "a4523362-2571-50bf-92fa-55b40425c309",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "9dbb762f-20d1-59c4-93fa-8c8bd73cda69": {
+                    "description": "Coppa ham, Comte cheese, tomatoes, olive paste, salad leaves, and poppy seed bread.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/619c8ba4-5dd4-4935-bbdb-d709d8cc3d79.jpeg",
+                    "price": 495,
+                    "title": "Sandwich Montagnard",
+                    "uuid": "9dbb762f-20d1-59c4-93fa-8c8bd73cda69",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": "",
+                    "suspendUntil": 1568933999,
+                    "classifications": []
+                },
+                "43858198-5f03-582a-83ae-02580a6b383f": {
+                    "description": "Buttery biscuit.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/68a53df9-00d0-45b5-a41d-32109576dcc9.jpeg",
+                    "price": 295,
+                    "title": "Palmier (V)",
+                    "uuid": "43858198-5f03-582a-83ae-02580a6b383f",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "endorsement": {
+                        "text": "Vegetarian. Allergens: Gluten (Wheat), Milk",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png"
+                    },
+                    "classifications": []
+                },
+                "c759ed75-43c6-5a17-a866-6cb2bc7a436c": {
+                    "description": "Pale cream almond macaroon biscuit flavoured with Madagascan vanilla and sandwiched with Madagascan vanilla buttercream.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/c3531bb3-c375-4195-928e-6566295d32f2.jpeg",
+                    "price": 415,
+                    "title": "Macaron Vanille",
+                    "uuid": "c759ed75-43c6-5a17-a866-6cb2bc7a436c",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "317aa99a-48be-5eba-9028-63cd871e4cba": {
+                    "description": "Soft doughnut pastry coated in sugar with chocolate filling.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/39e17267-7670-4220-b4c8-df27c8429d0e.jpeg",
+                    "price": 600,
+                    "title": "Mini Chocolate Doughnut Bag (10) (V)",
+                    "uuid": "317aa99a-48be-5eba-9028-63cd871e4cba",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": "",
+                    "suspendUntil": 1568933999,
+                    "endorsement": {
+                        "text": "Vegetarian. Allergens: Gluten (Wheat), Milk, Egg, Nuts (Hazelnut), Soya",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png"
+                    },
+                    "classifications": []
+                },
+                "54148b33-c4ac-5792-b07b-ae16fd3845ed": {
+                    "description": "A classic sandwich filling made even better by being in a plain PAUL croissant, split, buttered and filled with ham, and Emmental cheese.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/5e8f3504-5b8a-4f81-801a-e3c1bbd51ad4.jpeg",
+                    "price": 375,
+                    "title": "Croissant Jambon and Fromage",
+                    "uuid": "54148b33-c4ac-5792-b07b-ae16fd3845ed",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": "",
+                    "suspendUntil": 1568933999,
+                    "classifications": []
+                },
+                "c1b94310-8024-5ae6-a534-d3916dfc6af0": {
+                    "description": "",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/3838b3a5-3d28-4320-a843-d4eff84f9983.jpeg",
+                    "price": 375,
+                    "title": "Tartelette Citron",
+                    "uuid": "c1b94310-8024-5ae6-a534-d3916dfc6af0",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "92d441b1-f22c-5f0f-a021-f93e46cb43b9": {
+                    "description": "A winning combination of carrots, Emmental cheese, sliced chicken breast, apple, raisins, walnuts, and mixed leaves.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/0297f083-a715-4238-af15-128a0b08fb27.jpeg",
+                    "price": 515,
+                    "title": "Salade Fermiere",
+                    "uuid": "92d441b1-f22c-5f0f-a021-f93e46cb43b9",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": "",
+                    "suspendUntil": 1568933999,
+                    "classifications": []
+                },
+                "3c7401ca-63ea-556f-b751-f48cde50d3a3": {
+                    "description": "",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/8e943375-5aa4-4366-a032-f6124b8ac601.jpeg",
+                    "price": 285,
+                    "title": "This Water Lemon Lime (420ml)",
+                    "uuid": "3c7401ca-63ea-556f-b751-f48cde50d3a3",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": "",
+                    "suspendUntil": 8640000000,
+                    "classifications": []
+                },
+                "f2152252-faa8-5be0-98a3-cff81c178e90": {
+                    "description": "Pain chocolat is made using our buttery croissant dough wrapped around two bars of dark chocolate.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/18ff67f8-c451-4f64-9225-d1b97c54de7a.jpeg",
+                    "price": 205,
+                    "title": "Pain Chocolat  (V)",
+                    "uuid": "f2152252-faa8-5be0-98a3-cff81c178e90",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": "",
+                    "suspendUntil": 1568933999,
+                    "endorsement": {
+                        "text": "Vegetarian. Allergens: Gluten (Wheat), Milk, Egg, Soya",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png"
+                    },
+                    "classifications": []
+                },
+                "57ab3275-ae2b-52c3-ae22-4fafefa7ae43": {
+                    "description": "Yoghurt, fresh strawberries, PAUL strawberry jam and granola.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/3f9e404c-3ffe-4060-95fd-f31703bfed99.jpeg",
+                    "price": 325,
+                    "title": "Yaourt Granola Fraises (V)",
+                    "uuid": "57ab3275-ae2b-52c3-ae22-4fafefa7ae43",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": "",
+                    "suspendUntil": 1568933999,
+                    "endorsement": {
+                        "text": "Vegetarian. Allergens: Gluten (Oat), Milk, Nuts (Almond), Sesame",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png"
+                    },
+                    "classifications": []
+                },
+                "020f4a8e-ff42-5a5b-8689-4509acb0445f": {
+                    "description": "Soft doughnut pastry coated in sugar with chocolate filling.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/5fe41b3a-f586-4d5c-a4fc-4ab827548ab8.jpeg",
+                    "price": 100,
+                    "title": "Mini Doughnut (V)",
+                    "uuid": "020f4a8e-ff42-5a5b-8689-4509acb0445f",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": "",
+                    "suspendUntil": 1568933999,
+                    "endorsement": {
+                        "text": "Vegetarian. Allergens: Gluten (Wheat), Milk, Egg, Nuts (Hazelnut), Soya",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png"
+                    },
+                    "classifications": []
+                },
+                "0878e46d-b0d6-516a-8475-7ca8a64ae2ae": {
+                    "description": "Dark chocolate drops, custard cream, and flaky puff pastry.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/a1716b06-7a33-44d2-877f-706ebc2a04a7.jpeg",
+                    "price": 335,
+                    "title": "Gourmandise (V)",
+                    "uuid": "0878e46d-b0d6-516a-8475-7ca8a64ae2ae",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": "",
+                    "suspendUntil": 1568933999,
+                    "endorsement": {
+                        "text": "Vegetarian. Allergens: Gluten (Wheat), Milk, Egg, Soya",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png"
+                    },
+                    "classifications": []
+                },
+                "5bb6ce75-fb32-5180-94a4-5bc8c25ded76": {
+                    "description": "White PAUL loaf 400g.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/83aea400-9fdd-41cd-a416-a610bc628069.jpeg",
+                    "price": 325,
+                    "title": "Pain Paul (400g) (V)",
+                    "uuid": "5bb6ce75-fb32-5180-94a4-5bc8c25ded76",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": "",
+                    "suspendUntil": 1568933999,
+                    "endorsement": {
+                        "text": "Vegetarian. Allergens: Gluten (Wheat)",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png"
+                    },
+                    "classifications": []
+                },
+                "16c9e995-363b-5e96-a02d-a16755d5f6b6": {
+                    "description": "Bacon quiche with Emmental cheese and egg in a savoury puff pastry tart.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/5e3f87aa-1deb-42c6-9d85-4d1422e6201c.jpeg",
+                    "price": 505,
+                    "title": "Quiche Lorraine",
+                    "uuid": "16c9e995-363b-5e96-a02d-a16755d5f6b6",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": "",
+                    "suspendUntil": 1568933999,
+                    "classifications": []
+                },
+                "b68a7b05-783a-5474-9629-15283c2eeb8e": {
+                    "description": "Freshly baked PAUL croissant filled with delicious soft omelette and bacon.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/ba38af46-8ca0-4fdb-8603-50708a620a82.jpeg",
+                    "price": 415,
+                    "title": "Croissant Omelette Bacon",
+                    "uuid": "b68a7b05-783a-5474-9629-15283c2eeb8e",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": "",
+                    "suspendUntil": 1568933999,
+                    "classifications": []
+                },
+                "66b7d724-7912-5153-af32-3a10ee0513a1": {
+                    "description": "Dark chocolate sweet pastry.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/8779ac0a-5438-4377-a67a-2addc5e9b7bc.jpeg",
+                    "price": 395,
+                    "title": "Tartelette Chocolat",
+                    "uuid": "66b7d724-7912-5153-af32-3a10ee0513a1",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": "",
+                    "suspendUntil": 1568933999,
+                    "classifications": []
+                },
+                "f5055713-a482-5825-a64b-51d8f0b7058a": {
+                    "description": "Almond flaked choux pastry, praline flavoured cream, and caramelised hazelnuts.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/165fc88c-e032-4bd7-b713-1111276b08bf.jpeg",
+                    "price": 445,
+                    "title": "Éclair Paris Brest (V)",
+                    "uuid": "f5055713-a482-5825-a64b-51d8f0b7058a",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": "",
+                    "suspendUntil": 1568933999,
+                    "endorsement": {
+                        "text": "Vegetarian. Allergens: Gluten (Wheat), Milk, Egg, Nuts (Almond, Hazelnut), Sulphites",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png"
+                    },
+                    "classifications": []
+                },
+                "e6175630-eafd-5fc6-9d89-80e54179ff50": {
+                    "description": "Badoit sparkling water.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/51b69919-d500-4a6b-b8db-c8b164471ebc.jpeg",
+                    "price": 200,
+                    "title": "Harrogate Sparkling Water (50cl)",
+                    "uuid": "e6175630-eafd-5fc6-9d89-80e54179ff50",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "151135e9-d179-55b6-bbb1-7828fda480e5": {
+                    "description": "Apple turnover, is made of crisp puff pastry filled with apple sauce & apple pieces.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/cfe91c10-09a1-45b4-8c95-ff0935347ec2.jpeg",
+                    "price": 285,
+                    "title": "Chausson Pomme  (V)",
+                    "uuid": "151135e9-d179-55b6-bbb1-7828fda480e5",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": "",
+                    "suspendUntil": 1568933999,
+                    "endorsement": {
+                        "text": "Vegetarian. Allergens: Gluten (Wheat), Milk",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png"
+                    },
+                    "classifications": []
+                },
+                "442900a3-d2de-538f-847a-20899334ab59": {
+                    "description": "Pretty pink almond macaroon biscuit flavoured with raspberry and sandwiched with raspberry jam.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/acf32d1a-928e-4868-ae9a-2ab2f2bd7e79.jpeg",
+                    "price": 375,
+                    "title": "Macaron Framboise",
+                    "uuid": "442900a3-d2de-538f-847a-20899334ab59",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "8c35a9c5-19ee-5229-b762-a77050cff0e3": {
+                    "description": "A slice of crisp puff pastry with a smooth vanilla custard cream filling, topped with apricots.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/713d80ca-25aa-4e2a-bab5-5ce7530a2388.jpeg",
+                    "price": 350,
+                    "title": "Anglaise Abricot Pastry (V)",
+                    "uuid": "8c35a9c5-19ee-5229-b762-a77050cff0e3",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": "",
+                    "suspendUntil": 1568933999,
+                    "classifications": []
+                },
+                "3451483c-377a-5eb6-9674-d1d895eeec7f": {
+                    "description": "Milk Chocolate, Roasted Almonds, Salt 80g",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/dc58c9bf-ec47-4bb5-9502-9f44ac4687d9.jpeg",
+                    "price": 125,
+                    "title": "Doisy & Dam Milk Chocolate - Crunchy Almond Butter",
+                    "uuid": "3451483c-377a-5eb6-9674-d1d895eeec7f",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "35b20f84-3c12-51de-8ba8-5b1ad76edc4b": {
+                    "description": "A selection of 24 mini sandwiches serving 10 people, including Goat's Cheese, Tomato and Mozzeralla, and Sesame and Camembert Sandwiches in deliciously matched PAUL baguettes.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/01c1a535-cfaf-44b0-8d24-372800b6ae8e.jpeg",
+                    "price": 2750,
+                    "title": "Vegetarian Sandwich Platter",
+                    "uuid": "35b20f84-3c12-51de-8ba8-5b1ad76edc4b",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": "",
+                    "suspendUntil": 1568933999,
+                    "classifications": []
+                },
+                "66b23435-76b9-5822-9628-2bde3ad726f5": {
+                    "description": "Salami, gherkins, butter, and bread topped with melted cheese.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/e1687fee-e4c0-40e9-abd7-2af781dce64b.jpeg",
+                    "price": 465,
+                    "title": "Sandwich Fromage Rosette",
+                    "uuid": "66b23435-76b9-5822-9628-2bde3ad726f5",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": "",
+                    "suspendUntil": 1568933999,
+                    "classifications": []
+                },
+                "ed038ca0-9306-548a-85a6-c2bb914f3e1b": {
+                    "description": "Wholemeal flour and chocolate chips.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/d7cc40d6-43c9-41ce-baa5-78c204d48976.jpeg",
+                    "price": 150,
+                    "title": "Benoiton Chocolat (50g) (V)",
+                    "uuid": "ed038ca0-9306-548a-85a6-c2bb914f3e1b",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": "",
+                    "suspendUntil": 1568933999,
+                    "endorsement": {
+                        "text": "Vegetarian. Allergens: Gluten (Wheat), Soya",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png"
+                    },
+                    "classifications": []
+                },
+                "925419de-9f81-5a51-94de-1a6e3a7be25e": {
+                    "description": "The perfect breakfast boost, this snack pot features porridge oats, chia seeds, soya yoghurt and apple juice, topped with blueberry compote.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/faad1b03-b76c-4602-b32c-1b9a2a3e1105.jpeg",
+                    "price": 325,
+                    "title": "Overnights Oats, Chia and Blueberry Pot",
+                    "uuid": "925419de-9f81-5a51-94de-1a6e3a7be25e",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": "",
+                    "suspendUntil": 1568933999,
+                    "classifications": []
+                },
+                "3d7ba268-7d6f-59fe-ad08-96ff678962d2": {
+                    "description": "",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/991724e8-dbdc-43ab-be09-707aa3c5f5ff.jpeg",
+                    "price": 220,
+                    "title": "Pure Leaf Iced Tea Lemon",
+                    "uuid": "3d7ba268-7d6f-59fe-ad08-96ff678962d2",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "9e3fde3b-a106-5bb2-9c15-b170149ee201": {
+                    "description": "A selection of 24 mini sandwiches serving 10 people, including Ham and Cheese, Montagnard, Tomato and Mozzeralla and Chicken salad mini sandwiches.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/d20cb8d3-1632-48a0-8c3a-690739dd71ca.jpeg",
+                    "price": 3250,
+                    "title": "Meat Sandwich Platter",
+                    "uuid": "9e3fde3b-a106-5bb2-9c15-b170149ee201",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": "",
+                    "suspendUntil": 1568933999,
+                    "classifications": []
+                },
+                "7e38c3d0-13ac-5fd2-b39f-8743a3391a11": {
+                    "description": "Freshly baked sesame seed bread, buttered, and filled with creamy camembert cheese and lettuce.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/f4f9c311-d213-4045-ab21-2dfbe62c032c.jpeg",
+                    "price": 475,
+                    "title": "Sandwich Sesame Camembert (V)",
+                    "uuid": "7e38c3d0-13ac-5fd2-b39f-8743a3391a11",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "endorsement": {
+                        "text": "Vegetarian. Allergens: Gluten (Wheat), Milk, Sesame",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png"
+                    },
+                    "classifications": []
+                },
+                "1c414734-732c-5105-b8c7-1f1ebd161c1b": {
+                    "description": "Chocolate croissant, frangipane, and almonds.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/c9841afc-de60-465b-aa76-6aeb545ae42b.jpeg",
+                    "price": 295,
+                    "title": "Pain Chocolat Amandes (V)",
+                    "uuid": "1c414734-732c-5105-b8c7-1f1ebd161c1b",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": "",
+                    "suspendUntil": 1568933999,
+                    "endorsement": {
+                        "text": "Vegetarian. Allergens: Gluten (Wheat), Milk, Egg, Nuts (Almond), Soya",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png"
+                    },
+                    "classifications": []
+                },
+                "30ae8d83-9502-581d-8f96-59cb441738d4": {
+                    "description": "A classic sandwich filling made even better by being in a plain PAUL croissant, split, buttered and filled with ham, and Emmental cheese.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/442e940e-c15d-4c18-a5e1-3f24d9881dbd.jpeg",
+                    "price": 375,
+                    "title": "Croissant Jambon and Fromage",
+                    "uuid": "30ae8d83-9502-581d-8f96-59cb441738d4",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": "",
+                    "suspendUntil": 1568933999,
+                    "classifications": []
+                },
+                "2f7803d8-3740-5655-85d7-7cec2bf0e664": {
+                    "description": "Soft doughnut pastry coated in sugar with chocolate filling.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/43013dfa-738d-4083-8fff-3c60d67af931.jpeg",
+                    "price": 400,
+                    "title": "Mini Chocolate Doughnut Bag (5) (V)",
+                    "uuid": "2f7803d8-3740-5655-85d7-7cec2bf0e664",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": "",
+                    "suspendUntil": 1568933999,
+                    "endorsement": {
+                        "text": "Vegetarian. Allergens: Gluten (Wheat), Milk, Egg, Nuts (Hazelnut), Soya",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png"
+                    },
+                    "classifications": []
+                },
+                "c0b5c779-c267-5184-975b-e90d6cb6ea42": {
+                    "description": "Hand cooked English crisps flavoured with cheddar caramelised onion chutney.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/de48d84a-2cf0-46b5-8543-250d10b65669.jpeg",
+                    "price": 115,
+                    "title": "Paul Crisps - Cheddar Caramelised Onion Chutney",
+                    "uuid": "c0b5c779-c267-5184-975b-e90d6cb6ea42",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "d7f02189-6092-500e-9cb9-343eee613b60": {
+                    "description": "Croissant, frangipane, and almonds.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/8a9630f2-0226-4085-9d3a-3317bebff415.jpeg",
+                    "price": 295,
+                    "title": "Croissant Amandes (V)",
+                    "uuid": "d7f02189-6092-500e-9cb9-343eee613b60",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": "",
+                    "suspendUntil": 1568933999,
+                    "endorsement": {
+                        "text": "Vegetarian. Allergens: Gluten (Wheat), Milk, Egg, Nuts (Almond)",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png"
+                    },
+                    "classifications": []
+                },
+                "ac8b9a34-40ee-50c8-a5ab-f6a42c36f63c": {
+                    "description": "Paul white flour mixed with black and green olives and salt.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/861b43ce-8d03-44ce-9d04-753faf753728.jpeg",
+                    "price": 125,
+                    "title": "Benoiton 2 Olives (50g) (V)",
+                    "uuid": "ac8b9a34-40ee-50c8-a5ab-f6a42c36f63c",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "endorsement": {
+                        "text": "Vegetarian. Allergens: Gluten (Wheat, Rye)",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png"
+                    },
+                    "classifications": []
+                },
+                "7120a827-cb6a-589c-9e8c-800254fc1858": {
+                    "description": "Tomatoes and mozzarella cheese with basil pesto. Served in our delicious olive bread.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/a1c015e4-1e9c-4de1-b5a1-61e498663d01.jpeg",
+                    "price": 460,
+                    "title": "Sandwich Tomato Mozzarella (V)",
+                    "uuid": "7120a827-cb6a-589c-9e8c-800254fc1858",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": "",
+                    "suspendUntil": 1568933999,
+                    "endorsement": {
+                        "text": "Vegetarian. Allergens: Gluten (Wheat), Milk, Nuts (Cashew)",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png"
+                    },
+                    "classifications": []
+                },
+                "cb6b254f-b81f-54ef-a703-ec1af3c513e7": {
+                    "description": "Ham, Emmental cheese, and cream in toasted pain de mie.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/c8de9a2f-3c11-4f2b-820a-ebbc5a35ef16.jpeg",
+                    "price": 525,
+                    "title": "Croque Monsieur",
+                    "uuid": "cb6b254f-b81f-54ef-a703-ec1af3c513e7",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": "",
+                    "suspendUntil": 1568933999,
+                    "classifications": []
+                },
+                "ec900f8b-3f11-5a68-b217-e9b41597df33": {
+                    "description": "Multigraines PAUL Loaf 400g.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/153c7ace-a218-4584-bb78-3a8eb613449b.jpeg",
+                    "price": 375,
+                    "title": "Pain Multigraines (400g) (V)",
+                    "uuid": "ec900f8b-3f11-5a68-b217-e9b41597df33",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": "",
+                    "suspendUntil": 1568933999,
+                    "endorsement": {
+                        "text": "Vegetarian. Allergens: Gluten (Wheat, Barley, Rye), Soya, Sesame",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png"
+                    },
+                    "classifications": []
+                },
+                "981b4a61-4b72-5fc4-b6c8-fedb3cc9f62a": {
+                    "description": "Tuna mayonnaise, tomato, cucumber, and lettuce.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/5679677a-1de0-4b26-a45e-be5a8f0cb8a4.jpeg",
+                    "price": 465,
+                    "title": "Sandwich Dieppois",
+                    "uuid": "981b4a61-4b72-5fc4-b6c8-fedb3cc9f62a",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": "",
+                    "suspendUntil": 1568933999,
+                    "classifications": []
+                },
+                "e8f9e70b-7c5b-5a26-98ce-a3dd097757fc": {
+                    "description": "",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/3b00fb88-6b27-4165-8831-7f2c0ebba4cf.jpeg",
+                    "price": 220,
+                    "title": "Pure Leaf Iced Tea Peach",
+                    "uuid": "e8f9e70b-7c5b-5a26-98ce-a3dd097757fc",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "46cd2b23-6cd7-54a1-8a9f-2b40441e6d87": {
+                    "description": "A toasted ham and cheese sandwich",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/70ef8021-9bd0-4626-bdef-f445bddb453e.jpeg",
+                    "price": 470,
+                    "title": "Tartine Mixte",
+                    "uuid": "46cd2b23-6cd7-54a1-8a9f-2b40441e6d87",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": "",
+                    "suspendUntil": 1568933999,
+                    "classifications": []
+                },
+                "eae17e73-c6e1-5c11-93c1-da2244a57fdb": {
+                    "description": "Spinach, goat’s cheese, honey, walnuts, Emmental grated cheese, provencal herbs, cream, and butter.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/62ed4ff6-8532-478f-a57e-58b573ede061.jpeg",
+                    "price": 515,
+                    "title": "Croque Florentine (V)",
+                    "uuid": "eae17e73-c6e1-5c11-93c1-da2244a57fdb",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": "",
+                    "suspendUntil": 1568933999,
+                    "endorsement": {
+                        "text": "Vegetarian. Allergens: Gluten (Wheat), Milk, Nuts (Walnut)",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png"
+                    },
+                    "classifications": []
+                },
+                "1ba91629-70fd-5713-b8db-089f54643be6": {
+                    "description": "",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/dfc8797b-880b-49cd-a1f6-fce329687719.jpeg",
+                    "price": 190,
+                    "title": "Diet Coca Cola (330ml)",
+                    "uuid": "1ba91629-70fd-5713-b8db-089f54643be6",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "611c407e-113b-5bf8-8fb2-a82b2a567b52": {
+                    "description": "Choux pastry and chocolate cream.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/a5f1ccf4-397b-46a0-b2f1-348d2d9b099b.jpeg",
+                    "price": 395,
+                    "title": "Éclair Chocolat (V)",
+                    "uuid": "611c407e-113b-5bf8-8fb2-a82b2a567b52",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": "",
+                    "suspendUntil": 1568933999,
+                    "endorsement": {
+                        "text": "Vegetarian. Allergens: Gluten (Wheat), Milk, Egg, Soya, Sulphites",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png"
+                    },
+                    "classifications": []
+                },
+                "115282db-114a-533c-ba08-c2a9a68daf66": {
+                    "description": "Vanilla Custard Pastry Slice. The Millefeuille is an irresistible combination of baked buttery puff pastry filled with rum-laced vanilla custard cream, topped with white fondant icing.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/5d121b91-cb39-4697-8c08-ef5e69ff76de.jpeg",
+                    "price": 405,
+                    "title": "Millefeuille (V)",
+                    "uuid": "115282db-114a-533c-ba08-c2a9a68daf66",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": "",
+                    "suspendUntil": 1568933999,
+                    "endorsement": {
+                        "text": "Vegetarian. Allergens: Gluten (Wheat), Milk, Egg, Sulphites",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png"
+                    },
+                    "classifications": []
+                },
+                "c0f041e1-8909-5480-89a8-ce3cf3d5d075": {
+                    "description": "Leek quiche with pastry made from a brioche type dough, laminated with butter encasing a filling of leeks, and cream",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/afa5ab45-9c59-474e-9a65-88ab1457fe90.jpeg",
+                    "price": 495,
+                    "title": "Quiche Flamiche Poireaux (V)",
+                    "uuid": "c0f041e1-8909-5480-89a8-ce3cf3d5d075",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": "",
+                    "suspendUntil": 1568933999,
+                    "endorsement": {
+                        "text": "Vegetarian. Allergens: Gluten (Wheat), Milk, Egg",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png"
+                    },
+                    "classifications": []
+                },
+                "bbacab3b-2586-5393-b48e-9330c1c24d3a": {
+                    "description": " Raisin Pastry is a variation on a croissant dough, spread with vanilla custard and plump raisins, sliced, proved and baked.",
+                    "imageUrl": "",
+                    "price": 225,
+                    "title": "Escargot Raisin",
+                    "uuid": "bbacab3b-2586-5393-b48e-9330c1c24d3a",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": "",
+                    "suspendUntil": 1568933999,
+                    "classifications": []
+                }
+            }
+        },
+        "sections": [
+            {
+                "subsectionUuids": [
+                    "c1db6347-847b-5b60-8abc-a14cccf3ea79",
+                    "c7aca968-4321-5487-8156-563feae358bd",
+                    "dc6c4f9e-04ba-5207-ba43-11daa569a9c2",
+                    "5ae53f08-68db-564f-9f78-b65006ab75f6",
+                    "67b93b35-4c3e-55d4-954a-80b65d6f25ef",
+                    "0b18b455-3660-54e5-8a31-778b464dd3f2",
+                    "60d561c6-b988-5367-9f95-580b7072c66e",
+                    "81c8d2a1-9ae9-5327-8729-dc8869789a47",
+                    "9654f182-5bde-5f06-9bb0-67642c2c1b7f",
+                    "8d6c2cf1-2c94-5ee1-b45c-0c45355efdfa",
+                    "44151e60-1342-5a9d-b8c6-6f77d8791e65"
+                ],
+                "title": "Menu",
+                "subtitle": "7:00 AM – 6:00 PM",
+                "uuid": "caae96f4-4f72-57e4-899a-0e08e70f8949",
+                "isTop": true,
+                "isOnSale": true
+            }
+        ],
+        "subsectionsMap": {
+            "0b18b455-3660-54e5-8a31-778b464dd3f2": {
+                "itemUuids": [
+                    "981b4a61-4b72-5fc4-b6c8-fedb3cc9f62a",
+                    "57454cd3-455a-53d6-842a-da7e33dc6e57",
+                    "fb50f3d0-607c-5dae-8cab-a7b5f06fe9dd",
+                    "7120a827-cb6a-589c-9e8c-800254fc1858",
+                    "66b23435-76b9-5822-9628-2bde3ad726f5",
+                    "9dbb762f-20d1-59c4-93fa-8c8bd73cda69",
+                    "7e38c3d0-13ac-5fd2-b39f-8743a3391a11"
+                ],
+                "subtitle": "",
+                "title": "Sandwiches",
+                "uuid": "0b18b455-3660-54e5-8a31-778b464dd3f2",
+                "displayType": null
+            },
+            "81c8d2a1-9ae9-5327-8729-dc8869789a47": {
+                "itemUuids": [
+                    "04f14c94-8606-5847-97c1-03ac357e6387",
+                    "e6175630-eafd-5fc6-9d89-80e54179ff50",
+                    "1ba91629-70fd-5713-b8db-089f54643be6",
+                    "4b58d23d-33c0-5647-b451-b8894fa2e5cd",
+                    "3c7401ca-63ea-556f-b751-f48cde50d3a3",
+                    "fe7d2201-5c16-50ae-89d2-2b222e72c2a4",
+                    "a4523362-2571-50bf-92fa-55b40425c309",
+                    "0d1532f2-08a5-58c0-ba13-9cf8c98cc9a8",
+                    "927619d7-8509-5a1c-b5e0-693ee158d599",
+                    "1c9c7f3e-bd1d-5257-9f6f-ac5eacfa8701",
+                    "8ce02fe3-dfc4-5330-9afd-96597a8a9d31",
+                    "3d7ba268-7d6f-59fe-ad08-96ff678962d2",
+                    "e8f9e70b-7c5b-5a26-98ce-a3dd097757fc"
+                ],
+                "subtitle": "",
+                "title": "Drinks",
+                "uuid": "81c8d2a1-9ae9-5327-8729-dc8869789a47",
+                "displayType": null
+            },
+            "60d561c6-b988-5367-9f95-580b7072c66e": {
+                "itemUuids": [
+                    "ac8b9a34-40ee-50c8-a5ab-f6a42c36f63c",
+                    "ed038ca0-9306-548a-85a6-c2bb914f3e1b",
+                    "5bb6ce75-fb32-5180-94a4-5bc8c25ded76",
+                    "ec900f8b-3f11-5a68-b217-e9b41597df33"
+                ],
+                "subtitle": "",
+                "title": "Bread",
+                "uuid": "60d561c6-b988-5367-9f95-580b7072c66e",
+                "displayType": null
+            },
+            "44151e60-1342-5a9d-b8c6-6f77d8791e65": {
+                "itemUuids": [
+                    "59a76966-eb34-54dc-bc4d-3a6eb7634c16",
+                    "57ab3275-ae2b-52c3-ae22-4fafefa7ae43",
+                    "925419de-9f81-5a51-94de-1a6e3a7be25e"
+                ],
+                "subtitle": "",
+                "title": "Yoghurt and Fruit Pots",
+                "uuid": "44151e60-1342-5a9d-b8c6-6f77d8791e65",
+                "displayType": null
+            },
+            "5ae53f08-68db-564f-9f78-b65006ab75f6": {
+                "itemUuids": [
+                    "020f4a8e-ff42-5a5b-8689-4509acb0445f",
+                    "bb98f25f-b6b0-5f12-bc88-bfb4b4e8c6f7",
+                    "0878e46d-b0d6-516a-8475-7ca8a64ae2ae",
+                    "1c414734-732c-5105-b8c7-1f1ebd161c1b",
+                    "43858198-5f03-582a-83ae-02580a6b383f",
+                    "a0ae74de-b4da-576c-bfd4-a8d6eab33f43",
+                    "151135e9-d179-55b6-bbb1-7828fda480e5",
+                    "d7f02189-6092-500e-9cb9-343eee613b60",
+                    "bbacab3b-2586-5393-b48e-9330c1c24d3a"
+                ],
+                "subtitle": "",
+                "title": "Sweet Pastries",
+                "uuid": "5ae53f08-68db-564f-9f78-b65006ab75f6",
+                "displayType": null
+            },
+            "67b93b35-4c3e-55d4-954a-80b65d6f25ef": {
+                "itemUuids": [
+                    "9e3fde3b-a106-5bb2-9c15-b170149ee201",
+                    "35b20f84-3c12-51de-8ba8-5b1ad76edc4b",
+                    "7b1c4f7d-7708-5e47-9ca5-fee3b58be748"
+                ],
+                "subtitle": "",
+                "title": "Platters",
+                "uuid": "67b93b35-4c3e-55d4-954a-80b65d6f25ef",
+                "displayType": null
+            },
+            "8d6c2cf1-2c94-5ee1-b45c-0c45355efdfa": {
+                "itemUuids": [
+                    "217b6e15-f35c-535c-85da-ad6d910f230a",
+                    "b3ba4fd3-a44f-51b5-adfe-685c5b1c0425",
+                    "c0b5c779-c267-5184-975b-e90d6cb6ea42",
+                    "3451483c-377a-5eb6-9674-d1d895eeec7f",
+                    "810db26f-1d4a-5d18-ac36-b8be011863ca",
+                    "d49b38d7-866f-54b9-95cd-c1afddb12164"
+                ],
+                "subtitle": "",
+                "title": "Snacks",
+                "uuid": "8d6c2cf1-2c94-5ee1-b45c-0c45355efdfa",
+                "displayType": null
+            },
+            "c7aca968-4321-5487-8156-563feae358bd": {
+                "itemUuids": [
+                    "f2152252-faa8-5be0-98a3-cff81c178e90",
+                    "bb98f25f-b6b0-5f12-bc88-bfb4b4e8c6f7",
+                    "30ae8d83-9502-581d-8f96-59cb441738d4",
+                    "d7f02189-6092-500e-9cb9-343eee613b60",
+                    "b68a7b05-783a-5474-9629-15283c2eeb8e",
+                    "903a58bd-85ec-5ce7-9ced-d18f965ce4eb",
+                    "1c414734-732c-5105-b8c7-1f1ebd161c1b",
+                    "0878e46d-b0d6-516a-8475-7ca8a64ae2ae",
+                    "59a76966-eb34-54dc-bc4d-3a6eb7634c16",
+                    "57ab3275-ae2b-52c3-ae22-4fafefa7ae43",
+                    "96959692-c606-5274-bea7-cf94c5bfbd03",
+                    "925419de-9f81-5a51-94de-1a6e3a7be25e"
+                ],
+                "subtitle": "",
+                "title": "Breakfast",
+                "uuid": "c7aca968-4321-5487-8156-563feae358bd",
+                "displayType": null
+            },
+            "c1db6347-847b-5b60-8abc-a14cccf3ea79": {
+                "itemUuids": [
+                    "92d441b1-f22c-5f0f-a021-f93e46cb43b9"
+                ],
+                "subtitle": "",
+                "title": "Salads",
+                "uuid": "c1db6347-847b-5b60-8abc-a14cccf3ea79",
+                "displayType": null
+            },
+            "9654f182-5bde-5f06-9bb0-67642c2c1b7f": {
+                "itemUuids": [
+                    "317aa99a-48be-5eba-9028-63cd871e4cba",
+                    "2f7803d8-3740-5655-85d7-7cec2bf0e664",
+                    "f5055713-a482-5825-a64b-51d8f0b7058a",
+                    "611c407e-113b-5bf8-8fb2-a82b2a567b52",
+                    "442900a3-d2de-538f-847a-20899334ab59",
+                    "47d3dee3-5379-5415-ab50-43c521a44875",
+                    "c759ed75-43c6-5a17-a866-6cb2bc7a436c",
+                    "deaaabfc-8ec1-5212-8823-b9695bb8dfcc",
+                    "c1b94310-8024-5ae6-a534-d3916dfc6af0",
+                    "b5ab45c4-b132-5c3d-bd12-86cf3c40894c",
+                    "115282db-114a-533c-ba08-c2a9a68daf66",
+                    "977c741d-4ce5-549d-8963-36e45c3e0ae6",
+                    "66b7d724-7912-5153-af32-3a10ee0513a1",
+                    "8c35a9c5-19ee-5229-b762-a77050cff0e3",
+                    "aa9c95e2-1330-5e00-9e3a-8643ffc6bad5",
+                    "8d8695a8-34d9-5744-8754-289589c14a0a"
+                ],
+                "subtitle": "",
+                "title": "Desserts",
+                "uuid": "9654f182-5bde-5f06-9bb0-67642c2c1b7f",
+                "displayType": null
+            },
+            "dc6c4f9e-04ba-5207-ba43-11daa569a9c2": {
+                "itemUuids": [
+                    "cb6b254f-b81f-54ef-a703-ec1af3c513e7",
+                    "54148b33-c4ac-5792-b07b-ae16fd3845ed",
+                    "b68a7b05-783a-5474-9629-15283c2eeb8e",
+                    "903a58bd-85ec-5ce7-9ced-d18f965ce4eb",
+                    "eae17e73-c6e1-5c11-93c1-da2244a57fdb",
+                    "46cd2b23-6cd7-54a1-8a9f-2b40441e6d87",
+                    "16c9e995-363b-5e96-a02d-a16755d5f6b6",
+                    "c0f041e1-8909-5480-89a8-ce3cf3d5d075",
+                    "31ec0902-3ced-5bc1-9a27-81584d55bd13",
+                    "e1642b17-27cb-5638-91c3-3ec4d13c6e7c"
+                ],
+                "subtitle": "",
+                "title": "Hot Food",
+                "uuid": "dc6c4f9e-04ba-5207-ba43-11daa569a9c2",
+                "displayType": null
+            }
+        },
+        "title": "PAUL (Baker Street)",
+        "uuid": "fec42f78-e117-4f7c-a698-33f999de128a",
+        "categories": [
+            "₴",
+            "Пекарня",
+            "Сандвічі",
+            "Випічка"
+        ],
+        "cuisineList": [
+            "Пекарня",
+            "Сандвічі",
+            "Випічка"
+        ],
+        "priceBucket": "₴",
+        "etaRange": {
+            "text": "15–25 min",
+            "iconUrl": ""
+        },
+        "ratingBadge": {
+            "text": "<span><span style=\"font-family: inherit; color: #3a3a48;\">4.8 <img src=\"https://d1a3f4spazzrp4.cloudfront.net/static/images/Star_Yellow_Eats_3.png\" width=\"14\" height=\"14\" vertical-align=\"middle\"> </span><span style=\"font-family: inherit; color: #757575;\">(76)</span></span>"
+        },
+        "disclaimerBadge": {
+            "text": "<span style=\"font-family: inherit;\">Allergies, intolerances and dietary requirements: before ordering, please contact the restaurant directly and ask to speak to a member of staff who can assist if you require information about ingredients and help cater for your needs. For more information on food safety and hygiene, please visit the <a href=\"https://www.food.gov.uk/\" style=\"color:#61ad5f;\">Food Standards Agency</a></span>"
+        },
+        "fareBadge": null,
+        "fareInfo": {
+            "serviceFee": 30,
+            "serviceFeeCents": 3000
+        },
+        "promotion": null,
+        "shouldIndex": false,
+        "heroImageUrls": [
+            {
+                "url": "https://duyt4h9nfnj50.cloudfront.net/resized/1526845690848-w240-2b.jpg",
+                "width": 240
+            },
+            {
+                "url": "https://duyt4h9nfnj50.cloudfront.net/resized/1526845690848-w550-c4.jpg",
+                "width": 550
+            },
+            {
+                "url": "https://duyt4h9nfnj50.cloudfront.net/resized/1526845690848-w640-18.jpg",
+                "width": 640
+            },
+            {
+                "url": "https://duyt4h9nfnj50.cloudfront.net/resized/1526845690848-w750-00.jpg",
+                "width": 750
+            },
+            {
+                "url": "https://duyt4h9nfnj50.cloudfront.net/resized/1526845690848-w1080-d2.jpg",
+                "width": 1080
+            },
+            {
+                "url": "https://duyt4h9nfnj50.cloudfront.net/resized/1526845690848-w2880-4d.jpg",
+                "width": 2880
+            }
+        ],
+        "isOpen": true,
+        "currencyCode": "GBP",
+        "closedMessage": "Currently unavailable",
+        "location": {
+            "address": "W1u 8ew, London, England W1U 8EW",
+            "streetAddress": "W1U 8EW",
+            "city": "London",
+            "country": "GB",
+            "postalCode": "W1U 8EW",
+            "region": "England",
+            "latitude": 51.518666,
+            "longitude": -0.156738
+        },
+        "isDeliveryThirdParty": false,
+        "hours": [
+            {
+                "dayRange": "Sunday",
+                "sectionHours": [
+                    {
+                        "startTime": 480,
+                        "endTime": 1080,
+                        "sectionTitle": ""
+                    }
+                ]
+            },
+            {
+                "dayRange": "Monday - Friday",
+                "sectionHours": [
+                    {
+                        "startTime": 420,
+                        "endTime": 1080,
+                        "sectionTitle": ""
+                    }
+                ]
+            },
+            {
+                "dayRange": "Saturday",
+                "sectionHours": [
+                    {
+                        "startTime": 480,
+                        "endTime": 1080,
+                        "sectionTitle": ""
+                    }
+                ]
+            }
+        ],
+        "disableOrderInstruction": false,
+        "disableCheckoutInstruction": false,
+        "nuggets": [],
+        "isWithinDeliveryRange": false,
+        "slug": "paul-baker-street",
+        "citySlug": "london",
+        "phoneNumber": "+442074860626",
+        "metaJson": "{\"@context\":\"http:\\u002F\\u002Fschema.org\",\"@type\":\"Restaurant\",\"@id\":\"https:\\u002F\\u002Fwww.ubereats.com\\u002Fen-UA\\u002Flondon\\u002Ffood-delivery\\u002Fpaul-baker-street\\u002F_sQveOEXT3ymmDP5md4Sig\\u002F\",\"name\":\"PAUL (Baker Street)\",\"priceRange\":\"₴\",\"potentialAction\":{\"@type\":\"OrderAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\\u002F\\u002Fwww.ubereats.com\\u002Fen-UA\\u002Flondon\\u002Ffood-delivery\\u002Fpaul-baker-street\\u002F_sQveOEXT3ymmDP5md4Sig\\u002F?utm_campaign=order-action&utm_medium=organic\",\"inLanguage\":\"English\",\"actionPlatform\":[\"http:\\u002F\\u002Fschema.org\\u002FDesktopWebPlatform\",\"http:\\u002F\\u002Fschema.org\\u002FMobileWebPlatform\"]},\"deliveryMethod\":[\"http:\\u002F\\u002Fpurl.org\\u002Fgoodrelations\\u002Fv1#DeliveryModeOwnFleet\"]},\"address\":{\"@type\":\"PostalAddress\",\"addressLocality\":\"London\",\"addressRegion\":\"England\",\"postalCode\":\"W1U 8EW\",\"addressCountry\":\"GB\",\"streetAddress\":\"W1U 8EW\"},\"geo\":{\"@type\":\"GeoCoordinates\",\"latitude\":51.518666,\"longitude\":-0.156738}}",
+        "promoTrackings": [],
+        "suggestedPromotion": {
+            "text": "",
+            "promotionUuid": ""
+        },
+        "supportedDiningModes": [
+            {
+                "mode": "DELIVERY",
+                "title": "Delivery",
+                "isSelected": true,
+                "isAvailable": true
+            }
+        ],
+        "isPreview": false,
+        "pinnedInfo": null
+    }
+}

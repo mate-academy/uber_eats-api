@@ -1,0 +1,945 @@
+{
+    "status": "success",
+    "data": {
+        "sectionEntitiesMap": {
+            "b86c1f28-6907-454e-9b40-a0d37c3d33d3": {
+                "60c8db7b-0baa-4d2b-86ff-b7eaf7fef41a": {
+                    "description": "",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/7c08a3f2-c021-4248-a48e-aa2bb0c1ca53",
+                    "price": 9400,
+                    "title": "Крила BBQ",
+                    "uuid": "60c8db7b-0baa-4d2b-86ff-b7eaf7fef41a",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "c1b4034e-e208-4300-b1f4-1b03e7d55398": {
+                    "description": "Томатний соус, шинка, печериці, моцарела, маслини",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/5324d2f3-0dad-400c-b6e6-edb1b65f98d7",
+                    "price": 19900,
+                    "title": "Піци Капрічоза 30см",
+                    "uuid": "c1b4034e-e208-4300-b1f4-1b03e7d55398",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "dd17a700-0e7b-4a5c-a1ba-786d10923bfd": {
+                    "description": "",
+                    "imageUrl": "",
+                    "price": 2600,
+                    "title": "Sprite 500мл",
+                    "uuid": "dd17a700-0e7b-4a5c-a1ba-786d10923bfd",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "9ffb023f-9636-4c7a-894f-2db92c219d39": {
+                    "description": "",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/f0ed0b12-2ac1-4007-95c8-2232620eb0ab",
+                    "price": 8900,
+                    "title": "Крила Crispy",
+                    "uuid": "9ffb023f-9636-4c7a-894f-2db92c219d39",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "3d288aca-7ece-4c04-8bd0-89fe98e94f39": {
+                    "description": "",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/d0c63499-7e45-4e1f-9bed-0531fca96be9",
+                    "price": 6400,
+                    "title": "Картопляники",
+                    "uuid": "3d288aca-7ece-4c04-8bd0-89fe98e94f39",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "6b270957-c654-46e1-9015-070e78e68b45": {
+                    "description": "Соус Цезар, сир моцарела, куряче філе, бекон, помідор, мікс салату і пармезан.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/4effa0fb-825c-4276-b39a-e9aca2b06e7a",
+                    "price": 22900,
+                    "title": "Піца Цезар 30см",
+                    "uuid": "6b270957-c654-46e1-9015-070e78e68b45",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "6ae51e0f-0722-4965-a605-d101f0e453c9": {
+                    "description": "",
+                    "imageUrl": "",
+                    "price": 3900,
+                    "title": "Borjomi 500мл",
+                    "uuid": "6ae51e0f-0722-4965-a605-d101f0e453c9",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "1dcc0a21-676a-4440-bab7-86a8af0c9aa9": {
+                    "description": "",
+                    "imageUrl": "",
+                    "price": 4900,
+                    "title": "Сік Sandora 950мл",
+                    "uuid": "1dcc0a21-676a-4440-bab7-86a8af0c9aa9",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "83257c3a-e166-4ca9-b020-42e5944c1008": {
+                    "description": "Томатний соус, сир моцарела,  шинка, салямі, салямі пеппероні, куряче філе і цибуля.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/5c14f08c-8989-449c-b333-f1351e8fb6dc",
+                    "price": 21900,
+                    "title": "Піца М’ясна 30см",
+                    "uuid": "83257c3a-e166-4ca9-b020-42e5944c1008",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "bc1476cd-854c-4389-8228-07c965837b6a": {
+                    "description": "Томатний соус, сир моцарела, салямі i пеппероні.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/554645db-0a9e-47c5-837f-66e90d48497b",
+                    "price": 19900,
+                    "title": "Піца Дабл Пеппероні",
+                    "uuid": "bc1476cd-854c-4389-8228-07c965837b6a",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "0975eb5b-d113-407c-9e6b-92362204daf7": {
+                    "description": "Куряче філе, помідор, мікс салату, пармезан і соус Французький.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/b52dffda-c7db-43ea-ba74-9e34c257c2bb",
+                    "price": 7900,
+                    "title": "Салат з куркою",
+                    "uuid": "0975eb5b-d113-407c-9e6b-92362204daf7",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "6fe3adcc-4887-48fa-b2e9-3eb6b2d894db": {
+                    "description": "Соус BBQ, сир моцарела, салямі пеппероні, томати.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/48a8290a-3680-4cf9-afca-79bd7e10905e",
+                    "price": 19900,
+                    "title": "Піца Пепероні з томатами 30см",
+                    "uuid": "6fe3adcc-4887-48fa-b2e9-3eb6b2d894db",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "4de676eb-2af7-4947-ade5-de9e903233ef": {
+                    "description": "Вершки, сир моцарела, сир дорблю, сир гауда, пармезан і орегано.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/6fae19c8-cff4-4f4a-805b-4e6eca15fb15",
+                    "price": 21900,
+                    "title": "Піца 4 сири",
+                    "uuid": "4de676eb-2af7-4947-ade5-de9e903233ef",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "f2c27d9c-d7ac-41c3-9055-af338df3f81b": {
+                    "description": "",
+                    "imageUrl": "",
+                    "price": 2600,
+                    "title": "Coca-Cola 500мл",
+                    "uuid": "f2c27d9c-d7ac-41c3-9055-af338df3f81b",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "6eeb4c88-474f-4da8-b94e-b316975ec222": {
+                    "description": "Томатний соус, сир моцарела, куряче філе, салямі, шампіньйони, помідор і перець болгарський.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/0359f106-baf1-4ea6-b914-b0fe48656a0b",
+                    "price": 21900,
+                    "title": "Піца Адріано 30см",
+                    "uuid": "6eeb4c88-474f-4da8-b94e-b316975ec222",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "99a673e6-26ec-470d-a7e1-fd4203ce27c6": {
+                    "description": "",
+                    "imageUrl": "",
+                    "price": 2600,
+                    "title": "Fanta 500мл",
+                    "uuid": "99a673e6-26ec-470d-a7e1-fd4203ce27c6",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "1c2d6730-c7a0-43d5-b1db-551293d1d37c": {
+                    "description": "",
+                    "imageUrl": "",
+                    "price": 2200,
+                    "title": "Моршинська 500мл",
+                    "uuid": "1c2d6730-c7a0-43d5-b1db-551293d1d37c",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "357bf084-1024-4e1a-9514-e702a9875bbc": {
+                    "description": "",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/90d2c703-b554-4fee-90f2-c99ef54003d2",
+                    "price": 6900,
+                    "title": "Нагетси",
+                    "uuid": "357bf084-1024-4e1a-9514-e702a9875bbc",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "ac8de8bd-8fb9-4429-bcd7-58502c414b77": {
+                    "description": "Вершки, сир моцарела, сир дорблю, сир гауда, пармезан і орегано.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/64ea2ff6-f90d-45eb-a218-df2a6fb88070",
+                    "price": 21900,
+                    "title": "Піца 4 сири 30см",
+                    "uuid": "ac8de8bd-8fb9-4429-bcd7-58502c414b77",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "a9b165fb-7420-4fb4-b088-a7ffd48b79e0": {
+                    "description": "Томатний соус, сир моцарела, куряче філе, салямі, шинка, мисливські ковбаски, печериці, оливки (чорні) і петрушка.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/11efab90-1e2c-4f42-a101-75a1ae64a42a",
+                    "price": 22900,
+                    "title": "Піца Козацька 30см",
+                    "uuid": "a9b165fb-7420-4fb4-b088-a7ffd48b79e0",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "d34448fd-2cf0-4b0c-85d7-73cb85c48a75": {
+                    "description": "",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/f2b22b42-787d-4b3c-b1a1-0810eb757fe0",
+                    "price": 6900,
+                    "title": "Сирники",
+                    "uuid": "d34448fd-2cf0-4b0c-85d7-73cb85c48a75",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "9f2f8e08-70e8-4825-96f4-099e1dc9ae01": {
+                    "description": "Куряче філе, помідор, мікс салату, пармезан і соус Французький.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/c8cac70b-c6c1-4c85-9216-1b9c5f10e997",
+                    "price": 7900,
+                    "title": "Салат з куркою",
+                    "uuid": "9f2f8e08-70e8-4825-96f4-099e1dc9ae01",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "6618448b-d239-4437-bace-ea9110a02bc7": {
+                    "description": "Томатний соус, куряче філе, ананас, моцарела",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/5859fed2-46d7-455c-902f-eeba82615bab",
+                    "price": 19900,
+                    "title": "Піца Гавайська 30см",
+                    "uuid": "6618448b-d239-4437-bace-ea9110a02bc7",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "6d95c3c1-325e-44ba-b188-ee910e163c2f": {
+                    "description": "",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/8c3ba9bf-78a4-4376-837b-99d32ef48375",
+                    "price": 9400,
+                    "title": "Крила BBQ",
+                    "uuid": "6d95c3c1-325e-44ba-b188-ee910e163c2f",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "099c3584-dc18-419d-9ee8-400ca8102ed7": {
+                    "description": "Томатний соус, сир моцарела, куряче філе, салямі, шампіньйони, помідор і перець болгарський.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/7b5613e2-068a-48ad-9ac4-5fd941823213",
+                    "price": 21900,
+                    "title": "Піца Адріано",
+                    "uuid": "099c3584-dc18-419d-9ee8-400ca8102ed7",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "bc50812d-4b10-4841-8e88-f30267b75321": {
+                    "description": "Цибуля червона, оливки (чорні), огірки, перець болгарський, помідор і сир фета.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/635e56e6-63a7-4263-9055-60e3e8977f66",
+                    "price": 7900,
+                    "title": "Салат Грецький",
+                    "uuid": "bc50812d-4b10-4841-8e88-f30267b75321",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "7f913864-9374-4389-9d00-f2d6cc03f3c3": {
+                    "description": "Томатний соус, салямі пепероні, печериці, моцарела",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/15ff7bd0-1b61-4da1-9df4-a1f2975c1eea",
+                    "price": 19900,
+                    "title": "Піца Класична 30см",
+                    "uuid": "7f913864-9374-4389-9d00-f2d6cc03f3c3",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "86005fdf-5cc3-4951-a551-31a29147197c": {
+                    "description": "",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/e72f1f78-7597-4ba0-ac1a-dab2fb14b335",
+                    "price": 8900,
+                    "title": "Сирні палички",
+                    "uuid": "86005fdf-5cc3-4951-a551-31a29147197c",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                }
+            },
+            "a27734b9-05bd-42e5-8633-4b7ef1d3a2c6": {
+                "09bada75-321e-43f8-b8a6-607ae59aaddf": {
+                    "description": "Tomato sauce, mozzarella, chicken fillet, salami, champignons, tomatoes, and sweet pepper.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/fc5da5ae-f106-422a-95de-52cfcd8207f2",
+                    "price": 21900,
+                    "title": "Pizza Adriano 30cm",
+                    "uuid": "09bada75-321e-43f8-b8a6-607ae59aaddf",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "9b11b74c-4e75-47bb-bf2a-50a881f78649": {
+                    "description": "Tomato sauce, mozzarella, ham, salami, pepperoni, chicken fillet, and onion.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/c4cc909e-3791-43ab-99ed-6d624e53f299",
+                    "price": 21900,
+                    "title": "Meat Pizza 30cm",
+                    "uuid": "9b11b74c-4e75-47bb-bf2a-50a881f78649",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "70e926a7-d578-4fa1-9cf0-2c4200ae5374": {
+                    "description": "",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/0097351e-058a-4260-97ca-377f1ac74511",
+                    "price": 6900,
+                    "title": "Cottage cheese pancakes",
+                    "uuid": "70e926a7-d578-4fa1-9cf0-2c4200ae5374",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "66f69a99-3911-4034-9a97-86c5460cf584": {
+                    "description": "Сhicken fillet, tomatoes, mixed salad, Parmesan, and French sauce.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/7eea928b-d984-4ff8-9364-69cb6fd2a22d",
+                    "price": 7900,
+                    "title": "Chicken salad",
+                    "uuid": "66f69a99-3911-4034-9a97-86c5460cf584",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "83bfedff-73cd-4e16-a8cd-a5a597fc412a": {
+                    "description": "",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/63cf48da-7747-4cf2-b8e9-796dc38426e9",
+                    "price": 6900,
+                    "title": "Chicken nuggets",
+                    "uuid": "83bfedff-73cd-4e16-a8cd-a5a597fc412a",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "e41d5c1e-0970-43be-a04e-5a4114f65764": {
+                    "description": "Tomato sauce, chicken fillet, pineapple, mozzarella",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/d89ce8fc-93c3-4ba3-908f-f3161b3160a3",
+                    "price": 19900,
+                    "title": "Pizza Hawaiian 30cm",
+                    "uuid": "e41d5c1e-0970-43be-a04e-5a4114f65764",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "8d5da8a1-0765-42d6-bd8d-6346e389296c": {
+                    "description": "",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/e2b49854-63dc-4ce4-a3b5-36521be5cede",
+                    "price": 9400,
+                    "title": "BBQ chicken wings",
+                    "uuid": "8d5da8a1-0765-42d6-bd8d-6346e389296c",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "05303f86-a5a7-4901-9952-308b42e734ce": {
+                    "description": "Red onion, olives (black), cucumbers, sweet pepper, tomatoes, and feta cheese.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/12951e81-2d59-4d28-99a9-5ec70445c324",
+                    "price": 7900,
+                    "title": "Greek salad",
+                    "uuid": "05303f86-a5a7-4901-9952-308b42e734ce",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "37349e56-caa7-408a-a070-fe941d0bd3a8": {
+                    "description": "Tomato sauce, ham, champignons, mozzarella, olives (black)",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/e2fc7d51-274a-4bdc-8d29-ad4e0f8857e4",
+                    "price": 19900,
+                    "title": "Pizza Kaprichoza 30cm",
+                    "uuid": "37349e56-caa7-408a-a070-fe941d0bd3a8",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "2cc6cc83-e10e-4d3a-9500-a88145bb6afb": {
+                    "description": "",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/55541a45-9b44-43a8-88b9-7a7921a72922",
+                    "price": 6400,
+                    "title": "Potato pancakes",
+                    "uuid": "2cc6cc83-e10e-4d3a-9500-a88145bb6afb",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "a355b0d8-b0de-4822-999a-8250683da12c": {
+                    "description": "",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/4774ad1d-f327-4c99-9316-2c00ce31aaba",
+                    "price": 8900,
+                    "title": "Cheese sticks",
+                    "uuid": "a355b0d8-b0de-4822-999a-8250683da12c",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "2fe0d639-abec-40a0-be80-5f6e5e778bb9": {
+                    "description": "Caesar sauce, mozzarella, chicken fillet, bacon, tomatoes, mixed salad, and Parmesan cheese.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/657ee18b-1da9-4b91-aa83-05813e7cce6f",
+                    "price": 22900,
+                    "title": "Pizza Caesar 30cm",
+                    "uuid": "2fe0d639-abec-40a0-be80-5f6e5e778bb9",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "7ed1a38a-e222-4247-a52a-3b1d2d6bc1eb": {
+                    "description": "Cream sauce, mozzarella, dorblu cheese, gouda cheese, Parmesan cheese, and oregano.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/924cd22b-2708-4e0d-ac49-ffae1ccd85d3",
+                    "price": 21900,
+                    "title": "Pizza 4 Cheese 30cm",
+                    "uuid": "7ed1a38a-e222-4247-a52a-3b1d2d6bc1eb",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "0af93de3-d32f-439b-ab5b-8eb440cd97f9": {
+                    "description": "Tomato sauce, mozzarella, chicken fillet, salami, ham, hunter's (smoked) sausages, champignons, olives (black), and parsley.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/ff12b7be-2457-45b4-b70c-da23162e5555",
+                    "price": 22900,
+                    "title": "Pizza Cossack 30cm",
+                    "uuid": "0af93de3-d32f-439b-ab5b-8eb440cd97f9",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "3d87442e-c351-4d5c-924f-018e4995262c": {
+                    "description": "",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/4ca92c20-e2c1-49d3-b365-5c2a3988b0f8",
+                    "price": 8900,
+                    "title": "Crispy wings",
+                    "uuid": "3d87442e-c351-4d5c-924f-018e4995262c",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                }
+            }
+        },
+        "sections": [
+            {
+                "subsectionUuids": [
+                    "f4d568da-5379-48c2-a270-dc5788f9c116",
+                    "bb4ca448-01dd-4f0a-a766-a24d3781cf4c",
+                    "74c4ec6e-0f44-44f2-8421-5691fe3c7ba8",
+                    "0f5252ac-82c8-4277-b756-b962a570ddc7",
+                    "2df54b1c-dddc-4d31-b614-cdcd163d6143"
+                ],
+                "title": "SWITCH LANGUAGE (UKR)",
+                "subtitle": "10:00 AM – 10:00 PM",
+                "uuid": "b86c1f28-6907-454e-9b40-a0d37c3d33d3",
+                "isTop": true,
+                "isOnSale": true
+            },
+            {
+                "subsectionUuids": [
+                    "0f229772-5d86-4643-b792-f00c7b321d7b",
+                    "272a229b-6b7d-433a-93aa-dc636ea3cb8a",
+                    "66104555-145b-4811-b6c4-aa7aa2df0ea3"
+                ],
+                "title": "SWITCH LANGUAGE (ENG)",
+                "subtitle": "10:00 AM – 10:00 PM",
+                "uuid": "a27734b9-05bd-42e5-8633-4b7ef1d3a2c6",
+                "isTop": false,
+                "isOnSale": true
+            }
+        ],
+        "subsectionsMap": {
+            "0f229772-5d86-4643-b792-f00c7b321d7b": {
+                "itemUuids": [
+                    "0af93de3-d32f-439b-ab5b-8eb440cd97f9",
+                    "09bada75-321e-43f8-b8a6-607ae59aaddf",
+                    "7ed1a38a-e222-4247-a52a-3b1d2d6bc1eb",
+                    "9b11b74c-4e75-47bb-bf2a-50a881f78649",
+                    "2fe0d639-abec-40a0-be80-5f6e5e778bb9",
+                    "37349e56-caa7-408a-a070-fe941d0bd3a8",
+                    "e41d5c1e-0970-43be-a04e-5a4114f65764"
+                ],
+                "subtitle": "",
+                "title": "Pizza",
+                "uuid": "0f229772-5d86-4643-b792-f00c7b321d7b",
+                "displayType": null
+            },
+            "2df54b1c-dddc-4d31-b614-cdcd163d6143": {
+                "itemUuids": [
+                    "f2c27d9c-d7ac-41c3-9055-af338df3f81b",
+                    "99a673e6-26ec-470d-a7e1-fd4203ce27c6",
+                    "dd17a700-0e7b-4a5c-a1ba-786d10923bfd",
+                    "1dcc0a21-676a-4440-bab7-86a8af0c9aa9",
+                    "1c2d6730-c7a0-43d5-b1db-551293d1d37c",
+                    "6ae51e0f-0722-4965-a605-d101f0e453c9"
+                ],
+                "subtitle": "",
+                "title": "Напої",
+                "uuid": "2df54b1c-dddc-4d31-b614-cdcd163d6143",
+                "displayType": null
+            },
+            "f4d568da-5379-48c2-a270-dc5788f9c116": {
+                "itemUuids": [
+                    "4de676eb-2af7-4947-ade5-de9e903233ef",
+                    "099c3584-dc18-419d-9ee8-400ca8102ed7",
+                    "bc1476cd-854c-4389-8228-07c965837b6a",
+                    "0975eb5b-d113-407c-9e6b-92362204daf7",
+                    "60c8db7b-0baa-4d2b-86ff-b7eaf7fef41a"
+                ],
+                "subtitle": "",
+                "title": "Популярне",
+                "uuid": "f4d568da-5379-48c2-a270-dc5788f9c116",
+                "displayType": null
+            },
+            "272a229b-6b7d-433a-93aa-dc636ea3cb8a": {
+                "itemUuids": [
+                    "05303f86-a5a7-4901-9952-308b42e734ce",
+                    "66f69a99-3911-4034-9a97-86c5460cf584"
+                ],
+                "subtitle": "",
+                "title": "Salads",
+                "uuid": "272a229b-6b7d-433a-93aa-dc636ea3cb8a",
+                "displayType": null
+            },
+            "0f5252ac-82c8-4277-b756-b962a570ddc7": {
+                "itemUuids": [
+                    "6d95c3c1-325e-44ba-b188-ee910e163c2f",
+                    "9ffb023f-9636-4c7a-894f-2db92c219d39",
+                    "357bf084-1024-4e1a-9514-e702a9875bbc",
+                    "d34448fd-2cf0-4b0c-85d7-73cb85c48a75",
+                    "3d288aca-7ece-4c04-8bd0-89fe98e94f39",
+                    "86005fdf-5cc3-4951-a551-31a29147197c"
+                ],
+                "subtitle": "",
+                "title": "Закуски",
+                "uuid": "0f5252ac-82c8-4277-b756-b962a570ddc7",
+                "displayType": null
+            },
+            "bb4ca448-01dd-4f0a-a766-a24d3781cf4c": {
+                "itemUuids": [
+                    "a9b165fb-7420-4fb4-b088-a7ffd48b79e0",
+                    "6eeb4c88-474f-4da8-b94e-b316975ec222",
+                    "ac8de8bd-8fb9-4429-bcd7-58502c414b77",
+                    "83257c3a-e166-4ca9-b020-42e5944c1008",
+                    "6fe3adcc-4887-48fa-b2e9-3eb6b2d894db",
+                    "6b270957-c654-46e1-9015-070e78e68b45",
+                    "c1b4034e-e208-4300-b1f4-1b03e7d55398",
+                    "6618448b-d239-4437-bace-ea9110a02bc7",
+                    "7f913864-9374-4389-9d00-f2d6cc03f3c3"
+                ],
+                "subtitle": "",
+                "title": "Піца",
+                "uuid": "bb4ca448-01dd-4f0a-a766-a24d3781cf4c",
+                "displayType": null
+            },
+            "74c4ec6e-0f44-44f2-8421-5691fe3c7ba8": {
+                "itemUuids": [
+                    "bc50812d-4b10-4841-8e88-f30267b75321",
+                    "9f2f8e08-70e8-4825-96f4-099e1dc9ae01"
+                ],
+                "subtitle": "",
+                "title": "Салати",
+                "uuid": "74c4ec6e-0f44-44f2-8421-5691fe3c7ba8",
+                "displayType": null
+            },
+            "66104555-145b-4811-b6c4-aa7aa2df0ea3": {
+                "itemUuids": [
+                    "8d5da8a1-0765-42d6-bd8d-6346e389296c",
+                    "3d87442e-c351-4d5c-924f-018e4995262c",
+                    "83bfedff-73cd-4e16-a8cd-a5a597fc412a",
+                    "70e926a7-d578-4fa1-9cf0-2c4200ae5374",
+                    "2cc6cc83-e10e-4d3a-9500-a88145bb6afb",
+                    "a355b0d8-b0de-4822-999a-8250683da12c"
+                ],
+                "subtitle": "",
+                "title": "Snacks",
+                "uuid": "66104555-145b-4811-b6c4-aa7aa2df0ea3",
+                "displayType": null
+            }
+        },
+        "title": "Adriano Pizza",
+        "uuid": "47081423-bd6c-47c9-9483-bb164c0e94b0",
+        "categories": [
+            "₴₴",
+            "Піца",
+            "Італійська",
+            "Європейська"
+        ],
+        "cuisineList": [
+            "Піца",
+            "Італійська",
+            "Європейська"
+        ],
+        "priceBucket": "₴₴",
+        "etaRange": {
+            "text": "50–60 min",
+            "iconUrl": ""
+        },
+        "ratingBadge": {
+            "text": "<span><span style=\"font-family: inherit; color: #3a3a48;\">4.7 <img src=\"https://d1a3f4spazzrp4.cloudfront.net/static/images/Star_Yellow_Eats_3.png\" width=\"14\" height=\"14\" vertical-align=\"middle\"> </span><span style=\"font-family: inherit; color: #757575;\">(86)</span></span>"
+        },
+        "disclaimerBadge": null,
+        "fareBadge": null,
+        "fareInfo": {
+            "serviceFee": 30,
+            "serviceFeeCents": 3000
+        },
+        "promotion": null,
+        "shouldIndex": true,
+        "heroImageUrls": [
+            {
+                "url": "https://d1ralsognjng37.cloudfront.net/09265002-48bf-4036-a666-aec9fb20c2c4",
+                "width": 240
+            },
+            {
+                "url": "https://d1ralsognjng37.cloudfront.net/b1aba206-95fa-475f-8d3e-8e3452ebbeb0",
+                "width": 550
+            },
+            {
+                "url": "https://d1ralsognjng37.cloudfront.net/1b6867b6-aaf6-430a-a47c-0799e474672a",
+                "width": 640
+            },
+            {
+                "url": "https://d1ralsognjng37.cloudfront.net/ce18a225-2dab-4b51-a60b-e23e920f06e8",
+                "width": 750
+            },
+            {
+                "url": "https://d1ralsognjng37.cloudfront.net/15eab058-311a-4a31-96c6-4c3ae58a4a97",
+                "width": 1080
+            },
+            {
+                "url": "https://d1ralsognjng37.cloudfront.net/8ee41e00-4704-4593-9d36-cfc057f41878",
+                "width": 2880
+            }
+        ],
+        "isOpen": true,
+        "currencyCode": "UAH",
+        "closedMessage": "Currently unavailable",
+        "location": {
+            "address": "Hlybochytska St, 33/37, Kyiv, Kyiv city 02000",
+            "streetAddress": "Hlybochytska St, 33/37",
+            "city": "Kyiv",
+            "country": "UA",
+            "postalCode": "02000",
+            "region": "Kyiv city",
+            "latitude": 50.462782,
+            "longitude": 30.494972
+        },
+        "isDeliveryThirdParty": false,
+        "hours": [
+            {
+                "dayRange": "Every Day",
+                "sectionHours": [
+                    {
+                        "startTime": 600,
+                        "endTime": 1320,
+                        "sectionTitle": "SWITCH LANGUAGE (UKR)"
+                    },
+                    {
+                        "startTime": 600,
+                        "endTime": 1320,
+                        "sectionTitle": "SWITCH LANGUAGE (ENG)"
+                    }
+                ]
+            }
+        ],
+        "disableOrderInstruction": false,
+        "disableCheckoutInstruction": false,
+        "nuggets": [],
+        "isWithinDeliveryRange": false,
+        "slug": "adriano-pizza",
+        "citySlug": "kyiv",
+        "phoneNumber": "+380442371616",
+        "metaJson": "{\"@context\":\"http:\\u002F\\u002Fschema.org\",\"@type\":\"Restaurant\",\"@id\":\"https:\\u002F\\u002Fwww.ubereats.com\\u002Fen-UA\\u002Fkyiv\\u002Ffood-delivery\\u002Fadriano-pizza\\u002FRwgUI71sR8mUg7sWTA6UsA\\u002F\",\"name\":\"Adriano Pizza\",\"priceRange\":\"₴₴\",\"potentialAction\":{\"@type\":\"OrderAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\\u002F\\u002Fwww.ubereats.com\\u002Fen-UA\\u002Fkyiv\\u002Ffood-delivery\\u002Fadriano-pizza\\u002FRwgUI71sR8mUg7sWTA6UsA\\u002F?utm_campaign=order-action&utm_medium=organic\",\"inLanguage\":\"English\",\"actionPlatform\":[\"http:\\u002F\\u002Fschema.org\\u002FDesktopWebPlatform\",\"http:\\u002F\\u002Fschema.org\\u002FMobileWebPlatform\"]},\"deliveryMethod\":[\"http:\\u002F\\u002Fpurl.org\\u002Fgoodrelations\\u002Fv1#DeliveryModeOwnFleet\"]},\"address\":{\"@type\":\"PostalAddress\",\"addressLocality\":\"Kyiv\",\"addressRegion\":\"Kyiv city\",\"postalCode\":\"02000\",\"addressCountry\":\"UA\",\"streetAddress\":\"Hlybochytska St, 33\\u002F37\"},\"geo\":{\"@type\":\"GeoCoordinates\",\"latitude\":50.462782,\"longitude\":30.494972}}",
+        "promoTrackings": [],
+        "suggestedPromotion": {
+            "text": "",
+            "promotionUuid": ""
+        },
+        "supportedDiningModes": [
+            {
+                "mode": "DELIVERY",
+                "title": "Delivery",
+                "isSelected": true,
+                "isAvailable": true
+            }
+        ],
+        "isPreview": false,
+        "pinnedInfo": null
+    }
+}

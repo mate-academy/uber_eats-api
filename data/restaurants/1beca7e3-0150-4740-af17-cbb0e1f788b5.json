@@ -1,0 +1,581 @@
+{
+    "status": "success",
+    "data": {
+        "sectionEntitiesMap": {
+            "b467f8c5-130b-4d73-9bfd-dd1536e4a5d6": {
+                "d374a37f-efe9-435c-9dd4-febb31fbdee3": {
+                    "description": "",
+                    "imageUrl": null,
+                    "price": 199,
+                    "title": "Lemon",
+                    "uuid": "d374a37f-efe9-435c-9dd4-febb31fbdee3",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "f7758f73-758b-438d-accd-7348ded274ac": {
+                    "description": "CÎROC is one of the only vodkas in the world made from fine French grapes | CÎROC vodka has an exceptionally smooth and delicious citrus taste |  Produced using fine French grapes, CÎROC is distilled five times, making it a luscious, elegantly smooth and sophisticated luxury vodka | Top with champagne in a CÎROC Blue Stone Royal, or simply enjoy the pure taste with soda or your favourite mixer.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/712e45d9-beeb-4c18-a524-9ad918d58ea8.jpeg",
+                    "price": 5999,
+                    "title": "Ciroc Original Vodka 70cl",
+                    "uuid": "f7758f73-758b-438d-accd-7348ded274ac",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "5736b8b5-44ef-407e-9e4b-7b017c2e90fa": {
+                    "description": "1 L.",
+                    "imageUrl": null,
+                    "price": 349,
+                    "title": "Soda",
+                    "uuid": "5736b8b5-44ef-407e-9e4b-7b017c2e90fa",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "d0a63702-238e-4ea9-a144-eba635839190": {
+                    "description": "1 L.",
+                    "imageUrl": null,
+                    "price": 349,
+                    "title": "Apple Juice",
+                    "uuid": "d0a63702-238e-4ea9-a144-eba635839190",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "e647f511-a36f-4369-a599-cf44fa681a8f": {
+                    "description": "\"Coca-Cola Classic is the world's favourite soft drink and has been enjoyed since 1886.\n \n Great Coke taste\n Only natural flavours\n No added preservatives\n Gluten-free, dairy-free and nut-free\n \n Serve ice cold for maximum refreshment.\"",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/71afc5d7-09a6-4b87-9e90-717751080183.jpeg",
+                    "price": 349,
+                    "title": "Coca-Cola Original Taste 1L",
+                    "uuid": "e647f511-a36f-4369-a599-cf44fa681a8f",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "176f1d5f-0d13-4e04-9b50-3d6827869d07": {
+                    "description": "The world's top-selling premium vodka | Exceptionally smooth with a clean palate | Triple distilled from different blended grains, filtered ten times through seven columns of charcoal | Make a wide range of cocktails such as Moscow Mules, Cosmopolitans or Bloody Marys.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/db3ce423-d8df-4ea4-833c-7ea9b9d6f9b3.jpeg",
+                    "price": 3499,
+                    "title": "Smirnoff Red Label Vodka 70cl",
+                    "uuid": "176f1d5f-0d13-4e04-9b50-3d6827869d07",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "ee8f5157-f923-4655-9237-dddafb1aef5f": {
+                    "description": "1.5 L.",
+                    "imageUrl": null,
+                    "price": 349,
+                    "title": "Still Mineral Water",
+                    "uuid": "ee8f5157-f923-4655-9237-dddafb1aef5f",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "9547b3ca-91e1-43c5-b4a2-0bc29266fe08": {
+                    "description": "70 cL. Four time filtered through quartz, sand, charcoal, and woven cloth, stolichnaya is then blended with natural spring water from the latvian balzams wells.",
+                    "imageUrl": null,
+                    "price": 4499,
+                    "title": "Stolichnaya Vodka",
+                    "uuid": "9547b3ca-91e1-43c5-b4a2-0bc29266fe08",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "17b56fa7-b758-40d7-8dec-cb746f38b386": {
+                    "description": "1 L.",
+                    "imageUrl": null,
+                    "price": 349,
+                    "title": "Diet Coca Cola",
+                    "uuid": "17b56fa7-b758-40d7-8dec-cb746f38b386",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "3bde6e88-a9cd-4966-b259-b3c0cea61821": {
+                    "description": "70 cL. Not considering quadruple-distilled vodka to be pure enough, founders Dan Aykroyd and John Alexander decided they needed to filter it through 500-million-year-old crystals known as Herkimer diamonds to add the finishing touch. They then went and topped it all by housing their vodka in this spectacular skull.",
+                    "imageUrl": null,
+                    "price": 4999,
+                    "title": "Crystal Head Vodka",
+                    "uuid": "3bde6e88-a9cd-4966-b259-b3c0cea61821",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "952eb770-5a3c-4ccd-a66e-01981b97f4b0": {
+                    "description": "70 cL. Tonino lamborghini vodka is produced by selecting only the highest quality cereals from farms in Eastern Europe, particularly the balkans and Slovakia, renowned for the superiority of their grain. The harvest is carefully selected to eliminate any impurities and the softened corn goes through a process that enhances the starch content. This in turn transforms the sucrose in to a form pure enough to distill an alcohol of outstanding clarity.",
+                    "imageUrl": null,
+                    "price": 6999,
+                    "title": "Lamborghini Vodka ",
+                    "uuid": "952eb770-5a3c-4ccd-a66e-01981b97f4b0",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "a55bcc3b-8e45-46e2-b4e8-22887ff5cb8c": {
+                    "description": "70 cL. Crafted from fine French wheat with water naturally filtered through grande champagne limestone, grey goose is distilled according to the traditions of the cognac region. Each batch is made to exacting standards, ensuring distinct freshness, clarity and unparalleled smoothness.",
+                    "imageUrl": null,
+                    "price": 6999,
+                    "title": "Grey Goose",
+                    "uuid": "a55bcc3b-8e45-46e2-b4e8-22887ff5cb8c",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "5b6a31ac-928d-402d-b18d-b7e531f2319b": {
+                    "description": "70 cL. Reyka is distilled and in small batches of 890 litres in traditional copper stills and filtered through lava rock, giving the vodka its intense purity and character. While this mixes superbly in cocktails, it's also delicious sipped neat to appreciate its smoothness and elegance.",
+                    "imageUrl": null,
+                    "price": 3999,
+                    "title": "Reyka Vodka",
+                    "uuid": "5b6a31ac-928d-402d-b18d-b7e531f2319b",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "10f1fae2-55d7-4e5c-a567-66f33610b3f8": {
+                    "description": "1 L.",
+                    "imageUrl": null,
+                    "price": 349,
+                    "title": "Lemonade",
+                    "uuid": "10f1fae2-55d7-4e5c-a567-66f33610b3f8",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "0d571c3a-9fb5-4ba8-9f49-9cf4798b5d8a": {
+                    "description": "1 L.",
+                    "imageUrl": null,
+                    "price": 349,
+                    "title": "Tonic",
+                    "uuid": "0d571c3a-9fb5-4ba8-9f49-9cf4798b5d8a",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "eebd3988-3349-48a3-afb9-f5f5300539d6": {
+                    "description": "2 kg bags.",
+                    "imageUrl": null,
+                    "price": 499,
+                    "title": "Ice Cubes",
+                    "uuid": "eebd3988-3349-48a3-afb9-f5f5300539d6",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "9106b977-3e12-45f6-99a7-9bc2b5804faf": {
+                    "description": "70 cL. The unforgiving winters in Finland provide the perfect environment for this barley based vodka. The manufacturing process is about as clean and pure as it gets. With a 200 step distillation process, the spirit is then blended with the ice cool glacial spring water of Finland to create a great tasting vodka. We recommend using Finlandia in a whole slew of cocktails or with a simple mixer.",
+                    "imageUrl": null,
+                    "price": 3999,
+                    "title": "Finlandia Vodka",
+                    "uuid": "9106b977-3e12-45f6-99a7-9bc2b5804faf",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "cca340ee-e887-49f6-b0bb-64ad39e0b742": {
+                    "description": "1 L.",
+                    "imageUrl": null,
+                    "price": 349,
+                    "title": "Ginger Ale",
+                    "uuid": "cca340ee-e887-49f6-b0bb-64ad39e0b742",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "976d92c7-3a6c-468b-83d1-21457c245217": {
+                    "description": "1 L.",
+                    "imageUrl": null,
+                    "price": 349,
+                    "title": "Slim Line Tonic",
+                    "uuid": "976d92c7-3a6c-468b-83d1-21457c245217",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "10223758-a617-4ceb-80cb-7672da0b2e94": {
+                    "description": "70 cL. Black cow is pure milk vodka, produced on a farm in the west Dorset countryside.Using a distillation method inspired by those of nomadic Siberian tribes (who distill reindeer milk), milk from grass-fed cows is separated into curds and whey the curds are used to make cheese and the whey for vodka. The whey is fermented to make a milk 'beer', then distilled and triple filtered, to create a rather special and outstanding vodka that tastes super smooth and makes for an excellent sipping spirit.",
+                    "imageUrl": null,
+                    "price": 3499,
+                    "title": "Black Cow",
+                    "uuid": "10223758-a617-4ceb-80cb-7672da0b2e94",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "33d5b700-daa1-401e-af60-f33fadd8c587": {
+                    "description": "70 cL. The original vodka distilled and bottled in Russia using winter wheat from the Russian steppes and pure glacial water from lake ladoga. In 1894 dmitry mendeleev, the greatest scientist in all russia, received a decree from the tsar to create the imperial quality standard for Russian vodka. The 'Russian standard' was born. Today in st petersburg, our state-ofthe-art distillery allows us to bring this vodka heritage into the 21st century. Using winter wheat from the Russian steppes and pure glacial water from lake ladoga, we have created the genuine taste of russian vodka that is once again being celebrated throughout the world.",
+                    "imageUrl": null,
+                    "price": 3499,
+                    "title": "Russian Standard ",
+                    "uuid": "33d5b700-daa1-401e-af60-f33fadd8c587",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "114178b4-d3c3-40ce-9cdf-fc984c596406": {
+                    "description": "",
+                    "imageUrl": null,
+                    "price": 199,
+                    "title": "Lime",
+                    "uuid": "114178b4-d3c3-40ce-9cdf-fc984c596406",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "e43ea8c7-be76-4d05-ba22-36e1eb7dd454": {
+                    "description": "70 cL. This is a super-smooth, full-bodied artisan vodka. By using some of the finest potato crops and traditional distillation methods, chase ensures a superb purity of style, with light notes of toasted almond, white pepper, and rich, buttery mashed potatoes.",
+                    "imageUrl": null,
+                    "price": 3999,
+                    "title": "Chase English Potato Vodka",
+                    "uuid": "e43ea8c7-be76-4d05-ba22-36e1eb7dd454",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "a90f89bd-16d3-4e08-b679-3948b45734de": {
+                    "description": "70 cL. In a stylish bottle, belvedere is a single-grain vodka from Poland with subtle sweetness and a smooth, clean finish that has been potdistilled four times – believed to be the optimum number to enhance character. Belvedere takes its name from the palace that was to Polish royalty and presidents.",
+                    "imageUrl": null,
+                    "price": 6999,
+                    "title": "Belvedere Vodka",
+                    "uuid": "a90f89bd-16d3-4e08-b679-3948b45734de",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "5aceb4fb-a25a-4959-b3d4-e30e8d9c689e": {
+                    "description": "1 L.",
+                    "imageUrl": null,
+                    "price": 349,
+                    "title": "Orange Juice",
+                    "uuid": "5aceb4fb-a25a-4959-b3d4-e30e8d9c689e",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "ccd0973d-8f0f-49fb-b792-70d3de676143": {
+                    "description": "1 L.",
+                    "imageUrl": null,
+                    "price": 349,
+                    "title": "Cranberry Juice",
+                    "uuid": "ccd0973d-8f0f-49fb-b792-70d3de676143",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "a21e91d7-3127-49f3-b5a3-dec571bd6350": {
+                    "description": "330 mL.",
+                    "imageUrl": null,
+                    "price": 349,
+                    "title": "Red Bull",
+                    "uuid": "a21e91d7-3127-49f3-b5a3-dec571bd6350",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "6efdcf1c-878a-4623-98b9-255bc93f53f6": {
+                    "description": "70 cL. Premium vodka, perfect for cocktails. This superb vodka was distilled from grain grown in the rich fields of Southern Sweden. It has been produced at the famous old distilleries near ahus in accordance with more than 400 years of Swedish tradition. Vodka has been sold under the name absolute since 1879. Because it has no added sugar absolut vodka is perfect for mixing. Try in an espresso martini, an elder flower collins or simply with lime and soda. Absolut elder flower collins 50ml absolut vodka  25 mL lemon juice - 5 mL elder flower cordial add all ingredients to a glass with ice and top off with soda. Garnish with lemon wheels.",
+                    "imageUrl": null,
+                    "price": 3999,
+                    "title": "Absolut",
+                    "uuid": "6efdcf1c-878a-4623-98b9-255bc93f53f6",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                }
+            }
+        },
+        "sections": [
+            {
+                "subsectionUuids": [
+                    "8c9db51b-837d-4f2d-8aa7-be0a54967a91",
+                    "d2e6f9d9-4071-42fd-a474-1ab69653a16f",
+                    "e79dc193-81e7-4af8-80f7-ca801f5ed755"
+                ],
+                "title": "Menu",
+                "subtitle": "8:00 PM – 11:59 PM",
+                "uuid": "b467f8c5-130b-4d73-9bfd-dd1536e4a5d6",
+                "isTop": true,
+                "isOnSale": false
+            }
+        ],
+        "subsectionsMap": {
+            "e79dc193-81e7-4af8-80f7-ca801f5ed755": {
+                "itemUuids": [
+                    "ccd0973d-8f0f-49fb-b792-70d3de676143",
+                    "d0a63702-238e-4ea9-a144-eba635839190",
+                    "5aceb4fb-a25a-4959-b3d4-e30e8d9c689e",
+                    "cca340ee-e887-49f6-b0bb-64ad39e0b742",
+                    "0d571c3a-9fb5-4ba8-9f49-9cf4798b5d8a",
+                    "976d92c7-3a6c-468b-83d1-21457c245217",
+                    "5736b8b5-44ef-407e-9e4b-7b017c2e90fa",
+                    "17b56fa7-b758-40d7-8dec-cb746f38b386",
+                    "e647f511-a36f-4369-a599-cf44fa681a8f",
+                    "10f1fae2-55d7-4e5c-a567-66f33610b3f8",
+                    "a21e91d7-3127-49f3-b5a3-dec571bd6350",
+                    "ee8f5157-f923-4655-9237-dddafb1aef5f"
+                ],
+                "subtitle": null,
+                "title": "Mixers",
+                "uuid": "e79dc193-81e7-4af8-80f7-ca801f5ed755",
+                "displayType": null
+            },
+            "d2e6f9d9-4071-42fd-a474-1ab69653a16f": {
+                "itemUuids": [
+                    "3bde6e88-a9cd-4966-b259-b3c0cea61821",
+                    "e43ea8c7-be76-4d05-ba22-36e1eb7dd454",
+                    "10223758-a617-4ceb-80cb-7672da0b2e94",
+                    "9106b977-3e12-45f6-99a7-9bc2b5804faf",
+                    "f7758f73-758b-438d-accd-7348ded274ac",
+                    "a55bcc3b-8e45-46e2-b4e8-22887ff5cb8c",
+                    "952eb770-5a3c-4ccd-a66e-01981b97f4b0",
+                    "5b6a31ac-928d-402d-b18d-b7e531f2319b",
+                    "9547b3ca-91e1-43c5-b4a2-0bc29266fe08",
+                    "a90f89bd-16d3-4e08-b679-3948b45734de",
+                    "176f1d5f-0d13-4e04-9b50-3d6827869d07",
+                    "33d5b700-daa1-401e-af60-f33fadd8c587",
+                    "6efdcf1c-878a-4623-98b9-255bc93f53f6"
+                ],
+                "subtitle": null,
+                "title": "Beverages",
+                "uuid": "d2e6f9d9-4071-42fd-a474-1ab69653a16f",
+                "displayType": null
+            },
+            "8c9db51b-837d-4f2d-8aa7-be0a54967a91": {
+                "itemUuids": [
+                    "eebd3988-3349-48a3-afb9-f5f5300539d6",
+                    "d374a37f-efe9-435c-9dd4-febb31fbdee3",
+                    "114178b4-d3c3-40ce-9cdf-fc984c596406"
+                ],
+                "subtitle": null,
+                "title": "Extras",
+                "uuid": "8c9db51b-837d-4f2d-8aa7-be0a54967a91",
+                "displayType": null
+            }
+        },
+        "title": "Vodka Club",
+        "uuid": "1beca7e3-0150-4740-af17-cbb0e1f788b5",
+        "categories": [
+            "₴₴₴",
+            "Алкоголь"
+        ],
+        "cuisineList": [
+            "Алкоголь"
+        ],
+        "priceBucket": "₴₴₴",
+        "etaRange": null,
+        "ratingBadge": null,
+        "disclaimerBadge": {
+            "text": "<span style=\"font-family: inherit;\">Allergies, intolerances and dietary requirements: before ordering, please contact the restaurant directly and ask to speak to a member of staff who can assist if you require information about ingredients and help cater for your needs. For more information on food safety and hygiene, please visit the <a href=\"https://www.food.gov.uk/\" style=\"color:#61ad5f;\">Food Standards Agency</a>.</span>"
+        },
+        "fareBadge": null,
+        "fareInfo": {
+            "serviceFeeCents": null
+        },
+        "promotion": null,
+        "shouldIndex": false,
+        "heroImageUrls": [
+            {
+                "url": "https://d1ralsognjng37.cloudfront.net/9f694eca-1ca2-4214-b629-c206c6903d52",
+                "width": 240
+            },
+            {
+                "url": "https://d1ralsognjng37.cloudfront.net/0b40d681-e8b4-42a2-aea6-1f7032004558",
+                "width": 550
+            },
+            {
+                "url": "https://d1ralsognjng37.cloudfront.net/2730c8cd-d90d-462a-aacd-e13eb8fe6a9c",
+                "width": 640
+            },
+            {
+                "url": "https://d1ralsognjng37.cloudfront.net/ac61a261-2fb0-460a-9f1c-db11aa19f887",
+                "width": 750
+            },
+            {
+                "url": "https://d1ralsognjng37.cloudfront.net/c67ba8d6-7c16-4cdf-9296-bd7ca0e035ca",
+                "width": 1080
+            },
+            {
+                "url": "https://d1ralsognjng37.cloudfront.net/e921d348-a25a-4fc9-a350-848b137c627a",
+                "width": 2880
+            }
+        ],
+        "isOpen": false,
+        "currencyCode": "GBP",
+        "closedMessage": "Opens at 8:00 PM",
+        "location": {
+            "address": "London Sw8 3ns, 28, England SW8 3NS",
+            "streetAddress": "",
+            "city": "London",
+            "country": "GB",
+            "postalCode": "SW8 3NS",
+            "region": "England",
+            "latitude": 51.47538240000001,
+            "longitude": -0.14476229999999998
+        },
+        "isDeliveryThirdParty": true,
+        "hours": [
+            {
+                "dayRange": "Every Day",
+                "sectionHours": [
+                    {
+                        "startTime": 0,
+                        "endTime": 539,
+                        "sectionTitle": "Menu"
+                    },
+                    {
+                        "startTime": 1200,
+                        "endTime": 1439,
+                        "sectionTitle": "Menu"
+                    }
+                ]
+            }
+        ],
+        "disableOrderInstruction": false,
+        "disableCheckoutInstruction": false,
+        "nuggets": [
+            {
+                "type": "AGGREGATOR_STOREFRONT",
+                "title": "Delivered by Vodka Club",
+                "body": "This restaurant uses its own couriers. You'll get updates, but can't track their location.",
+                "hasBottomSheet": true,
+                "bottomSheetActionTitle": "Why can’t I track my order?",
+                "bottomSheetActionBodyHtml": "<span>This restaurant uses its own couriers to deliver orders. Since these couriers don’t use Uber, you won’t be able to follow them on the map. <a style=\"color:#008800;\" href=\"https://help.uber.com/ubereats/article/restaurant-courier-delivery-faq?nodeId=cf914a9f-f894-4fc3-a66c-aa2cc39948e9\" target=\"_blank\">Learn more</a></span>",
+                "secondaryButtonText": "",
+                "secondaryButtonUrl": ""
+            }
+        ],
+        "isWithinDeliveryRange": false,
+        "slug": "vodka-club",
+        "citySlug": "london",
+        "phoneNumber": "+442035892417",
+        "metaJson": "{\"@context\":\"http:\\u002F\\u002Fschema.org\",\"@type\":\"Restaurant\",\"@id\":\"https:\\u002F\\u002Fwww.ubereats.com\\u002Fen-UA\\u002Flondon\\u002Ffood-delivery\\u002Fvodka-club\\u002FG-yn4wFQR0CvF8uw4feItQ\\u002F\",\"name\":\"Vodka Club\",\"priceRange\":\"₴₴₴\",\"potentialAction\":{\"@type\":\"OrderAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\\u002F\\u002Fwww.ubereats.com\\u002Fen-UA\\u002Flondon\\u002Ffood-delivery\\u002Fvodka-club\\u002FG-yn4wFQR0CvF8uw4feItQ\\u002F?utm_campaign=order-action&utm_medium=organic\",\"inLanguage\":\"English\",\"actionPlatform\":[\"http:\\u002F\\u002Fschema.org\\u002FDesktopWebPlatform\",\"http:\\u002F\\u002Fschema.org\\u002FMobileWebPlatform\"]},\"deliveryMethod\":[\"http:\\u002F\\u002Fpurl.org\\u002Fgoodrelations\\u002Fv1#DeliveryModeOwnFleet\"]},\"geo\":{\"@type\":\"GeoCoordinates\",\"latitude\":51.47538240000001,\"longitude\":-0.14476229999999998}}",
+        "promoTrackings": [],
+        "suggestedPromotion": {
+            "text": "",
+            "promotionUuid": ""
+        },
+        "supportedDiningModes": [
+            {
+                "mode": "DELIVERY",
+                "title": "Delivery",
+                "isSelected": true,
+                "isAvailable": true
+            }
+        ],
+        "isPreview": false,
+        "pinnedInfo": null
+    }
+}

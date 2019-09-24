@@ -1,0 +1,686 @@
+{
+    "status": "success",
+    "data": {
+        "sectionEntitiesMap": {
+            "f8015288-0703-41ce-ae8c-71f0fe66d9fb": {
+                "0cd40fbc-b17d-463c-ab9c-17c66b4fcec6": {
+                    "description": "Sometimes simple is best",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/380f5f2c-9902-4682-832c-888b50feac7b",
+                    "price": 389,
+                    "title": "Vanilla Milk Tea - Large",
+                    "uuid": "0cd40fbc-b17d-463c-ab9c-17c66b4fcec6",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "7e6cd470-bff6-4bcb-aef3-ff946dcdc79e": {
+                    "description": "Have that ‘very-berry’ time with our Raspberry fruit tea",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/b1d7bbfd-e455-4bce-a6e0-9b138a911b73",
+                    "price": 389,
+                    "title": "Raspberry Fruit Tea - Large",
+                    "uuid": "7e6cd470-bff6-4bcb-aef3-ff946dcdc79e",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "56db636a-ab2a-463f-ab47-7f704437c7fc": {
+                    "description": "Give yourself a Taro-fic treat with our loveable Taro Milk Tea",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/45f96541-a5d1-4e84-9f71-95592cbe9fe7",
+                    "price": 389,
+                    "title": "Taro Milk Tea - Large",
+                    "uuid": "56db636a-ab2a-463f-ab47-7f704437c7fc",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "e7d6394b-0952-4a71-beee-65c2fd69204d": {
+                    "description": "Add passion to your life with our delicious Passion Fruit tea",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/90a26a8e-28a6-4060-9bef-b819edbd5f03",
+                    "price": 389,
+                    "title": "Passion Fruit Tea - Large",
+                    "uuid": "e7d6394b-0952-4a71-beee-65c2fd69204d",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "00dceb35-01c0-42e5-a73b-6df663371f54": {
+                    "description": "Fiercely Pink! Deliciously refreshing Pink Dragon Fruit Tea. Served with Lychee Boba and Tapioca.",
+                    "imageUrl": null,
+                    "price": 429,
+                    "title": "Pink Pitaya Special - Large",
+                    "uuid": "00dceb35-01c0-42e5-a73b-6df663371f54",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": "",
+                    "suspendUntil": 8640000000,
+                    "classifications": []
+                },
+                "beb435ea-102a-4a2f-a985-78ff4f24265f": {
+                    "description": "Keep it smooth and creamy with our Caramel Frappe. Served with a drizzle of syrup. Delivered without whipped cream.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/04be7377-89b3-483e-87a0-8361871460d8",
+                    "price": 389,
+                    "title": "Caramel Frappe Coffee - Large",
+                    "uuid": "beb435ea-102a-4a2f-a985-78ff4f24265f",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "52300eab-89bd-4eda-bb01-096df18c0958": {
+                    "description": "Have a peach-tastic time with our White Peach fruit tea",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/daa3886a-c8ad-4843-8ba7-06b6725630e1",
+                    "price": 389,
+                    "title": "White Peach Fruit Tea - Large",
+                    "uuid": "52300eab-89bd-4eda-bb01-096df18c0958",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "31ea84bf-b2fe-4a9f-a341-25ceb6d3a826": {
+                    "description": "A shot of creamy vanilla blended with rich almond goodness",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/686c3a02-7199-4764-8de8-f42125df6409",
+                    "price": 389,
+                    "title": "Almond Milk Tea - Large",
+                    "uuid": "31ea84bf-b2fe-4a9f-a341-25ceb6d3a826",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "607240c1-40e3-49b5-a46d-0c51b505df2a": {
+                    "description": "Stay dark and chocolatey with our Chocolate milk tea!",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/ca9e0e04-232a-4521-b3cf-3508a99ce9c6",
+                    "price": 389,
+                    "title": "Chocolate Milk Tea - Large",
+                    "uuid": "607240c1-40e3-49b5-a46d-0c51b505df2a",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "50b6358b-2e8f-4964-8bb4-74377d4656c7": {
+                    "description": "Our favourite ruby-red fruit as a delicious drink – what’s not to love?",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/30094618-ae51-43e3-9921-4cd51317df10",
+                    "price": 389,
+                    "title": "Pomegranate Fruit Tea - Large",
+                    "uuid": "50b6358b-2e8f-4964-8bb4-74377d4656c7",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "20043775-b27e-4231-8287-ea301f1a36ec": {
+                    "description": "Spoil yourself in cookies and dreams...Delivered without whipped cream.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/aacfb0d2-ca09-4edf-9445-7c9b8bd70f2b",
+                    "price": 429,
+                    "title": "Oreo Special - Large",
+                    "uuid": "20043775-b27e-4231-8287-ea301f1a36ec",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "2a3dd592-3fc9-45d3-8e31-39cdbf508409": {
+                    "description": "Chocolate + Coffee = a match made in heaven! And our Mocha is the most heavenly of all…Delivered without whipped cream.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/a4baf947-a2db-4df5-9073-88606ca99d4c",
+                    "price": 389,
+                    "title": "Mocha Coffee - Large",
+                    "uuid": "2a3dd592-3fc9-45d3-8e31-39cdbf508409",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "bb48c4cb-e4e6-4bcc-9da1-37759ca4f877": {
+                    "description": "Considered the king of all the fruits. Enjoy our appetising Apple fruit tea",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/798b8a61-bb37-47dc-ac33-4a29dc83f2f6",
+                    "price": 389,
+                    "title": "Apple Fruit Tea - Large",
+                    "uuid": "bb48c4cb-e4e6-4bcc-9da1-37759ca4f877",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "f6aef9d2-e30c-496d-b30a-a7496a97710e": {
+                    "description": "Sweet and exotic, add some love with our Lychee fruit tea",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/dcb25305-61ef-4d5a-a67e-f5e9f1c4697e",
+                    "price": 389,
+                    "title": "Lychee Fruit Tea - Large",
+                    "uuid": "f6aef9d2-e30c-496d-b30a-a7496a97710e",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "24edf7cb-f609-4e51-bf43-243550575568": {
+                    "description": "Be oh so berry peachy with the Peach Berry bubble tea!",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/0a1bc666-6176-4f09-813e-deafbbe4e982",
+                    "price": 429,
+                    "title": "Peachberry Special - Large",
+                    "uuid": "24edf7cb-f609-4e51-bf43-243550575568",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "ddf61783-4b48-49bf-8d07-5ec9683e452a": {
+                    "description": "Take a breath of fresh air from the valleys of Assam's tea garden with every sip",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/c988ec96-3a97-43f4-91c6-2ccf9d592e89",
+                    "price": 389,
+                    "title": "Assam Milk Tea - Large",
+                    "uuid": "ddf61783-4b48-49bf-8d07-5ec9683e452a",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "b18edeaf-bd0d-4b4a-a39d-c078115164f7": {
+                    "description": "When life’s feeling evergreen, match it with our Matcha milk tea",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/25080496-1e75-4aa5-ba94-47f38467f5cf",
+                    "price": 389,
+                    "title": "Matcha Milk Tea - Large",
+                    "uuid": "b18edeaf-bd0d-4b4a-a39d-c078115164f7",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "3266464d-ed6c-45e0-b42a-5ef30e358708": {
+                    "description": "",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/706e1e98-e115-4bf6-8c00-70d774125370",
+                    "price": 495,
+                    "title": "Popping Boba Jar",
+                    "uuid": "3266464d-ed6c-45e0-b42a-5ef30e358708",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "2f9ee2be-7825-403f-8d67-8055f3e77a5d": {
+                    "description": "Be cool and passionate with Passion Fruit and Cucumber fruit tea",
+                    "imageUrl": "",
+                    "price": 389,
+                    "title": "Passion Fruit and Cucumber Fruit Tea - Large",
+                    "uuid": "2f9ee2be-7825-403f-8d67-8055f3e77a5d",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "ca7595d0-fd0e-4351-b1f0-abfe8d7a6417": {
+                    "description": "Refresh and revitalise your day with our Kiwi fruit tea",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/1a8661e6-9cd9-4628-9371-4127fa6e8c6c",
+                    "price": 389,
+                    "title": "Kiwi Fruit Tea - Large",
+                    "uuid": "ca7595d0-fd0e-4351-b1f0-abfe8d7a6417",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": "",
+                    "suspendUntil": 8640000000,
+                    "classifications": []
+                },
+                "d6b02b8f-93ae-4bf5-9e86-83c02874f085": {
+                    "description": "So, can you feel the love? Strawberry fruit tea is the chosen one",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/d60fd624-c9ae-47b0-ae88-ce1ba80dd1d7",
+                    "price": 389,
+                    "title": "Strawberry Fruit Tea - Large",
+                    "uuid": "d6b02b8f-93ae-4bf5-9e86-83c02874f085",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "0c0006a1-4310-4f17-b24f-4bd05aa4fb79": {
+                    "description": "Concoction of sweet berry flavours blended with milk and shortbread. Delivered without whipped cream.",
+                    "imageUrl": "",
+                    "price": 429,
+                    "title": "Pink Teddy Special - Large",
+                    "uuid": "0c0006a1-4310-4f17-b24f-4bd05aa4fb79",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": "",
+                    "suspendUntil": 8640000000,
+                    "classifications": []
+                },
+                "09865efb-7199-42a5-a02b-f60e421c2745": {
+                    "description": "Made with the nations favourite chocolate spread, Nutella. Delivered without whipped cream.",
+                    "imageUrl": "",
+                    "price": 429,
+                    "title": "Bobatella Special - Large",
+                    "uuid": "09865efb-7199-42a5-a02b-f60e421c2745",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "6ac1314e-9506-4c1a-9072-ff68133e0f3e": {
+                    "description": "Warm and flavourful spices…Deliciously spiced Vanilla Milk Tea with Tapioca. Topped with a Cinnamon Floret.",
+                    "imageUrl": null,
+                    "price": 429,
+                    "title": "Vanilla Chai Special - Large",
+                    "uuid": "6ac1314e-9506-4c1a-9072-ff68133e0f3e",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "5bbadafb-2008-44cf-81e9-c3592a2aab70": {
+                    "description": "More tapioca will really give this drink an extra somethin’ somethin’! ",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/0835defb-bd45-4df3-8634-a1f676e51028",
+                    "price": 389,
+                    "title": "Milk Coffee - Large",
+                    "uuid": "5bbadafb-2008-44cf-81e9-c3592a2aab70",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "2238148c-21b0-4bc6-8cc9-a1c18d0c87fc": {
+                    "description": "Enjoy our sweet & refreshing Honeydew milk tea",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/e5ed1d82-49bf-438c-837e-3b844db80187",
+                    "price": 389,
+                    "title": "Honeydew Milk Tea - Large",
+                    "uuid": "2238148c-21b0-4bc6-8cc9-a1c18d0c87fc",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "b6501c1a-9c37-42b0-9755-68fb9b8ef978": {
+                    "description": "Comes with strawberry popping boba, strawbelicious! Delivered without whipped cream.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/7de7a368-5969-470b-8a9d-71afa4514b82",
+                    "price": 429,
+                    "title": "Strawberries and Cream Special - Large",
+                    "uuid": "b6501c1a-9c37-42b0-9755-68fb9b8ef978",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "f107171f-125e-4c62-a8bc-2c5e40b4b58e": {
+                    "description": "Dive deep into the aroma of our Jasmine Milk Tea",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/2f592109-ca70-44c2-b2d4-017539a19b09",
+                    "price": 389,
+                    "title": "Jasmine Milk Tea - Large",
+                    "uuid": "f107171f-125e-4c62-a8bc-2c5e40b4b58e",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "d5078975-1286-4a04-9e02-bafa86da2b01": {
+                    "description": "Take a sip (trip) to the rainforest with our Mango Fruit Tea",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/3c67b91b-ed22-4aa2-b4d4-030bf9e8a1c2",
+                    "price": 389,
+                    "title": "Mango Fruit Tea - Large",
+                    "uuid": "d5078975-1286-4a04-9e02-bafa86da2b01",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "9cc582ca-4d9f-4933-b0b8-119b6d6dad9d": {
+                    "description": "Roses are red, violets are blue, give me a bubble tea and I’ll love you",
+                    "imageUrl": "",
+                    "price": 389,
+                    "title": "Rose Milk Tea - Large",
+                    "uuid": "9cc582ca-4d9f-4933-b0b8-119b6d6dad9d",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "2482a251-63a3-4471-82f8-d34d800352d0": {
+                    "description": "Taste a pinch of heaven with our Coconut milk tea",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/db4bcf36-4068-4c59-8cd2-1ad331c1ce4a",
+                    "price": 389,
+                    "title": "Coconut Milk Tea - Large",
+                    "uuid": "2482a251-63a3-4471-82f8-d34d800352d0",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "bd018f4e-d3a0-43d1-b77d-3b39f32d63e5": {
+                    "description": "A little banana, a little toffee. Make it a Banoffee Pie kinda day! Delivered without whipped cream.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/8ab10e6a-d771-4305-924e-7ab404d7d6b8",
+                    "price": 429,
+                    "title": "Banoffee Brit Special - Large",
+                    "uuid": "bd018f4e-d3a0-43d1-b77d-3b39f32d63e5",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "fa2221a6-8606-43ab-a43a-caaa33fc0364": {
+                    "description": "Refreshing 100% pure and natural coconut water, muddled Mint and garnished with fresh mint leaves",
+                    "imageUrl": "",
+                    "price": 429,
+                    "title": "Nojito Special - Large",
+                    "uuid": "fa2221a6-8606-43ab-a43a-caaa33fc0364",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                }
+            }
+        },
+        "sections": [
+            {
+                "subsectionUuids": [
+                    "31257d52-1e52-415a-a4d0-cbf99bca68ab",
+                    "2e996ee2-dddb-4839-b6a8-6d9c8eb4fe12",
+                    "a2656235-b7a6-4498-8d42-a66ffbe0c85f",
+                    "b6c082e4-63dc-446b-a83d-957b03cd3f2e",
+                    "34957a1f-162c-4916-834a-b83fb68558c1"
+                ],
+                "title": "Menu",
+                "subtitle": "11:00 AM – 11:00 PM",
+                "uuid": "f8015288-0703-41ce-ae8c-71f0fe66d9fb",
+                "isTop": true,
+                "isOnSale": true
+            }
+        ],
+        "subsectionsMap": {
+            "2e996ee2-dddb-4839-b6a8-6d9c8eb4fe12": {
+                "itemUuids": [
+                    "d5078975-1286-4a04-9e02-bafa86da2b01",
+                    "e7d6394b-0952-4a71-beee-65c2fd69204d",
+                    "d6b02b8f-93ae-4bf5-9e86-83c02874f085",
+                    "52300eab-89bd-4eda-bb01-096df18c0958",
+                    "7e6cd470-bff6-4bcb-aef3-ff946dcdc79e",
+                    "2f9ee2be-7825-403f-8d67-8055f3e77a5d",
+                    "50b6358b-2e8f-4964-8bb4-74377d4656c7",
+                    "bb48c4cb-e4e6-4bcc-9da1-37759ca4f877",
+                    "f6aef9d2-e30c-496d-b30a-a7496a97710e",
+                    "ca7595d0-fd0e-4351-b1f0-abfe8d7a6417"
+                ],
+                "subtitle": null,
+                "title": "Fruit Teas",
+                "uuid": "2e996ee2-dddb-4839-b6a8-6d9c8eb4fe12",
+                "displayType": null
+            },
+            "31257d52-1e52-415a-a4d0-cbf99bca68ab": {
+                "itemUuids": [
+                    "ddf61783-4b48-49bf-8d07-5ec9683e452a",
+                    "f107171f-125e-4c62-a8bc-2c5e40b4b58e",
+                    "56db636a-ab2a-463f-ab47-7f704437c7fc",
+                    "2238148c-21b0-4bc6-8cc9-a1c18d0c87fc",
+                    "9cc582ca-4d9f-4933-b0b8-119b6d6dad9d",
+                    "b18edeaf-bd0d-4b4a-a39d-c078115164f7",
+                    "2482a251-63a3-4471-82f8-d34d800352d0",
+                    "31ea84bf-b2fe-4a9f-a341-25ceb6d3a826",
+                    "0cd40fbc-b17d-463c-ab9c-17c66b4fcec6",
+                    "607240c1-40e3-49b5-a46d-0c51b505df2a"
+                ],
+                "subtitle": null,
+                "title": "Milk Teas",
+                "uuid": "31257d52-1e52-415a-a4d0-cbf99bca68ab",
+                "displayType": null
+            },
+            "34957a1f-162c-4916-834a-b83fb68558c1": {
+                "itemUuids": [
+                    "3266464d-ed6c-45e0-b42a-5ef30e358708"
+                ],
+                "subtitle": null,
+                "title": "Snacks",
+                "uuid": "34957a1f-162c-4916-834a-b83fb68558c1",
+                "displayType": null
+            },
+            "a2656235-b7a6-4498-8d42-a66ffbe0c85f": {
+                "itemUuids": [
+                    "5bbadafb-2008-44cf-81e9-c3592a2aab70",
+                    "beb435ea-102a-4a2f-a985-78ff4f24265f",
+                    "2a3dd592-3fc9-45d3-8e31-39cdbf508409"
+                ],
+                "subtitle": null,
+                "title": "Coffees",
+                "uuid": "a2656235-b7a6-4498-8d42-a66ffbe0c85f",
+                "displayType": null
+            },
+            "b6c082e4-63dc-446b-a83d-957b03cd3f2e": {
+                "itemUuids": [
+                    "20043775-b27e-4231-8287-ea301f1a36ec",
+                    "fa2221a6-8606-43ab-a43a-caaa33fc0364",
+                    "bd018f4e-d3a0-43d1-b77d-3b39f32d63e5",
+                    "b6501c1a-9c37-42b0-9755-68fb9b8ef978",
+                    "0c0006a1-4310-4f17-b24f-4bd05aa4fb79",
+                    "24edf7cb-f609-4e51-bf43-243550575568",
+                    "09865efb-7199-42a5-a02b-f60e421c2745",
+                    "00dceb35-01c0-42e5-a73b-6df663371f54",
+                    "6ac1314e-9506-4c1a-9072-ff68133e0f3e"
+                ],
+                "subtitle": null,
+                "title": "Specials",
+                "uuid": "b6c082e4-63dc-446b-a83d-957b03cd3f2e",
+                "displayType": null
+            }
+        },
+        "title": "Bubbleology (Soho)",
+        "uuid": "0336a487-d6ec-44a2-8136-aaee6c1dd214",
+        "categories": [
+            "₴",
+            "Десерти",
+            "Бульбашковий чай"
+        ],
+        "cuisineList": [
+            "Десерти",
+            "Бульбашковий чай"
+        ],
+        "priceBucket": "₴",
+        "etaRange": {
+            "text": "20–30 min",
+            "iconUrl": ""
+        },
+        "ratingBadge": {
+            "text": "<span><span style=\"font-family: inherit; color: #3a3a48;\">4.1 <img src=\"https://d1a3f4spazzrp4.cloudfront.net/static/images/Star_Black_Eats_3.png\" width=\"14\" height=\"14\" vertical-align=\"middle\"> </span><span style=\"font-family: inherit; color: #757575;\">(101)</span></span>"
+        },
+        "disclaimerBadge": {
+            "text": "<span style=\"font-family: inherit;\">Allergies, intolerances and dietary requirements: before ordering, please contact the restaurant directly and ask to speak to a member of staff who can assist if you require information about ingredients and help cater for your needs. For more information on food safety and hygiene, please visit the <a href=\"http://ratings.food.gov.uk/\" style=\"color:#61ad5f;\">Food Standards Agency</a></span>"
+        },
+        "fareBadge": null,
+        "fareInfo": {
+            "serviceFee": 30,
+            "serviceFeeCents": 3000
+        },
+        "promotion": null,
+        "shouldIndex": false,
+        "heroImageUrls": [
+            {
+                "url": "https://duyt4h9nfnj50.cloudfront.net/resized/b4769a81d41c4f60c2546ab7c5be1dad-w240-40.jpg",
+                "width": 240
+            },
+            {
+                "url": "https://duyt4h9nfnj50.cloudfront.net/resized/b4769a81d41c4f60c2546ab7c5be1dad-w550-37.jpg",
+                "width": 550
+            },
+            {
+                "url": "https://duyt4h9nfnj50.cloudfront.net/resized/b4769a81d41c4f60c2546ab7c5be1dad-w640-3f.jpg",
+                "width": 640
+            },
+            {
+                "url": "https://duyt4h9nfnj50.cloudfront.net/resized/b4769a81d41c4f60c2546ab7c5be1dad-w750-0a.jpg",
+                "width": 750
+            },
+            {
+                "url": "https://duyt4h9nfnj50.cloudfront.net/resized/b4769a81d41c4f60c2546ab7c5be1dad-w1080-a7.jpg",
+                "width": 1080
+            },
+            {
+                "url": "https://duyt4h9nfnj50.cloudfront.net/resized/b4769a81d41c4f60c2546ab7c5be1dad-w2880-85.jpg",
+                "width": 2880
+            }
+        ],
+        "isOpen": true,
+        "currencyCode": "GBP",
+        "closedMessage": "Currently unavailable",
+        "location": {
+            "address": "Bubbleology, Soho, England W1D 7PF",
+            "streetAddress": "Bubbleology",
+            "city": "Soho",
+            "country": "GB",
+            "postalCode": "W1D 7PF",
+            "region": "England",
+            "latitude": 51.511965,
+            "longitude": -0.133606
+        },
+        "isDeliveryThirdParty": false,
+        "hours": [
+            {
+                "dayRange": "Sunday",
+                "sectionHours": [
+                    {
+                        "startTime": 660,
+                        "endTime": 1350,
+                        "sectionTitle": ""
+                    }
+                ]
+            },
+            {
+                "dayRange": "Monday - Thursday",
+                "sectionHours": [
+                    {
+                        "startTime": 660,
+                        "endTime": 1380,
+                        "sectionTitle": ""
+                    }
+                ]
+            },
+            {
+                "dayRange": "Friday - Saturday",
+                "sectionHours": [
+                    {
+                        "startTime": 660,
+                        "endTime": 1410,
+                        "sectionTitle": ""
+                    }
+                ]
+            }
+        ],
+        "disableOrderInstruction": false,
+        "disableCheckoutInstruction": false,
+        "nuggets": [],
+        "isWithinDeliveryRange": false,
+        "slug": "bubbleology-soho",
+        "citySlug": "london",
+        "phoneNumber": "+442074944231",
+        "metaJson": "{\"@context\":\"http:\\u002F\\u002Fschema.org\",\"@type\":\"Restaurant\",\"@id\":\"https:\\u002F\\u002Fwww.ubereats.com\\u002Fen-UA\\u002Flondon\\u002Ffood-delivery\\u002Fbubbleology-soho\\u002FAzakh9bsRKKBNqrubB3SFA\\u002F\",\"name\":\"Bubbleology (Soho)\",\"priceRange\":\"₴\",\"potentialAction\":{\"@type\":\"OrderAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\\u002F\\u002Fwww.ubereats.com\\u002Fen-UA\\u002Flondon\\u002Ffood-delivery\\u002Fbubbleology-soho\\u002FAzakh9bsRKKBNqrubB3SFA\\u002F?utm_campaign=order-action&utm_medium=organic\",\"inLanguage\":\"English\",\"actionPlatform\":[\"http:\\u002F\\u002Fschema.org\\u002FDesktopWebPlatform\",\"http:\\u002F\\u002Fschema.org\\u002FMobileWebPlatform\"]},\"deliveryMethod\":[\"http:\\u002F\\u002Fpurl.org\\u002Fgoodrelations\\u002Fv1#DeliveryModeOwnFleet\"]},\"address\":{\"@type\":\"PostalAddress\",\"addressLocality\":\"Soho\",\"addressRegion\":\"England\",\"postalCode\":\"W1D 7PF\",\"addressCountry\":\"GB\",\"streetAddress\":\"Bubbleology\"},\"geo\":{\"@type\":\"GeoCoordinates\",\"latitude\":51.511965,\"longitude\":-0.133606}}",
+        "promoTrackings": [],
+        "suggestedPromotion": {
+            "text": "",
+            "promotionUuid": ""
+        },
+        "supportedDiningModes": [
+            {
+                "mode": "DELIVERY",
+                "title": "Delivery",
+                "isSelected": true,
+                "isAvailable": true
+            }
+        ],
+        "isPreview": false,
+        "pinnedInfo": null
+    }
+}

@@ -1,0 +1,480 @@
+{
+    "status": "success",
+    "data": {
+        "sectionEntitiesMap": {
+            "70ec591b-0248-463c-9830-96c4a64fb88e": {
+                "fdf07a85-b0d8-42ef-a116-df31cd4414ec": {
+                    "description": "500ml.",
+                    "imageUrl": "",
+                    "price": 2900,
+                    "title": "\"Morshinska\" still water",
+                    "uuid": "fdf07a85-b0d8-42ef-a116-df31cd4414ec",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "ab36865b-66c6-4023-9467-e8120b11418d": {
+                    "description": "500ml.",
+                    "imageUrl": "",
+                    "price": 4900,
+                    "title": "\"Borjomi\" sparkling water",
+                    "uuid": "ab36865b-66c6-4023-9467-e8120b11418d",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "14141bec-8f4b-466f-94d3-0445351c3574": {
+                    "description": "500мл.",
+                    "imageUrl": "",
+                    "price": 5900,
+                    "title": "Sandora juice (taste to choose)",
+                    "uuid": "14141bec-8f4b-466f-94d3-0445351c3574",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                }
+            },
+            "f86ab2e6-7c2c-4289-954e-6f18aaa790f5": {
+                "ffd8cd47-ea5c-4fc5-80b3-4211f5e01520": {
+                    "description": "Курячі крильця Барбекю 6шт",
+                    "imageUrl": "",
+                    "price": 9900,
+                    "title": "Курячі крильця Барбекю",
+                    "uuid": "ffd8cd47-ea5c-4fc5-80b3-4211f5e01520",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "6301f5f4-ded9-4f0e-90a0-1e76eadda21a": {
+                    "description": "Вершковий соус, моцарела, пепероні, мисливські ковбаски, гірчиця діжонська.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/6e06e0e2-d56d-4c27-86e5-483f69f9146c.jpeg",
+                    "price": 19900,
+                    "title": "Піца Мюнхен 30см",
+                    "uuid": "6301f5f4-ded9-4f0e-90a0-1e76eadda21a",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "f8d53b34-685d-4eb6-bf35-822bf29c8e9f": {
+                    "description": "Соус чилі, моцарела, салямі, мисливські ковбаски, сир пармезан.\n",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/33c7cc84-5802-4888-a553-b00ae94f1219.jpeg",
+                    "price": 19900,
+                    "title": "Піца Діабло 30см",
+                    "uuid": "f8d53b34-685d-4eb6-bf35-822bf29c8e9f",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "1d554a47-2be2-4a49-bf71-1385781676cd": {
+                    "description": "500мл .",
+                    "imageUrl": "",
+                    "price": 2900,
+                    "title": "Мінеральна вода \"Моршинська\" негазована",
+                    "uuid": "1d554a47-2be2-4a49-bf71-1385781676cd",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "4764fa8d-843f-4648-beef-a1597c8a7a40": {
+                    "description": "950мл.",
+                    "imageUrl": "",
+                    "price": 5900,
+                    "title": "Сік \"Сандора\" в асортименті",
+                    "uuid": "4764fa8d-843f-4648-beef-a1597c8a7a40",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "84a51a7e-72e6-4b9c-86cc-003d7109b08c": {
+                    "description": "Нагетси з філе 6шт",
+                    "imageUrl": "",
+                    "price": 9900,
+                    "title": "Нагетсі з філе",
+                    "uuid": "84a51a7e-72e6-4b9c-86cc-003d7109b08c",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "517f6867-0ab8-48bb-b503-c206ac9a64ee": {
+                    "description": "Картопля Фрі",
+                    "imageUrl": null,
+                    "price": 5900,
+                    "title": "Картопля Фрі",
+                    "uuid": "517f6867-0ab8-48bb-b503-c206ac9a64ee",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "4bdf7372-d3ab-4aff-9875-dc0e0211bc91": {
+                    "description": "Соус з томатів, моцарела, печериці, солодкий перець, сир гауда, томати, цибуля, маслини, орегано.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/fae37f60-8d5d-4da1-a780-7313c3e7dee5.jpeg",
+                    "price": 19900,
+                    "title": "Піца Веджі 30см",
+                    "uuid": "4bdf7372-d3ab-4aff-9875-dc0e0211bc91",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "702109e2-67b5-41c4-b8ed-2a06f1e088c1": {
+                    "description": "Курячі крильця Crispy 4шт",
+                    "imageUrl": "",
+                    "price": 9900,
+                    "title": "Курячі крильця Crispy",
+                    "uuid": "702109e2-67b5-41c4-b8ed-2a06f1e088c1",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "764584fd-c3ae-46ed-a37d-c3025c84b083": {
+                    "description": "Соус з томатів, моцарела, томати.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/755bec9e-025c-4e40-9f66-bc9054dbc9f4.jpeg",
+                    "price": 19900,
+                    "title": "Піца Маргарита 30см",
+                    "uuid": "764584fd-c3ae-46ed-a37d-c3025c84b083",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "ad1763ae-05a9-4a24-9ad9-ae5d3f64cc0f": {
+                    "description": "Tomato sauce, mozzarella, mushrooms, bell peppers, gouda cheese, tomatoes, onions, olives, oregano.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/fae37f60-8d5d-4da1-a780-7313c3e7dee5.jpeg",
+                    "price": 19900,
+                    "title": " Veggie pizza 30cm",
+                    "uuid": "ad1763ae-05a9-4a24-9ad9-ae5d3f64cc0f",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "5fd897ca-bf41-4c2f-a678-759ee495288f": {
+                    "description": "Соус з томатів, моцарела, бекон, шинка, томати, часник, соус цезар",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/26e4a78e-605f-4174-a563-04c46466e27c.jpeg",
+                    "price": 19900,
+                    "title": "Піца Кантрі 30см",
+                    "uuid": "5fd897ca-bf41-4c2f-a678-759ee495288f",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "1ebcff93-ef08-4d17-91bc-e1cf89690547": {
+                    "description": "Соус з томатів, моцарела, салямі, печериці, цибуля.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/c23f15d2-551b-4882-94e1-b920620ffab5.jpeg",
+                    "price": 19900,
+                    "title": "Піца Салямі Хіт 30см",
+                    "uuid": "1ebcff93-ef08-4d17-91bc-e1cf89690547",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "5ce42a61-86c6-462d-ae79-c7fcc93517de": {
+                    "description": "500мл.",
+                    "imageUrl": "",
+                    "price": 4900,
+                    "title": "Мінеральна вода \"Боржомі\"",
+                    "uuid": "5ce42a61-86c6-462d-ae79-c7fcc93517de",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "c1170403-b0c0-40d7-95b8-cd4efd398a96": {
+                    "description": "Соус з томатів, моцарела, бекон, куряча грудка, томати, цибуля, соус BBQ.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/5d8098ec-448b-446e-8a8e-c39a174b981f.jpeg",
+                    "price": 19900,
+                    "title": "Піца Чікен Барбекю 30см",
+                    "uuid": "c1170403-b0c0-40d7-95b8-cd4efd398a96",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                }
+            }
+        },
+        "sections": [
+            {
+                "subsectionUuids": [
+                    "d471207b-7360-4388-9db1-a727f2080511",
+                    "66defdbb-a72a-481d-88e7-8720ce740d77",
+                    "21f5b417-a9fe-493a-ba1a-e3ad1b2f964a"
+                ],
+                "title": "SWITCH LANGUAGE (UKR)",
+                "subtitle": "10:00 AM – 10:00 PM",
+                "uuid": "f86ab2e6-7c2c-4289-954e-6f18aaa790f5",
+                "isTop": true,
+                "isOnSale": true
+            },
+            {
+                "subsectionUuids": [
+                    "7aca790a-8ba5-43df-b17c-14455731ed98"
+                ],
+                "title": "SWITCH LANGUAGE (ENG)",
+                "subtitle": "10:00 AM – 10:00 PM",
+                "uuid": "70ec591b-0248-463c-9830-96c4a64fb88e",
+                "isTop": false,
+                "isOnSale": true
+            }
+        ],
+        "subsectionsMap": {
+            "66defdbb-a72a-481d-88e7-8720ce740d77": {
+                "itemUuids": [
+                    "702109e2-67b5-41c4-b8ed-2a06f1e088c1",
+                    "ffd8cd47-ea5c-4fc5-80b3-4211f5e01520",
+                    "517f6867-0ab8-48bb-b503-c206ac9a64ee",
+                    "84a51a7e-72e6-4b9c-86cc-003d7109b08c"
+                ],
+                "subtitle": null,
+                "title": "Закуски",
+                "uuid": "66defdbb-a72a-481d-88e7-8720ce740d77",
+                "displayType": null
+            },
+            "21f5b417-a9fe-493a-ba1a-e3ad1b2f964a": {
+                "itemUuids": [
+                    "4764fa8d-843f-4648-beef-a1597c8a7a40",
+                    "1d554a47-2be2-4a49-bf71-1385781676cd",
+                    "5ce42a61-86c6-462d-ae79-c7fcc93517de"
+                ],
+                "subtitle": "",
+                "title": "Напої",
+                "uuid": "21f5b417-a9fe-493a-ba1a-e3ad1b2f964a",
+                "displayType": null
+            },
+            "7aca790a-8ba5-43df-b17c-14455731ed98": {
+                "itemUuids": [
+                    "14141bec-8f4b-466f-94d3-0445351c3574",
+                    "fdf07a85-b0d8-42ef-a116-df31cd4414ec",
+                    "ab36865b-66c6-4023-9467-e8120b11418d"
+                ],
+                "subtitle": "",
+                "title": "Beverages",
+                "uuid": "7aca790a-8ba5-43df-b17c-14455731ed98",
+                "displayType": null
+            },
+            "d471207b-7360-4388-9db1-a727f2080511": {
+                "itemUuids": [
+                    "764584fd-c3ae-46ed-a37d-c3025c84b083",
+                    "1ebcff93-ef08-4d17-91bc-e1cf89690547",
+                    "f8d53b34-685d-4eb6-bf35-822bf29c8e9f",
+                    "6301f5f4-ded9-4f0e-90a0-1e76eadda21a",
+                    "4bdf7372-d3ab-4aff-9875-dc0e0211bc91",
+                    "5fd897ca-bf41-4c2f-a678-759ee495288f",
+                    "c1170403-b0c0-40d7-95b8-cd4efd398a96",
+                    "ad1763ae-05a9-4a24-9ad9-ae5d3f64cc0f"
+                ],
+                "subtitle": "",
+                "title": "Піца",
+                "uuid": "d471207b-7360-4388-9db1-a727f2080511",
+                "displayType": null
+            }
+        },
+        "title": "Uno Pizza",
+        "uuid": "c53b4d51-fdf4-43fb-83cf-529acdc47249",
+        "categories": [
+            "₴",
+            "Італійська"
+        ],
+        "cuisineList": [
+            "Італійська"
+        ],
+        "priceBucket": "₴",
+        "etaRange": {
+            "text": "45–55 min",
+            "iconUrl": ""
+        },
+        "ratingBadge": null,
+        "disclaimerBadge": null,
+        "fareBadge": null,
+        "fareInfo": {
+            "serviceFee": 30,
+            "serviceFeeCents": 3000
+        },
+        "promotion": null,
+        "shouldIndex": true,
+        "heroImageUrls": [
+            {
+                "url": "https://d1ralsognjng37.cloudfront.net/95abbba7-aae2-4080-a8ef-b4a1b37002fb.jpeg",
+                "width": 240
+            },
+            {
+                "url": "https://d1ralsognjng37.cloudfront.net/860b1e51-77ef-4795-aeee-e6ce3db7bd5e.jpeg",
+                "width": 550
+            },
+            {
+                "url": "https://d1ralsognjng37.cloudfront.net/3eceed57-bfed-4c69-a76c-e40e34bf1d5a.jpeg",
+                "width": 640
+            },
+            {
+                "url": "https://d1ralsognjng37.cloudfront.net/425c7dc3-825a-44e5-8de3-dfde0b33eb79.jpeg",
+                "width": 750
+            },
+            {
+                "url": "https://d1ralsognjng37.cloudfront.net/cdb1202f-682e-4f04-b55b-c96206b39194.jpeg",
+                "width": 1080
+            },
+            {
+                "url": "https://d1ralsognjng37.cloudfront.net/c39946be-573d-4f50-94a7-53f7a34438f9.jpeg",
+                "width": 2880
+            }
+        ],
+        "isOpen": true,
+        "currencyCode": "UAH",
+        "closedMessage": "Currently unavailable",
+        "location": {
+            "address": "Hlybochytska St, 33/37, Kyiv, Kyiv city 02000",
+            "streetAddress": "Hlybochytska St, 33/37",
+            "city": "Kyiv",
+            "country": "UA",
+            "postalCode": "02000",
+            "region": "Kyiv city",
+            "latitude": 50.462782,
+            "longitude": 30.494972
+        },
+        "isDeliveryThirdParty": false,
+        "hours": [
+            {
+                "dayRange": "Sunday",
+                "sectionHours": [
+                    {
+                        "startTime": 600,
+                        "endTime": 1320,
+                        "sectionTitle": "SWITCH LANGUAGE (UKR)"
+                    }
+                ]
+            },
+            {
+                "dayRange": "Monday - Friday",
+                "sectionHours": [
+                    {
+                        "startTime": 600,
+                        "endTime": 1320,
+                        "sectionTitle": "SWITCH LANGUAGE (UKR)"
+                    },
+                    {
+                        "startTime": 600,
+                        "endTime": 1320,
+                        "sectionTitle": "SWITCH LANGUAGE (ENG)"
+                    }
+                ]
+            },
+            {
+                "dayRange": "Saturday",
+                "sectionHours": [
+                    {
+                        "startTime": 600,
+                        "endTime": 1320,
+                        "sectionTitle": "SWITCH LANGUAGE (UKR)"
+                    }
+                ]
+            }
+        ],
+        "disableOrderInstruction": false,
+        "disableCheckoutInstruction": false,
+        "nuggets": [],
+        "isWithinDeliveryRange": false,
+        "slug": "uno-pizza",
+        "citySlug": "kyiv",
+        "phoneNumber": "+380933662527",
+        "metaJson": "{\"@context\":\"http:\\u002F\\u002Fschema.org\",\"@type\":\"Restaurant\",\"@id\":\"https:\\u002F\\u002Fwww.ubereats.com\\u002Fen-UA\\u002Fkyiv\\u002Ffood-delivery\\u002Funo-pizza\\u002FxTtNUf30Q_uDz1KazcRySQ\\u002F\",\"name\":\"Uno Pizza\",\"priceRange\":\"₴\",\"potentialAction\":{\"@type\":\"OrderAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\\u002F\\u002Fwww.ubereats.com\\u002Fen-UA\\u002Fkyiv\\u002Ffood-delivery\\u002Funo-pizza\\u002FxTtNUf30Q_uDz1KazcRySQ\\u002F?utm_campaign=order-action&utm_medium=organic\",\"inLanguage\":\"English\",\"actionPlatform\":[\"http:\\u002F\\u002Fschema.org\\u002FDesktopWebPlatform\",\"http:\\u002F\\u002Fschema.org\\u002FMobileWebPlatform\"]},\"deliveryMethod\":[\"http:\\u002F\\u002Fpurl.org\\u002Fgoodrelations\\u002Fv1#DeliveryModeOwnFleet\"]},\"address\":{\"@type\":\"PostalAddress\",\"addressLocality\":\"Kyiv\",\"addressRegion\":\"Kyiv city\",\"postalCode\":\"02000\",\"addressCountry\":\"UA\",\"streetAddress\":\"Hlybochytska St, 33\\u002F37\"},\"geo\":{\"@type\":\"GeoCoordinates\",\"latitude\":50.462782,\"longitude\":30.494972}}",
+        "promoTrackings": [],
+        "suggestedPromotion": {
+            "text": "",
+            "promotionUuid": ""
+        },
+        "supportedDiningModes": [
+            {
+                "mode": "DELIVERY",
+                "title": "Delivery",
+                "isSelected": true,
+                "isAvailable": true
+            }
+        ],
+        "isPreview": false,
+        "pinnedInfo": null
+    }
+}

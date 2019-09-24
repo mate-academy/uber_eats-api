@@ -1,0 +1,368 @@
+{
+    "status": "success",
+    "data": {
+        "sectionEntitiesMap": {
+            "5bf635ae-678f-4e11-b662-e91fcb5a1168": {
+                "fb084789-eca4-4631-a251-4c0e8a5fa98a": {
+                    "description": "+ Кока кола (330мл).\n244г.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/826f0b5a-5437-4e28-9600-ae5e65afbf14",
+                    "price": 6800,
+                    "title": "Класичний хот-дог з подвійною сосискою меню",
+                    "uuid": "fb084789-eca4-4631-a251-4c0e8a5fa98a",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "0f7f2e66-ae51-43d5-a9e6-02b6a87d0e9b": {
+                    "description": "400мл.",
+                    "imageUrl": null,
+                    "price": 2900,
+                    "title": "Вода ЮА",
+                    "uuid": "0f7f2e66-ae51-43d5-a9e6-02b6a87d0e9b",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "fceb446c-1b22-49a0-ac3b-3cdf2726feb1": {
+                    "description": "330мл.",
+                    "imageUrl": null,
+                    "price": 2900,
+                    "title": "Кока-Кола",
+                    "uuid": "fceb446c-1b22-49a0-ac3b-3cdf2726feb1",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "49e8751e-55fc-4a4d-bf5e-bf2a00fcd4c8": {
+                    "description": "+ Кока кола (330мл).\n162г.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/73a20468-fdf9-43c5-896c-c13f1a8939b7",
+                    "price": 5800,
+                    "title": "Веганський хот-дог меню",
+                    "uuid": "49e8751e-55fc-4a4d-bf5e-bf2a00fcd4c8",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "endorsement": {
+                        "text": "Вегетаріанська страва",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png"
+                    },
+                    "classifications": []
+                },
+                "e96e4fdb-0ff7-4ae9-bb1a-1d41cd07e9c2": {
+                    "description": "+ Кока кола (330мл).\n222г.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/19f6890b-0b52-4cfb-a218-8113359f0bad",
+                    "price": 6800,
+                    "title": "Веганський хот-дог з подвійною сосискою меню",
+                    "uuid": "e96e4fdb-0ff7-4ae9-bb1a-1d41cd07e9c2",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "endorsement": {
+                        "text": "Вегетаріанська страва",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png"
+                    },
+                    "classifications": []
+                },
+                "e984be6e-7037-47a9-9cde-4f19df7a8d33": {
+                    "description": "+ Кока кола (330мл).\n174г.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/65156087-9a1d-4751-9722-cd7de110fd04",
+                    "price": 5800,
+                    "title": "Класичний хот-дог меню",
+                    "uuid": "e984be6e-7037-47a9-9cde-4f19df7a8d33",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                }
+            },
+            "3c2e97e5-7ef8-40c8-a1df-b07b028ee9ab": {
+                "843aff3c-d95e-4673-90d4-db98aab13a7c": {
+                    "description": "330ml.",
+                    "imageUrl": null,
+                    "price": 2900,
+                    "title": "Coca-Cola",
+                    "uuid": "843aff3c-d95e-4673-90d4-db98aab13a7c",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "65ccf2e9-87b6-4763-8641-d0b4e6e5fc3f": {
+                    "description": "+ Coca-Cola (330ml).\n162g.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/d10dcf45-4477-4534-8b14-4d3bab41e67a",
+                    "price": 5800,
+                    "title": "Vegan Hot Dog Menu",
+                    "uuid": "65ccf2e9-87b6-4763-8641-d0b4e6e5fc3f",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "endorsement": {
+                        "text": "Vegetarian",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png"
+                    },
+                    "classifications": []
+                },
+                "59ffb6c5-71e7-4979-ac04-ee249e1d4553": {
+                    "description": "+ Coca-Cola (330ml).\n222g.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/6e2256c4-3910-4837-bbb4-ad13c26c5529",
+                    "price": 6800,
+                    "title": "Vegan Hot Dog with double sausage Menu",
+                    "uuid": "59ffb6c5-71e7-4979-ac04-ee249e1d4553",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "endorsement": {
+                        "text": "Vegetarian",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png"
+                    },
+                    "classifications": []
+                },
+                "1a5a7621-066c-4d36-98dd-5c705a334203": {
+                    "description": "+ Coca-Cola (330ml).\n174g.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/b48b0037-8f33-43f6-b52f-b6a90efb7759",
+                    "price": 5800,
+                    "title": "Classic Hot Dog Menu",
+                    "uuid": "1a5a7621-066c-4d36-98dd-5c705a334203",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "58e65d33-6fc4-407f-9852-8502ba44fda6": {
+                    "description": "+ Coca-Cola (330ml).\n244g.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/a835fae3-91b8-4f15-8aa4-ecd692f4ebf1",
+                    "price": 6800,
+                    "title": "Classic Hot Dog with double sausage Menu",
+                    "uuid": "58e65d33-6fc4-407f-9852-8502ba44fda6",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "3f4dedcf-348d-4064-9cbd-17ae3ea42f8f": {
+                    "description": "400ml.",
+                    "imageUrl": null,
+                    "price": 2900,
+                    "title": "Bottled water",
+                    "uuid": "3f4dedcf-348d-4064-9cbd-17ae3ea42f8f",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                }
+            }
+        },
+        "sections": [
+            {
+                "subsectionUuids": [
+                    "21af24c3-d1ee-4eb8-be5e-7a3260f267c6",
+                    "9e037dc6-eb7c-4072-bd49-eda0c3b3b683"
+                ],
+                "title": "SWITCH LANGUAGE (UKR)",
+                "subtitle": "10:00 AM – 10:00 PM",
+                "uuid": "5bf635ae-678f-4e11-b662-e91fcb5a1168",
+                "isTop": true,
+                "isOnSale": true
+            },
+            {
+                "subsectionUuids": [
+                    "87a0925d-74e0-4d3d-942e-3f8b8a166a57",
+                    "68c87e97-95bf-4d50-9eb1-d505c9c0a781"
+                ],
+                "title": "SWITCH LANGUAGE (ENG)",
+                "subtitle": "10:00 AM – 10:00 PM",
+                "uuid": "3c2e97e5-7ef8-40c8-a1df-b07b028ee9ab",
+                "isTop": false,
+                "isOnSale": true
+            }
+        ],
+        "subsectionsMap": {
+            "21af24c3-d1ee-4eb8-be5e-7a3260f267c6": {
+                "itemUuids": [
+                    "49e8751e-55fc-4a4d-bf5e-bf2a00fcd4c8",
+                    "e96e4fdb-0ff7-4ae9-bb1a-1d41cd07e9c2",
+                    "e984be6e-7037-47a9-9cde-4f19df7a8d33",
+                    "fb084789-eca4-4631-a251-4c0e8a5fa98a"
+                ],
+                "subtitle": null,
+                "title": "Страви",
+                "uuid": "21af24c3-d1ee-4eb8-be5e-7a3260f267c6",
+                "displayType": null
+            },
+            "9e037dc6-eb7c-4072-bd49-eda0c3b3b683": {
+                "itemUuids": [
+                    "0f7f2e66-ae51-43d5-a9e6-02b6a87d0e9b",
+                    "fceb446c-1b22-49a0-ac3b-3cdf2726feb1"
+                ],
+                "subtitle": null,
+                "title": "Напої",
+                "uuid": "9e037dc6-eb7c-4072-bd49-eda0c3b3b683",
+                "displayType": null
+            },
+            "87a0925d-74e0-4d3d-942e-3f8b8a166a57": {
+                "itemUuids": [
+                    "65ccf2e9-87b6-4763-8641-d0b4e6e5fc3f",
+                    "59ffb6c5-71e7-4979-ac04-ee249e1d4553",
+                    "1a5a7621-066c-4d36-98dd-5c705a334203",
+                    "58e65d33-6fc4-407f-9852-8502ba44fda6"
+                ],
+                "subtitle": null,
+                "title": "Dishes",
+                "uuid": "87a0925d-74e0-4d3d-942e-3f8b8a166a57",
+                "displayType": null
+            },
+            "68c87e97-95bf-4d50-9eb1-d505c9c0a781": {
+                "itemUuids": [
+                    "3f4dedcf-348d-4064-9cbd-17ae3ea42f8f",
+                    "843aff3c-d95e-4673-90d4-db98aab13a7c"
+                ],
+                "subtitle": null,
+                "title": "Drinks",
+                "uuid": "68c87e97-95bf-4d50-9eb1-d505c9c0a781",
+                "displayType": null
+            }
+        },
+        "title": "Білий Налив (вул. Хрещатик)",
+        "uuid": "98d69d0e-5c51-4801-9cf1-88104204561d",
+        "categories": [
+            "₴",
+            "Американська",
+            "Для вегетаріанців",
+            "Вулична їжа"
+        ],
+        "cuisineList": [
+            "Американська",
+            "Для вегетаріанців",
+            "Вулична їжа"
+        ],
+        "priceBucket": "₴",
+        "etaRange": null,
+        "ratingBadge": null,
+        "disclaimerBadge": null,
+        "fareBadge": null,
+        "fareInfo": {
+            "serviceFeeCents": null
+        },
+        "promotion": null,
+        "shouldIndex": true,
+        "heroImageUrls": [
+            {
+                "url": "https://d1ralsognjng37.cloudfront.net/43dee15b-61aa-4138-b5a5-0dfe5f32b6cb",
+                "width": 240
+            },
+            {
+                "url": "https://d1ralsognjng37.cloudfront.net/f0835be4-3cee-4c68-b996-ce41c799b02a",
+                "width": 550
+            },
+            {
+                "url": "https://d1ralsognjng37.cloudfront.net/a0690e6a-009e-4735-b747-43d5e8c86afc",
+                "width": 640
+            },
+            {
+                "url": "https://d1ralsognjng37.cloudfront.net/97e0b843-3e92-45f5-85dd-f3a36d6ce656",
+                "width": 750
+            },
+            {
+                "url": "https://d1ralsognjng37.cloudfront.net/b0eeb09c-c479-4141-9c25-de2674fff8af",
+                "width": 1080
+            },
+            {
+                "url": "https://d1ralsognjng37.cloudfront.net/788cb762-2186-4a99-8f9a-8daabfd31bb1",
+                "width": 2880
+            }
+        ],
+        "isOpen": false,
+        "currencyCode": "UAH",
+        "closedMessage": "Currently unavailable",
+        "location": {
+            "address": "Khreschatyk St, 23, Kyiv, 02000",
+            "streetAddress": "Khreschatyk St, 23",
+            "city": "Kyiv",
+            "country": "UA",
+            "postalCode": "02000",
+            "region": "",
+            "latitude": 50.445107,
+            "longitude": 30.522072
+        },
+        "isDeliveryThirdParty": false,
+        "hours": [
+            {
+                "dayRange": "Every Day",
+                "sectionHours": [
+                    {
+                        "startTime": 600,
+                        "endTime": 1320,
+                        "sectionTitle": "SWITCH LANGUAGE (UKR)"
+                    },
+                    {
+                        "startTime": 600,
+                        "endTime": 1320,
+                        "sectionTitle": "SWITCH LANGUAGE (ENG)"
+                    }
+                ]
+            }
+        ],
+        "disableOrderInstruction": false,
+        "disableCheckoutInstruction": false,
+        "nuggets": [],
+        "isWithinDeliveryRange": false,
+        "slug": "білии-налив-вул-хрещатик",
+        "citySlug": "kyiv",
+        "phoneNumber": "+380988858744",
+        "metaJson": "{\"@context\":\"http:\\u002F\\u002Fschema.org\",\"@type\":\"Restaurant\",\"@id\":\"https:\\u002F\\u002Fwww.ubereats.com\\u002Fen-UA\\u002Fkyiv\\u002Ffood-delivery\\u002F%D0%B1%D1%96%D0%BB%D0%B8%D0%B8-%D0%BD%D0%B0%D0%BB%D0%B8%D0%B2-%D0%B2%D1%83%D0%BB-%D1%85%D1%80%D0%B5%D1%89%D0%B0%D1%82%D0%B8%D0%BA\\u002FmNadDlxRSAGc8YgQQgRWHQ\\u002F\",\"name\":\"Білий Налив (вул. Хрещатик)\",\"priceRange\":\"₴\",\"potentialAction\":{\"@type\":\"OrderAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\\u002F\\u002Fwww.ubereats.com\\u002Fen-UA\\u002Fkyiv\\u002Ffood-delivery\\u002F%D0%B1%D1%96%D0%BB%D0%B8%D0%B8-%D0%BD%D0%B0%D0%BB%D0%B8%D0%B2-%D0%B2%D1%83%D0%BB-%D1%85%D1%80%D0%B5%D1%89%D0%B0%D1%82%D0%B8%D0%BA\\u002FmNadDlxRSAGc8YgQQgRWHQ\\u002F?utm_campaign=order-action&utm_medium=organic\",\"inLanguage\":\"English\",\"actionPlatform\":[\"http:\\u002F\\u002Fschema.org\\u002FDesktopWebPlatform\",\"http:\\u002F\\u002Fschema.org\\u002FMobileWebPlatform\"]},\"deliveryMethod\":[\"http:\\u002F\\u002Fpurl.org\\u002Fgoodrelations\\u002Fv1#DeliveryModeOwnFleet\"]},\"address\":{\"@type\":\"PostalAddress\",\"addressLocality\":\"Kyiv\",\"addressRegion\":\"\",\"postalCode\":\"02000\",\"addressCountry\":\"UA\",\"streetAddress\":\"Khreschatyk St, 23\"},\"geo\":{\"@type\":\"GeoCoordinates\",\"latitude\":50.445107,\"longitude\":30.522072}}",
+        "promoTrackings": [],
+        "suggestedPromotion": {
+            "text": "",
+            "promotionUuid": ""
+        },
+        "supportedDiningModes": [
+            {
+                "mode": "DELIVERY",
+                "title": "Delivery",
+                "isSelected": true,
+                "isAvailable": true
+            }
+        ],
+        "isPreview": false,
+        "pinnedInfo": null
+    }
+}

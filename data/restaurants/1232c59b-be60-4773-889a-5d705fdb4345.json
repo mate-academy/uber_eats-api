@@ -1,0 +1,899 @@
+{
+    "status": "success",
+    "data": {
+        "sectionEntitiesMap": {
+            "b977efd0-5093-470e-bbd4-e30c3ae92937": {
+                "725b50ae-828a-469c-9960-fbdcf9249210": {
+                    "description": "Served with salad.",
+                    "imageUrl": "",
+                    "price": 550,
+                    "title": "Cheese",
+                    "uuid": "725b50ae-828a-469c-9960-fbdcf9249210",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "478da387-e32d-4e45-a84a-5d8bd08b3d73": {
+                    "description": "Roast beef, cheddar cheese, tomato, lettuce, and horseradish.",
+                    "imageUrl": "",
+                    "price": 610,
+                    "title": "London Melt",
+                    "uuid": "478da387-e32d-4e45-a84a-5d8bd08b3d73",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "038a3cb6-4ff0-4009-86f4-8d2e8be6169b": {
+                    "description": "Onion, peppers, and peas. Made with 3 free range eggs, served with chips and salad.",
+                    "imageUrl": "",
+                    "price": 650,
+                    "title": "Spanish",
+                    "uuid": "038a3cb6-4ff0-4009-86f4-8d2e8be6169b",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "596661c9-226d-496b-9f5a-fd2532e7c8e5": {
+                    "description": "Served with salad.",
+                    "imageUrl": "",
+                    "price": 600,
+                    "title": "Cheese and Beans",
+                    "uuid": "596661c9-226d-496b-9f5a-fd2532e7c8e5",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "7a323845-38a4-4b5d-9346-d5ea42f259df": {
+                    "description": "",
+                    "imageUrl": "",
+                    "price": 800,
+                    "title": "Lasagna and Chips",
+                    "uuid": "7a323845-38a4-4b5d-9346-d5ea42f259df",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "d4f348ed-5848-4646-9b6d-ca7dfc05679b": {
+                    "description": "",
+                    "imageUrl": "",
+                    "price": 730,
+                    "title": "Amatriciana",
+                    "uuid": "d4f348ed-5848-4646-9b6d-ca7dfc05679b",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "c8a165d5-01aa-40ba-a16e-2c4b837217d1": {
+                    "description": "",
+                    "imageUrl": "",
+                    "price": 710,
+                    "title": "Arrabbiata",
+                    "uuid": "c8a165d5-01aa-40ba-a16e-2c4b837217d1",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "ff56cf35-d59a-4dbe-8fa8-38d46b3e76c7": {
+                    "description": "Made with 3 free range eggs, served with chips and salad.",
+                    "imageUrl": "",
+                    "price": 650,
+                    "title": "Bacon",
+                    "uuid": "ff56cf35-d59a-4dbe-8fa8-38d46b3e76c7",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "7b25971f-6109-45c9-ad11-3599e0914e24": {
+                    "description": "With pastrami, emmental cheese, gherkin, and mustard.",
+                    "imageUrl": "",
+                    "price": 610,
+                    "title": "New York Melt",
+                    "uuid": "7b25971f-6109-45c9-ad11-3599e0914e24",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "c72409b7-7a6f-4b6a-a3ba-4d194e31a52d": {
+                    "description": "Made with 3 free range eggs, served with chips and salad.",
+                    "imageUrl": "",
+                    "price": 630,
+                    "title": "Ham",
+                    "uuid": "c72409b7-7a6f-4b6a-a3ba-4d194e31a52d",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "5831a490-9820-4c98-bda8-105ea8c27712": {
+                    "description": "Made with 3 free range eggs, served with chips and salad.",
+                    "imageUrl": "",
+                    "price": 600,
+                    "title": "Onion",
+                    "uuid": "5831a490-9820-4c98-bda8-105ea8c27712",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "882c5aa6-bcf6-469d-ae75-d6b2d0e22442": {
+                    "description": "Served with chips and salad.",
+                    "imageUrl": "",
+                    "price": 1050,
+                    "title": "Salmon",
+                    "uuid": "882c5aa6-bcf6-469d-ae75-d6b2d0e22442",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "1fe244bd-1e2c-4db6-bb20-c2d68ba3a4e2": {
+                    "description": "Ham, mozzarella cheese, tomato, and basil.",
+                    "imageUrl": "",
+                    "price": 610,
+                    "title": "Cotto Melt",
+                    "uuid": "1fe244bd-1e2c-4db6-bb20-c2d68ba3a4e2",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "dff8baf6-7d98-4f8a-9a6b-be9c28e235be": {
+                    "description": "Made with 3 free range eggs, served with chips and salad.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/4938e168-38f2-47c8-9e12-694149b5e3db.jpeg",
+                    "price": 600,
+                    "title": "Mushroom",
+                    "uuid": "dff8baf6-7d98-4f8a-9a6b-be9c28e235be",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "1ff612ba-dc11-4bdd-9662-e7457519d01b": {
+                    "description": "",
+                    "imageUrl": "",
+                    "price": 730,
+                    "title": "Risotto Bolognese",
+                    "uuid": "1ff612ba-dc11-4bdd-9662-e7457519d01b",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "3edb9003-2f13-4468-ae8e-b7d0038f7a76": {
+                    "description": "",
+                    "imageUrl": "",
+                    "price": 730,
+                    "title": "Spinach and Ricotta Tortellini",
+                    "uuid": "3edb9003-2f13-4468-ae8e-b7d0038f7a76",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "6a280bca-bcac-4dc7-bb50-36293b62c700": {
+                    "description": "Made with 3 free range eggs, served with chips and salad.",
+                    "imageUrl": "",
+                    "price": 600,
+                    "title": "Cheese",
+                    "uuid": "6a280bca-bcac-4dc7-bb50-36293b62c700",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "0a2c4cee-fbd2-40f1-bea5-f56cedd4d29f": {
+                    "description": "With crispy bacon, mozzarella cheese, tomato, basil, and sweet chilli.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/869d8553-8a7e-4ff7-8d7b-9c38f28971fb.jpeg",
+                    "price": 610,
+                    "title": "Chicken Escalope",
+                    "uuid": "0a2c4cee-fbd2-40f1-bea5-f56cedd4d29f",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "ab44469f-82fa-4d25-897b-bcabf4eb42b8": {
+                    "description": "Mozzarella cheese, tomato, and basil.",
+                    "imageUrl": "",
+                    "price": 610,
+                    "title": "Caprese",
+                    "uuid": "ab44469f-82fa-4d25-897b-bcabf4eb42b8",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "c1c58e00-deb5-48b4-ad70-bb1e47be5304": {
+                    "description": "",
+                    "imageUrl": "",
+                    "price": 680,
+                    "title": "Napoli",
+                    "uuid": "c1c58e00-deb5-48b4-ad70-bb1e47be5304",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "07904452-f858-4ee6-b794-b594ffecdafb": {
+                    "description": "Served with salad.",
+                    "imageUrl": "",
+                    "price": 430,
+                    "title": "Butter",
+                    "uuid": "07904452-f858-4ee6-b794-b594ffecdafb",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "7fddd781-dcf5-4be2-a366-1689d42f389d": {
+                    "description": "Tuna, mozzarella cheese, tomato, and basil.",
+                    "imageUrl": "",
+                    "price": 610,
+                    "title": "Tuna Melt",
+                    "uuid": "7fddd781-dcf5-4be2-a366-1689d42f389d",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "2f5f0906-f6d4-42d6-bade-cb4d6bd748fb": {
+                    "description": "Made with 3 free range eggs, served with chips and salad.",
+                    "imageUrl": "",
+                    "price": 630,
+                    "title": "Chorizo",
+                    "uuid": "2f5f0906-f6d4-42d6-bade-cb4d6bd748fb",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "1d4a586b-5446-43f8-93b2-afcce9f385af": {
+                    "description": "",
+                    "imageUrl": "",
+                    "price": 730,
+                    "title": "Tuna",
+                    "uuid": "1d4a586b-5446-43f8-93b2-afcce9f385af",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "edb177fe-857d-48ce-aa48-072eea6cac7c": {
+                    "description": "Served with chips and a garnish of salad.",
+                    "imageUrl": "",
+                    "price": 950,
+                    "title": "Double Burger",
+                    "uuid": "edb177fe-857d-48ce-aa48-072eea6cac7c",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "79711900-3082-4829-a59c-9767982450cf": {
+                    "description": "",
+                    "imageUrl": "",
+                    "price": 770,
+                    "title": "Carbonara",
+                    "uuid": "79711900-3082-4829-a59c-9767982450cf",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "83f1b3c3-bfe6-4001-bbe7-bc9e817f802f": {
+                    "description": "Served with salad.",
+                    "imageUrl": "",
+                    "price": 650,
+                    "title": "Chilli",
+                    "uuid": "83f1b3c3-bfe6-4001-bbe7-bc9e817f802f",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "d99bd945-27a0-4851-8509-9e312253601e": {
+                    "description": "Served with salad.",
+                    "imageUrl": "",
+                    "price": 550,
+                    "title": "Beans",
+                    "uuid": "d99bd945-27a0-4851-8509-9e312253601e",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "919f7523-5fa7-4053-ab5c-2a666fd9e3f3": {
+                    "description": "Served with chips and salad.",
+                    "imageUrl": "",
+                    "price": 1050,
+                    "title": "Sirloin Steak",
+                    "uuid": "919f7523-5fa7-4053-ab5c-2a666fd9e3f3",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "ad36a393-0bb7-47bf-8f0d-13a20108abb2": {
+                    "description": "3 Pieces. Served with chips and salad.",
+                    "imageUrl": "",
+                    "price": 1050,
+                    "title": "Lamb Cutlets",
+                    "uuid": "ad36a393-0bb7-47bf-8f0d-13a20108abb2",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "e8f15643-3b3d-4e35-8860-bba1d8a2c9a1": {
+                    "description": "",
+                    "imageUrl": "",
+                    "price": 730,
+                    "title": "Mushroom Ravioli",
+                    "uuid": "e8f15643-3b3d-4e35-8860-bba1d8a2c9a1",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "0d0cd7f4-3d89-48b2-925a-d1060fc5b993": {
+                    "description": "",
+                    "imageUrl": "",
+                    "price": 710,
+                    "title": "Pesto Sauce",
+                    "uuid": "0d0cd7f4-3d89-48b2-925a-d1060fc5b993",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "bcd36fdc-9150-4106-8979-c6fd68b6df67": {
+                    "description": "Chicken, lamb, bacon, sausage, and burger. Served with chips and salad.",
+                    "imageUrl": "",
+                    "price": 1050,
+                    "title": "Mixed Grill",
+                    "uuid": "bcd36fdc-9150-4106-8979-c6fd68b6df67",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "8773004b-f9f1-459f-9a25-d93819e88e93": {
+                    "description": "Mozzarella cheese, tomato, basil, and pesto.",
+                    "imageUrl": "",
+                    "price": 610,
+                    "title": "San Rocco Melt",
+                    "uuid": "8773004b-f9f1-459f-9a25-d93819e88e93",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "e26e3ae4-343c-4a66-8263-cc66e5b1b690": {
+                    "description": "Crispy bacon, mozzarella cheese, tomato, mayonnaise, and lettuce.",
+                    "imageUrl": "",
+                    "price": 610,
+                    "title": "Bacon Melt",
+                    "uuid": "e26e3ae4-343c-4a66-8263-cc66e5b1b690",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "6393640b-b699-492b-bf2a-af44b771fdb2": {
+                    "description": "Salame, mozzarella cheese, tomato, and basil.",
+                    "imageUrl": "",
+                    "price": 610,
+                    "title": "Milano Melt",
+                    "uuid": "6393640b-b699-492b-bf2a-af44b771fdb2",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "f778ee1e-e1b6-440c-bead-a4eef7b13696": {
+                    "description": "Parma ham, mozzarella cheese, tomato, and basil.",
+                    "imageUrl": "",
+                    "price": 610,
+                    "title": "Delice De Parma",
+                    "uuid": "f778ee1e-e1b6-440c-bead-a4eef7b13696",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "5ef172ce-4d0d-41f5-bd10-f5e8c05f6bfb": {
+                    "description": "",
+                    "imageUrl": "",
+                    "price": 730,
+                    "title": "Vegetable Bolognese",
+                    "uuid": "5ef172ce-4d0d-41f5-bd10-f5e8c05f6bfb",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "7f68bdcb-2fa9-4188-960c-5ffce727d84b": {
+                    "description": "Made with 3 free range eggs, served with chips and salad.",
+                    "imageUrl": "",
+                    "price": 570,
+                    "title": "Plain",
+                    "uuid": "7f68bdcb-2fa9-4188-960c-5ffce727d84b",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "3a0bb575-b85a-4750-ae43-f4b8068a18ab": {
+                    "description": "",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/5f8ade2a-5687-4210-af18-931f39467efc.jpeg",
+                    "price": 730,
+                    "title": "Bolognese",
+                    "uuid": "3a0bb575-b85a-4750-ae43-f4b8068a18ab",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "d5086141-19cd-4b62-bd91-ac3e29306eac": {
+                    "description": "Served with chips and a garnish of salad.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/37eb4481-cd8b-4f75-86e6-5ebe8d7dc67f.jpeg",
+                    "price": 700,
+                    "title": "Burger",
+                    "uuid": "d5086141-19cd-4b62-bd91-ac3e29306eac",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                }
+            }
+        },
+        "sections": [
+            {
+                "subsectionUuids": [
+                    "9f79b483-06e4-496a-b222-cf4a6148ea00",
+                    "8f8b96a7-5fbe-4d52-b681-d37aa091a446",
+                    "398e987e-7e44-425a-9d0d-1170d27ef50a",
+                    "bbbf4257-f1a0-4bec-bf67-c473a7a289d7",
+                    "b3fa4249-59ea-414d-b4b9-5cf4133ef70d",
+                    "5ef63e82-5427-4841-96c6-a9b1aa2d2cba"
+                ],
+                "title": "Menu",
+                "subtitle": "6:00 AM – 10:00 PM",
+                "uuid": "b977efd0-5093-470e-bbd4-e30c3ae92937",
+                "isTop": true,
+                "isOnSale": true
+            }
+        ],
+        "subsectionsMap": {
+            "5ef63e82-5427-4841-96c6-a9b1aa2d2cba": {
+                "itemUuids": [
+                    "0a2c4cee-fbd2-40f1-bea5-f56cedd4d29f",
+                    "e26e3ae4-343c-4a66-8263-cc66e5b1b690",
+                    "7b25971f-6109-45c9-ad11-3599e0914e24",
+                    "478da387-e32d-4e45-a84a-5d8bd08b3d73",
+                    "1fe244bd-1e2c-4db6-bb20-c2d68ba3a4e2",
+                    "ab44469f-82fa-4d25-897b-bcabf4eb42b8",
+                    "8773004b-f9f1-459f-9a25-d93819e88e93",
+                    "7fddd781-dcf5-4be2-a366-1689d42f389d",
+                    "6393640b-b699-492b-bf2a-af44b771fdb2",
+                    "f778ee1e-e1b6-440c-bead-a4eef7b13696"
+                ],
+                "subtitle": "",
+                "title": "Toasted Panini",
+                "uuid": "5ef63e82-5427-4841-96c6-a9b1aa2d2cba",
+                "displayType": null
+            },
+            "9f79b483-06e4-496a-b222-cf4a6148ea00": {
+                "itemUuids": [
+                    "c1c58e00-deb5-48b4-ad70-bb1e47be5304",
+                    "c8a165d5-01aa-40ba-a16e-2c4b837217d1",
+                    "0d0cd7f4-3d89-48b2-925a-d1060fc5b993",
+                    "3a0bb575-b85a-4750-ae43-f4b8068a18ab",
+                    "d4f348ed-5848-4646-9b6d-ca7dfc05679b",
+                    "79711900-3082-4829-a59c-9767982450cf",
+                    "1d4a586b-5446-43f8-93b2-afcce9f385af",
+                    "e8f15643-3b3d-4e35-8860-bba1d8a2c9a1",
+                    "3edb9003-2f13-4468-ae8e-b7d0038f7a76",
+                    "1ff612ba-dc11-4bdd-9662-e7457519d01b",
+                    "5ef172ce-4d0d-41f5-bd10-f5e8c05f6bfb",
+                    "7a323845-38a4-4b5d-9346-d5ea42f259df"
+                ],
+                "subtitle": "",
+                "title": "Pasta",
+                "uuid": "9f79b483-06e4-496a-b222-cf4a6148ea00",
+                "displayType": null
+            },
+            "8f8b96a7-5fbe-4d52-b681-d37aa091a446": {
+                "itemUuids": [
+                    "d5086141-19cd-4b62-bd91-ac3e29306eac",
+                    "edb177fe-857d-48ce-aa48-072eea6cac7c"
+                ],
+                "subtitle": "",
+                "title": "Burgers",
+                "uuid": "8f8b96a7-5fbe-4d52-b681-d37aa091a446",
+                "displayType": null
+            },
+            "398e987e-7e44-425a-9d0d-1170d27ef50a": {
+                "itemUuids": [
+                    "919f7523-5fa7-4053-ab5c-2a666fd9e3f3",
+                    "ad36a393-0bb7-47bf-8f0d-13a20108abb2",
+                    "bcd36fdc-9150-4106-8979-c6fd68b6df67",
+                    "882c5aa6-bcf6-469d-ae75-d6b2d0e22442"
+                ],
+                "subtitle": "",
+                "title": "Specials",
+                "uuid": "398e987e-7e44-425a-9d0d-1170d27ef50a",
+                "displayType": null
+            },
+            "bbbf4257-f1a0-4bec-bf67-c473a7a289d7": {
+                "itemUuids": [
+                    "07904452-f858-4ee6-b794-b594ffecdafb",
+                    "725b50ae-828a-469c-9960-fbdcf9249210",
+                    "d99bd945-27a0-4851-8509-9e312253601e",
+                    "596661c9-226d-496b-9f5a-fd2532e7c8e5",
+                    "83f1b3c3-bfe6-4001-bbe7-bc9e817f802f"
+                ],
+                "subtitle": "",
+                "title": "Jacket Potatoes",
+                "uuid": "bbbf4257-f1a0-4bec-bf67-c473a7a289d7",
+                "displayType": null
+            },
+            "b3fa4249-59ea-414d-b4b9-5cf4133ef70d": {
+                "itemUuids": [
+                    "7f68bdcb-2fa9-4188-960c-5ffce727d84b",
+                    "5831a490-9820-4c98-bda8-105ea8c27712",
+                    "6a280bca-bcac-4dc7-bb50-36293b62c700",
+                    "dff8baf6-7d98-4f8a-9a6b-be9c28e235be",
+                    "c72409b7-7a6f-4b6a-a3ba-4d194e31a52d",
+                    "2f5f0906-f6d4-42d6-bade-cb4d6bd748fb",
+                    "ff56cf35-d59a-4dbe-8fa8-38d46b3e76c7",
+                    "038a3cb6-4ff0-4009-86f4-8d2e8be6169b"
+                ],
+                "subtitle": "",
+                "title": "Omelette",
+                "uuid": "b3fa4249-59ea-414d-b4b9-5cf4133ef70d",
+                "displayType": null
+            }
+        },
+        "title": "Gianni's Sandwich Bar",
+        "uuid": "1232c59b-be60-4773-889a-5d705fdb4345",
+        "categories": [
+            "₴",
+            "Паста",
+            "Італійська",
+            "Бургери",
+            "Стейки",
+            "Сандвічі",
+            "Традиційна їжа",
+            "Для вегетаріанців"
+        ],
+        "cuisineList": [
+            "Паста",
+            "Італійська",
+            "Бургери",
+            "Стейки",
+            "Сандвічі",
+            "Традиційна їжа",
+            "Для вегетаріанців"
+        ],
+        "priceBucket": "₴",
+        "etaRange": {
+            "text": "20–30 min",
+            "iconUrl": ""
+        },
+        "ratingBadge": null,
+        "disclaimerBadge": {
+            "text": "<span style=\"font-family: inherit;\">Allergies, intolerances and dietary requirements: before ordering, please contact the restaurant directly and ask to speak to a member of staff who can assist if you require information about ingredients and help cater for your needs. For more information on food safety and hygiene, please visit the <a href=\"https://www.food.gov.uk/\" style=\"color:#61ad5f;\">Food Standards Agency</a>.</span>"
+        },
+        "fareBadge": null,
+        "fareInfo": {
+            "serviceFee": 30,
+            "serviceFeeCents": 3000
+        },
+        "promotion": null,
+        "shouldIndex": false,
+        "heroImageUrls": [
+            {
+                "url": "https://d1ralsognjng37.cloudfront.net/77bb56a1-adee-4a4f-97ce-75e15c12952f.jpeg",
+                "width": 240
+            },
+            {
+                "url": "https://d1ralsognjng37.cloudfront.net/3de4aa3f-1288-4890-9b2b-a6073041e91c.jpeg",
+                "width": 550
+            },
+            {
+                "url": "https://d1ralsognjng37.cloudfront.net/1ed821b2-e507-47e0-83aa-301f1cdbf371.jpeg",
+                "width": 640
+            },
+            {
+                "url": "https://d1ralsognjng37.cloudfront.net/ac1b1bcf-5da3-4242-b81f-19aa52b27624.jpeg",
+                "width": 750
+            },
+            {
+                "url": "https://d1ralsognjng37.cloudfront.net/33ca1770-858a-4a63-8e51-ce329a53749d.jpeg",
+                "width": 1080
+            },
+            {
+                "url": "https://d1ralsognjng37.cloudfront.net/5ef4600e-e140-47eb-82ad-ee601b1e3407.jpeg",
+                "width": 2880
+            }
+        ],
+        "isOpen": true,
+        "currencyCode": "GBP",
+        "closedMessage": "Currently unavailable",
+        "location": {
+            "address": "48 Horseferry Rd, England SW1P 2AF",
+            "streetAddress": "48 Horseferry Rd",
+            "city": "",
+            "country": "GB",
+            "postalCode": "SW1P 2AF",
+            "region": "England",
+            "latitude": 51.49496788922658,
+            "longitude": -0.12727195839803326
+        },
+        "isDeliveryThirdParty": false,
+        "hours": [
+            {
+                "dayRange": "Sunday",
+                "sectionHours": []
+            },
+            {
+                "dayRange": "Monday - Friday",
+                "sectionHours": [
+                    {
+                        "startTime": 360,
+                        "endTime": 1320,
+                        "sectionTitle": ""
+                    }
+                ]
+            },
+            {
+                "dayRange": "Saturday",
+                "sectionHours": [
+                    {
+                        "startTime": 420,
+                        "endTime": 870,
+                        "sectionTitle": ""
+                    }
+                ]
+            }
+        ],
+        "disableOrderInstruction": false,
+        "disableCheckoutInstruction": false,
+        "nuggets": [],
+        "isWithinDeliveryRange": false,
+        "slug": "giannis-sandwich-bar",
+        "citySlug": "london",
+        "phoneNumber": "+442077995225",
+        "metaJson": "{\"@context\":\"http:\\u002F\\u002Fschema.org\",\"@type\":\"Restaurant\",\"@id\":\"https:\\u002F\\u002Fwww.ubereats.com\\u002Fen-UA\\u002Flondon\\u002Ffood-delivery\\u002Fgiannis-sandwich-bar\\u002FEjLFm75gR3OIml1wX9tDRQ\\u002F\",\"name\":\"Gianni's Sandwich Bar\",\"priceRange\":\"₴\",\"potentialAction\":{\"@type\":\"OrderAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\\u002F\\u002Fwww.ubereats.com\\u002Fen-UA\\u002Flondon\\u002Ffood-delivery\\u002Fgiannis-sandwich-bar\\u002FEjLFm75gR3OIml1wX9tDRQ\\u002F?utm_campaign=order-action&utm_medium=organic\",\"inLanguage\":\"English\",\"actionPlatform\":[\"http:\\u002F\\u002Fschema.org\\u002FDesktopWebPlatform\",\"http:\\u002F\\u002Fschema.org\\u002FMobileWebPlatform\"]},\"deliveryMethod\":[\"http:\\u002F\\u002Fpurl.org\\u002Fgoodrelations\\u002Fv1#DeliveryModeOwnFleet\"]},\"geo\":{\"@type\":\"GeoCoordinates\",\"latitude\":51.49496788922658,\"longitude\":-0.12727195839803326}}",
+        "promoTrackings": [],
+        "suggestedPromotion": {
+            "text": "",
+            "promotionUuid": ""
+        },
+        "supportedDiningModes": [
+            {
+                "mode": "DELIVERY",
+                "title": "Delivery",
+                "isSelected": true,
+                "isAvailable": true
+            }
+        ],
+        "isPreview": false,
+        "pinnedInfo": null
+    }
+}

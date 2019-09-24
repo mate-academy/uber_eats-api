@@ -1,0 +1,646 @@
+{
+    "status": "success",
+    "data": {
+        "sectionEntitiesMap": {
+            "13b766fe-7fc2-4ca3-9bac-4c5a7293703a": {
+                "2706a0ed-c29a-4fca-bed5-776ff750c223": {
+                    "description": "Прозрачный бульон с индейкой и домашней лапшой ",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/df520a58-5f60-4056-8cbb-c298d2da327d.jpeg",
+                    "price": 9500,
+                    "title": "Бульон с индейкой ",
+                    "uuid": "2706a0ed-c29a-4fca-bed5-776ff750c223",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "95e96596-9238-486c-84ce-f3423c13afa2": {
+                    "description": "Нежный Чизкейк на основе пюре из тыквы и сыра Филадельфии",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/e4996f6f-473d-468a-88ae-48c46fb0839a.jpeg",
+                    "price": 9500,
+                    "title": "Тыквенный Чизкейк",
+                    "uuid": "95e96596-9238-486c-84ce-f3423c13afa2",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": "",
+                    "suspendUntil": 8640000000,
+                    "classifications": []
+                },
+                "22487045-6784-4b92-8de3-5521c82c93dc": {
+                    "description": "з індичкою",
+                    "imageUrl": null,
+                    "price": 17500,
+                    "title": "Клаб-сендвіч",
+                    "uuid": "22487045-6784-4b92-8de3-5521c82c93dc",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "3d163876-061b-4002-aa05-b5c59ee42b79": {
+                    "description": "з ковбасками, тостами та смаженими яйцями ",
+                    "imageUrl": null,
+                    "price": 17500,
+                    "title": "Великий сніданок",
+                    "uuid": "3d163876-061b-4002-aa05-b5c59ee42b79",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "175d9429-de00-435a-99c9-36db5d742225": {
+                    "description": null,
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/ba8566db-2147-4a1e-82b2-a5cf36c2333b.jpeg",
+                    "price": 16500,
+                    "title": "Боул с Креветкой и Киноа",
+                    "uuid": "175d9429-de00-435a-99c9-36db5d742225",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "40ddb0d4-6cf2-40ef-8702-6f457fdedeab": {
+                    "description": "Нежное филе индейки на листьях римского салата, томаты Черри, сухарики  из кукурузного хлеба под специальной сливочной заправкой ",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/be2ca79a-e7e9-40a7-a8f6-6409fe4411ac.jpeg",
+                    "price": 13500,
+                    "title": "Салат Индейка и Ромен",
+                    "uuid": "40ddb0d4-6cf2-40ef-8702-6f457fdedeab",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "cf098ca4-c53c-4929-8807-0b0fd9b6e28f": {
+                    "description": "Самый сочный буррито со слабосоленым лососем, свежим огурцом и сыром Филадельфия.\nРекомендуем не разогревать.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/8f7de53b-5866-473c-a6ea-0783b8fef37c.jpeg",
+                    "price": 12900,
+                    "title": "Буррито с лососем и сыром Филадельфия",
+                    "uuid": "cf098ca4-c53c-4929-8807-0b0fd9b6e28f",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "7d335e66-8e2e-42d0-a6a7-1812a9b82067": {
+                    "description": null,
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/75fdf177-00fc-488c-846d-04b7b5dd0a96.jpeg",
+                    "price": 13500,
+                    "title": "Салат Авокадо гриль",
+                    "uuid": "7d335e66-8e2e-42d0-a6a7-1812a9b82067",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "1dd6339d-f86f-4089-844c-ac6a24449c6a": {
+                    "description": "Суп пюре из зеленого горошка и мяты \nВеганское блюдо",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/b5604764-ee0b-4bfb-bb4e-b33bd221a29b.jpeg",
+                    "price": 9500,
+                    "title": "Зеленый суп из горошка и мяты",
+                    "uuid": "1dd6339d-f86f-4089-844c-ac6a24449c6a",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": "",
+                    "suspendUntil": 8640000000,
+                    "classifications": []
+                },
+                "40bbb3c1-2def-4d5c-b50c-d83aab6226f0": {
+                    "description": null,
+                    "imageUrl": null,
+                    "price": 26500,
+                    "title": "Дорадо с манговой сальсой и сливочным рисом",
+                    "uuid": "40bbb3c1-2def-4d5c-b50c-d83aab6226f0",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": "",
+                    "suspendUntil": 8640000000,
+                    "classifications": []
+                },
+                "80285eb0-a74d-44ff-8485-1429ca44ab25": {
+                    "description": "Классический холодный суп, возможен вариант из желтых томатов",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/4e0f0a95-e9bc-4e46-8afd-a5235bd309ad.jpeg",
+                    "price": 9500,
+                    "title": "Суп Гаспачо (холодный)",
+                    "uuid": "80285eb0-a74d-44ff-8485-1429ca44ab25",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "9863d117-7e8e-4429-9713-aa6e714c0476": {
+                    "description": "Веганский Буррито с домашним сыром Тофу, грибами Шиитаке и гуакамоле",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/1a14df97-6358-4ec0-9b26-fca4c4248017.jpeg",
+                    "price": 11900,
+                    "title": "Буррито с тофу и грибами шиитаке ",
+                    "uuid": "9863d117-7e8e-4429-9713-aa6e714c0476",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "289bf3e3-85fe-4ff3-8a48-87bb49b52198": {
+                    "description": null,
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/e7c36ba0-05b4-4a9f-806b-dd77bd581318.jpeg",
+                    "price": 16500,
+                    "title": "Теплый салат с Тунцом ",
+                    "uuid": "289bf3e3-85fe-4ff3-8a48-87bb49b52198",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "2fad79d3-58a6-4b8a-ac57-64a02f76cf99": {
+                    "description": "Состоит из мягкой пшеничной лепёшки, в которую завёрнута пикантная индейка, сыр Черед, скрембл и авокадо.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/c4076c00-dbb1-4d89-99c5-69b275eb4875.jpeg",
+                    "price": 11900,
+                    "title": "Буррито с индейкой",
+                    "uuid": "2fad79d3-58a6-4b8a-ac57-64a02f76cf99",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                }
+            },
+            "84f564d0-56a0-456e-b230-87834f5a1f36": {
+                "488f4762-25d5-4ba9-b99b-e56f3c99d49a": {
+                    "description": null,
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/5fb6a7b5-27b8-4a6c-a45e-83e273060e74.jpeg",
+                    "price": 9500,
+                    "title": "Turkey and noodle broth",
+                    "uuid": "488f4762-25d5-4ba9-b99b-e56f3c99d49a",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "3a18fa96-cb65-410f-96c0-aadc9d8b7231": {
+                    "description": "with turkey",
+                    "imageUrl": null,
+                    "price": 14500,
+                    "title": "Club-sandwich",
+                    "uuid": "3a18fa96-cb65-410f-96c0-aadc9d8b7231",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "7fc1091f-6c8d-4d69-9e86-b1faba7dd520": {
+                    "description": null,
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/1fc16f07-b155-4f55-913f-7d78341006dd.jpeg",
+                    "price": 13500,
+                    "title": "Turkey and romaine",
+                    "uuid": "7fc1091f-6c8d-4d69-9e86-b1faba7dd520",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "6569b382-ea56-494c-ba0b-7cded3bf682b": {
+                    "description": "with sousages, toasts and fried eggs",
+                    "imageUrl": null,
+                    "price": 17500,
+                    "title": "Big breakfast",
+                    "uuid": "6569b382-ea56-494c-ba0b-7cded3bf682b",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "0b2dfb8c-006c-46d8-93c8-e5f174644664": {
+                    "description": "Burrito turkey, scrambled eggs, avocado",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/307c1eee-8786-4ecb-8546-4ce089c81133.jpeg",
+                    "price": 11900,
+                    "title": "Burrito turkey, scrambled eggs, avocado",
+                    "uuid": "0b2dfb8c-006c-46d8-93c8-e5f174644664",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "aaa2d6de-ce75-4c79-86cc-a6dc5eb42cf9": {
+                    "description": null,
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/6267fb7e-031e-4fb2-a32e-e19a996d343c.jpeg",
+                    "price": 13500,
+                    "title": "Grilled avocado",
+                    "uuid": "aaa2d6de-ce75-4c79-86cc-a6dc5eb42cf9",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "3ef91c62-b18d-471c-b2b4-09c9cdd0dfde": {
+                    "description": null,
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/17f6ec8c-372d-484c-a28f-1a1ebdbbb2e1.jpeg",
+                    "price": 11900,
+                    "title": "Tofu cheese and shiitake mushrooms",
+                    "uuid": "3ef91c62-b18d-471c-b2b4-09c9cdd0dfde",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "6147620f-8f83-4f80-8e25-1dc266daee80": {
+                    "description": null,
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/1806b0b7-f295-428f-84fe-bb950e05c0b4.jpeg",
+                    "price": 12900,
+                    "title": "Salmon and Philadelphia cream cheese",
+                    "uuid": "6147620f-8f83-4f80-8e25-1dc266daee80",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "9d1c7701-b6a7-4f2d-9c32-bc627363a001": {
+                    "description": null,
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/2e49e396-682b-40ac-950b-504402586f7b.jpeg",
+                    "price": 16500,
+                    "title": "Bowl with shrimps and quinoa",
+                    "uuid": "9d1c7701-b6a7-4f2d-9c32-bc627363a001",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "873ccbbc-a3d2-467a-b7c7-c688788b9fd0": {
+                    "description": null,
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/1b10e177-69fd-4664-87ec-875f96ef0527.jpeg",
+                    "price": 9500,
+                    "title": "Green pea soup",
+                    "uuid": "873ccbbc-a3d2-467a-b7c7-c688788b9fd0",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": "",
+                    "suspendUntil": 8640000000,
+                    "classifications": []
+                },
+                "a4eb7361-2b39-4ec7-bf88-a531bb48bc1f": {
+                    "description": null,
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/b90bb95c-5399-489e-9b49-059ba3789124.jpeg",
+                    "price": 9500,
+                    "title": "Pumpkin cheese cake",
+                    "uuid": "a4eb7361-2b39-4ec7-bf88-a531bb48bc1f",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": "",
+                    "suspendUntil": 8640000000,
+                    "classifications": []
+                }
+            }
+        },
+        "sections": [
+            {
+                "subsectionUuids": [
+                    "79ead6f5-a73d-47ef-bda0-2d971f2693b8",
+                    "64589bbe-27c0-42b2-8865-56ccda89d6f6",
+                    "d710fe72-d912-449e-add8-fe8b5a63435e",
+                    "6832726b-2b4d-48aa-b66d-612d11941e4c",
+                    "cf06593c-50a6-4446-8d51-221f562b019a",
+                    "d17be4c9-ac3a-40cb-88e4-72ccb12fbb15"
+                ],
+                "title": "МЕНЮ",
+                "subtitle": "11:00 AM – 10:00 PM",
+                "uuid": "13b766fe-7fc2-4ca3-9bac-4c5a7293703a",
+                "isTop": true,
+                "isOnSale": true
+            },
+            {
+                "subsectionUuids": [
+                    "23f645e7-98cb-4af9-a0d1-9130820b1b15",
+                    "07c9eb1e-9777-4743-94ee-26fe731522e0",
+                    "48d064bc-abcd-49f4-9a6e-1270ddf70a4d",
+                    "925e7a28-af85-4f25-9632-02d30c87134e",
+                    "e6337b25-2223-4cee-bdc2-17cf0b4fa696"
+                ],
+                "title": "MENU",
+                "subtitle": "11:00 AM – 10:00 PM",
+                "uuid": "84f564d0-56a0-456e-b230-87834f5a1f36",
+                "isTop": false,
+                "isOnSale": true
+            }
+        ],
+        "subsectionsMap": {
+            "d710fe72-d912-449e-add8-fe8b5a63435e": {
+                "itemUuids": [
+                    "40ddb0d4-6cf2-40ef-8702-6f457fdedeab",
+                    "7d335e66-8e2e-42d0-a6a7-1812a9b82067",
+                    "289bf3e3-85fe-4ff3-8a48-87bb49b52198",
+                    "175d9429-de00-435a-99c9-36db5d742225"
+                ],
+                "subtitle": null,
+                "title": "Салаты",
+                "uuid": "d710fe72-d912-449e-add8-fe8b5a63435e",
+                "displayType": null
+            },
+            "48d064bc-abcd-49f4-9a6e-1270ddf70a4d": {
+                "itemUuids": [
+                    "488f4762-25d5-4ba9-b99b-e56f3c99d49a",
+                    "873ccbbc-a3d2-467a-b7c7-c688788b9fd0"
+                ],
+                "subtitle": null,
+                "title": "Soups",
+                "uuid": "48d064bc-abcd-49f4-9a6e-1270ddf70a4d",
+                "displayType": null
+            },
+            "64589bbe-27c0-42b2-8865-56ccda89d6f6": {
+                "itemUuids": [
+                    "80285eb0-a74d-44ff-8485-1429ca44ab25",
+                    "2706a0ed-c29a-4fca-bed5-776ff750c223",
+                    "1dd6339d-f86f-4089-844c-ac6a24449c6a"
+                ],
+                "subtitle": null,
+                "title": "Супы",
+                "uuid": "64589bbe-27c0-42b2-8865-56ccda89d6f6",
+                "displayType": null
+            },
+            "23f645e7-98cb-4af9-a0d1-9130820b1b15": {
+                "itemUuids": [
+                    "0b2dfb8c-006c-46d8-93c8-e5f174644664",
+                    "3ef91c62-b18d-471c-b2b4-09c9cdd0dfde",
+                    "6147620f-8f83-4f80-8e25-1dc266daee80"
+                ],
+                "subtitle": null,
+                "title": "Burrito",
+                "uuid": "23f645e7-98cb-4af9-a0d1-9130820b1b15",
+                "displayType": null
+            },
+            "d17be4c9-ac3a-40cb-88e4-72ccb12fbb15": {
+                "itemUuids": [
+                    "22487045-6784-4b92-8de3-5521c82c93dc",
+                    "3d163876-061b-4002-aa05-b5c59ee42b79"
+                ],
+                "subtitle": null,
+                "title": "Сніданки",
+                "uuid": "d17be4c9-ac3a-40cb-88e4-72ccb12fbb15",
+                "displayType": null
+            },
+            "925e7a28-af85-4f25-9632-02d30c87134e": {
+                "itemUuids": [
+                    "a4eb7361-2b39-4ec7-bf88-a531bb48bc1f"
+                ],
+                "subtitle": null,
+                "title": "Desserts",
+                "uuid": "925e7a28-af85-4f25-9632-02d30c87134e",
+                "displayType": null
+            },
+            "6832726b-2b4d-48aa-b66d-612d11941e4c": {
+                "itemUuids": [
+                    "40bbb3c1-2def-4d5c-b50c-d83aab6226f0"
+                ],
+                "subtitle": null,
+                "title": "Блюдо Недели",
+                "uuid": "6832726b-2b4d-48aa-b66d-612d11941e4c",
+                "displayType": null
+            },
+            "cf06593c-50a6-4446-8d51-221f562b019a": {
+                "itemUuids": [
+                    "95e96596-9238-486c-84ce-f3423c13afa2"
+                ],
+                "subtitle": null,
+                "title": "Десерт",
+                "uuid": "cf06593c-50a6-4446-8d51-221f562b019a",
+                "displayType": null
+            },
+            "79ead6f5-a73d-47ef-bda0-2d971f2693b8": {
+                "itemUuids": [
+                    "2fad79d3-58a6-4b8a-ac57-64a02f76cf99",
+                    "9863d117-7e8e-4429-9713-aa6e714c0476",
+                    "cf098ca4-c53c-4929-8807-0b0fd9b6e28f"
+                ],
+                "subtitle": null,
+                "title": "Буррито",
+                "uuid": "79ead6f5-a73d-47ef-bda0-2d971f2693b8",
+                "displayType": null
+            },
+            "07c9eb1e-9777-4743-94ee-26fe731522e0": {
+                "itemUuids": [
+                    "7fc1091f-6c8d-4d69-9e86-b1faba7dd520",
+                    "aaa2d6de-ce75-4c79-86cc-a6dc5eb42cf9",
+                    "9d1c7701-b6a7-4f2d-9c32-bc627363a001"
+                ],
+                "subtitle": null,
+                "title": "Salads",
+                "uuid": "07c9eb1e-9777-4743-94ee-26fe731522e0",
+                "displayType": null
+            },
+            "e6337b25-2223-4cee-bdc2-17cf0b4fa696": {
+                "itemUuids": [
+                    "3a18fa96-cb65-410f-96c0-aadc9d8b7231",
+                    "6569b382-ea56-494c-ba0b-7cded3bf682b"
+                ],
+                "subtitle": null,
+                "title": "Breakfast",
+                "uuid": "e6337b25-2223-4cee-bdc2-17cf0b4fa696",
+                "displayType": null
+            }
+        },
+        "title": "Etc.foodbar",
+        "uuid": "51e129df-e2ad-4516-8c2e-ba92d8c1d176",
+        "categories": [
+            "₴₴",
+            "Мексиканська",
+            "Європейська",
+            "Салати"
+        ],
+        "cuisineList": [
+            "Мексиканська",
+            "Європейська",
+            "Салати"
+        ],
+        "priceBucket": "₴₴",
+        "etaRange": {
+            "text": "45–55 min",
+            "iconUrl": ""
+        },
+        "ratingBadge": {
+            "text": "<span><span style=\"font-family: inherit; color: #3a3a48;\">4.5 <img src=\"https://d1a3f4spazzrp4.cloudfront.net/static/images/Star_Yellow_Eats_3.png\" width=\"14\" height=\"14\" vertical-align=\"middle\"> </span><span style=\"font-family: inherit; color: #757575;\">(26)</span></span>"
+        },
+        "disclaimerBadge": null,
+        "fareBadge": null,
+        "fareInfo": {
+            "serviceFee": 30,
+            "serviceFeeCents": 3000
+        },
+        "promotion": null,
+        "shouldIndex": true,
+        "heroImageUrls": [
+            {
+                "url": "https://d1ralsognjng37.cloudfront.net/3e0ab64e-e1d0-432a-afd0-1fe53e67e626",
+                "width": 240
+            },
+            {
+                "url": "https://d1ralsognjng37.cloudfront.net/3381e4c4-484e-48ef-9246-76bc9ab8386c",
+                "width": 550
+            },
+            {
+                "url": "https://d1ralsognjng37.cloudfront.net/deb01502-7a97-4a14-980b-a7f99f937a17",
+                "width": 640
+            },
+            {
+                "url": "https://d1ralsognjng37.cloudfront.net/20ea9eb8-9858-4de6-a8c1-38e8f2425863",
+                "width": 750
+            },
+            {
+                "url": "https://d1ralsognjng37.cloudfront.net/967f50ee-0648-4419-acfa-73f187557c5d",
+                "width": 1080
+            },
+            {
+                "url": "https://d1ralsognjng37.cloudfront.net/47b77678-5d44-4d7e-8c8b-b5f36d13bd2b",
+                "width": 2880
+            }
+        ],
+        "isOpen": true,
+        "currencyCode": "UAH",
+        "closedMessage": "Currently unavailable",
+        "location": {
+            "address": "Velyka Zhytomyrska St, 26, Kyiv, 02000",
+            "streetAddress": "Velyka Zhytomyrska St, 26",
+            "city": "Kyiv",
+            "country": "UA",
+            "postalCode": "02000",
+            "region": "",
+            "latitude": 50.4555057,
+            "longitude": 30.51149380000001
+        },
+        "isDeliveryThirdParty": false,
+        "hours": [
+            {
+                "dayRange": "Sunday",
+                "sectionHours": [
+                    {
+                        "startTime": 780,
+                        "endTime": 1320,
+                        "sectionTitle": "МЕНЮ"
+                    },
+                    {
+                        "startTime": 780,
+                        "endTime": 1320,
+                        "sectionTitle": "MENU"
+                    }
+                ]
+            },
+            {
+                "dayRange": "Monday - Friday",
+                "sectionHours": [
+                    {
+                        "startTime": 660,
+                        "endTime": 1320,
+                        "sectionTitle": "МЕНЮ"
+                    },
+                    {
+                        "startTime": 660,
+                        "endTime": 1320,
+                        "sectionTitle": "MENU"
+                    }
+                ]
+            },
+            {
+                "dayRange": "Saturday",
+                "sectionHours": [
+                    {
+                        "startTime": 780,
+                        "endTime": 1320,
+                        "sectionTitle": "МЕНЮ"
+                    },
+                    {
+                        "startTime": 780,
+                        "endTime": 1320,
+                        "sectionTitle": "MENU"
+                    }
+                ]
+            }
+        ],
+        "disableOrderInstruction": false,
+        "disableCheckoutInstruction": false,
+        "nuggets": [],
+        "isWithinDeliveryRange": false,
+        "slug": "etcfoodbar",
+        "citySlug": "kyiv",
+        "phoneNumber": "+380935259141",
+        "metaJson": "{\"@context\":\"http:\\u002F\\u002Fschema.org\",\"@type\":\"Restaurant\",\"@id\":\"https:\\u002F\\u002Fwww.ubereats.com\\u002Fen-UA\\u002Fkyiv\\u002Ffood-delivery\\u002Fetcfoodbar\\u002FUeEp3-KtRRaMLrqS2MHRdg\\u002F\",\"name\":\"Etc.foodbar\",\"priceRange\":\"₴₴\",\"potentialAction\":{\"@type\":\"OrderAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\\u002F\\u002Fwww.ubereats.com\\u002Fen-UA\\u002Fkyiv\\u002Ffood-delivery\\u002Fetcfoodbar\\u002FUeEp3-KtRRaMLrqS2MHRdg\\u002F?utm_campaign=order-action&utm_medium=organic\",\"inLanguage\":\"English\",\"actionPlatform\":[\"http:\\u002F\\u002Fschema.org\\u002FDesktopWebPlatform\",\"http:\\u002F\\u002Fschema.org\\u002FMobileWebPlatform\"]},\"deliveryMethod\":[\"http:\\u002F\\u002Fpurl.org\\u002Fgoodrelations\\u002Fv1#DeliveryModeOwnFleet\"]},\"address\":{\"@type\":\"PostalAddress\",\"addressLocality\":\"Kyiv\",\"addressRegion\":\"\",\"postalCode\":\"02000\",\"addressCountry\":\"UA\",\"streetAddress\":\"Velyka Zhytomyrska St, 26\"},\"geo\":{\"@type\":\"GeoCoordinates\",\"latitude\":50.4555057,\"longitude\":30.51149380000001}}",
+        "promoTrackings": [],
+        "suggestedPromotion": {
+            "text": "",
+            "promotionUuid": ""
+        },
+        "supportedDiningModes": [
+            {
+                "mode": "DELIVERY",
+                "title": "Delivery",
+                "isSelected": true,
+                "isAvailable": true
+            }
+        ],
+        "isPreview": false,
+        "pinnedInfo": null
+    }
+}

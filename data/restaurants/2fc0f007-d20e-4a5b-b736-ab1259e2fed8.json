@@ -1,0 +1,1104 @@
+{
+    "status": "success",
+    "data": {
+        "sectionEntitiesMap": {
+            "d4b15fd9-91a3-4c07-91af-0e6332b1cf6c": {
+                "5a13295b-2d00-416f-9bfb-4414b4f9efbe": {
+                    "description": "Slow cooked lamb and potatoes in a rich tamarind curry.",
+                    "imageUrl": null,
+                    "price": 1350,
+                    "title": "Massaman Lamb",
+                    "uuid": "5a13295b-2d00-416f-9bfb-4414b4f9efbe",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "16c10f4a-806c-4346-a6ce-afc598eab5e2": {
+                    "description": "Stir fried with garlic in a light soy sauce.",
+                    "imageUrl": null,
+                    "price": 860,
+                    "title": "Pak Choi Kratiem",
+                    "uuid": "16c10f4a-806c-4346-a6ce-afc598eab5e2",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "4e8786d5-1768-4e1c-93be-5ce2a3df41e1": {
+                    "description": "Served with a peanut dip.",
+                    "imageUrl": null,
+                    "price": 720,
+                    "title": "Chicken Satay",
+                    "uuid": "4e8786d5-1768-4e1c-93be-5ce2a3df41e1",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "26d58dd1-ff7b-4551-a3ab-f73353dabb66": {
+                    "description": " tempura king prawns, crispy little calamari, ping pork, chicken satay, aromatic duck & pancakes, panang curry  beff, sweet and sour chicken, basil aubergine, steamed jasmine rice",
+                    "imageUrl": null,
+                    "price": 6000,
+                    "title": "Menu C (For Two)",
+                    "uuid": "26d58dd1-ff7b-4551-a3ab-f73353dabb66",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "aa7847a0-cd46-48d3-8110-94c32267f169": {
+                    "description": "Fried tofu cooked with a spicy and fragrant sauce.",
+                    "imageUrl": null,
+                    "price": 860,
+                    "title": "Big Bang Tofu",
+                    "uuid": "aa7847a0-cd46-48d3-8110-94c32267f169",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "7d25447b-9263-45bf-96bd-9d179ac60126": {
+                    "description": "Three courses , bang bang prawns, chicken satay, heavenly beef, chicken lettuce wraps,massaman lamb, black peppered king prawns, sambal pork belly, cashew chicken, morning glory, steamed jasmine rice",
+                    "imageUrl": null,
+                    "price": 10000,
+                    "title": "Menu B (For Four)",
+                    "uuid": "7d25447b-9263-45bf-96bd-9d179ac60126",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "8239b699-2bd9-43cc-967a-9258f2792387": {
+                    "description": "A curry of choice, with green chilli, spices, bamboo shoots, and aubergines.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/0122049a-e7c4-4a7e-a254-92b945859ccc",
+                    "price": 1100,
+                    "title": "Green Curry",
+                    "uuid": "8239b699-2bd9-43cc-967a-9258f2792387",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "d89eadc4-f9c5-41a9-97e5-1c14bd300351": {
+                    "description": "Crispy king prawns served with a smooth, chilli dip.",
+                    "imageUrl": null,
+                    "price": 780,
+                    "title": "Bang Bang Prawns Oaka",
+                    "uuid": "d89eadc4-f9c5-41a9-97e5-1c14bd300351",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "5960694d-0dcb-4e15-96ea-1283e50f213b": {
+                    "description": "",
+                    "imageUrl": null,
+                    "price": 320,
+                    "title": "Jasmine Brown Rice",
+                    "uuid": "5960694d-0dcb-4e15-96ea-1283e50f213b",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "91e77ba0-b367-439b-b501-0b2a1c6a33ff": {
+                    "description": "Sea bass, king prawns, mussels, and squid fried with chilli, wild ginger, and basil.",
+                    "imageUrl": null,
+                    "price": 1450,
+                    "title": "Pad Cha Seafood",
+                    "uuid": "91e77ba0-b367-439b-b501-0b2a1c6a33ff",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "743a0130-6929-4855-9b13-485bd6eb44e9": {
+                    "description": "grilled marinated pork with coriander seeds and soy sauce",
+                    "imageUrl": null,
+                    "price": 690,
+                    "title": "Ping Pork",
+                    "uuid": "743a0130-6929-4855-9b13-485bd6eb44e9",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "54b9c6fe-543a-47a0-a1f7-e1b820e7cf9e": {
+                    "description": "Served crispy in a Thai herb seasoning.",
+                    "imageUrl": null,
+                    "price": 640,
+                    "title": "Spiced Aubergine (Vegetarian)",
+                    "uuid": "54b9c6fe-543a-47a0-a1f7-e1b820e7cf9e",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "b65f7f13-5ecd-4e20-8d6d-8c1e41e90c80": {
+                    "description": "Wok fried king prawns, onions, and chilli peppers in a black pepper sauce.",
+                    "imageUrl": null,
+                    "price": 1450,
+                    "title": "Black Peppered Prawns",
+                    "uuid": "b65f7f13-5ecd-4e20-8d6d-8c1e41e90c80",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "59d7e696-e930-44c3-a1a4-7f82075c7ccd": {
+                    "description": "with say sauce, spring onions and egg",
+                    "imageUrl": null,
+                    "price": 980,
+                    "title": "Mushroom and Tofu Ramen",
+                    "uuid": "59d7e696-e930-44c3-a1a4-7f82075c7ccd",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "f8c02f92-0d33-4012-908c-32c5255f76b1": {
+                    "description": "Beef marinated in palm sugar and coriander seeds. Shallow fried and served with a sharp chilli dip.",
+                    "imageUrl": null,
+                    "price": 760,
+                    "title": "Heavenly Beef",
+                    "uuid": "f8c02f92-0d33-4012-908c-32c5255f76b1",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "42772912-e6c9-4478-85dd-1a506eb7a078": {
+                    "description": "A stir fry of choice cooked in a tangy and fruity sauce.",
+                    "imageUrl": null,
+                    "price": 1100,
+                    "title": "Sweet and Sour",
+                    "uuid": "42772912-e6c9-4478-85dd-1a506eb7a078",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "b084633c-b174-429c-a206-8985b33daeac": {
+                    "description": "Vegetable dumplings served with soy sauce.",
+                    "imageUrl": null,
+                    "price": 640,
+                    "title": "Gyoza (Vegetarian)",
+                    "uuid": "b084633c-b174-429c-a206-8985b33daeac",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "15bb3e05-ed42-4ec4-84be-051dca7de4c2": {
+                    "description": "Serves two. Gyoza, tempura vegetables, spring rolls, and spiced aubergines.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/24c9e8bd-1bae-40ee-8bc1-68bdf40277a7",
+                    "price": 1190,
+                    "title": "Vegetable Platter",
+                    "uuid": "15bb3e05-ed42-4ec4-84be-051dca7de4c2",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "e7b21aff-9ba2-46a3-b4f4-7f87a8242251": {
+                    "description": " Spring rolls,, gyoza, spice aubergine,tempura vegetables, yellow curry with tofu and vegetables,miso aubergine, sweet and sour tofu , steamed jasmine rice.",
+                    "imageUrl": null,
+                    "price": 4800,
+                    "title": "Vegetarian Menu (For Two)",
+                    "uuid": "e7b21aff-9ba2-46a3-b4f4-7f87a8242251",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "400cc213-f78c-4d2d-897d-1bd6cb3e506b": {
+                    "description": "",
+                    "imageUrl": null,
+                    "price": 340,
+                    "title": "Sticky Rice (Vegetarian)",
+                    "uuid": "400cc213-f78c-4d2d-897d-1bd6cb3e506b",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "de0beff3-2dba-4eaa-b5e8-be4b542a1f0a": {
+                    "description": "Served with a wasabi and soy dip.",
+                    "imageUrl": null,
+                    "price": 780,
+                    "title": "Tempura King Prawns",
+                    "uuid": "de0beff3-2dba-4eaa-b5e8-be4b542a1f0a",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "99bbf79e-1ead-44fb-b657-0f926f22a699": {
+                    "description": "with ginger and tamarind sauce",
+                    "imageUrl": null,
+                    "price": 1450,
+                    "title": "Caramelised Chilli Sea Bass",
+                    "uuid": "99bbf79e-1ead-44fb-b657-0f926f22a699",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "cf5e77dd-aaf2-4a70-aa5d-8c3025672ad2": {
+                    "description": "Sliced pork belly tossed in sambal chilli. Wok fried with fine beans and kaffir lime leaves.",
+                    "imageUrl": null,
+                    "price": 1080,
+                    "title": "Sambal Pork Belly",
+                    "uuid": "cf5e77dd-aaf2-4a70-aa5d-8c3025672ad2",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": "",
+                    "suspendUntil": 8640000000,
+                    "classifications": []
+                },
+                "08e5c2ce-4dcd-4a21-b1d8-7a7bb3a9cbd0": {
+                    "description": "Flat rice noodles, bean sprouts, egg, stir fried in a tamarind, and sweet radish sauce. Served with peanuts.",
+                    "imageUrl": null,
+                    "price": 980,
+                    "title": "Pad Thai",
+                    "uuid": "08e5c2ce-4dcd-4a21-b1d8-7a7bb3a9cbd0",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "cb97ed59-93bd-4617-90b3-33365323d714": {
+                    "description": "A creamy and spicy curry of choice, served with fresh kaffir lime leaves.",
+                    "imageUrl": null,
+                    "price": 1100,
+                    "title": "Panang Curry",
+                    "uuid": "cb97ed59-93bd-4617-90b3-33365323d714",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "bddaa562-7635-49e1-9464-1777496be64f": {
+                    "description": "Serves two. Bang bang prawns, chicken satay, dim sum, and heavenly beef.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/b31b8bb1-0873-4180-a33e-e449bb1d1c52",
+                    "price": 1490,
+                    "title": "Gap Glam Platter",
+                    "uuid": "bddaa562-7635-49e1-9464-1777496be64f",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "55c83e34-c18b-44f2-b820-f6e7d1176e16": {
+                    "description": "A curry of choice, with potatoes, onions, and spices.",
+                    "imageUrl": null,
+                    "price": 1100,
+                    "title": "Yellow Curry",
+                    "uuid": "55c83e34-c18b-44f2-b820-f6e7d1176e16",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "591d9871-872f-408c-bc66-129991b7c9c5": {
+                    "description": "crispy little calamari,chicken satay, heavenly beef, chicken lettuce wraps, aromartic duck and pancakes, green curry with chicken, samball pork belly, crispy chilli beef, , pad thai with prawns,morning glory, steamed jasmine rice.",
+                    "imageUrl": null,
+                    "price": 12000,
+                    "title": "Menu D (For Four)",
+                    "uuid": "591d9871-872f-408c-bc66-129991b7c9c5",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "2db89cb0-ae7c-4f4e-96a6-326dcd368c14": {
+                    "description": "Richly flavoured with fresh ginger, shallots, lemongrass, and spices.",
+                    "imageUrl": null,
+                    "price": 1250,
+                    "title": "Chicken Rendang",
+                    "uuid": "2db89cb0-ae7c-4f4e-96a6-326dcd368c14",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "681b4547-733f-4fb7-b072-b0132b4944a1": {
+                    "description": "A coconut milk soup with fresh galangal, lemongrass, and chilli.",
+                    "imageUrl": null,
+                    "price": 540,
+                    "title": "Tom Kha",
+                    "uuid": "681b4547-733f-4fb7-b072-b0132b4944a1",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "6b1f49d4-e964-4bbb-a9da-e858289dea77": {
+                    "description": "Fine yellow noodles fried in a soy sauce with bean sprouts and spring onions.",
+                    "imageUrl": null,
+                    "price": 560,
+                    "title": "Pad Noodles (Vegetarian)",
+                    "uuid": "6b1f49d4-e964-4bbb-a9da-e858289dea77",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "b378d375-ebf6-44ad-afd2-9ee33ef29b49": {
+                    "description": "noodles with spring onion, egg and soy sauce",
+                    "imageUrl": null,
+                    "price": 1080,
+                    "title": "Chicken Katsu Ramen ",
+                    "uuid": "b378d375-ebf6-44ad-afd2-9ee33ef29b49",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "012979ec-dafc-4864-a209-d4a6940d71e9": {
+                    "description": "Wok fried with onions, peppers, and spring onions in a mild roasted chilli sauce.",
+                    "imageUrl": null,
+                    "price": 1080,
+                    "title": "Cashew Chicken",
+                    "uuid": "012979ec-dafc-4864-a209-d4a6940d71e9",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "ee2b0230-cb30-4019-91aa-7d3cf01bd26f": {
+                    "description": "Served with a wasabi and soy dip.",
+                    "imageUrl": null,
+                    "price": 560,
+                    "title": "Tempura Vegetables (Vegetarian)",
+                    "uuid": "ee2b0230-cb30-4019-91aa-7d3cf01bd26f",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "7b2f0100-f1ef-4bee-89f3-b5e7356dd67b": {
+                    "description": "Spicy potato wedges served with a sweet chilli dip.",
+                    "imageUrl": null,
+                    "price": 390,
+                    "title": "Thai Fries (Vegetarian)",
+                    "uuid": "7b2f0100-f1ef-4bee-89f3-b5e7356dd67b",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "5dee9288-f61e-4144-88ab-6c4e4aeb35ff": {
+                    "description": "A curry of choice, with red chilli, spices, bamboo shoots, and aubergines.",
+                    "imageUrl": null,
+                    "price": 1100,
+                    "title": "Red Curry",
+                    "uuid": "5dee9288-f61e-4144-88ab-6c4e4aeb35ff",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "9d3114ba-daaf-4f69-bea1-839583834618": {
+                    "description": "Served with a sweet chilli dip.",
+                    "imageUrl": null,
+                    "price": 290,
+                    "title": "Prawn Crackers",
+                    "uuid": "9d3114ba-daaf-4f69-bea1-839583834618",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "7d25efbc-53eb-4d8b-a71c-cca8052a4b49": {
+                    "description": "",
+                    "imageUrl": null,
+                    "price": 320,
+                    "title": "Steamed Jasmine Rice (Vegetarian)",
+                    "uuid": "7d25efbc-53eb-4d8b-a71c-cca8052a4b49",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "642fc4f1-97b2-4676-b63b-649284683c37": {
+                    "description": "Traditional fried rice, wok fried in a red chilli spice with shallots, sun dried shrimps, and chicken.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/1c0e0f60-a474-4de6-8790-73d477fc14f9",
+                    "price": 850,
+                    "title": "Nasi Goreng",
+                    "uuid": "642fc4f1-97b2-4676-b63b-649284683c37",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "7a5b2553-c3aa-4e31-879c-c77823eacc0a": {
+                    "description": "With cucumber, spring onions, and hoisin sauce.",
+                    "imageUrl": null,
+                    "price": 1160,
+                    "title": "Aromatic Duck and Pancakes",
+                    "uuid": "7a5b2553-c3aa-4e31-879c-c77823eacc0a",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "c8b5e3c6-6e24-449a-9588-411363a6d3b5": {
+                    "description": "Fried in a caramelised tamarind sauce with crispy shallots.",
+                    "imageUrl": null,
+                    "price": 1450,
+                    "title": "Tamarind Duck",
+                    "uuid": "c8b5e3c6-6e24-449a-9588-411363a6d3b5",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "36ca526b-1f1f-46ce-916f-dd310844b3da": {
+                    "description": "fried with bromw miso and sesame",
+                    "imageUrl": null,
+                    "price": 860,
+                    "title": "Miso Aubergine ",
+                    "uuid": "36ca526b-1f1f-46ce-916f-dd310844b3da",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "df82f5c4-049a-4ad3-818e-ba1cc1ffe6b9": {
+                    "description": "Noodles with soy sauce ,spring onion and egg",
+                    "imageUrl": null,
+                    "price": 1080,
+                    "title": "Roast Pork Ramen",
+                    "uuid": "df82f5c4-049a-4ad3-818e-ba1cc1ffe6b9",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "84d9d97c-9fea-4369-bb8d-de22b45fadad": {
+                    "description": "",
+                    "imageUrl": null,
+                    "price": 450,
+                    "title": "Egg Fried Rice (Vegetarian)",
+                    "uuid": "84d9d97c-9fea-4369-bb8d-de22b45fadad",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "b7a2feb1-ef3d-44a7-8626-40bc9e73c9d8": {
+                    "description": "Wok fried in an aromatic, sun dried chilli, and rice wine sauce.",
+                    "imageUrl": null,
+                    "price": 1180,
+                    "title": "Crispy Chilli Beef",
+                    "uuid": "b7a2feb1-ef3d-44a7-8626-40bc9e73c9d8",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "2c978de1-a944-4448-afae-265fa527c0f8": {
+                    "description": "Spicy fried vermicelli, egg, chicken, prawns, turmeric, and bean sprouts.",
+                    "imageUrl": null,
+                    "price": 1180,
+                    "title": "Singapore Noodles",
+                    "uuid": "2c978de1-a944-4448-afae-265fa527c0f8",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "d71973b8-fda5-48dd-afca-82a6987944d2": {
+                    "description": "Hot and sour lemongrass soup with fresh chilli and kaffir lime leaves.",
+                    "imageUrl": null,
+                    "price": 540,
+                    "title": "Tom Yum",
+                    "uuid": "d71973b8-fda5-48dd-afca-82a6987944d2",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "eabe2824-6298-4889-b761-7aa63990b490": {
+                    "description": "Glazed with caramelised Malaysian spices.",
+                    "imageUrl": null,
+                    "price": 680,
+                    "title": "Sambal Chicken Wings",
+                    "uuid": "eabe2824-6298-4889-b761-7aa63990b490",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "7d20e621-242d-4fed-9c81-6b9e688be7cf": {
+                    "description": "Stir fried with crushed chilli, garlic, and holy basil.",
+                    "imageUrl": null,
+                    "price": 1100,
+                    "title": "Pad Ga Prao",
+                    "uuid": "7d20e621-242d-4fed-9c81-6b9e688be7cf",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "f5ae795a-ffc4-4078-a692-d98c08801a43": {
+                    "description": "Finely chopped chicken fried with roasted chilli and water chestnuts. Served with fresh lettuce wraps.",
+                    "imageUrl": null,
+                    "price": 950,
+                    "title": "Chicken Lettuce Wraps",
+                    "uuid": "f5ae795a-ffc4-4078-a692-d98c08801a43",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "8317884e-2ce3-475f-bc14-2871c80259b9": {
+                    "description": "A rice noodle coconut soup with choice of protein, bean sprouts, and spring onions.",
+                    "imageUrl": null,
+                    "price": 1080,
+                    "title": "Laksa  Chicken Soup",
+                    "uuid": "8317884e-2ce3-475f-bc14-2871c80259b9",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "84715a94-f1b6-4121-9995-703be8adedbc": {
+                    "description": "Green papaya salad with lime, palm sugar, and roasted peanuts.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/ac006bda-4bc0-448a-89d9-7b3ee0c907a8",
+                    "price": 870,
+                    "title": "Som Tam",
+                    "uuid": "84715a94-f1b6-4121-9995-703be8adedbc",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "fece0bf6-a934-415c-97f1-e683c8c73c4c": {
+                    "description": "Sliced aubergine fried in a sweet basil, fresh chilli, and yellow bean sauce.",
+                    "imageUrl": null,
+                    "price": 860,
+                    "title": "Basil Aubergine",
+                    "uuid": "fece0bf6-a934-415c-97f1-e683c8c73c4c",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "5037c57d-3054-43e4-b96c-4ff58101de77": {
+                    "description": "Crispy and served with lime and thai siratcha sauce",
+                    "imageUrl": null,
+                    "price": 740,
+                    "title": "Crispy Little Calamari",
+                    "uuid": "5037c57d-3054-43e4-b96c-4ff58101de77",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": "",
+                    "suspendUntil": 8640000000,
+                    "classifications": []
+                },
+                "2457c27d-a765-4416-bd50-a53925e3e090": {
+                    "description": "Served with a sweet chilli dip.",
+                    "imageUrl": null,
+                    "price": 560,
+                    "title": "Spring Rolls (Vegetarian)",
+                    "uuid": "2457c27d-a765-4416-bd50-a53925e3e090",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "b203edcf-a57d-4259-a6b2-0e8f524cb388": {
+                    "description": "",
+                    "imageUrl": null,
+                    "price": 390,
+                    "title": "Coconut Rice (Vegetarian)",
+                    "uuid": "b203edcf-a57d-4259-a6b2-0e8f524cb388",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "4d159d4e-fcfa-4eef-8052-a1eea8052cd7": {
+                    "description": "Deboned and roasted with spices, flambeed and then cascaded with a lava of black pepper sauce.",
+                    "imageUrl": null,
+                    "price": 1280,
+                    "title": "Volcano Chicken",
+                    "uuid": "4d159d4e-fcfa-4eef-8052-a1eea8052cd7",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "326c5bea-b297-4efa-a34f-3ac0e69c380b": {
+                    "description": "Wok fried water spinach with soy bean sauce, fresh chilli, and garlic.",
+                    "imageUrl": null,
+                    "price": 860,
+                    "title": "Morning Glory",
+                    "uuid": "326c5bea-b297-4efa-a34f-3ac0e69c380b",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": "",
+                    "suspendUntil": 8640000000,
+                    "classifications": []
+                }
+            }
+        },
+        "sections": [
+            {
+                "subsectionUuids": [
+                    "e58705e0-2c5d-4142-9429-8eb2788ae92e",
+                    "4a45478e-1813-4f21-ba67-84761645208a",
+                    "bb78017f-351c-41b5-afcb-009bcbfbab9b",
+                    "79ec3f1d-1a7c-496e-b70f-fdeae7dc4959",
+                    "0049efa6-7a06-4896-ba54-8266f29202f8",
+                    "0c624d42-5ec9-433e-a69f-a31dad493704",
+                    "fc91bf6b-7b52-40d1-8a35-8eb1b458de98",
+                    "eb3920c9-09c9-4f5d-b08a-fd3f5d5c2bee",
+                    "5ecaead7-9c6a-4bf7-9369-1cd439ba8209"
+                ],
+                "title": "Menu",
+                "subtitle": "5:30 PM – 10:30 PM",
+                "uuid": "d4b15fd9-91a3-4c07-91af-0e6332b1cf6c",
+                "isTop": true,
+                "isOnSale": false
+            }
+        ],
+        "subsectionsMap": {
+            "0049efa6-7a06-4896-ba54-8266f29202f8": {
+                "itemUuids": [
+                    "012979ec-dafc-4864-a209-d4a6940d71e9",
+                    "cf5e77dd-aaf2-4a70-aa5d-8c3025672ad2",
+                    "7d20e621-242d-4fed-9c81-6b9e688be7cf",
+                    "b7a2feb1-ef3d-44a7-8626-40bc9e73c9d8",
+                    "4d159d4e-fcfa-4eef-8052-a1eea8052cd7",
+                    "c8b5e3c6-6e24-449a-9588-411363a6d3b5",
+                    "42772912-e6c9-4478-85dd-1a506eb7a078"
+                ],
+                "subtitle": null,
+                "title": "Chefs Specialities",
+                "uuid": "0049efa6-7a06-4896-ba54-8266f29202f8",
+                "displayType": null
+            },
+            "eb3920c9-09c9-4f5d-b08a-fd3f5d5c2bee": {
+                "itemUuids": [
+                    "6b1f49d4-e964-4bbb-a9da-e858289dea77",
+                    "7d25efbc-53eb-4d8b-a71c-cca8052a4b49",
+                    "400cc213-f78c-4d2d-897d-1bd6cb3e506b",
+                    "b203edcf-a57d-4259-a6b2-0e8f524cb388",
+                    "84d9d97c-9fea-4369-bb8d-de22b45fadad",
+                    "5960694d-0dcb-4e15-96ea-1283e50f213b"
+                ],
+                "subtitle": null,
+                "title": "Side Orders",
+                "uuid": "eb3920c9-09c9-4f5d-b08a-fd3f5d5c2bee",
+                "displayType": null
+            },
+            "4a45478e-1813-4f21-ba67-84761645208a": {
+                "itemUuids": [
+                    "7a5b2553-c3aa-4e31-879c-c77823eacc0a",
+                    "84715a94-f1b6-4121-9995-703be8adedbc",
+                    "f5ae795a-ffc4-4078-a692-d98c08801a43",
+                    "d71973b8-fda5-48dd-afca-82a6987944d2",
+                    "681b4547-733f-4fb7-b072-b0132b4944a1",
+                    "8317884e-2ce3-475f-bc14-2871c80259b9"
+                ],
+                "subtitle": null,
+                "title": "Wraps, Salads, and Soups",
+                "uuid": "4a45478e-1813-4f21-ba67-84761645208a",
+                "displayType": null
+            },
+            "fc91bf6b-7b52-40d1-8a35-8eb1b458de98": {
+                "itemUuids": [
+                    "aa7847a0-cd46-48d3-8110-94c32267f169",
+                    "16c10f4a-806c-4346-a6ce-afc598eab5e2",
+                    "fece0bf6-a934-415c-97f1-e683c8c73c4c",
+                    "326c5bea-b297-4efa-a34f-3ac0e69c380b",
+                    "36ca526b-1f1f-46ce-916f-dd310844b3da"
+                ],
+                "subtitle": null,
+                "title": "Vegetarian",
+                "uuid": "fc91bf6b-7b52-40d1-8a35-8eb1b458de98",
+                "displayType": null
+            },
+            "e58705e0-2c5d-4142-9429-8eb2788ae92e": {
+                "itemUuids": [
+                    "bddaa562-7635-49e1-9464-1777496be64f",
+                    "15bb3e05-ed42-4ec4-84be-051dca7de4c2",
+                    "7b2f0100-f1ef-4bee-89f3-b5e7356dd67b",
+                    "9d3114ba-daaf-4f69-bea1-839583834618",
+                    "2457c27d-a765-4416-bd50-a53925e3e090",
+                    "ee2b0230-cb30-4019-91aa-7d3cf01bd26f",
+                    "b084633c-b174-429c-a206-8985b33daeac",
+                    "54b9c6fe-543a-47a0-a1f7-e1b820e7cf9e",
+                    "eabe2824-6298-4889-b761-7aa63990b490",
+                    "d89eadc4-f9c5-41a9-97e5-1c14bd300351",
+                    "5037c57d-3054-43e4-b96c-4ff58101de77",
+                    "f8c02f92-0d33-4012-908c-32c5255f76b1",
+                    "4e8786d5-1768-4e1c-93be-5ce2a3df41e1",
+                    "de0beff3-2dba-4eaa-b5e8-be4b542a1f0a",
+                    "743a0130-6929-4855-9b13-485bd6eb44e9"
+                ],
+                "subtitle": null,
+                "title": "Starters",
+                "uuid": "e58705e0-2c5d-4142-9429-8eb2788ae92e",
+                "displayType": null
+            },
+            "79ec3f1d-1a7c-496e-b70f-fdeae7dc4959": {
+                "itemUuids": [
+                    "b65f7f13-5ecd-4e20-8d6d-8c1e41e90c80",
+                    "91e77ba0-b367-439b-b501-0b2a1c6a33ff",
+                    "99bbf79e-1ead-44fb-b657-0f926f22a699"
+                ],
+                "subtitle": null,
+                "title": "Seafood",
+                "uuid": "79ec3f1d-1a7c-496e-b70f-fdeae7dc4959",
+                "displayType": null
+            },
+            "5ecaead7-9c6a-4bf7-9369-1cd439ba8209": {
+                "itemUuids": [
+                    "7d25447b-9263-45bf-96bd-9d179ac60126",
+                    "26d58dd1-ff7b-4551-a3ab-f73353dabb66",
+                    "591d9871-872f-408c-bc66-129991b7c9c5",
+                    "e7b21aff-9ba2-46a3-b4f4-7f87a8242251"
+                ],
+                "subtitle": null,
+                "title": "Set Menus",
+                "uuid": "5ecaead7-9c6a-4bf7-9369-1cd439ba8209",
+                "displayType": null
+            },
+            "0c624d42-5ec9-433e-a69f-a31dad493704": {
+                "itemUuids": [
+                    "642fc4f1-97b2-4676-b63b-649284683c37",
+                    "08e5c2ce-4dcd-4a21-b1d8-7a7bb3a9cbd0",
+                    "2c978de1-a944-4448-afae-265fa527c0f8",
+                    "b378d375-ebf6-44ad-afd2-9ee33ef29b49",
+                    "df82f5c4-049a-4ad3-818e-ba1cc1ffe6b9",
+                    "59d7e696-e930-44c3-a1a4-7f82075c7ccd"
+                ],
+                "subtitle": null,
+                "title": "Noodles and Rice",
+                "uuid": "0c624d42-5ec9-433e-a69f-a31dad493704",
+                "displayType": null
+            },
+            "bb78017f-351c-41b5-afcb-009bcbfbab9b": {
+                "itemUuids": [
+                    "8239b699-2bd9-43cc-967a-9258f2792387",
+                    "5dee9288-f61e-4144-88ab-6c4e4aeb35ff",
+                    "55c83e34-c18b-44f2-b820-f6e7d1176e16",
+                    "cb97ed59-93bd-4617-90b3-33365323d714",
+                    "2db89cb0-ae7c-4f4e-96a6-326dcd368c14",
+                    "5a13295b-2d00-416f-9bfb-4414b4f9efbe"
+                ],
+                "subtitle": null,
+                "title": "Curries",
+                "uuid": "bb78017f-351c-41b5-afcb-009bcbfbab9b",
+                "displayType": null
+            }
+        },
+        "title": "Oaka at The Mansion House",
+        "uuid": "2fc0f007-d20e-4a5b-b736-ab1259e2fed8",
+        "categories": [
+            "₴",
+            "Азіатська",
+            "Тайська"
+        ],
+        "cuisineList": [
+            "Азіатська",
+            "Тайська"
+        ],
+        "priceBucket": "₴",
+        "etaRange": null,
+        "ratingBadge": {
+            "text": "<span><span style=\"font-family: inherit; color: #3a3a48;\">4.2 <img src=\"https://d1a3f4spazzrp4.cloudfront.net/static/images/Star_Black_Eats_3.png\" width=\"14\" height=\"14\" vertical-align=\"middle\"> </span><span style=\"font-family: inherit; color: #757575;\">(160)</span></span>"
+        },
+        "disclaimerBadge": {
+            "text": "<span style=\"font-family: inherit;\">Allergies, intolerances and dietary requirements: before ordering, please contact the restaurant directly and ask to speak to a member of staff who can assist if you require information about ingredients and help cater for your needs. For more information on food safety and hygiene, please visit the <a href=\"http://ratings.food.gov.uk/\" style=\"color:#61ad5f;\">Food Standards Agency</a></span>"
+        },
+        "fareBadge": null,
+        "fareInfo": {
+            "serviceFeeCents": null
+        },
+        "promotion": null,
+        "shouldIndex": false,
+        "heroImageUrls": [
+            {
+                "url": "https://d1ralsognjng37.cloudfront.net/d039f381-383d-416a-a085-a229f75d9445.jpeg",
+                "width": 240
+            },
+            {
+                "url": "https://d1ralsognjng37.cloudfront.net/69346577-da39-4535-97d8-1e7db35f9d1b.jpeg",
+                "width": 550
+            },
+            {
+                "url": "https://d1ralsognjng37.cloudfront.net/5a70824d-ed1b-486e-8c4e-732fc2d2edbe.jpeg",
+                "width": 640
+            },
+            {
+                "url": "https://d1ralsognjng37.cloudfront.net/89ade4dd-68cb-47b5-9ced-ed0d4878bd8c.jpeg",
+                "width": 750
+            },
+            {
+                "url": "https://d1ralsognjng37.cloudfront.net/0d3d6ad9-5eef-4032-bcf8-117caeeca68d.jpeg",
+                "width": 1080
+            },
+            {
+                "url": "https://d1ralsognjng37.cloudfront.net/e09cf5eb-c6fc-4d8e-9c6e-a2a455a4f03a.jpeg",
+                "width": 2880
+            }
+        ],
+        "isOpen": false,
+        "currencyCode": "GBP",
+        "closedMessage": "Opens at 5:30 PM",
+        "location": {
+            "address": "Se11 4rs, London, England SE11 4RS",
+            "streetAddress": "SE11 4RS",
+            "city": "London",
+            "country": "GB",
+            "postalCode": "SE11 4RS",
+            "region": "England",
+            "latitude": 51.489217,
+            "longitude": -0.105451
+        },
+        "isDeliveryThirdParty": false,
+        "hours": [
+            {
+                "dayRange": "Sunday",
+                "sectionHours": [
+                    {
+                        "startTime": 720,
+                        "endTime": 1280,
+                        "sectionTitle": "Menu"
+                    }
+                ]
+            },
+            {
+                "dayRange": "Monday - Friday",
+                "sectionHours": [
+                    {
+                        "startTime": 720,
+                        "endTime": 870,
+                        "sectionTitle": "Menu"
+                    },
+                    {
+                        "startTime": 1050,
+                        "endTime": 1350,
+                        "sectionTitle": "Menu"
+                    }
+                ]
+            },
+            {
+                "dayRange": "Saturday",
+                "sectionHours": [
+                    {
+                        "startTime": 720,
+                        "endTime": 1350,
+                        "sectionTitle": "Menu"
+                    }
+                ]
+            }
+        ],
+        "disableOrderInstruction": false,
+        "disableCheckoutInstruction": false,
+        "nuggets": [],
+        "isWithinDeliveryRange": false,
+        "slug": "oaka-at-the-mansion-house",
+        "citySlug": "london",
+        "phoneNumber": "+442075825599",
+        "metaJson": "{\"@context\":\"http:\\u002F\\u002Fschema.org\",\"@type\":\"Restaurant\",\"@id\":\"https:\\u002F\\u002Fwww.ubereats.com\\u002Fen-UA\\u002Flondon\\u002Ffood-delivery\\u002Foaka-at-the-mansion-house\\u002FL8DwB9IOSlu3NqsSWeL-2A\\u002F\",\"name\":\"Oaka at The Mansion House\",\"priceRange\":\"₴\",\"potentialAction\":{\"@type\":\"OrderAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\\u002F\\u002Fwww.ubereats.com\\u002Fen-UA\\u002Flondon\\u002Ffood-delivery\\u002Foaka-at-the-mansion-house\\u002FL8DwB9IOSlu3NqsSWeL-2A\\u002F?utm_campaign=order-action&utm_medium=organic\",\"inLanguage\":\"English\",\"actionPlatform\":[\"http:\\u002F\\u002Fschema.org\\u002FDesktopWebPlatform\",\"http:\\u002F\\u002Fschema.org\\u002FMobileWebPlatform\"]},\"deliveryMethod\":[\"http:\\u002F\\u002Fpurl.org\\u002Fgoodrelations\\u002Fv1#DeliveryModeOwnFleet\",\"http:\\u002F\\u002Fpurl.org\\u002Fgoodrelations\\u002Fv1#DeliveryModePickUp\"]},\"address\":{\"@type\":\"PostalAddress\",\"addressLocality\":\"London\",\"addressRegion\":\"England\",\"postalCode\":\"SE11 4RS\",\"addressCountry\":\"GB\",\"streetAddress\":\"SE11 4RS\"},\"geo\":{\"@type\":\"GeoCoordinates\",\"latitude\":51.489217,\"longitude\":-0.105451}}",
+        "promoTrackings": [],
+        "suggestedPromotion": {
+            "text": "",
+            "promotionUuid": ""
+        },
+        "supportedDiningModes": [
+            {
+                "mode": "DELIVERY",
+                "title": "Delivery",
+                "isSelected": true,
+                "isAvailable": true
+            },
+            {
+                "mode": "PICKUP",
+                "title": "Pickup",
+                "isSelected": false,
+                "isAvailable": true
+            }
+        ],
+        "isPreview": false,
+        "pinnedInfo": null
+    }
+}

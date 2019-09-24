@@ -1,0 +1,943 @@
+{
+    "status": "success",
+    "data": {
+        "sectionEntitiesMap": {
+            "b8f416d2-0cb0-4ced-93db-e578c7fbc7d3": {
+                "a944e509-8aed-402e-a14f-c3ddd381c80d": {
+                    "description": "Sweet Matcha Tea topped with savoury mousse.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/0b20ea5d-f404-4661-a11c-dde61152d4d7",
+                    "price": 370,
+                    "title": "Matcha Cream Tea",
+                    "uuid": "a944e509-8aed-402e-a14f-c3ddd381c80d",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "ee7621b6-554d-485d-a363-721964dda39d": {
+                    "description": "Fresh Jasmine Green Tea with Grape Nectar.",
+                    "imageUrl": null,
+                    "price": 370,
+                    "title": "Iced Grape Tea",
+                    "uuid": "ee7621b6-554d-485d-a363-721964dda39d",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "e732c093-b954-4036-abc7-efd750914ef0": {
+                    "description": "Fresh roasted Oolong Tea with choice of Milk.",
+                    "imageUrl": null,
+                    "price": 370,
+                    "title": "Roasted Oolong Milk Tea",
+                    "uuid": "e732c093-b954-4036-abc7-efd750914ef0",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "34d55b08-f5a0-4de0-8fd5-5e2f4af3f8cc": {
+                    "description": "Fresh jasmine green tea with honey.",
+                    "imageUrl": null,
+                    "price": 420,
+                    "title": "Honey Green",
+                    "uuid": "34d55b08-f5a0-4de0-8fd5-5e2f4af3f8cc",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "5cde9a4f-4fc8-473a-87c4-344d30fd73aa": {
+                    "description": "Sweet Green Tea topped with savoury mousse.",
+                    "imageUrl": null,
+                    "price": 370,
+                    "title": "Green Cream Tea",
+                    "uuid": "5cde9a4f-4fc8-473a-87c4-344d30fd73aa",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "939ed6a7-9893-4c7a-bc59-418c3932c10e": {
+                    "description": "Pure coconut water",
+                    "imageUrl": null,
+                    "price": 420,
+                    "title": "Pure Coconut Water",
+                    "uuid": "939ed6a7-9893-4c7a-bc59-418c3932c10e",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "31548123-0d8c-49c4-9aa1-1f443c0edaae": {
+                    "description": "Natural dried Taro with Milk of your choice.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/7b62ae44-5ddd-4129-ab23-af6a42c84cef",
+                    "price": 370,
+                    "title": "Taro Milk",
+                    "uuid": "31548123-0d8c-49c4-9aa1-1f443c0edaae",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "d67102b7-a822-4430-8aaa-a3e0a2dd5721": {
+                    "description": "Mango nectar and milk of your choice.",
+                    "imageUrl": null,
+                    "price": 370,
+                    "title": "Mango Milk",
+                    "uuid": "d67102b7-a822-4430-8aaa-a3e0a2dd5721",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "dbcc49af-c841-430e-99e0-c756b864b533": {
+                    "description": "Cocoa Powder and Milk of your choice.",
+                    "imageUrl": null,
+                    "price": 370,
+                    "title": "Chocolate Milk",
+                    "uuid": "dbcc49af-c841-430e-99e0-c756b864b533",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "c3c8e198-d1b8-4a03-89d0-ef0c20310d89": {
+                    "description": "Fresh Assam Blend Tea with Lychee Nectar.",
+                    "imageUrl": null,
+                    "price": 370,
+                    "title": "Iced Lychee Tea",
+                    "uuid": "c3c8e198-d1b8-4a03-89d0-ef0c20310d89",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "faef8bdd-cf9f-4fed-8b8d-1816e2a65444": {
+                    "description": "Natural dried Taro with Milk of your choice.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/0ab3e728-b737-4e6b-8a70-7d96155914e2",
+                    "price": 420,
+                    "title": "Taro Milk",
+                    "uuid": "faef8bdd-cf9f-4fed-8b8d-1816e2a65444",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "32792c0f-3c1a-4086-935d-caf205d0a7cc": {
+                    "description": "Fresh Jasmine Green Tea with Peach Nectar.",
+                    "imageUrl": null,
+                    "price": 370,
+                    "title": "Iced Peach Tea",
+                    "uuid": "32792c0f-3c1a-4086-935d-caf205d0a7cc",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "57b64679-2b47-41ff-a8b8-d60fc620d9f1": {
+                    "description": "Fresh thai Tea with Evaporated Milk.",
+                    "imageUrl": null,
+                    "price": 420,
+                    "title": "Thai Milk Tea",
+                    "uuid": "57b64679-2b47-41ff-a8b8-d60fc620d9f1",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "9a41e2a9-5b2a-416c-b782-8fc608d91995": {
+                    "description": "Cocoa powder and milk of your choice.",
+                    "imageUrl": null,
+                    "price": 420,
+                    "title": "Chocolate Milk",
+                    "uuid": "9a41e2a9-5b2a-416c-b782-8fc608d91995",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "d00759d8-fee4-47c0-9a94-5f694cf0653b": {
+                    "description": "Strawberry nectar and milk of your choice.",
+                    "imageUrl": null,
+                    "price": 370,
+                    "title": "Strawberry Milk",
+                    "uuid": "d00759d8-fee4-47c0-9a94-5f694cf0653b",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "77527c8d-3689-42ba-b6e8-017851d952b6": {
+                    "description": "Chai with choice of Milk.",
+                    "imageUrl": null,
+                    "price": 370,
+                    "title": "Chai Milk Tea",
+                    "uuid": "77527c8d-3689-42ba-b6e8-017851d952b6",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "24640082-32d8-48b8-8eb1-e44d1d86400e": {
+                    "description": "Fresh Assam Blend Tea with choice of Milk.",
+                    "imageUrl": null,
+                    "price": 370,
+                    "title": "Assam Black Milk Tea",
+                    "uuid": "24640082-32d8-48b8-8eb1-e44d1d86400e",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "34b3dac7-d917-46a3-a3fb-20a60ade2aff": {
+                    "description": "Fresh Jasmine Green Tea with choice of Milk.",
+                    "imageUrl": null,
+                    "price": 370,
+                    "title": "Jasmine Green Milk Tea",
+                    "uuid": "34b3dac7-d917-46a3-a3fb-20a60ade2aff",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "0797b9a8-0f1e-4053-9426-77c704899656": {
+                    "description": "Cocoa powder and milk of your choice.",
+                    "imageUrl": null,
+                    "price": 420,
+                    "title": "Black Sesame Milk",
+                    "uuid": "0797b9a8-0f1e-4053-9426-77c704899656",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "6dc1f9cb-b969-426a-b7a1-8d52f1ed4cbd": {
+                    "description": "Sweet Black Tea topped with savoury mousse.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/9801d399-f61c-4663-aaf7-2032e4d013f4",
+                    "price": 370,
+                    "title": "Black Cream Tea",
+                    "uuid": "6dc1f9cb-b969-426a-b7a1-8d52f1ed4cbd",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "19652e03-af67-4f2d-b365-5a832fbf170d": {
+                    "description": "Fresh Genmaicha Tea with choice of Milk.",
+                    "imageUrl": null,
+                    "price": 370,
+                    "title": "Genmaicha Milk Tea",
+                    "uuid": "19652e03-af67-4f2d-b365-5a832fbf170d",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "9c5e5c6d-0f60-4501-8b2c-747088c5fc26": {
+                    "description": "Fresh strong Brew Black Tea with evaporated Milk.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/ad065a57-bbce-4771-8ff5-4fec89d3df67",
+                    "price": 370,
+                    "title": "Hong Kong Milk Tea",
+                    "uuid": "9c5e5c6d-0f60-4501-8b2c-747088c5fc26",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "4531398d-2deb-46ed-825e-cc3d1440a99d": {
+                    "description": "Matcha Powder with choice of Milk.",
+                    "imageUrl": null,
+                    "price": 420,
+                    "title": "Matcha Milk Tea",
+                    "uuid": "4531398d-2deb-46ed-825e-cc3d1440a99d",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "67faf4bc-1e4f-4dfa-bca4-8c89f6352224": {
+                    "description": "Fresh Roasted Oolong Tea with choice of Milk.",
+                    "imageUrl": null,
+                    "price": 420,
+                    "title": "Roasted Oolong Milk Tea",
+                    "uuid": "67faf4bc-1e4f-4dfa-bca4-8c89f6352224",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "a71109d6-3976-44c2-9465-4378a28714b8": {
+                    "description": "Fresh Rooibos Tea with choice of Milk.",
+                    "imageUrl": null,
+                    "price": 370,
+                    "title": "Rooibos Milk Tea",
+                    "uuid": "a71109d6-3976-44c2-9465-4378a28714b8",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "fbd1a8fc-21df-4761-bf02-2244686c009f": {
+                    "description": "Fresh Jasmine Green Tea with Honey.",
+                    "imageUrl": null,
+                    "price": 370,
+                    "title": "Iced Honey Green Tea",
+                    "uuid": "fbd1a8fc-21df-4761-bf02-2244686c009f",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "701e1e6f-a3f5-4145-bc99-afa6f363fec6": {
+                    "description": "Strawberry nectar and milk of your choice.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/6e8eb530-f63a-4baf-9426-32f62bf6f814",
+                    "price": 420,
+                    "title": "Strawberry Milk",
+                    "uuid": "701e1e6f-a3f5-4145-bc99-afa6f363fec6",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "8c216401-f942-49e9-b8f9-82436682bf84": {
+                    "description": "Fresh Rooibos Tea with choice of Milk.",
+                    "imageUrl": null,
+                    "price": 420,
+                    "title": "Rooibos Milk Tea",
+                    "uuid": "8c216401-f942-49e9-b8f9-82436682bf84",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "cbd6375d-9887-4627-9f33-be7a06c022e6": {
+                    "description": "Fresh Earl Grey Tea with choice of Milk.",
+                    "imageUrl": null,
+                    "price": 370,
+                    "title": "Earl Grey Milk Tea",
+                    "uuid": "cbd6375d-9887-4627-9f33-be7a06c022e6",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "86c43be9-cd75-4687-b54c-fe45ce52d796": {
+                    "description": "Fresh earl grey tea with choice of milk.",
+                    "imageUrl": null,
+                    "price": 420,
+                    "title": "Earl Grey Milk Tea",
+                    "uuid": "86c43be9-cd75-4687-b54c-fe45ce52d796",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "5d99e499-765a-4ad5-abdc-c9ea762a0090": {
+                    "description": "Fresh Thai Tea with evaporated Milk.",
+                    "imageUrl": null,
+                    "price": 370,
+                    "title": "Thai Milk Tea",
+                    "uuid": "5d99e499-765a-4ad5-abdc-c9ea762a0090",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "23f14759-4170-446b-8933-7a6c01369c0b": {
+                    "description": "Wintermelon nectar.",
+                    "imageUrl": null,
+                    "price": 420,
+                    "title": "Wintermelon",
+                    "uuid": "23f14759-4170-446b-8933-7a6c01369c0b",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": "",
+                    "suspendUntil": 8640000000,
+                    "classifications": []
+                },
+                "e4dae3c5-e41b-45f7-8be7-ec60b3eb5b35": {
+                    "description": "Pure coconut water with lychee nectar.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/74597658-e957-4a0a-8146-0e5b5f6b8d3c",
+                    "price": 420,
+                    "title": "Lychee Coconut Water",
+                    "uuid": "e4dae3c5-e41b-45f7-8be7-ec60b3eb5b35",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "4fb1ff07-fb0a-403a-b1b9-92e2a1367e13": {
+                    "description": "Fresh loose leaf tea of your choice.",
+                    "imageUrl": null,
+                    "price": 370,
+                    "title": "Iced Loose Leaf Tea",
+                    "uuid": "4fb1ff07-fb0a-403a-b1b9-92e2a1367e13",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "072759c6-afa1-4671-9ed3-fa268863165e": {
+                    "description": "Wintermelon Nectar.",
+                    "imageUrl": null,
+                    "price": 370,
+                    "title": "Iced Wintermelon Tea",
+                    "uuid": "072759c6-afa1-4671-9ed3-fa268863165e",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": "",
+                    "suspendUntil": 8640000000,
+                    "classifications": []
+                },
+                "7cc419b1-8e0f-4081-b6b1-c0481d805c46": {
+                    "description": "Fresh loose leaf tea of your choice.",
+                    "imageUrl": null,
+                    "price": 420,
+                    "title": "Loose Leaf Teas",
+                    "uuid": "7cc419b1-8e0f-4081-b6b1-c0481d805c46",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "cb0b1925-91fd-4605-9f64-7344549c6dca": {
+                    "description": "Honeydew nectar and milk of your choice.",
+                    "imageUrl": null,
+                    "price": 420,
+                    "title": "Honeydew Melon Milk",
+                    "uuid": "cb0b1925-91fd-4605-9f64-7344549c6dca",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": "",
+                    "suspendUntil": 8640000000,
+                    "classifications": []
+                },
+                "2f16f7e8-973a-435d-a363-25d2d4aa7e56": {
+                    "description": null,
+                    "imageUrl": null,
+                    "price": 370,
+                    "title": "Black Sesame Milk",
+                    "uuid": "2f16f7e8-973a-435d-a363-25d2d4aa7e56",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "fd0b7027-4849-4e5d-b335-057478d61890": {
+                    "description": "Fresh assam blend tea with choice of milk.",
+                    "imageUrl": null,
+                    "price": 420,
+                    "title": "Assam Black Milk Tea",
+                    "uuid": "fd0b7027-4849-4e5d-b335-057478d61890",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "5a5ef391-815f-4305-bc00-655cd1ed27cb": {
+                    "description": "Fresh Strong Brew Black Tea with evaporated Milk.",
+                    "imageUrl": null,
+                    "price": 420,
+                    "title": "Hong Kong Milk Tea",
+                    "uuid": "5a5ef391-815f-4305-bc00-655cd1ed27cb",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "c46f98db-f72e-4bba-a134-1b554df0bd0e": {
+                    "description": "Fresh Jasmine Green Tea with Passion Fruit Nectar.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/937acbcb-0683-44ec-ac54-805cfd8f50a3",
+                    "price": 370,
+                    "title": "Iced Passion Fruit Tea",
+                    "uuid": "c46f98db-f72e-4bba-a134-1b554df0bd0e",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "358f8b4b-c4d5-47fb-8fb2-197458358588": {
+                    "description": "Honeydew Nectar and Milk of your choice.",
+                    "imageUrl": null,
+                    "price": 370,
+                    "title": "Honeydew Melon Milk",
+                    "uuid": "358f8b4b-c4d5-47fb-8fb2-197458358588",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": "",
+                    "suspendUntil": 8640000000,
+                    "classifications": []
+                },
+                "eb4aedfa-aacf-4046-bda5-1722c8735710": {
+                    "description": "Fresh Jasmine Green Tea with Mango Nectar.",
+                    "imageUrl": null,
+                    "price": 370,
+                    "title": "Iced Mango Tea",
+                    "uuid": "eb4aedfa-aacf-4046-bda5-1722c8735710",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "59422418-33ac-491f-af47-dd6021c8d975": {
+                    "description": "Pure coconut water with pineapple nectar.",
+                    "imageUrl": null,
+                    "price": 420,
+                    "title": "Pineapple Coconut Water",
+                    "uuid": "59422418-33ac-491f-af47-dd6021c8d975",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "15d65707-3c0f-460e-a093-0928675eab93": {
+                    "description": "Fresh Jasmine Green Tea with choice of Milk.",
+                    "imageUrl": null,
+                    "price": 420,
+                    "title": "Jasmine Green Milk Tea",
+                    "uuid": "15d65707-3c0f-460e-a093-0928675eab93",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "8b4fd1ef-f845-4ea8-8bda-f9b4f7d2e757": {
+                    "description": "Fresh Jasmine Green Tea with Strawberry Nectar.",
+                    "imageUrl": null,
+                    "price": 370,
+                    "title": "Iced Strawberry Tea",
+                    "uuid": "8b4fd1ef-f845-4ea8-8bda-f9b4f7d2e757",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "4d208e69-917e-4e33-8f60-27284d7a6b1d": {
+                    "description": "Fresh genmaicha tea with choice of milk.",
+                    "imageUrl": null,
+                    "price": 420,
+                    "title": "Genmaicha Milk Tea",
+                    "uuid": "4d208e69-917e-4e33-8f60-27284d7a6b1d",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "c0b2e900-3fdf-494e-9ea7-b0f5c1b48b88": {
+                    "description": "Matcha Powder with choice of Milk.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/a2ef80a5-edb7-4826-840c-5f16372029e8",
+                    "price": 370,
+                    "title": "Matcha Milk Tea",
+                    "uuid": "c0b2e900-3fdf-494e-9ea7-b0f5c1b48b88",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "b59d61f5-5805-424f-ac72-ea189e35978a": {
+                    "description": "Chai with choice of milk.",
+                    "imageUrl": null,
+                    "price": 420,
+                    "title": "Chai Milk Tea",
+                    "uuid": "b59d61f5-5805-424f-ac72-ea189e35978a",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                }
+            }
+        },
+        "sections": [
+            {
+                "subsectionUuids": [
+                    "164a752f-b450-44f5-a19f-cc0ab34581f4",
+                    "9f5e4b42-e603-487e-9e1c-ef1d41a3bcc9",
+                    "ed2981d5-490e-4d19-85cd-bb9a10eee9a1",
+                    "c4c37531-bbc0-4575-8fa2-57b869a8ff7c",
+                    "b1ca8a91-a3b5-44de-9c41-e4a706f61842",
+                    "e76d218f-76bb-48fc-b255-cb47bd040e19",
+                    "f38e8378-3ff4-4c72-9228-7cb0e7b77e3f",
+                    "23ae657f-253e-4965-8126-324b87687bbc"
+                ],
+                "title": "Menu",
+                "subtitle": "12:00 PM – 11:00 PM",
+                "uuid": "b8f416d2-0cb0-4ced-93db-e578c7fbc7d3",
+                "isTop": true,
+                "isOnSale": true
+            }
+        ],
+        "subsectionsMap": {
+            "164a752f-b450-44f5-a19f-cc0ab34581f4": {
+                "itemUuids": [
+                    "24640082-32d8-48b8-8eb1-e44d1d86400e",
+                    "9c5e5c6d-0f60-4501-8b2c-747088c5fc26",
+                    "77527c8d-3689-42ba-b6e8-017851d952b6",
+                    "cbd6375d-9887-4627-9f33-be7a06c022e6",
+                    "19652e03-af67-4f2d-b365-5a832fbf170d",
+                    "34b3dac7-d917-46a3-a3fb-20a60ade2aff",
+                    "c0b2e900-3fdf-494e-9ea7-b0f5c1b48b88",
+                    "e732c093-b954-4036-abc7-efd750914ef0",
+                    "a71109d6-3976-44c2-9465-4378a28714b8",
+                    "5d99e499-765a-4ad5-abdc-c9ea762a0090"
+                ],
+                "subtitle": null,
+                "title": "Milk Teas (Cold)",
+                "uuid": "164a752f-b450-44f5-a19f-cc0ab34581f4",
+                "displayType": null
+            },
+            "f38e8378-3ff4-4c72-9228-7cb0e7b77e3f": {
+                "itemUuids": [
+                    "9a41e2a9-5b2a-416c-b782-8fc608d91995",
+                    "cb0b1925-91fd-4605-9f64-7344549c6dca",
+                    "701e1e6f-a3f5-4145-bc99-afa6f363fec6",
+                    "faef8bdd-cf9f-4fed-8b8d-1816e2a65444",
+                    "0797b9a8-0f1e-4053-9426-77c704899656"
+                ],
+                "subtitle": null,
+                "title": "Fruity Milk (Hot)",
+                "uuid": "f38e8378-3ff4-4c72-9228-7cb0e7b77e3f",
+                "displayType": null
+            },
+            "b1ca8a91-a3b5-44de-9c41-e4a706f61842": {
+                "itemUuids": [
+                    "e4dae3c5-e41b-45f7-8be7-ec60b3eb5b35",
+                    "59422418-33ac-491f-af47-dd6021c8d975",
+                    "939ed6a7-9893-4c7a-bc59-418c3932c10e"
+                ],
+                "subtitle": null,
+                "title": "Coconut Water (Cold)",
+                "uuid": "b1ca8a91-a3b5-44de-9c41-e4a706f61842",
+                "displayType": null
+            },
+            "ed2981d5-490e-4d19-85cd-bb9a10eee9a1": {
+                "itemUuids": [
+                    "6dc1f9cb-b969-426a-b7a1-8d52f1ed4cbd",
+                    "5cde9a4f-4fc8-473a-87c4-344d30fd73aa",
+                    "a944e509-8aed-402e-a14f-c3ddd381c80d"
+                ],
+                "subtitle": null,
+                "title": "Salted Cream Teas (Cold)",
+                "uuid": "ed2981d5-490e-4d19-85cd-bb9a10eee9a1",
+                "displayType": null
+            },
+            "23ae657f-253e-4965-8126-324b87687bbc": {
+                "itemUuids": [
+                    "34d55b08-f5a0-4de0-8fd5-5e2f4af3f8cc",
+                    "23f14759-4170-446b-8933-7a6c01369c0b",
+                    "7cc419b1-8e0f-4081-b6b1-c0481d805c46"
+                ],
+                "subtitle": null,
+                "title": "Teas (Hot)",
+                "uuid": "23ae657f-253e-4965-8126-324b87687bbc",
+                "displayType": null
+            },
+            "e76d218f-76bb-48fc-b255-cb47bd040e19": {
+                "itemUuids": [
+                    "fd0b7027-4849-4e5d-b335-057478d61890",
+                    "b59d61f5-5805-424f-ac72-ea189e35978a",
+                    "86c43be9-cd75-4687-b54c-fe45ce52d796",
+                    "4d208e69-917e-4e33-8f60-27284d7a6b1d",
+                    "5a5ef391-815f-4305-bc00-655cd1ed27cb",
+                    "15d65707-3c0f-460e-a093-0928675eab93",
+                    "4531398d-2deb-46ed-825e-cc3d1440a99d",
+                    "67faf4bc-1e4f-4dfa-bca4-8c89f6352224",
+                    "8c216401-f942-49e9-b8f9-82436682bf84",
+                    "57b64679-2b47-41ff-a8b8-d60fc620d9f1"
+                ],
+                "subtitle": null,
+                "title": "Milk Teas (Hot)",
+                "uuid": "e76d218f-76bb-48fc-b255-cb47bd040e19",
+                "displayType": null
+            },
+            "9f5e4b42-e603-487e-9e1c-ef1d41a3bcc9": {
+                "itemUuids": [
+                    "ee7621b6-554d-485d-a363-721964dda39d",
+                    "fbd1a8fc-21df-4761-bf02-2244686c009f",
+                    "c3c8e198-d1b8-4a03-89d0-ef0c20310d89",
+                    "eb4aedfa-aacf-4046-bda5-1722c8735710",
+                    "c46f98db-f72e-4bba-a134-1b554df0bd0e",
+                    "32792c0f-3c1a-4086-935d-caf205d0a7cc",
+                    "8b4fd1ef-f845-4ea8-8bda-f9b4f7d2e757",
+                    "072759c6-afa1-4671-9ed3-fa268863165e",
+                    "4fb1ff07-fb0a-403a-b1b9-92e2a1367e13"
+                ],
+                "subtitle": null,
+                "title": "Iced Teas (Cold)",
+                "uuid": "9f5e4b42-e603-487e-9e1c-ef1d41a3bcc9",
+                "displayType": null
+            },
+            "c4c37531-bbc0-4575-8fa2-57b869a8ff7c": {
+                "itemUuids": [
+                    "dbcc49af-c841-430e-99e0-c756b864b533",
+                    "358f8b4b-c4d5-47fb-8fb2-197458358588",
+                    "d67102b7-a822-4430-8aaa-a3e0a2dd5721",
+                    "31548123-0d8c-49c4-9aa1-1f443c0edaae",
+                    "d00759d8-fee4-47c0-9a94-5f694cf0653b",
+                    "2f16f7e8-973a-435d-a363-25d2d4aa7e56"
+                ],
+                "subtitle": null,
+                "title": "Fruity Milk (Cold)",
+                "uuid": "c4c37531-bbc0-4575-8fa2-57b869a8ff7c",
+                "displayType": null
+            }
+        },
+        "title": "Biju Bubble Tea Room (Soho)",
+        "uuid": "a0bf7737-2074-488a-b905-03e21b7d99df",
+        "categories": [
+            "₴",
+            "Бульбашковий чай",
+            "Тайванська"
+        ],
+        "cuisineList": [
+            "Бульбашковий чай",
+            "Тайванська"
+        ],
+        "priceBucket": "₴",
+        "etaRange": {
+            "text": "25–35 min",
+            "iconUrl": ""
+        },
+        "ratingBadge": {
+            "text": "<span><span style=\"font-family: inherit; color: #3a3a48;\">4.4 <img src=\"https://d1a3f4spazzrp4.cloudfront.net/static/images/Star_Black_Eats_3.png\" width=\"14\" height=\"14\" vertical-align=\"middle\"> </span><span style=\"font-family: inherit; color: #757575;\">(90)</span></span>"
+        },
+        "disclaimerBadge": {
+            "text": "<span style=\"font-family: inherit;\">Allergies, intolerances and dietary requirements: before ordering, please contact the restaurant directly and ask to speak to a member of staff who can assist if you require information about ingredients and help cater for your needs. For more information on food safety and hygiene, please visit the <a href=\"http://ratings.food.gov.uk/\" style=\"color:#61ad5f;\">Food Standards Agency</a></span>"
+        },
+        "fareBadge": null,
+        "fareInfo": {
+            "serviceFee": 30,
+            "serviceFeeCents": 3000
+        },
+        "promotion": null,
+        "shouldIndex": false,
+        "heroImageUrls": [
+            {
+                "url": "https://d1ralsognjng37.cloudfront.net/9ce73372-722c-42e6-91ec-0f353dddb816",
+                "width": 240
+            },
+            {
+                "url": "https://d1ralsognjng37.cloudfront.net/8e7b1f19-dc9d-4ba2-bec7-89d758e0e4d0",
+                "width": 550
+            },
+            {
+                "url": "https://d1ralsognjng37.cloudfront.net/364093a5-64eb-4fbb-95d8-353815dfe38f",
+                "width": 640
+            },
+            {
+                "url": "https://d1ralsognjng37.cloudfront.net/d74e22e6-76db-4e53-8c8f-b054c6946fe7",
+                "width": 750
+            },
+            {
+                "url": "https://d1ralsognjng37.cloudfront.net/22e5f3e9-0c8f-44c4-8c7d-31e6a2c07e9b",
+                "width": 1080
+            },
+            {
+                "url": "https://d1ralsognjng37.cloudfront.net/6e15177c-6e7a-433e-9036-5414fd256cdb",
+                "width": 2880
+            }
+        ],
+        "isOpen": true,
+        "currencyCode": "GBP",
+        "closedMessage": "Currently unavailable",
+        "location": {
+            "address": "45 Old Compton St, Soho, London W1d 6hq, Uk, England W1D 6HQ",
+            "streetAddress": "45 Old Compton St, Soho",
+            "city": "London",
+            "country": "GB",
+            "postalCode": "W1D 6HQ",
+            "region": "England",
+            "latitude": 51.512726,
+            "longitude": -0.132253
+        },
+        "isDeliveryThirdParty": false,
+        "hours": [
+            {
+                "dayRange": "Sunday - Thursday",
+                "sectionHours": [
+                    {
+                        "startTime": 720,
+                        "endTime": 1380,
+                        "sectionTitle": ""
+                    }
+                ]
+            },
+            {
+                "dayRange": "Friday - Saturday",
+                "sectionHours": [
+                    {
+                        "startTime": 720,
+                        "endTime": 1425,
+                        "sectionTitle": ""
+                    }
+                ]
+            }
+        ],
+        "disableOrderInstruction": false,
+        "disableCheckoutInstruction": false,
+        "nuggets": [],
+        "isWithinDeliveryRange": false,
+        "slug": "biju-bubble-tea-room-soho",
+        "citySlug": "london",
+        "phoneNumber": "+442072874040",
+        "metaJson": "{\"@context\":\"http:\\u002F\\u002Fschema.org\",\"@type\":\"Restaurant\",\"@id\":\"https:\\u002F\\u002Fwww.ubereats.com\\u002Fen-UA\\u002Flondon\\u002Ffood-delivery\\u002Fbiju-bubble-tea-room-soho\\u002FoL93NyB0SIq5BQPiG32Z3w\\u002F\",\"name\":\"Biju Bubble Tea Room (Soho)\",\"priceRange\":\"₴\",\"potentialAction\":{\"@type\":\"OrderAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\\u002F\\u002Fwww.ubereats.com\\u002Fen-UA\\u002Flondon\\u002Ffood-delivery\\u002Fbiju-bubble-tea-room-soho\\u002FoL93NyB0SIq5BQPiG32Z3w\\u002F?utm_campaign=order-action&utm_medium=organic\",\"inLanguage\":\"English\",\"actionPlatform\":[\"http:\\u002F\\u002Fschema.org\\u002FDesktopWebPlatform\",\"http:\\u002F\\u002Fschema.org\\u002FMobileWebPlatform\"]},\"deliveryMethod\":[\"http:\\u002F\\u002Fpurl.org\\u002Fgoodrelations\\u002Fv1#DeliveryModeOwnFleet\"]},\"address\":{\"@type\":\"PostalAddress\",\"addressLocality\":\"London\",\"addressRegion\":\"England\",\"postalCode\":\"W1D 6HQ\",\"addressCountry\":\"GB\",\"streetAddress\":\"45 Old Compton St, Soho\"},\"geo\":{\"@type\":\"GeoCoordinates\",\"latitude\":51.512726,\"longitude\":-0.132253}}",
+        "promoTrackings": [],
+        "suggestedPromotion": {
+            "text": "",
+            "promotionUuid": ""
+        },
+        "supportedDiningModes": [
+            {
+                "mode": "DELIVERY",
+                "title": "Delivery",
+                "isSelected": true,
+                "isAvailable": true
+            }
+        ],
+        "isPreview": false,
+        "pinnedInfo": null
+    }
+}

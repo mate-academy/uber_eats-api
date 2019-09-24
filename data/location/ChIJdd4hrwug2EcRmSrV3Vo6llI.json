@@ -129,10 +129,6 @@
       },
       {
         "type": "STORE",
-        "uuid": "bc13e20a-cc0a-4116-b6cf-5dbcc426fad7"
-      },
-      {
-        "type": "STORE",
         "uuid": "8f1b55c6-9293-4b6a-9d5e-2fbe86150693"
       },
       {
@@ -202,10 +198,6 @@
       {
         "type": "STORE",
         "uuid": "948c6688-10e0-4b0c-a9e2-f4cc1f4c7c3f"
-      },
-      {
-        "type": "STORE",
-        "uuid": "8a53f617-a678-4626-ba91-d829ab928219"
       },
       {
         "type": "STORE",
@@ -1156,31 +1148,6 @@
         "endorsement": null,
         "promoTrackings": []
       },
-      "8a53f617-a678-4626-ba91-d829ab928219": {
-        "heroImageUrl": "https://duyt4h9nfnj50.cloudfront.net/resized/bulk_actions_image_ce8f2ec1-565d-4117-94ca-5f54751aa8e2-w550-fd.jpg",
-        "citySlug": "london",
-        "slug": "the-good-life-eatery-marylebone-lane",
-        "title": "The Good Life Eatery (Marylebone Lane)",
-        "uuid": "8a53f617-a678-4626-ba91-d829ab928219",
-        "categories": [
-          "££",
-          "Healthy",
-          "Salad",
-          "Vegan friendly"
-        ],
-        "feedback": {
-          "rating": 4.3,
-          "ratingCount": "92"
-        },
-        "etaRange": null,
-        "fareBadge": null,
-        "promotion": null,
-        "isOpen": false,
-        "closedMessage": "Opens at 8:00 AM",
-        "isDeliveryThirdParty": false,
-        "endorsement": null,
-        "promoTrackings": []
-      },
       "af87897d-1c59-4ee0-aba3-e72f08959c31": {
         "heroImageUrl": "https://d1ralsognjng37.cloudfront.net/c87eecb5-1af3-41ff-81ae-c2ac5dcd101f",
         "citySlug": "london",
@@ -1598,33 +1565,6 @@
         "promotion": null,
         "isOpen": false,
         "closedMessage": "Currently unavailable",
-        "isDeliveryThirdParty": false,
-        "endorsement": null,
-        "promoTrackings": []
-      },
-      "bc13e20a-cc0a-4116-b6cf-5dbcc426fad7": {
-        "heroImageUrl": "https://d1ralsognjng37.cloudfront.net/cd660bc2-b4cb-4b4e-9e46-66144b21ff79",
-        "citySlug": "london",
-        "slug": "chikn-baker-street",
-        "title": "CHIK'N (Baker Street)",
-        "uuid": "bc13e20a-cc0a-4116-b6cf-5dbcc426fad7",
-        "categories": [
-          "£",
-          "Burger",
-          "Wings",
-          "American",
-          "Sandwich",
-          "Comfort Food"
-        ],
-        "feedback": {
-          "rating": 4.3,
-          "ratingCount": "200+"
-        },
-        "etaRange": null,
-        "fareBadge": null,
-        "promotion": null,
-        "isOpen": false,
-        "closedMessage": "Opens at 11:00 AM",
         "isDeliveryThirdParty": false,
         "endorsement": null,
         "promoTrackings": []

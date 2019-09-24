@@ -1,0 +1,1239 @@
+{
+    "status": "success",
+    "data": {
+        "sectionEntitiesMap": {
+            "abd6a080-a26f-4e90-ae65-4f4b47778afc": {
+                "30695cf0-aa38-4901-8418-0997f61b6838": {
+                    "description": "",
+                    "imageUrl": null,
+                    "price": 295,
+                    "title": "Patate Arrosto/Chips",
+                    "uuid": "30695cf0-aa38-4901-8418-0997f61b6838",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "f1c503bd-1064-4fef-afde-4f8b8a17d841": {
+                    "description": "Pappardelle with beef and porcini ragù served with parmesan shavings.",
+                    "imageUrl": null,
+                    "price": 1095,
+                    "title": "Pappardelle Con Ragù di Manzo e Porcini Servite Con Scaglie di Grana",
+                    "uuid": "f1c503bd-1064-4fef-afde-4f8b8a17d841",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "e6b206e6-b5c0-4de9-a154-52491b229046": {
+                    "description": "Tomato, mozzarella and mushrooms. 250g",
+                    "imageUrl": null,
+                    "price": 965,
+                    "title": "Funghi",
+                    "uuid": "e6b206e6-b5c0-4de9-a154-52491b229046",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "endorsement": {
+                        "text": "Vegetarian",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png"
+                    },
+                    "classifications": []
+                },
+                "4d660cd5-7f3c-49f1-97d3-25853e439dcd": {
+                    "description": "Selection of our fresh daily made Neapolitan antipasti.",
+                    "imageUrl": null,
+                    "price": 885,
+                    "title": "Antipasto Misto",
+                    "uuid": "4d660cd5-7f3c-49f1-97d3-25853e439dcd",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "caeab832-df1a-4250-8658-e92a34a5c7c8": {
+                    "description": "Dutch veal in breadcrumbs served with rocket and fennel salad or spaghetti with tomato sauce.",
+                    "imageUrl": null,
+                    "price": 1595,
+                    "title": "Vitello Classico Alla Milanese Con Insalata Di",
+                    "uuid": "caeab832-df1a-4250-8658-e92a34a5c7c8",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "025ec7fb-1300-4afd-a0cf-b3c940e55ce6": {
+                    "description": "Mozzarella, sweet peppers, aubergines and courgettes.",
+                    "imageUrl": null,
+                    "price": 1065,
+                    "title": "Vegetariano",
+                    "uuid": "025ec7fb-1300-4afd-a0cf-b3c940e55ce6",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "endorsement": {
+                        "text": "Vegetarian",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png"
+                    },
+                    "classifications": []
+                },
+                "7de43f09-e288-4559-ae0c-b2a0f4ad0f16": {
+                    "description": "",
+                    "imageUrl": null,
+                    "price": 395,
+                    "title": "Tomato and Onion salad",
+                    "uuid": "7de43f09-e288-4559-ae0c-b2a0f4ad0f16",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "5f80c67f-fb84-4edf-9e7d-f14e502de60e": {
+                    "description": "Mussell, clam and king prawn casserole with a fillet of Sea Bass in spicy tomato sauce served with crispy garlic bread.",
+                    "imageUrl": null,
+                    "price": 1725,
+                    "title": "Sauté Di Cozze Vongole e Gamberoni",
+                    "uuid": "5f80c67f-fb84-4edf-9e7d-f14e502de60e",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "3e3bb113-3e5c-4749-b066-83b9e9042b26": {
+                    "description": "Folded pizza with mozzarella, mushrooms, salami and ricotta. 250g",
+                    "imageUrl": null,
+                    "price": 1065,
+                    "title": "Calzone",
+                    "uuid": "3e3bb113-3e5c-4749-b066-83b9e9042b26",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "127d8bea-58c7-4cb3-a0ed-255559f66498": {
+                    "description": "Mixed leaves salad with tuna, hard boiled egg, French beans and black olives.",
+                    "imageUrl": null,
+                    "price": 1095,
+                    "title": "Insalata di tonno",
+                    "uuid": "127d8bea-58c7-4cb3-a0ed-255559f66498",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "3589406a-b961-4488-93d6-44cb8be24e8b": {
+                    "description": "",
+                    "imageUrl": null,
+                    "price": 475,
+                    "title": "Vegetali Misti",
+                    "uuid": "3589406a-b961-4488-93d6-44cb8be24e8b",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "27033cd3-16aa-44ba-94ab-0e01fce8afe8": {
+                    "description": "spianata, taleggio, nduja, mozzarella and basil 250g",
+                    "imageUrl": null,
+                    "price": 1195,
+                    "title": "Nduja",
+                    "uuid": "27033cd3-16aa-44ba-94ab-0e01fce8afe8",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "b9b35cc1-ee69-44c4-8a20-9075f2f82480": {
+                    "description": "",
+                    "imageUrl": null,
+                    "price": 395,
+                    "title": "Spinaci",
+                    "uuid": "b9b35cc1-ee69-44c4-8a20-9075f2f82480",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "e026941e-3da4-4129-85e4-3de25d8efd06": {
+                    "description": "Speck, smoked mozzarella, mozzarella, porcini and truffle oil. 250g",
+                    "imageUrl": null,
+                    "price": 1295,
+                    "title": "Montanara",
+                    "uuid": "e026941e-3da4-4129-85e4-3de25d8efd06",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "bd2a21c1-df83-4a0a-a131-2de300c699ab": {
+                    "description": "Pan fried fresh Cod fillets cooked with capers, black olives and cherry tomatoes.",
+                    "imageUrl": null,
+                    "price": 1525,
+                    "title": "Filetti Di Merluzzo Con Capperi Olive Nere and Pomodorini",
+                    "uuid": "bd2a21c1-df83-4a0a-a131-2de300c699ab",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "53d43e44-8973-4a04-8aa8-9125273310f1": {
+                    "description": "",
+                    "imageUrl": null,
+                    "price": 525,
+                    "title": "Rocket Salad and Parmesan Shavings",
+                    "uuid": "53d43e44-8973-4a04-8aa8-9125273310f1",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "8e33a9b3-3e2b-4b17-853e-271e70384e6e": {
+                    "description": "Grilled Chicken salad with avocado, rocket and cherry tomatoes.",
+                    "imageUrl": null,
+                    "price": 1045,
+                    "title": "Insalata Di Pollo Con Avocado Rucola e Pomodorini",
+                    "uuid": "8e33a9b3-3e2b-4b17-853e-271e70384e6e",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "0164859e-b6f0-475d-9b52-2535df1f9132": {
+                    "description": "Tomato, mozzarella, ham, artichokes, salami, mushrooms and olives. 250g",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/45c46cdf-67fa-4da8-8217-d64c1d15fb2a",
+                    "price": 1065,
+                    "title": "Capricciosa",
+                    "uuid": "0164859e-b6f0-475d-9b52-2535df1f9132",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "aa7bed56-5487-4c02-ac21-c5699ab1d699": {
+                    "description": "",
+                    "imageUrl": null,
+                    "price": 425,
+                    "title": "Mixed Salad/Green Salad",
+                    "uuid": "aa7bed56-5487-4c02-ac21-c5699ab1d699",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "1da9e865-4ad7-4a56-b364-2b7a8421e786": {
+                    "description": "Baked aubergines with tomato, Parmesan cheese and basil sauce.",
+                    "imageUrl": null,
+                    "price": 810,
+                    "title": "Tegamino Di Melanzane (Vegetarian)",
+                    "uuid": "1da9e865-4ad7-4a56-b364-2b7a8421e786",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "5a750854-c7cb-4472-86cf-d4e7af11405b": {
+                    "description": "A classic selection of Italian salumi with olives.",
+                    "imageUrl": null,
+                    "price": 825,
+                    "title": "Salumi Misti",
+                    "uuid": "5a750854-c7cb-4472-86cf-d4e7af11405b",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "cc2a94b9-35f8-4d40-9f78-58547dae9ec9": {
+                    "description": "Baked potato dumplings with tomato sauce and smoked mozzarella.",
+                    "imageUrl": null,
+                    "price": 995,
+                    "title": "Gnocchi Alla Sorrentina",
+                    "uuid": "cc2a94b9-35f8-4d40-9f78-58547dae9ec9",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "endorsement": {
+                        "text": "Vegetarian",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png"
+                    },
+                    "classifications": []
+                },
+                "34183d8b-38e5-4f0d-8bbc-a6b996e88544": {
+                    "description": "Typical pasta from Naples with aubergines, cherry tomatoes and smoked mozzarella.",
+                    "imageUrl": null,
+                    "price": 1145,
+                    "title": "Scialatielli Con Melanzane Pomodorino and Provola Affumicata",
+                    "uuid": "34183d8b-38e5-4f0d-8bbc-a6b996e88544",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "endorsement": {
+                        "text": "Vegetarian",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png"
+                    },
+                    "classifications": []
+                },
+                "4fe56b8a-c39e-4a57-9dc4-661051e6fa85": {
+                    "description": "Pan fried Calves liver in butter and sage sauce topped with balsamic vinegar and crispy onions.",
+                    "imageUrl": null,
+                    "price": 1495,
+                    "title": "Fegato di Vitello Burro and Salvia Con Cipolle",
+                    "uuid": "4fe56b8a-c39e-4a57-9dc4-661051e6fa85",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "20d194c7-4fa3-4993-a975-d2fd1acb7242": {
+                    "description": "Tomato, garlic and oregano.",
+                    "imageUrl": null,
+                    "price": 560,
+                    "title": "Garlic Pizza Bread",
+                    "uuid": "20d194c7-4fa3-4993-a975-d2fd1acb7242",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "endorsement": {
+                        "text": "Vegetarian",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png"
+                    },
+                    "classifications": []
+                },
+                "a42cdc64-65bf-4b3f-bc53-bb1cbbfa88cb": {
+                    "description": "Mozzarella, Italian greens and fresh Italian sausage.",
+                    "imageUrl": null,
+                    "price": 1065,
+                    "title": "Casereccio",
+                    "uuid": "a42cdc64-65bf-4b3f-bc53-bb1cbbfa88cb",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "72d32ebf-0434-4557-9afc-9ce82af9a4ad": {
+                    "description": "Chicken breast in breadcrumbs with ham, mozzarella and tomato, served with sautéed potatoes.",
+                    "imageUrl": null,
+                    "price": 1355,
+                    "title": "Pollo Spaccanapoli",
+                    "uuid": "72d32ebf-0434-4557-9afc-9ce82af9a4ad",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "30a76a8b-38a1-447b-a3f3-dc4072cc3e32": {
+                    "description": "Tomato, mozzarella, salami, peppers and artichokes. 250g",
+                    "imageUrl": null,
+                    "price": 1085,
+                    "title": "Toscana",
+                    "uuid": "30a76a8b-38a1-447b-a3f3-dc4072cc3e32",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "573841e5-3e95-48aa-875b-5eceefd72b9b": {
+                    "description": "Toasted bread with fresh tomato, garlic, olive oil, basil and oregano.",
+                    "imageUrl": null,
+                    "price": 535,
+                    "title": "Bruschetta Napoli",
+                    "uuid": "573841e5-3e95-48aa-875b-5eceefd72b9b",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "endorsement": {
+                        "text": "Vegetarian",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png"
+                    },
+                    "classifications": []
+                },
+                "8d55110a-73f3-4e01-968b-6712e417bc90": {
+                    "description": "Charcoal grilled fishes on a bed of rocket and cherry tomatoes served with sautéed spinach.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/1ad970c1-13fc-49ea-9513-606652b02d3f",
+                    "price": 1825,
+                    "title": "Grigliata Di Pesce Con Rucola e Pomodorini",
+                    "uuid": "8d55110a-73f3-4e01-968b-6712e417bc90",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "02eaf726-30ee-439a-a1d2-a9a6d4dac1f5": {
+                    "description": "Italian sausages, mozzarella, mushrooms and basil. 250g",
+                    "imageUrl": null,
+                    "price": 1095,
+                    "title": "Boscaiola",
+                    "uuid": "02eaf726-30ee-439a-a1d2-a9a6d4dac1f5",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "1ad2a0f9-58f8-44d9-8673-c023ca153065": {
+                    "description": "Fresh chopped tomatoes, mozzarella and Parma ham.",
+                    "imageUrl": null,
+                    "price": 1065,
+                    "title": "Estate",
+                    "uuid": "1ad2a0f9-58f8-44d9-8673-c023ca153065",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "15a92e06-0ca8-47bc-b0f0-10a2376c36f0": {
+                    "description": "Prawn and clam casserole in spicy tomato sauce served with garlic toasted bread.",
+                    "imageUrl": null,
+                    "price": 895,
+                    "title": "Tegamino Di Gamberoni e Vongole",
+                    "uuid": "15a92e06-0ca8-47bc-b0f0-10a2376c36f0",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "d27ab91c-5edb-4c74-82ac-0fdf94ac6d3d": {
+                    "description": "Tomato, mozzarella, salami, Parmesan and basil. 250g",
+                    "imageUrl": null,
+                    "price": 1085,
+                    "title": "Americana",
+                    "uuid": "d27ab91c-5edb-4c74-82ac-0fdf94ac6d3d",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "7186054c-3ce3-4e4c-b17f-9594b42baa1d": {
+                    "description": "Pasta with king prawns and courgettes in butter and sage sauce, parmesan.",
+                    "imageUrl": null,
+                    "price": 1245,
+                    "title": "Maltagliati Con Gamberoni Zucchine Burro and Salvia e Parmigiano",
+                    "uuid": "7186054c-3ce3-4e4c-b17f-9594b42baa1d",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "0f585cce-b727-4ff2-8fa0-908756a76b1d": {
+                    "description": "Rolled pizza filled with mozzarella, ricotta cheese, sautéed aubergines, Parmesan and smoked cheese.",
+                    "imageUrl": null,
+                    "price": 1085,
+                    "title": "Rotolo Rustico",
+                    "uuid": "0f585cce-b727-4ff2-8fa0-908756a76b1d",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "endorsement": {
+                        "text": "Vegetarian",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png"
+                    },
+                    "classifications": []
+                },
+                "cf32cbf1-d287-4003-b2c2-7a4bba2b6d8c": {
+                    "description": "Mussels, clams, tiger prawns, squid, garlic and tomato.",
+                    "imageUrl": null,
+                    "price": 1295,
+                    "title": "Risotto Seafood",
+                    "uuid": "cf32cbf1-d287-4003-b2c2-7a4bba2b6d8c",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "40e0c188-c172-4d03-8b02-2b337280993e": {
+                    "description": "Thin slices of cured beef  served with parmesan shavings and rocket  salad.",
+                    "imageUrl": null,
+                    "price": 895,
+                    "title": "Bresaola  Della Valtellina Con Scaglie Di",
+                    "uuid": "40e0c188-c172-4d03-8b02-2b337280993e",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "82ce1fa2-91ef-4c1d-9f36-73a9416ed6a2": {
+                    "description": "Charcoal grilled fresh swordfish with lemon and olive oil infuse.",
+                    "imageUrl": null,
+                    "price": 1565,
+                    "title": "Pesce Spada ai Ferri Con Olio e Limone",
+                    "uuid": "82ce1fa2-91ef-4c1d-9f36-73a9416ed6a2",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "3f274d66-ac31-49e8-8dca-5c50d221203c": {
+                    "description": "Ear pasta shape with broccoli, fresh Italian sausage and parmesan.",
+                    "imageUrl": null,
+                    "price": 995,
+                    "title": "Orecchiette Broccoli Salsiccia and Parmigiano",
+                    "uuid": "3f274d66-ac31-49e8-8dca-5c50d221203c",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "565ebc4d-633b-403e-9e76-186bd53e1c0c": {
+                    "description": "Rolled veal filled with melanzane parmigiana served with sautéed spinach.",
+                    "imageUrl": null,
+                    "price": 1645,
+                    "title": "Involtini Di Vitello Ripieni Di Melanzane Alla",
+                    "uuid": "565ebc4d-633b-403e-9e76-186bd53e1c0c",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "5159566b-f3e1-43d5-a6bc-b6086d6586e8": {
+                    "description": "Tomato, mozzarella, anchovies, black olives, capers and oregano. 250g",
+                    "imageUrl": null,
+                    "price": 945,
+                    "title": "Napoletana",
+                    "uuid": "5159566b-f3e1-43d5-a6bc-b6086d6586e8",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "7a312178-3d33-474a-9133-444675565cc9": {
+                    "description": "Mozzarella, sweet peppers, goat  cheese and mortadella.",
+                    "imageUrl": null,
+                    "price": 1065,
+                    "title": "Spaccanapoli",
+                    "uuid": "7a312178-3d33-474a-9133-444675565cc9",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "2bb6222e-a21a-435f-9fcb-efd7209786f4": {
+                    "description": "Tomato, salami, mozzarella, Parmesan and egg. 250g",
+                    "imageUrl": null,
+                    "price": 1165,
+                    "title": "Vesuvio",
+                    "uuid": "2bb6222e-a21a-435f-9fcb-efd7209786f4",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "61d7b971-1eef-48c5-a16f-4a769a2176a1": {
+                    "description": "Mozzarella, fresh Italian sausage and Italian greens.",
+                    "imageUrl": null,
+                    "price": 1085,
+                    "title": "Rustica",
+                    "uuid": "61d7b971-1eef-48c5-a16f-4a769a2176a1",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "7e6991f2-a28a-4aba-abf6-679661328c97": {
+                    "description": "Charcoal grilled rib eye steak served with sautéed potatoes.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/507dcbfb-3a3c-4caf-a8be-c62805cca34f",
+                    "price": 1725,
+                    "title": "Bistecca di Manzo ai Ferri Servita Con Patate",
+                    "uuid": "7e6991f2-a28a-4aba-abf6-679661328c97",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "41eaf465-113b-4dc5-8964-29bdad482d4a": {
+                    "description": "Deep fried fresh squid and courgettes served with tartar sauce.",
+                    "imageUrl": null,
+                    "price": 895,
+                    "title": "Calamari and Zucchine Fritti",
+                    "uuid": "41eaf465-113b-4dc5-8964-29bdad482d4a",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "59a0effa-f5f2-4e1e-a5ab-64bae57af049": {
+                    "description": "Tomato, mozzarella, rocket, Parma ham and parmesan flakes. 250g",
+                    "imageUrl": null,
+                    "price": 1215,
+                    "title": "Rucola",
+                    "uuid": "59a0effa-f5f2-4e1e-a5ab-64bae57af049",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "833de0bd-4a6c-4fcd-92ae-856264e977d6": {
+                    "description": "Fresh Italian sausage, aubergines and smoked mozzarella.",
+                    "imageUrl": null,
+                    "price": 1065,
+                    "title": "Sarracino",
+                    "uuid": "833de0bd-4a6c-4fcd-92ae-856264e977d6",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "5c271d62-df71-4c4d-8459-0e46f8e5bb36": {
+                    "description": " Mozzarella, gorgonzola, smoked mozzarella, parmigiano e taleggio. 250g",
+                    "imageUrl": null,
+                    "price": 1095,
+                    "title": "5 Formaggi",
+                    "uuid": "5c271d62-df71-4c4d-8459-0e46f8e5bb36",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "endorsement": {
+                        "text": "Vegetarian",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png"
+                    },
+                    "classifications": []
+                },
+                "a1903a5a-9599-48d7-95f2-0d348de47379": {
+                    "description": "Typical pasta from Naples with mussells, clams, cherry tomatoes sicilian red prawns.",
+                    "imageUrl": null,
+                    "price": 1245,
+                    "title": "Fusilli Freschi Con Cozze Vongole Pomodorini and Gamberi Rossi",
+                    "uuid": "a1903a5a-9599-48d7-95f2-0d348de47379",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "fc40eaa2-c37c-461e-91d7-e5d41b2e63e2": {
+                    "description": "Tomato, tuna, onions, black olives and capers (no cheese). 250g",
+                    "imageUrl": null,
+                    "price": 995,
+                    "title": "Tonnata",
+                    "uuid": "fc40eaa2-c37c-461e-91d7-e5d41b2e63e2",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "6d38c0c9-e46b-41b2-8bc0-30bc542e391e": {
+                    "description": "Tomato, mozzarella, aubergines, peppers and courgettes.",
+                    "imageUrl": null,
+                    "price": 1085,
+                    "title": "Vegetariana",
+                    "uuid": "6d38c0c9-e46b-41b2-8bc0-30bc542e391e",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "endorsement": {
+                        "text": "Vegetarian",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png"
+                    },
+                    "classifications": []
+                },
+                "9c1441b6-9752-40a6-8c83-049932adceb3": {
+                    "description": "With beef, béchamel and parmesan",
+                    "imageUrl": null,
+                    "price": 995,
+                    "title": "Lasagna al forno",
+                    "uuid": "9c1441b6-9752-40a6-8c83-049932adceb3",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "434f9526-7634-4b96-b398-a441393fc52d": {
+                    "description": "Risotto with porcini mushrooms",
+                    "imageUrl": null,
+                    "price": 1195,
+                    "title": "Risotto with porcini",
+                    "uuid": "434f9526-7634-4b96-b398-a441393fc52d",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "cfa2a6ea-278a-415d-8cc4-b92f60500bdc": {
+                    "description": "Salad with baby mozzarella, sun dried tomatoes, mangetout and garlic croutons.",
+                    "imageUrl": null,
+                    "price": 965,
+                    "title": "Insalata Di Bocconcini e Pomodori Secchi",
+                    "uuid": "cfa2a6ea-278a-415d-8cc4-b92f60500bdc",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "endorsement": {
+                        "text": "Vegetarian",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png"
+                    },
+                    "classifications": []
+                },
+                "35450c59-7448-4f5f-8e4c-80e4267d5c87": {
+                    "description": "Tomato, mozzarella, sautéed aubergines and parmesan. 250g",
+                    "imageUrl": null,
+                    "price": 1065,
+                    "title": "Siciliana",
+                    "uuid": "35450c59-7448-4f5f-8e4c-80e4267d5c87",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "endorsement": {
+                        "text": "Vegetarian",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png"
+                    },
+                    "classifications": []
+                },
+                "7ad3d38f-3604-42be-b73e-7ba5fd986147": {
+                    "description": "Smoked mozzarella in breadcrumbs served with sautéed aubergines.",
+                    "imageUrl": null,
+                    "price": 735,
+                    "title": "Scamorza Impanata Con Melanzane al Funghetto (Vegetarian)",
+                    "uuid": "7ad3d38f-3604-42be-b73e-7ba5fd986147",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "814422f2-96d4-421b-911f-e073c04f0ae6": {
+                    "description": "Tomato, fresh buffalo mozzarella, Parmesan and basil.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/09ac1463-b1ac-4e1d-9a95-5dfcb685734f",
+                    "price": 1215,
+                    "title": "Bufalina",
+                    "uuid": "814422f2-96d4-421b-911f-e073c04f0ae6",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "endorsement": {
+                        "text": "Vegetarian",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png"
+                    },
+                    "classifications": []
+                },
+                "f6be94d3-e537-4e86-8304-671438b84633": {
+                    "description": "Spaghetti with tomato basil sauce and parmesan.",
+                    "imageUrl": null,
+                    "price": 795,
+                    "title": "Spaghetti Pomodoro Basilico and Parmigiano",
+                    "uuid": "f6be94d3-e537-4e86-8304-671438b84633",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "endorsement": {
+                        "text": "Vegetarian",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png"
+                    },
+                    "classifications": []
+                },
+                "0f6ea348-f222-4fd7-be13-e4077e2f8ba4": {
+                    "description": "Sautéed fresh mussels with garlic, olive oil, tomato, chilli and oregano served with garlic toasted bread.",
+                    "imageUrl": null,
+                    "price": 895,
+                    "title": "Cozze Marinara",
+                    "uuid": "0f6ea348-f222-4fd7-be13-e4077e2f8ba4",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "dd9d8fe0-01fd-4c20-9a07-5c5f8b1abd62": {
+                    "description": "Pan fried breast of chicken with cream and porcini mushrooms served with spinach.",
+                    "imageUrl": null,
+                    "price": 1395,
+                    "title": "Petto di Pollo Con Panna Porcini e Spinaci",
+                    "uuid": "dd9d8fe0-01fd-4c20-9a07-5c5f8b1abd62",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "e1eb2d67-9b7a-4802-9f16-af1bf4730459": {
+                    "description": "Oven baked fillet of Sea Bass served with ragù of mussels and prawns.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/cfae4fc2-3db4-4d1c-a3cd-9f14355c2ae7",
+                    "price": 1565,
+                    "title": "Filetti Di Spigola al Forno Con Ragù Di Cozze e Gamberoni",
+                    "uuid": "e1eb2d67-9b7a-4802-9f16-af1bf4730459",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "70832ebc-66a4-4843-a033-4c7ed42bb8b9": {
+                    "description": "Tomato, mozzarella, Parmesan cheese and basil. 250g",
+                    "imageUrl": null,
+                    "price": 825,
+                    "title": "Margherita ",
+                    "uuid": "70832ebc-66a4-4843-a033-4c7ed42bb8b9",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "endorsement": {
+                        "text": "Vegetarian",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png"
+                    },
+                    "classifications": []
+                }
+            }
+        },
+        "sections": [
+            {
+                "subsectionUuids": [
+                    "eb35b844-e039-48bd-9ad8-6e04203e68c0",
+                    "3eb56bf4-6db9-4dc5-b507-ced8f11fc096",
+                    "c69a2e99-31e2-4c64-929f-1ba752afa261",
+                    "427eaa19-081a-477f-9d2a-2d661b165f8b",
+                    "d3d0b474-c150-4a07-8492-e00089947a3d",
+                    "33c0ea33-720d-4aa2-a223-690a821ca372",
+                    "a1701c6a-7cea-4b20-a058-ca65a3da5682",
+                    "b25b6085-d508-48d9-b1cd-f0ffbdc19cd7",
+                    "edf4bca4-93a0-44d6-b4af-2cdd4e07fc7c",
+                    "b20676a4-efb0-4d2f-9a1f-54d3441ed3ff"
+                ],
+                "title": "Menu",
+                "subtitle": "12:00 PM – 10:45 PM",
+                "uuid": "abd6a080-a26f-4e90-ae65-4f4b47778afc",
+                "isTop": true,
+                "isOnSale": true
+            }
+        ],
+        "subsectionsMap": {
+            "d3d0b474-c150-4a07-8492-e00089947a3d": {
+                "itemUuids": [
+                    "bd2a21c1-df83-4a0a-a131-2de300c699ab",
+                    "e1eb2d67-9b7a-4802-9f16-af1bf4730459",
+                    "5f80c67f-fb84-4edf-9e7d-f14e502de60e",
+                    "8d55110a-73f3-4e01-968b-6712e417bc90",
+                    "82ce1fa2-91ef-4c1d-9f36-73a9416ed6a2"
+                ],
+                "subtitle": null,
+                "title": "Il Pesce",
+                "uuid": "d3d0b474-c150-4a07-8492-e00089947a3d",
+                "displayType": null
+            },
+            "b20676a4-efb0-4d2f-9a1f-54d3441ed3ff": {
+                "itemUuids": [
+                    "3589406a-b961-4488-93d6-44cb8be24e8b",
+                    "b9b35cc1-ee69-44c4-8a20-9075f2f82480",
+                    "30695cf0-aa38-4901-8418-0997f61b6838",
+                    "53d43e44-8973-4a04-8aa8-9125273310f1",
+                    "aa7bed56-5487-4c02-ac21-c5699ab1d699",
+                    "7de43f09-e288-4559-ae0c-b2a0f4ad0f16"
+                ],
+                "subtitle": null,
+                "title": "Contorni",
+                "uuid": "b20676a4-efb0-4d2f-9a1f-54d3441ed3ff",
+                "displayType": null
+            },
+            "eb35b844-e039-48bd-9ad8-6e04203e68c0": {
+                "itemUuids": [
+                    "814422f2-96d4-421b-911f-e073c04f0ae6",
+                    "0164859e-b6f0-475d-9b52-2535df1f9132",
+                    "7e6991f2-a28a-4aba-abf6-679661328c97",
+                    "e1eb2d67-9b7a-4802-9f16-af1bf4730459",
+                    "8d55110a-73f3-4e01-968b-6712e417bc90"
+                ],
+                "subtitle": null,
+                "title": "Most Popular",
+                "uuid": "eb35b844-e039-48bd-9ad8-6e04203e68c0",
+                "displayType": null
+            },
+            "c69a2e99-31e2-4c64-929f-1ba752afa261": {
+                "itemUuids": [
+                    "f6be94d3-e537-4e86-8304-671438b84633",
+                    "cc2a94b9-35f8-4d40-9f78-58547dae9ec9",
+                    "3f274d66-ac31-49e8-8dca-5c50d221203c",
+                    "7186054c-3ce3-4e4c-b17f-9594b42baa1d",
+                    "34183d8b-38e5-4f0d-8bbc-a6b996e88544",
+                    "f1c503bd-1064-4fef-afde-4f8b8a17d841",
+                    "a1903a5a-9599-48d7-95f2-0d348de47379",
+                    "cf32cbf1-d287-4003-b2c2-7a4bba2b6d8c",
+                    "434f9526-7634-4b96-b398-a441393fc52d",
+                    "9c1441b6-9752-40a6-8c83-049932adceb3"
+                ],
+                "subtitle": null,
+                "title": "Le Paste",
+                "uuid": "c69a2e99-31e2-4c64-929f-1ba752afa261",
+                "displayType": null
+            },
+            "33c0ea33-720d-4aa2-a223-690a821ca372": {
+                "itemUuids": [
+                    "cfa2a6ea-278a-415d-8cc4-b92f60500bdc",
+                    "127d8bea-58c7-4cb3-a0ed-255559f66498",
+                    "8e33a9b3-3e2b-4b17-853e-271e70384e6e"
+                ],
+                "subtitle": null,
+                "title": "Insalate",
+                "uuid": "33c0ea33-720d-4aa2-a223-690a821ca372",
+                "displayType": null
+            },
+            "b25b6085-d508-48d9-b1cd-f0ffbdc19cd7": {
+                "itemUuids": [
+                    "025ec7fb-1300-4afd-a0cf-b3c940e55ce6",
+                    "a42cdc64-65bf-4b3f-bc53-bb1cbbfa88cb",
+                    "1ad2a0f9-58f8-44d9-8673-c023ca153065",
+                    "833de0bd-4a6c-4fcd-92ae-856264e977d6",
+                    "7a312178-3d33-474a-9133-444675565cc9"
+                ],
+                "subtitle": null,
+                "title": "I Panuozzi",
+                "uuid": "b25b6085-d508-48d9-b1cd-f0ffbdc19cd7",
+                "displayType": null
+            },
+            "edf4bca4-93a0-44d6-b4af-2cdd4e07fc7c": {
+                "itemUuids": [
+                    "814422f2-96d4-421b-911f-e073c04f0ae6",
+                    "61d7b971-1eef-48c5-a16f-4a769a2176a1",
+                    "0f585cce-b727-4ff2-8fa0-908756a76b1d"
+                ],
+                "subtitle": null,
+                "title": "Le Pizze Speciali",
+                "uuid": "edf4bca4-93a0-44d6-b4af-2cdd4e07fc7c",
+                "displayType": null
+            },
+            "427eaa19-081a-477f-9d2a-2d661b165f8b": {
+                "itemUuids": [
+                    "72d32ebf-0434-4557-9afc-9ce82af9a4ad",
+                    "dd9d8fe0-01fd-4c20-9a07-5c5f8b1abd62",
+                    "4fe56b8a-c39e-4a57-9dc4-661051e6fa85",
+                    "7e6991f2-a28a-4aba-abf6-679661328c97",
+                    "caeab832-df1a-4250-8658-e92a34a5c7c8",
+                    "565ebc4d-633b-403e-9e76-186bd53e1c0c"
+                ],
+                "subtitle": null,
+                "title": "La Carne",
+                "uuid": "427eaa19-081a-477f-9d2a-2d661b165f8b",
+                "displayType": null
+            },
+            "a1701c6a-7cea-4b20-a058-ca65a3da5682": {
+                "itemUuids": [
+                    "70832ebc-66a4-4843-a033-4c7ed42bb8b9",
+                    "27033cd3-16aa-44ba-94ab-0e01fce8afe8",
+                    "5159566b-f3e1-43d5-a6bc-b6086d6586e8",
+                    "0164859e-b6f0-475d-9b52-2535df1f9132",
+                    "5c271d62-df71-4c4d-8459-0e46f8e5bb36",
+                    "e6b206e6-b5c0-4de9-a154-52491b229046",
+                    "3e3bb113-3e5c-4749-b066-83b9e9042b26",
+                    "e026941e-3da4-4129-85e4-3de25d8efd06",
+                    "fc40eaa2-c37c-461e-91d7-e5d41b2e63e2",
+                    "02eaf726-30ee-439a-a1d2-a9a6d4dac1f5",
+                    "30a76a8b-38a1-447b-a3f3-dc4072cc3e32",
+                    "2bb6222e-a21a-435f-9fcb-efd7209786f4",
+                    "59a0effa-f5f2-4e1e-a5ab-64bae57af049",
+                    "35450c59-7448-4f5f-8e4c-80e4267d5c87",
+                    "6d38c0c9-e46b-41b2-8bc0-30bc542e391e",
+                    "d27ab91c-5edb-4c74-82ac-0fdf94ac6d3d"
+                ],
+                "subtitle": null,
+                "title": "Pizza",
+                "uuid": "a1701c6a-7cea-4b20-a058-ca65a3da5682",
+                "displayType": null
+            },
+            "3eb56bf4-6db9-4dc5-b507-ced8f11fc096": {
+                "itemUuids": [
+                    "573841e5-3e95-48aa-875b-5eceefd72b9b",
+                    "5a750854-c7cb-4472-86cf-d4e7af11405b",
+                    "20d194c7-4fa3-4993-a975-d2fd1acb7242",
+                    "1da9e865-4ad7-4a56-b364-2b7a8421e786",
+                    "41eaf465-113b-4dc5-8964-29bdad482d4a",
+                    "4d660cd5-7f3c-49f1-97d3-25853e439dcd",
+                    "15a92e06-0ca8-47bc-b0f0-10a2376c36f0",
+                    "40e0c188-c172-4d03-8b02-2b337280993e",
+                    "0f6ea348-f222-4fd7-be13-e4077e2f8ba4",
+                    "7ad3d38f-3604-42be-b73e-7ba5fd986147"
+                ],
+                "subtitle": null,
+                "title": "Gli Antipasti",
+                "uuid": "3eb56bf4-6db9-4dc5-b507-ced8f11fc096",
+                "displayType": null
+            }
+        },
+        "title": "Santore",
+        "uuid": "948c6688-10e0-4b0c-a9e2-f4cc1f4c7c3f",
+        "categories": [
+            "₴₴",
+            "Італійська",
+            "Піца",
+            "Для вегетаріанців"
+        ],
+        "cuisineList": [
+            "Італійська",
+            "Піца",
+            "Для вегетаріанців"
+        ],
+        "priceBucket": "₴₴",
+        "etaRange": {
+            "text": "35–45 min",
+            "iconUrl": ""
+        },
+        "ratingBadge": {
+            "text": "<span><span style=\"font-family: inherit; color: #3a3a48;\">4.3 <img src=\"https://d1a3f4spazzrp4.cloudfront.net/static/images/Star_Black_Eats_3.png\" width=\"14\" height=\"14\" vertical-align=\"middle\"> </span><span style=\"font-family: inherit; color: #757575;\">(104)</span></span>"
+        },
+        "disclaimerBadge": {
+            "text": "<span style=\"font-family: inherit;\">Allergies, intolerances and dietary requirements: before ordering, please contact the restaurant directly and ask to speak to a member of staff who can assist if you require information about ingredients and help cater for your needs. For more information on food safety and hygiene, please visit the <a href=\"http://ratings.food.gov.uk/\" style=\"color:#61ad5f;\">Food Standards Agency</a></span>"
+        },
+        "fareBadge": null,
+        "fareInfo": {
+            "serviceFee": 30,
+            "serviceFeeCents": 3000
+        },
+        "promotion": null,
+        "shouldIndex": false,
+        "heroImageUrls": [
+            {
+                "url": "https://duyt4h9nfnj50.cloudfront.net/resized/121d853afb78f44c6cd6ee2aa1966c67-w240-48.jpg",
+                "width": 240
+            },
+            {
+                "url": "https://duyt4h9nfnj50.cloudfront.net/resized/121d853afb78f44c6cd6ee2aa1966c67-w550-d4.jpg",
+                "width": 550
+            },
+            {
+                "url": "https://duyt4h9nfnj50.cloudfront.net/resized/121d853afb78f44c6cd6ee2aa1966c67-w640-c1.jpg",
+                "width": 640
+            },
+            {
+                "url": "https://duyt4h9nfnj50.cloudfront.net/resized/121d853afb78f44c6cd6ee2aa1966c67-w750-33.jpg",
+                "width": 750
+            },
+            {
+                "url": "https://duyt4h9nfnj50.cloudfront.net/resized/121d853afb78f44c6cd6ee2aa1966c67-w1080-4f.jpg",
+                "width": 1080
+            },
+            {
+                "url": "https://duyt4h9nfnj50.cloudfront.net/resized/121d853afb78f44c6cd6ee2aa1966c67-w2880-fd.jpg",
+                "width": 2880
+            }
+        ],
+        "isOpen": true,
+        "currencyCode": "GBP",
+        "closedMessage": "Currently unavailable",
+        "location": {
+            "address": "59 - 61 Exmouth Market, London Ec1r 4ql, United Kingdom, England EC1R 4QL",
+            "streetAddress": "59 - 61 Exmouth Market",
+            "city": "London",
+            "country": "GB",
+            "postalCode": "EC1R 4QL",
+            "region": "England",
+            "latitude": 51.52626,
+            "longitude": -0.108516
+        },
+        "isDeliveryThirdParty": false,
+        "hours": [
+            {
+                "dayRange": "Every Day",
+                "sectionHours": [
+                    {
+                        "startTime": 720,
+                        "endTime": 1365,
+                        "sectionTitle": ""
+                    }
+                ]
+            }
+        ],
+        "disableOrderInstruction": false,
+        "disableCheckoutInstruction": false,
+        "nuggets": [],
+        "isWithinDeliveryRange": false,
+        "slug": "santore",
+        "citySlug": "london",
+        "phoneNumber": "+442078121488",
+        "metaJson": "{\"@context\":\"http:\\u002F\\u002Fschema.org\",\"@type\":\"Restaurant\",\"@id\":\"https:\\u002F\\u002Fwww.ubereats.com\\u002Fen-UA\\u002Flondon\\u002Ffood-delivery\\u002Fsantore\\u002FlIxmiBDgSwyp4vTMH0x8Pw\\u002F\",\"name\":\"Santore\",\"priceRange\":\"₴₴\",\"potentialAction\":{\"@type\":\"OrderAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\\u002F\\u002Fwww.ubereats.com\\u002Fen-UA\\u002Flondon\\u002Ffood-delivery\\u002Fsantore\\u002FlIxmiBDgSwyp4vTMH0x8Pw\\u002F?utm_campaign=order-action&utm_medium=organic\",\"inLanguage\":\"English\",\"actionPlatform\":[\"http:\\u002F\\u002Fschema.org\\u002FDesktopWebPlatform\",\"http:\\u002F\\u002Fschema.org\\u002FMobileWebPlatform\"]},\"deliveryMethod\":[\"http:\\u002F\\u002Fpurl.org\\u002Fgoodrelations\\u002Fv1#DeliveryModeOwnFleet\"]},\"address\":{\"@type\":\"PostalAddress\",\"addressLocality\":\"London\",\"addressRegion\":\"England\",\"postalCode\":\"EC1R 4QL\",\"addressCountry\":\"GB\",\"streetAddress\":\"59 - 61 Exmouth Market\"},\"geo\":{\"@type\":\"GeoCoordinates\",\"latitude\":51.52626,\"longitude\":-0.108516}}",
+        "promoTrackings": [],
+        "suggestedPromotion": {
+            "text": "",
+            "promotionUuid": ""
+        },
+        "supportedDiningModes": [
+            {
+                "mode": "DELIVERY",
+                "title": "Delivery",
+                "isSelected": true,
+                "isAvailable": true
+            }
+        ],
+        "isPreview": false,
+        "pinnedInfo": null
+    }
+}

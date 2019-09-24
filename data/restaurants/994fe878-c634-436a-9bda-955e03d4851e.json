@@ -1,0 +1,999 @@
+{
+    "status": "success",
+    "data": {
+        "sectionEntitiesMap": {
+            "57ccc13b-c1ea-5eb9-9ac3-843b6eaafe5a": {
+                "c6b4b8f6-f435-4392-ae4b-01681022a3b0": {
+                    "description": "No Added Sugar",
+                    "imageUrl": null,
+                    "price": 150,
+                    "title": "Dalston's Elderflower",
+                    "uuid": "c6b4b8f6-f435-4392-ae4b-01681022a3b0",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "2ccc3b01-96c9-5cbf-b66a-c65bb9a1c98f": {
+                    "description": "Two hot dipped chick'n fillets, served with a pot of classic mayo.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/9ead1b62-888a-4573-bb4d-3a4c583d0d21",
+                    "price": 600,
+                    "title": "Hot  Two Piece",
+                    "uuid": "2ccc3b01-96c9-5cbf-b66a-c65bb9a1c98f",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "endorsement": {
+                        "text": "Vegan",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png"
+                    },
+                    "classifications": []
+                },
+                "031a05fa-f1f5-5c8f-8472-cf7cb9d56226": {
+                    "description": "1/4 pound beef style patty, burger sauce, cheese, bacon, lettuce, and pickles.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/f8f25003-efa5-4b61-ba25-26e736e06f89",
+                    "price": 750,
+                    "title": "Temple Deluxe",
+                    "uuid": "031a05fa-f1f5-5c8f-8472-cf7cb9d56226",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "endorsement": {
+                        "text": "Vegan",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png"
+                    },
+                    "classifications": []
+                },
+                "9e710f79-e0b9-55c1-9f73-c334b67f0f69": {
+                    "description": "500ml bottle of water.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/cb23e0fa-35d8-4fca-b08a-37f828e71880",
+                    "price": 100,
+                    "title": "Bottle of Water",
+                    "uuid": "9e710f79-e0b9-55c1-9f73-c334b67f0f69",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "4fbf68e4-6e17-560f-94c2-90f5278fae08": {
+                    "description": "Hot dipped chick'n fillet, ranch mayo, lettuce, and pickles.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/e1fe3887-6fd1-4f97-a943-9210bb3d12e8",
+                    "price": 700,
+                    "title": "Nashville Hot",
+                    "uuid": "4fbf68e4-6e17-560f-94c2-90f5278fae08",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "endorsement": {
+                        "text": "Vegan",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png"
+                    },
+                    "classifications": []
+                },
+                "f9216a74-d028-4aa4-8045-f5631e0cd52d": {
+                    "description": null,
+                    "imageUrl": null,
+                    "price": 100,
+                    "title": "Classic",
+                    "uuid": "f9216a74-d028-4aa4-8045-f5631e0cd52d",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "4bd76361-cb92-5e10-a86e-b0b538d2b274": {
+                    "description": "1/4 pound beef style patty, mustard, ketchup, cheese, onions, pickles.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/a52bc492-7f8f-45d1-9c30-61b0182d1447",
+                    "price": 600,
+                    "title": "Temple Cheeseburger",
+                    "uuid": "4bd76361-cb92-5e10-a86e-b0b538d2b274",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "endorsement": {
+                        "text": "Vegan",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png"
+                    },
+                    "classifications": []
+                },
+                "bc63e484-99f7-478e-85b9-f905dc4d3796": {
+                    "description": null,
+                    "imageUrl": null,
+                    "price": 100,
+                    "title": "BBQ Sauce",
+                    "uuid": "bc63e484-99f7-478e-85b9-f905dc4d3796",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "a89ca788-df0a-48f5-8fc2-e87546ceed96": {
+                    "description": "Fries loaded with grilled chick'n, bbq sauce, garlic mayo and chilli sauce.\t\t\n",
+                    "imageUrl": null,
+                    "price": 600,
+                    "title": "Doner Snack Pack",
+                    "uuid": "a89ca788-df0a-48f5-8fc2-e87546ceed96",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "endorsement": {
+                        "text": "Vegan",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png"
+                    },
+                    "classifications": []
+                },
+                "fc703d34-2712-58bc-a0f3-3c092705cfd1": {
+                    "description": "4 BBQ glazed wings served with ranch mayo.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/1a5da2ea-e9f3-43bd-808a-6133e8fa4d72",
+                    "price": 600,
+                    "title": "BBQ Wings",
+                    "uuid": "fc703d34-2712-58bc-a0f3-3c092705cfd1",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "endorsement": {
+                        "text": "Vegan",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png"
+                    },
+                    "classifications": []
+                },
+                "ca744b83-e174-426e-a40d-8e2033c3d163": {
+                    "description": "",
+                    "imageUrl": null,
+                    "price": 150,
+                    "title": "Dalston's Cola",
+                    "uuid": "ca744b83-e174-426e-a40d-8e2033c3d163",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": "",
+                    "suspendUntil": 8640000000,
+                    "classifications": []
+                },
+                "a64809ef-bf92-4d36-bb3a-9b77ce1466a9": {
+                    "description": "",
+                    "imageUrl": null,
+                    "price": 300,
+                    "title": "Chocolate Fudge Cake",
+                    "uuid": "a64809ef-bf92-4d36-bb3a-9b77ce1466a9",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "endorsement": {
+                        "text": "Vegan",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png"
+                    },
+                    "classifications": []
+                },
+                "70ddae9c-7ff2-51a3-92b3-b240acd72a37": {
+                    "description": "4 Buffalo glazed wings served with ranch mayo.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/16368af6-1bb4-4632-b7fb-6dff845c3f51",
+                    "price": 600,
+                    "title": "Buffalo Wings",
+                    "uuid": "70ddae9c-7ff2-51a3-92b3-b240acd72a37",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "endorsement": {
+                        "text": "Vegan",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png"
+                    },
+                    "classifications": []
+                },
+                "9ca231f0-f823-5ed6-9221-8a576a086a80": {
+                    "description": "Chick'n fillet, ranch mayo, bacon, lettuce and pickles.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/0fd190f4-6864-4a26-9ce0-2d39c2fd904a",
+                    "price": 750,
+                    "title": "Temple Burger",
+                    "uuid": "9ca231f0-f823-5ed6-9221-8a576a086a80",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "endorsement": {
+                        "text": "Vegan",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png"
+                    },
+                    "classifications": []
+                },
+                "02e784a9-74f4-43a8-a479-cf49ec7583f6": {
+                    "description": "2 classic wings, small fries and a pot of sauce.\n",
+                    "imageUrl": null,
+                    "price": 500,
+                    "title": "Strips n Chips",
+                    "uuid": "02e784a9-74f4-43a8-a479-cf49ec7583f6",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "endorsement": {
+                        "text": "Vegan",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png"
+                    },
+                    "classifications": []
+                },
+                "d72c4699-0d77-4aad-961d-3b5184b62d4f": {
+                    "description": "Buffalo glazed fillet, pickles and coleslaw.\n",
+                    "imageUrl": null,
+                    "price": 700,
+                    "title": "Buffalo Burger",
+                    "uuid": "d72c4699-0d77-4aad-961d-3b5184b62d4f",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "endorsement": {
+                        "text": "Vegan",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png"
+                    },
+                    "classifications": []
+                },
+                "4ff9bed5-d873-4ac6-92e0-9447cea560a5": {
+                    "description": "Grilled chick'n, lettuce tomato, onion and garlic mayo.\t\n",
+                    "imageUrl": null,
+                    "price": 600,
+                    "title": "Doner Wrap",
+                    "uuid": "4ff9bed5-d873-4ac6-92e0-9447cea560a5",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "endorsement": {
+                        "text": "Vegan",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png"
+                    },
+                    "classifications": []
+                },
+                "c1db824d-9fe7-4ef0-8e17-06ed70d40aef": {
+                    "description": "Quarter pound patty, cheese, pickles, lettuce, tomato, onion and classic mayo.\n",
+                    "imageUrl": null,
+                    "price": 750,
+                    "title": "Temple Feast",
+                    "uuid": "c1db824d-9fe7-4ef0-8e17-06ed70d40aef",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "endorsement": {
+                        "text": "Vegan",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png"
+                    },
+                    "classifications": []
+                },
+                "f89210a1-a62c-4942-b712-1aaa8a5555e1": {
+                    "description": null,
+                    "imageUrl": null,
+                    "price": 100,
+                    "title": "Garlic Mayo",
+                    "uuid": "f89210a1-a62c-4942-b712-1aaa8a5555e1",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "a45f6c84-088a-44f3-b761-ae65d5153bd1": {
+                    "description": "",
+                    "imageUrl": null,
+                    "price": 150,
+                    "title": "Dalston's Lemonade",
+                    "uuid": "a45f6c84-088a-44f3-b761-ae65d5153bd1",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "dd0ac38b-dd35-5d1c-afd1-a351ab4678e0": {
+                    "description": "Box of 50/50 popcorn bites and fries.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/76e1d2a0-5103-42e3-9313-065c87b8a3f1",
+                    "price": 600,
+                    "title": "Popcorn Snack Pack",
+                    "uuid": "dd0ac38b-dd35-5d1c-afd1-a351ab4678e0",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "endorsement": {
+                        "text": "Nuts, Vegan",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_check@3x.png"
+                    },
+                    "classifications": []
+                },
+                "ab25640b-475a-44f9-ae1d-9825458c2211": {
+                    "description": "Fries loaded with cheese, onions, pickles, bacon bits and burger sauce.",
+                    "imageUrl": null,
+                    "price": 600,
+                    "title": "Animal Snack Pack",
+                    "uuid": "ab25640b-475a-44f9-ae1d-9825458c2211",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "endorsement": {
+                        "text": "Vegan",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png"
+                    },
+                    "classifications": []
+                },
+                "5ecdcc10-dc07-4a42-8e8d-5724a58182cc": {
+                    "description": "No Added Sugar",
+                    "imageUrl": null,
+                    "price": 150,
+                    "title": "Dalston's Rhubarb",
+                    "uuid": "5ecdcc10-dc07-4a42-8e8d-5724a58182cc",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "fcc8d529-4536-4884-93a7-14057c3e135d": {
+                    "description": null,
+                    "imageUrl": null,
+                    "price": 100,
+                    "title": "Chipotle Mayo",
+                    "uuid": "fcc8d529-4536-4884-93a7-14057c3e135d",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "51e08ef4-2abf-4c86-9a4c-16ba3805291a": {
+                    "description": "",
+                    "imageUrl": null,
+                    "price": 150,
+                    "title": "Dalston's Ginger Beer",
+                    "uuid": "51e08ef4-2abf-4c86-9a4c-16ba3805291a",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "9c29d560-db67-58d8-a4f2-a5978e47e1c1": {
+                    "description": "1/4 pound beef style patty. Mayo, cheese, bacon, pickles, and house BBQ sauce.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/a996b296-c75d-443a-9970-1b7b017ffa73",
+                    "price": 700,
+                    "title": "BBQ Bacon Burger",
+                    "uuid": "9c29d560-db67-58d8-a4f2-a5978e47e1c1",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "endorsement": {
+                        "text": "Vegan",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png"
+                    },
+                    "classifications": []
+                },
+                "7b31639a-bd2a-55e5-9d93-d59eb5539b10": {
+                    "description": "Classic coleslaw in a creamy dressing.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/cf120419-02df-4260-8c24-605f5dea7c54",
+                    "price": 400,
+                    "title": "Large Coleslaw",
+                    "uuid": "7b31639a-bd2a-55e5-9d93-d59eb5539b10",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "endorsement": {
+                        "text": "Vegan",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png"
+                    },
+                    "classifications": []
+                },
+                "d5069857-18d1-5361-b1f5-e7e538b02173": {
+                    "description": "Classic coleslaw in a creamy dressing.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/57167f8a-c97d-4cf3-8b1c-b76012e16375",
+                    "price": 250,
+                    "title": "Regular Coleslaw",
+                    "uuid": "d5069857-18d1-5361-b1f5-e7e538b02173",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "endorsement": {
+                        "text": "Vegan",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png"
+                    },
+                    "classifications": []
+                },
+                "0d2279da-d321-5f7a-b272-bfc422242613": {
+                    "description": "2 Chick'n strips, lettuce, tomato, and lemon pepper mayo in a flour tortilla.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/82b2231a-3a2d-4ac2-b42f-9c245f511a38",
+                    "price": 600,
+                    "title": "Twist Wrap",
+                    "uuid": "0d2279da-d321-5f7a-b272-bfc422242613",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "endorsement": {
+                        "text": "Vegan",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png"
+                    },
+                    "classifications": []
+                },
+                "b6f2b4a8-f1b0-5813-8a37-d5a64ae407c1": {
+                    "description": "4 original chick'n wings served wit a pot of ranch mayo.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/0632a3ad-297d-4ea3-8faa-3a7fb985010e",
+                    "price": 600,
+                    "title": "Original Wings",
+                    "uuid": "b6f2b4a8-f1b0-5813-8a37-d5a64ae407c1",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "endorsement": {
+                        "text": "Vegan",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png"
+                    },
+                    "classifications": []
+                },
+                "cd92fbae-caa7-48a7-b503-b469c12e6d40": {
+                    "description": "Young Vegan's delicious peanut butter mud pie.",
+                    "imageUrl": null,
+                    "price": 300,
+                    "title": "Young Vegan’s Mud Pie",
+                    "uuid": "cd92fbae-caa7-48a7-b503-b469c12e6d40",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": "",
+                    "suspendUntil": 8640000000,
+                    "endorsement": {
+                        "text": "Vegan, Nuts",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png"
+                    },
+                    "classifications": []
+                },
+                "57a1b5cf-1807-5c67-a152-b9815f9643a6": {
+                    "description": "Pot of Gravy",
+                    "imageUrl": null,
+                    "price": 100,
+                    "title": "Pot of Gravy",
+                    "uuid": "57a1b5cf-1807-5c67-a152-b9815f9643a6",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "09b557c4-c935-48be-946c-723081e16da7": {
+                    "description": null,
+                    "imageUrl": null,
+                    "price": 100,
+                    "title": "Burger Sauce",
+                    "uuid": "09b557c4-c935-48be-946c-723081e16da7",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "1eb8e08d-bcb1-59f1-ac0e-06ccd967fa71": {
+                    "description": "2 chick'n fillets, served with a pot of classic mayo.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/b3a8940a-f54a-40ec-9ece-ee6fc0510ef3",
+                    "price": 600,
+                    "title": "Original Two Piece",
+                    "uuid": "1eb8e08d-bcb1-59f1-ac0e-06ccd967fa71",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "endorsement": {
+                        "text": "Vegan",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png"
+                    },
+                    "classifications": []
+                },
+                "63c67275-69bd-59bb-b65d-a5ef9b5942ab": {
+                    "description": "Bite size crispy fried seitan pieces.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/5f452828-9a0c-4ce7-8cd6-3ec346b29dcd",
+                    "price": 600,
+                    "title": "Popcorn Bites",
+                    "uuid": "63c67275-69bd-59bb-b65d-a5ef9b5942ab",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "endorsement": {
+                        "text": "Vegan",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png"
+                    },
+                    "classifications": []
+                },
+                "380d9806-083a-5bab-ada2-b2700b5769e8": {
+                    "description": "Creamy macaroni and cheese topped with cashew parmesan and sour cream, parsley and bacon bits.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/e34956cc-d748-4b29-b105-687371111037",
+                    "price": 400,
+                    "title": "Regular Mac N Cheese",
+                    "uuid": "380d9806-083a-5bab-ada2-b2700b5769e8",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "endorsement": {
+                        "text": "Nuts, Vegan",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_check@3x.png"
+                    },
+                    "classifications": []
+                },
+                "61154b01-85a5-4eaa-9cab-40f664e51e9f": {
+                    "description": "",
+                    "imageUrl": null,
+                    "price": 150,
+                    "title": "Dalston's Cherryade",
+                    "uuid": "61154b01-85a5-4eaa-9cab-40f664e51e9f",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "ed9bc1d3-c58d-4e53-9e83-942dd1105f4d": {
+                    "description": "",
+                    "imageUrl": null,
+                    "price": 300,
+                    "title": "Oreo Cake",
+                    "uuid": "ed9bc1d3-c58d-4e53-9e83-942dd1105f4d",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "endorsement": {
+                        "text": "Vegan",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png"
+                    },
+                    "classifications": []
+                },
+                "ee086d2e-777f-58c2-b9d1-ecd59040cdba": {
+                    "description": "4 hot dipped chick'n wings served with ranch mayo.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/44d30fa2-3513-4b94-90e8-fad4ee54ae8e",
+                    "price": 600,
+                    "title": "Hot Wings",
+                    "uuid": "ee086d2e-777f-58c2-b9d1-ecd59040cdba",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "endorsement": {
+                        "text": "Vegan",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png"
+                    },
+                    "classifications": []
+                },
+                "9b924553-dc6a-4143-8b29-5b431a0851f2": {
+                    "description": null,
+                    "imageUrl": null,
+                    "price": 100,
+                    "title": "Ranch",
+                    "uuid": "9b924553-dc6a-4143-8b29-5b431a0851f2",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "e11a3abd-c768-5e82-b307-7eb099a9ef07": {
+                    "description": "Creamy macaroni and cheese topped with cashew parmesan and sour cream, parsley and bacon bits.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/f6afbcff-b819-484f-8110-5c11d0c4f624",
+                    "price": 600,
+                    "title": "Large Mac N Cheese",
+                    "uuid": "e11a3abd-c768-5e82-b307-7eb099a9ef07",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "endorsement": {
+                        "text": "Nuts, Vegan",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_check@3x.png"
+                    },
+                    "classifications": []
+                },
+                "5354ac55-baab-4380-a401-a03f6b7565b2": {
+                    "description": "Grilled chick'n, pickles, BBQ sauce and coleslaw.\t\n",
+                    "imageUrl": null,
+                    "price": 700,
+                    "title": "BBQ Chick'n Burger",
+                    "uuid": "5354ac55-baab-4380-a401-a03f6b7565b2",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "endorsement": {
+                        "text": "Vegan",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png"
+                    },
+                    "classifications": []
+                },
+                "3722f54f-b0a6-519a-8ad3-742bfa164a2c": {
+                    "description": "Portion of fries seasoned with our chicken salt. Choose either small, regular or large.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/3af324af-cf5d-423c-913f-3d93899ddedb",
+                    "price": 150,
+                    "title": "Temple Fries",
+                    "uuid": "3722f54f-b0a6-519a-8ad3-742bfa164a2c",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "endorsement": {
+                        "text": "Vegan",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png"
+                    },
+                    "classifications": []
+                },
+                "a043e980-1819-4e50-8eab-8a7c4b14b157": {
+                    "description": "",
+                    "imageUrl": null,
+                    "price": 300,
+                    "title": "Salted Caramel Cake",
+                    "uuid": "a043e980-1819-4e50-8eab-8a7c4b14b157",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "endorsement": {
+                        "text": "Vegan",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png"
+                    },
+                    "classifications": []
+                },
+                "8550ce6a-344a-493b-ab9f-3c9fae43481b": {
+                    "description": null,
+                    "imageUrl": null,
+                    "price": 150,
+                    "title": "Dalston's Sparkling Water",
+                    "uuid": "8550ce6a-344a-493b-ab9f-3c9fae43481b",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": "",
+                    "suspendUntil": 8640000000,
+                    "classifications": []
+                }
+            }
+        },
+        "sections": [
+            {
+                "subsectionUuids": [
+                    "faf17ac3-3068-5bdd-b26d-d46cb5ca1d23",
+                    "c935e2fa-a4c8-5011-ac82-811ed7402113",
+                    "632e3954-7025-5bb5-8b60-2d9733d125a1",
+                    "761e8029-b1e0-49f7-b7bc-3cc8bd97034d",
+                    "6824411b-2614-5b4c-899c-adabe80728bc",
+                    "0d75901d-1459-5685-9905-edebd0a9c7e2"
+                ],
+                "title": "Menu",
+                "subtitle": "12:00 PM – 8:45 PM",
+                "uuid": "57ccc13b-c1ea-5eb9-9ac3-843b6eaafe5a",
+                "isTop": true,
+                "isOnSale": true
+            }
+        ],
+        "subsectionsMap": {
+            "632e3954-7025-5bb5-8b60-2d9733d125a1": {
+                "itemUuids": [
+                    "dd0ac38b-dd35-5d1c-afd1-a351ab4678e0",
+                    "380d9806-083a-5bab-ada2-b2700b5769e8",
+                    "e11a3abd-c768-5e82-b307-7eb099a9ef07",
+                    "3722f54f-b0a6-519a-8ad3-742bfa164a2c",
+                    "d5069857-18d1-5361-b1f5-e7e538b02173",
+                    "7b31639a-bd2a-55e5-9d93-d59eb5539b10",
+                    "ab25640b-475a-44f9-ae1d-9825458c2211",
+                    "a89ca788-df0a-48f5-8fc2-e87546ceed96",
+                    "02e784a9-74f4-43a8-a479-cf49ec7583f6"
+                ],
+                "subtitle": null,
+                "title": "Sides",
+                "uuid": "632e3954-7025-5bb5-8b60-2d9733d125a1",
+                "displayType": null
+            },
+            "d3b006e4-9b7c-11e9-a337-246e963e2bdc": {
+                "itemUuids": [
+                    "dd0ac38b-dd35-5d1c-afd1-a351ab4678e0",
+                    "9ca231f0-f823-5ed6-9221-8a576a086a80"
+                ],
+                "subtitle": null,
+                "title": "Buy one get one free",
+                "uuid": "d3b006e4-9b7c-11e9-a337-246e963e2bdc",
+                "displayType": null
+            },
+            "0d75901d-1459-5685-9905-edebd0a9c7e2": {
+                "itemUuids": [
+                    "9e710f79-e0b9-55c1-9f73-c334b67f0f69",
+                    "ca744b83-e174-426e-a40d-8e2033c3d163",
+                    "51e08ef4-2abf-4c86-9a4c-16ba3805291a",
+                    "61154b01-85a5-4eaa-9cab-40f664e51e9f",
+                    "a45f6c84-088a-44f3-b761-ae65d5153bd1",
+                    "5ecdcc10-dc07-4a42-8e8d-5724a58182cc",
+                    "c6b4b8f6-f435-4392-ae4b-01681022a3b0",
+                    "8550ce6a-344a-493b-ab9f-3c9fae43481b"
+                ],
+                "subtitle": null,
+                "title": "Drinks",
+                "uuid": "0d75901d-1459-5685-9905-edebd0a9c7e2",
+                "displayType": null
+            },
+            "761e8029-b1e0-49f7-b7bc-3cc8bd97034d": {
+                "itemUuids": [
+                    "cd92fbae-caa7-48a7-b503-b469c12e6d40",
+                    "ed9bc1d3-c58d-4e53-9e83-942dd1105f4d",
+                    "a64809ef-bf92-4d36-bb3a-9b77ce1466a9",
+                    "a043e980-1819-4e50-8eab-8a7c4b14b157"
+                ],
+                "subtitle": null,
+                "title": "Desserts",
+                "uuid": "761e8029-b1e0-49f7-b7bc-3cc8bd97034d",
+                "displayType": null
+            },
+            "faf17ac3-3068-5bdd-b26d-d46cb5ca1d23": {
+                "itemUuids": [
+                    "9c29d560-db67-58d8-a4f2-a5978e47e1c1",
+                    "4fbf68e4-6e17-560f-94c2-90f5278fae08",
+                    "9ca231f0-f823-5ed6-9221-8a576a086a80",
+                    "4bd76361-cb92-5e10-a86e-b0b538d2b274",
+                    "031a05fa-f1f5-5c8f-8472-cf7cb9d56226",
+                    "0d2279da-d321-5f7a-b272-bfc422242613",
+                    "d72c4699-0d77-4aad-961d-3b5184b62d4f",
+                    "5354ac55-baab-4380-a401-a03f6b7565b2",
+                    "c1db824d-9fe7-4ef0-8e17-06ed70d40aef",
+                    "4ff9bed5-d873-4ac6-92e0-9447cea560a5"
+                ],
+                "subtitle": null,
+                "title": "Burgers / Wraps",
+                "uuid": "faf17ac3-3068-5bdd-b26d-d46cb5ca1d23",
+                "displayType": null
+            },
+            "c935e2fa-a4c8-5011-ac82-811ed7402113": {
+                "itemUuids": [
+                    "ee086d2e-777f-58c2-b9d1-ecd59040cdba",
+                    "1eb8e08d-bcb1-59f1-ac0e-06ccd967fa71",
+                    "b6f2b4a8-f1b0-5813-8a37-d5a64ae407c1",
+                    "63c67275-69bd-59bb-b65d-a5ef9b5942ab",
+                    "fc703d34-2712-58bc-a0f3-3c092705cfd1",
+                    "70ddae9c-7ff2-51a3-92b3-b240acd72a37",
+                    "2ccc3b01-96c9-5cbf-b66a-c65bb9a1c98f"
+                ],
+                "subtitle": null,
+                "title": "Fried \"Chik'n\"",
+                "uuid": "c935e2fa-a4c8-5011-ac82-811ed7402113",
+                "displayType": null
+            },
+            "6824411b-2614-5b4c-899c-adabe80728bc": {
+                "itemUuids": [
+                    "f9216a74-d028-4aa4-8045-f5631e0cd52d",
+                    "fcc8d529-4536-4884-93a7-14057c3e135d",
+                    "9b924553-dc6a-4143-8b29-5b431a0851f2",
+                    "57a1b5cf-1807-5c67-a152-b9815f9643a6",
+                    "bc63e484-99f7-478e-85b9-f905dc4d3796",
+                    "f89210a1-a62c-4942-b712-1aaa8a5555e1",
+                    "09b557c4-c935-48be-946c-723081e16da7"
+                ],
+                "subtitle": null,
+                "title": "Sauces",
+                "uuid": "6824411b-2614-5b4c-899c-adabe80728bc",
+                "displayType": null
+            }
+        },
+        "title": "Temple of Seitan - Camden",
+        "uuid": "994fe878-c634-436a-9bda-955e03d4851e",
+        "categories": [
+            "₴",
+            "Американська",
+            "Британська",
+            "Бургери",
+            "Для веганів"
+        ],
+        "cuisineList": [
+            "Американська",
+            "Британська",
+            "Бургери",
+            "Для веганів"
+        ],
+        "priceBucket": "₴",
+        "etaRange": {
+            "text": "30–40 min",
+            "iconUrl": ""
+        },
+        "ratingBadge": {
+            "text": "<span><span style=\"font-family: inherit; color: #3a3a48;\">4.4 <img src=\"https://d1a3f4spazzrp4.cloudfront.net/static/images/Star_Black_Eats_3.png\" width=\"14\" height=\"14\" vertical-align=\"middle\"> </span><span style=\"font-family: inherit; color: #757575;\">(200+)</span></span>"
+        },
+        "disclaimerBadge": {
+            "text": "<span style=\"font-family: inherit;\">Allergies, intolerances and dietary requirements: before ordering, please contact the restaurant directly and ask to speak to a member of staff who can assist if you require information about ingredients and help cater for your needs. For more information on food safety and hygiene, please visit the <a href=\"https://www.food.gov.uk/\" style=\"color:#61ad5f;\">Food Standards Agency</a>.</span>"
+        },
+        "fareBadge": null,
+        "fareInfo": {
+            "serviceFee": 30,
+            "serviceFeeCents": 3000
+        },
+        "promotion": null,
+        "shouldIndex": false,
+        "heroImageUrls": [
+            {
+                "url": "https://d1ralsognjng37.cloudfront.net/d264c9de-9eb7-44db-9366-b6328dc0ded1",
+                "width": 240
+            },
+            {
+                "url": "https://d1ralsognjng37.cloudfront.net/4f81b32c-f35b-4c0c-ad07-af954f8da423",
+                "width": 550
+            },
+            {
+                "url": "https://d1ralsognjng37.cloudfront.net/37534d88-f2b6-49e7-8d09-4f10ef1f7988",
+                "width": 640
+            },
+            {
+                "url": "https://d1ralsognjng37.cloudfront.net/0245dfb1-acd4-4dae-98b0-f67995d246e0",
+                "width": 750
+            },
+            {
+                "url": "https://d1ralsognjng37.cloudfront.net/a69edf0e-8fbf-4128-a7de-f1a59996a74b",
+                "width": 1080
+            },
+            {
+                "url": "https://d1ralsognjng37.cloudfront.net/410ec473-2bad-405a-b87e-ff1acba9c0f8",
+                "width": 2880
+            }
+        ],
+        "isOpen": true,
+        "currencyCode": "GBP",
+        "closedMessage": "Currently unavailable",
+        "location": {
+            "address": "103a Camley St, England N1C 4PF",
+            "streetAddress": "103a Camley St",
+            "city": "",
+            "country": "GB",
+            "postalCode": "N1C 4PF",
+            "region": "England",
+            "latitude": 51.5377798,
+            "longitude": -0.130704
+        },
+        "isDeliveryThirdParty": false,
+        "hours": [
+            {
+                "dayRange": "Sunday",
+                "sectionHours": [
+                    {
+                        "startTime": 720,
+                        "endTime": 1065,
+                        "sectionTitle": ""
+                    }
+                ]
+            },
+            {
+                "dayRange": "Monday - Saturday",
+                "sectionHours": [
+                    {
+                        "startTime": 720,
+                        "endTime": 1245,
+                        "sectionTitle": ""
+                    }
+                ]
+            }
+        ],
+        "disableOrderInstruction": false,
+        "disableCheckoutInstruction": false,
+        "nuggets": [],
+        "isWithinDeliveryRange": false,
+        "slug": "temple-of-seitan-camden",
+        "citySlug": "london",
+        "phoneNumber": "+447876368450",
+        "metaJson": "{\"@context\":\"http:\\u002F\\u002Fschema.org\",\"@type\":\"Restaurant\",\"@id\":\"https:\\u002F\\u002Fwww.ubereats.com\\u002Fen-UA\\u002Flondon\\u002Ffood-delivery\\u002Ftemple-of-seitan-camden\\u002FmU_oeMY0Q2qb2pVeA9SFHg\\u002F\",\"name\":\"Temple of Seitan - Camden\",\"priceRange\":\"₴\",\"potentialAction\":{\"@type\":\"OrderAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\\u002F\\u002Fwww.ubereats.com\\u002Fen-UA\\u002Flondon\\u002Ffood-delivery\\u002Ftemple-of-seitan-camden\\u002FmU_oeMY0Q2qb2pVeA9SFHg\\u002F?utm_campaign=order-action&utm_medium=organic\",\"inLanguage\":\"English\",\"actionPlatform\":[\"http:\\u002F\\u002Fschema.org\\u002FDesktopWebPlatform\",\"http:\\u002F\\u002Fschema.org\\u002FMobileWebPlatform\"]},\"deliveryMethod\":[\"http:\\u002F\\u002Fpurl.org\\u002Fgoodrelations\\u002Fv1#DeliveryModeOwnFleet\"]},\"geo\":{\"@type\":\"GeoCoordinates\",\"latitude\":51.5377798,\"longitude\":-0.130704}}",
+        "promoTrackings": [],
+        "suggestedPromotion": {
+            "text": "",
+            "promotionUuid": ""
+        },
+        "supportedDiningModes": [
+            {
+                "mode": "DELIVERY",
+                "title": "Delivery",
+                "isSelected": true,
+                "isAvailable": true
+            }
+        ],
+        "isPreview": false,
+        "pinnedInfo": null
+    }
+}

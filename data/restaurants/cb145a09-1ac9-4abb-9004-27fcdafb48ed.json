@@ -1,0 +1,1338 @@
+{
+    "status": "success",
+    "data": {
+        "sectionEntitiesMap": {
+            "9b77fcda-cf88-4177-abff-4f5f541f4757": {
+                "846bd6be-04fa-457f-8748-115a3ffaa99e": {
+                    "description": "",
+                    "imageUrl": null,
+                    "price": 195,
+                    "title": "Red Bull",
+                    "uuid": "846bd6be-04fa-457f-8748-115a3ffaa99e",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "f865943a-8d1a-4cae-a17c-731f2c471d26": {
+                    "description": "",
+                    "imageUrl": null,
+                    "price": 450,
+                    "title": "Nutella Shake",
+                    "uuid": "f865943a-8d1a-4cae-a17c-731f2c471d26",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "0c2a6f63-afef-4c23-b6a2-79e8e4e16db9": {
+                    "description": "Mozzarella Sticks, Fried Calamari, Chunky Skin on Fries",
+                    "imageUrl": null,
+                    "price": 1195,
+                    "title": "Appetizers Mixed Platter",
+                    "uuid": "0c2a6f63-afef-4c23-b6a2-79e8e4e16db9",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "0804775d-1a84-4a0d-b8c5-04210660487c": {
+                    "description": "Special marinated grilled chicken fillet with lettuce, tomato, pickles, and aioli mayonnaise.",
+                    "imageUrl": null,
+                    "price": 795,
+                    "title": "Grilled Chicken Burger",
+                    "uuid": "0804775d-1a84-4a0d-b8c5-04210660487c",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "endorsement": {
+                        "text": "Halal",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_check@3x.png"
+                    },
+                    "classifications": []
+                },
+                "e2dffd18-d885-442e-a43f-ffbdfcca24fe": {
+                    "description": "",
+                    "imageUrl": null,
+                    "price": 150,
+                    "title": "Fanta",
+                    "uuid": "e2dffd18-d885-442e-a43f-ffbdfcca24fe",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "fa6bfdf9-b757-4320-91c6-90dcf60535c5": {
+                    "description": "With beef tomato, lettuce, pickles, pink onion, and mayonnaise.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/e5ec5be3-5d63-4480-8e90-63eff8af2c2d",
+                    "price": 795,
+                    "title": "Classic Beef Burger",
+                    "uuid": "fa6bfdf9-b757-4320-91c6-90dcf60535c5",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "endorsement": {
+                        "text": "Halal",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_check@3x.png"
+                    },
+                    "classifications": []
+                },
+                "2e07c290-3987-49b9-a872-6bf44b1384da": {
+                    "description": "With spicy tomato sauce.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/0f0efdb8-b988-4fc4-ac68-7f758fa7d990",
+                    "price": 995,
+                    "title": "Penne Arrabbiata",
+                    "uuid": "2e07c290-3987-49b9-a872-6bf44b1384da",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "c7ecd4c7-153c-4305-9999-b39fca351ed8": {
+                    "description": "Served with bread and salad.",
+                    "imageUrl": null,
+                    "price": 795,
+                    "title": "Plain Omelette",
+                    "uuid": "c7ecd4c7-153c-4305-9999-b39fca351ed8",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "f45317cc-6512-40a9-8672-55dc2a46d1d2": {
+                    "description": "",
+                    "imageUrl": null,
+                    "price": 395,
+                    "title": "Classic Carrot Cake",
+                    "uuid": "f45317cc-6512-40a9-8672-55dc2a46d1d2",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "b60d3029-a289-4b14-b111-d77bb9ba6dd8": {
+                    "description": "Famous extra thick milkshakes.",
+                    "imageUrl": null,
+                    "price": 395,
+                    "title": "Peanut Butter Milkshake",
+                    "uuid": "b60d3029-a289-4b14-b111-d77bb9ba6dd8",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "5b8e4f96-e2f7-44dd-854d-cf116edd8ef2": {
+                    "description": "Buffalo mozzarella, vine-ripened tomatoes, basil, and olive oi.",
+                    "imageUrl": null,
+                    "price": 595,
+                    "title": "Insalata Caprese",
+                    "uuid": "5b8e4f96-e2f7-44dd-854d-cf116edd8ef2",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "a6f5c7b2-55e6-484d-9653-14ccd05f1869": {
+                    "description": "",
+                    "imageUrl": null,
+                    "price": 395,
+                    "title": "Caesar Salad",
+                    "uuid": "a6f5c7b2-55e6-484d-9653-14ccd05f1869",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "5aaa037f-eb8c-491a-829b-eabaac42838a": {
+                    "description": "",
+                    "imageUrl": null,
+                    "price": 495,
+                    "title": "Garlic Cheese Bread",
+                    "uuid": "5aaa037f-eb8c-491a-829b-eabaac42838a",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "58507f82-dc9d-488d-811f-ffbe663aca13": {
+                    "description": "",
+                    "imageUrl": null,
+                    "price": 395,
+                    "title": "Chocolate Cake",
+                    "uuid": "58507f82-dc9d-488d-811f-ffbe663aca13",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "d2494f3d-e2b6-4f84-b30c-4f6ab1f3a1a5": {
+                    "description": "Lettuce, shaved parmesan, croutons, and Caesar dressing.",
+                    "imageUrl": null,
+                    "price": 1195,
+                    "title": "Classic Caesar Salad",
+                    "uuid": "d2494f3d-e2b6-4f84-b30c-4f6ab1f3a1a5",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "65b54990-9553-49da-9be8-024285cbc3bc": {
+                    "description": "Famous extra thick milkshakes.",
+                    "imageUrl": null,
+                    "price": 395,
+                    "title": "Strawberry Milkshake",
+                    "uuid": "65b54990-9553-49da-9be8-024285cbc3bc",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "3cf57612-c220-49f8-a3c7-db659458f668": {
+                    "description": "",
+                    "imageUrl": null,
+                    "price": 450,
+                    "title": "Oreo Shake",
+                    "uuid": "3cf57612-c220-49f8-a3c7-db659458f668",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "64838141-3dbf-48ef-b9a1-4e4fab860c08": {
+                    "description": "",
+                    "imageUrl": null,
+                    "price": 1195,
+                    "title": "Penne Four Cheese",
+                    "uuid": "64838141-3dbf-48ef-b9a1-4e4fab860c08",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "f1e5e3c0-dbe8-4c1d-888e-54023e25100a": {
+                    "description": "Served with bread and salad.",
+                    "imageUrl": null,
+                    "price": 995,
+                    "title": "Cheese and Mushrooms Omelette",
+                    "uuid": "f1e5e3c0-dbe8-4c1d-888e-54023e25100a",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "2634832f-ee64-4856-8a2d-eb224df4146b": {
+                    "description": "",
+                    "imageUrl": null,
+                    "price": 395,
+                    "title": "Marinated Mix Olives",
+                    "uuid": "2634832f-ee64-4856-8a2d-eb224df4146b",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "db57d55f-c47b-487f-bcc6-bbd31f0b37fa": {
+                    "description": "",
+                    "imageUrl": null,
+                    "price": 150,
+                    "title": "Sprite",
+                    "uuid": "db57d55f-c47b-487f-bcc6-bbd31f0b37fa",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "b40a3aa3-528d-449f-8a8a-8520f8279aae": {
+                    "description": "",
+                    "imageUrl": null,
+                    "price": 395,
+                    "title": "Tomato and Onion Salad",
+                    "uuid": "b40a3aa3-528d-449f-8a8a-8520f8279aae",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "721a2788-f790-4b7f-9614-76bd777e0e53": {
+                    "description": "",
+                    "imageUrl": null,
+                    "price": 395,
+                    "title": "Onion Rings",
+                    "uuid": "721a2788-f790-4b7f-9614-76bd777e0e53",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "af562869-44b4-4464-901f-2314b909c0e9": {
+                    "description": "Chargrilled ciabatta topped with diced tomatoes, garlic, parmesan shavings, and drizzled with olive oil.",
+                    "imageUrl": null,
+                    "price": 599,
+                    "title": "Traditional Bruschetta",
+                    "uuid": "af562869-44b4-4464-901f-2314b909c0e9",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "929eaa38-61ee-4cc6-bd15-b70d83395317": {
+                    "description": "Famous extra thick milkshakes.",
+                    "imageUrl": null,
+                    "price": 395,
+                    "title": "Vanilla Milkshake",
+                    "uuid": "929eaa38-61ee-4cc6-bd15-b70d83395317",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "06a34320-4d05-4d4c-9dcc-f0718863efb8": {
+                    "description": "Famous extra thick milkshakes.",
+                    "imageUrl": null,
+                    "price": 395,
+                    "title": "Chocolate Milkshake",
+                    "uuid": "06a34320-4d05-4d4c-9dcc-f0718863efb8",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "f629a576-a185-415b-8768-711cd37cdc72": {
+                    "description": "With tomato salsa.",
+                    "imageUrl": null,
+                    "price": 550,
+                    "title": "Mozzarella Sticks",
+                    "uuid": "f629a576-a185-415b-8768-711cd37cdc72",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "5dc76894-d13d-4b73-89c0-415cfc5cb8ec": {
+                    "description": "",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/a94244a7-471a-4152-91a7-c94ab9311cc0",
+                    "price": 1195,
+                    "title": "Chicken and Mushroom Risotto",
+                    "uuid": "5dc76894-d13d-4b73-89c0-415cfc5cb8ec",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "endorsement": {
+                        "text": "Halal",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_check@3x.png"
+                    },
+                    "classifications": []
+                },
+                "651fd568-7c3d-4bcb-aa3c-4353e32c88d8": {
+                    "description": "",
+                    "imageUrl": null,
+                    "price": 195,
+                    "title": "Appletiser",
+                    "uuid": "651fd568-7c3d-4bcb-aa3c-4353e32c88d8",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "676178cb-1487-44a8-905a-d69f3dba65ce": {
+                    "description": "",
+                    "imageUrl": null,
+                    "price": 150,
+                    "title": "Diet Coke",
+                    "uuid": "676178cb-1487-44a8-905a-d69f3dba65ce",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "ac3f1c92-65db-4707-a823-101159300a94": {
+                    "description": "With sauteed potatoes and spinach.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/3913cc06-851e-4c5f-a051-a9dfcc1ad9a4",
+                    "price": 1395,
+                    "title": "Grilled Cod",
+                    "uuid": "ac3f1c92-65db-4707-a823-101159300a94",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "endorsement": {
+                        "text": "Halal",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_check@3x.png"
+                    },
+                    "classifications": []
+                },
+                "76ecdc6f-40e7-4838-9da3-a4a49c6d7882": {
+                    "description": "",
+                    "imageUrl": null,
+                    "price": 450,
+                    "title": "Ferrero Rocher Shake",
+                    "uuid": "76ecdc6f-40e7-4838-9da3-a4a49c6d7882",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "7ed1b5f3-edc1-4a24-a51c-abbd3dd59684": {
+                    "description": "With creamy mushroom sauce served with sauteed baby potatoes",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/96ddae78-f1c5-4a25-a47b-3f5de9198c2b",
+                    "price": 1295,
+                    "title": "Chicken Breast",
+                    "uuid": "7ed1b5f3-edc1-4a24-a51c-abbd3dd59684",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "endorsement": {
+                        "text": "Halal",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_check@3x.png"
+                    },
+                    "classifications": []
+                },
+                "3abaeb6c-6554-4fcb-bd05-320a23c71302": {
+                    "description": "Grilled roasted peppers, tomatoes, Buffalo mozzarella, chili, and garlic.",
+                    "imageUrl": null,
+                    "price": 1095,
+                    "title": "Penne Siciliana",
+                    "uuid": "3abaeb6c-6554-4fcb-bd05-320a23c71302",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "96134a04-46ce-43eb-8925-0289826d7b07": {
+                    "description": "With minced beef ragu.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/c9addbd3-fa80-4192-9b08-26c0be183128",
+                    "price": 1295,
+                    "title": "Spaghetti Bolognese",
+                    "uuid": "96134a04-46ce-43eb-8925-0289826d7b07",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "endorsement": {
+                        "text": "Halal",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_check@3x.png"
+                    },
+                    "classifications": []
+                },
+                "72196d58-c0df-42be-8d37-7ba44e9ecc30": {
+                    "description": "",
+                    "imageUrl": null,
+                    "price": 395,
+                    "title": "Vanilla Cheesecake",
+                    "uuid": "72196d58-c0df-42be-8d37-7ba44e9ecc30",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "b7ba91f2-6b73-44ec-af2a-d6230dbf86ae": {
+                    "description": "With chilli and garlic.",
+                    "imageUrl": null,
+                    "price": 1295,
+                    "title": "Spaghetti King Prawns",
+                    "uuid": "b7ba91f2-6b73-44ec-af2a-d6230dbf86ae",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "4a09d356-4d03-4a9f-9bb7-2f73a0fd85c0": {
+                    "description": "Served on a board, with salad, tiger king prawn with sweet chilli, and mozzarella sticks served with tomato salsa, garlic cheese bread, and deep-fried squid.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/a4a28111-f198-4d76-9e1b-6db3aa9c08db",
+                    "price": 895,
+                    "title": "Selection of Hot Bites",
+                    "uuid": "4a09d356-4d03-4a9f-9bb7-2f73a0fd85c0",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "endorsement": {
+                        "text": "Spicy",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_check@3x.png"
+                    },
+                    "classifications": []
+                },
+                "30244025-56ec-4329-9462-d1a0f974a39a": {
+                    "description": "",
+                    "imageUrl": null,
+                    "price": 150,
+                    "title": "Still Water",
+                    "uuid": "30244025-56ec-4329-9462-d1a0f974a39a",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "91f9c18f-62cc-45a9-b9dc-05558bc012f4": {
+                    "description": "",
+                    "imageUrl": null,
+                    "price": 150,
+                    "title": "Sparkling Water",
+                    "uuid": "91f9c18f-62cc-45a9-b9dc-05558bc012f4",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "1ae22150-0898-4744-b310-30acb336599a": {
+                    "description": "With tomato, American cheese, lettuce, fried egg, pickles, grilled onion, and aioli mayonnaise.",
+                    "imageUrl": null,
+                    "price": 995,
+                    "title": "All in Burger",
+                    "uuid": "1ae22150-0898-4744-b310-30acb336599a",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "6951ea64-20aa-443a-b20c-e7d5ba4ff24c": {
+                    "description": "Served with bread and salad.",
+                    "imageUrl": null,
+                    "price": 895,
+                    "title": "Cheese and Tomatoes Omelette",
+                    "uuid": "6951ea64-20aa-443a-b20c-e7d5ba4ff24c",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "bb25105a-2ada-449d-ba0f-580ac4cfc3dc": {
+                    "description": "With sauteed potatoes, spinach, and lemon-butter sauce.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/18ffbde5-6950-406e-b5dd-29fe47aaac24",
+                    "price": 1395,
+                    "title": "Grilled Salmon Steak",
+                    "uuid": "bb25105a-2ada-449d-ba0f-580ac4cfc3dc",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": "",
+                    "suspendUntil": 8640000000,
+                    "endorsement": {
+                        "text": "Halal",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_check@3x.png"
+                    },
+                    "classifications": []
+                },
+                "7e7cb265-f6a0-473b-80f3-05a922948945": {
+                    "description": "",
+                    "imageUrl": null,
+                    "price": 1295,
+                    "title": "King Prawn Risotto",
+                    "uuid": "7e7cb265-f6a0-473b-80f3-05a922948945",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "e2510b41-e9b5-46b4-ac7b-85a77cb2167d": {
+                    "description": "With tomato sauce.",
+                    "imageUrl": null,
+                    "price": 995,
+                    "title": "Spaghetti Napolitana",
+                    "uuid": "e2510b41-e9b5-46b4-ac7b-85a77cb2167d",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "47ce4a5b-0f18-46a4-8668-394ce865cc1a": {
+                    "description": "",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/4a29b740-92f8-4a5c-a3d8-167b79a00339",
+                    "price": 1295,
+                    "title": "Penne Fiore Dell’Amore",
+                    "uuid": "47ce4a5b-0f18-46a4-8668-394ce865cc1a",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "endorsement": {
+                        "text": "Halal",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_check@3x.png"
+                    },
+                    "classifications": []
+                },
+                "99ed21af-5006-4f2f-8528-4f7658cacff0": {
+                    "description": "Mixed-leaf salad, grilled salmon fillet, boiled egg, baby potatoes, olives, tomato, and extra virgin olive oil.",
+                    "imageUrl": null,
+                    "price": 1295,
+                    "title": "Salmon Nicoise Salad",
+                    "uuid": "99ed21af-5006-4f2f-8528-4f7658cacff0",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "endorsement": {
+                        "text": "Halal",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_check@3x.png"
+                    },
+                    "classifications": []
+                },
+                "fdca301e-0470-40c6-94c5-9896895f9d39": {
+                    "description": "Tail-on king prawns with sweet chilli dip.",
+                    "imageUrl": null,
+                    "price": 795,
+                    "title": "King Prawn",
+                    "uuid": "fdca301e-0470-40c6-94c5-9896895f9d39",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "23beeade-9daa-434b-8bdc-33668ab9975b": {
+                    "description": "Served with bread and salad.",
+                    "imageUrl": null,
+                    "price": 995,
+                    "title": "Onions and Mixed Peppers Omelette",
+                    "uuid": "23beeade-9daa-434b-8bdc-33668ab9975b",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "f4b252f7-fd47-4c5f-9553-1f7f87f38ada": {
+                    "description": "On a bed of mixed leaves, Buffalo mozzarella, vine tomato, avocado with extra virgin olive oil.",
+                    "imageUrl": null,
+                    "price": 995,
+                    "title": "Insalata Tricolore",
+                    "uuid": "f4b252f7-fd47-4c5f-9553-1f7f87f38ada",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "82ca4bf2-303d-4342-bcbb-87ffd5524748": {
+                    "description": "Served with bread and salad.",
+                    "imageUrl": null,
+                    "price": 895,
+                    "title": "Spinach and Cheese Omelette",
+                    "uuid": "82ca4bf2-303d-4342-bcbb-87ffd5524748",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "a268854f-b66e-4a02-a56f-39e0bd619f98": {
+                    "description": "",
+                    "imageUrl": null,
+                    "price": 1095,
+                    "title": "Mushroom and Parmesan Risotto",
+                    "uuid": "a268854f-b66e-4a02-a56f-39e0bd619f98",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "121bf9c6-18c7-4c08-902c-1434f1559d90": {
+                    "description": "Chicken escalope with salad and a choice of spaghetti Napolitana or French fries.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/06ebe2ef-b49d-4191-b20f-937d4561ac8b",
+                    "price": 1295,
+                    "title": "Chicken Milanese",
+                    "uuid": "121bf9c6-18c7-4c08-902c-1434f1559d90",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "endorsement": {
+                        "text": "Halal",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_check@3x.png"
+                    },
+                    "classifications": []
+                },
+                "d7fca20a-933b-4208-97b3-4418ac37e4a6": {
+                    "description": "",
+                    "imageUrl": null,
+                    "price": 395,
+                    "title": "Mozzarella Sticks",
+                    "uuid": "d7fca20a-933b-4208-97b3-4418ac37e4a6",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "2f2f98ca-9b17-48e8-9c71-493b35bb1148": {
+                    "description": "With lettuce, fresh tomato, red onion, mix peppers, avocado, mix olives, mix herbs, mix cheeses, and lime and garlic dressing.",
+                    "imageUrl": null,
+                    "price": 695,
+                    "title": "Fiore Salad",
+                    "uuid": "2f2f98ca-9b17-48e8-9c71-493b35bb1148",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "bb7474a3-a890-4291-9def-2615a7aa087b": {
+                    "description": "",
+                    "imageUrl": null,
+                    "price": 395,
+                    "title": "Chunky Skin on Fries",
+                    "uuid": "bb7474a3-a890-4291-9def-2615a7aa087b",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "676b9a0d-3663-4c38-bcab-24474e08b613": {
+                    "description": "",
+                    "imageUrl": null,
+                    "price": 150,
+                    "title": "Coke",
+                    "uuid": "676b9a0d-3663-4c38-bcab-24474e08b613",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "48ab991f-8360-44bf-9b8d-c4f05a576074": {
+                    "description": "With tartar sauce",
+                    "imageUrl": null,
+                    "price": 695,
+                    "title": "Fried Calamari",
+                    "uuid": "48ab991f-8360-44bf-9b8d-c4f05a576074",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                }
+            }
+        },
+        "sections": [
+            {
+                "subsectionUuids": [
+                    "895f07bb-0efc-4d93-98a5-183565d8cb54",
+                    "fa0d3841-9c7d-4ae3-ad72-11479360eab2",
+                    "7f228bee-afe2-4696-93c9-2dc61e542536",
+                    "d2e2a102-f314-4373-bba3-f69f7e2656c8",
+                    "ae84d129-61b9-47d0-8fe7-be022d7c1c54",
+                    "dea2b88c-649e-4cc3-92df-606a07d80e28",
+                    "7b598abc-c1dc-4251-9252-d0dfeb65538b",
+                    "faba8e23-0914-4130-b5b4-93f0eaf6a8cc",
+                    "e8d847b4-f432-4193-8301-4ff588510e04",
+                    "3cc699b3-dbc4-47cb-ac1f-a7fa717fca39",
+                    "f5e6a786-69bc-4408-9775-33fab68e8b4c",
+                    "2dce0d98-98b0-4796-b9a2-d382c7354e32",
+                    "9252203d-0f2e-459a-929a-4b2a1a2490df",
+                    "f2fa2f11-db0f-46a5-ad0c-a5fcb5656054"
+                ],
+                "title": "Menu",
+                "subtitle": "11:59 AM – 11:59 PM",
+                "uuid": "9b77fcda-cf88-4177-abff-4f5f541f4757",
+                "isTop": true,
+                "isOnSale": true
+            }
+        ],
+        "subsectionsMap": {
+            "f5e6a786-69bc-4408-9775-33fab68e8b4c": {
+                "itemUuids": [
+                    "30244025-56ec-4329-9462-d1a0f974a39a",
+                    "91f9c18f-62cc-45a9-b9dc-05558bc012f4",
+                    "651fd568-7c3d-4bcb-aa3c-4353e32c88d8",
+                    "676b9a0d-3663-4c38-bcab-24474e08b613",
+                    "676178cb-1487-44a8-905a-d69f3dba65ce",
+                    "e2dffd18-d885-442e-a43f-ffbdfcca24fe",
+                    "db57d55f-c47b-487f-bcc6-bbd31f0b37fa",
+                    "846bd6be-04fa-457f-8748-115a3ffaa99e"
+                ],
+                "subtitle": null,
+                "title": "Drinks",
+                "uuid": "f5e6a786-69bc-4408-9775-33fab68e8b4c",
+                "displayType": null
+            },
+            "922955ba-9b7c-11e9-ba80-246e963ddc92": {
+                "itemUuids": [
+                    "96134a04-46ce-43eb-8925-0289826d7b07",
+                    "2e07c290-3987-49b9-a872-6bf44b1384da",
+                    "0c2a6f63-afef-4c23-b6a2-79e8e4e16db9"
+                ],
+                "subtitle": null,
+                "title": "Buy one get one free",
+                "uuid": "922955ba-9b7c-11e9-ba80-246e963ddc92",
+                "displayType": null
+            },
+            "cbc480a6-ba33-490e-84f2-9b3b92dc1563": {
+                "itemUuids": [
+                    "694c2382-5a52-4173-a995-cd88708d13ed"
+                ],
+                "subtitle": null,
+                "title": "Sweet Waffles",
+                "uuid": "cbc480a6-ba33-490e-84f2-9b3b92dc1563",
+                "displayType": null
+            },
+            "dea2b88c-649e-4cc3-92df-606a07d80e28": {
+                "itemUuids": [
+                    "c7ecd4c7-153c-4305-9999-b39fca351ed8",
+                    "6951ea64-20aa-443a-b20c-e7d5ba4ff24c",
+                    "82ca4bf2-303d-4342-bcbb-87ffd5524748",
+                    "f1e5e3c0-dbe8-4c1d-888e-54023e25100a",
+                    "23beeade-9daa-434b-8bdc-33668ab9975b"
+                ],
+                "subtitle": null,
+                "title": "Omelette",
+                "uuid": "dea2b88c-649e-4cc3-92df-606a07d80e28",
+                "displayType": null
+            },
+            "f2fa2f11-db0f-46a5-ad0c-a5fcb5656054": {
+                "itemUuids": [
+                    "72196d58-c0df-42be-8d37-7ba44e9ecc30",
+                    "58507f82-dc9d-488d-811f-ffbe663aca13",
+                    "f45317cc-6512-40a9-8672-55dc2a46d1d2"
+                ],
+                "subtitle": null,
+                "title": "Desserts",
+                "uuid": "f2fa2f11-db0f-46a5-ad0c-a5fcb5656054",
+                "displayType": null
+            },
+            "895f07bb-0efc-4d93-98a5-183565d8cb54": {
+                "itemUuids": [
+                    "af562869-44b4-4464-901f-2314b909c0e9",
+                    "5b8e4f96-e2f7-44dd-854d-cf116edd8ef2",
+                    "48ab991f-8360-44bf-9b8d-c4f05a576074",
+                    "fdca301e-0470-40c6-94c5-9896895f9d39",
+                    "f629a576-a185-415b-8768-711cd37cdc72",
+                    "5aaa037f-eb8c-491a-829b-eabaac42838a",
+                    "0c2a6f63-afef-4c23-b6a2-79e8e4e16db9"
+                ],
+                "subtitle": null,
+                "title": "Starters",
+                "uuid": "895f07bb-0efc-4d93-98a5-183565d8cb54",
+                "displayType": null
+            },
+            "e8d847b4-f432-4193-8301-4ff588510e04": {
+                "itemUuids": [
+                    "121bf9c6-18c7-4c08-902c-1434f1559d90",
+                    "7ed1b5f3-edc1-4a24-a51c-abbd3dd59684"
+                ],
+                "subtitle": null,
+                "title": "Meat",
+                "uuid": "e8d847b4-f432-4193-8301-4ff588510e04",
+                "displayType": null
+            },
+            "ae84d129-61b9-47d0-8fe7-be022d7c1c54": {
+                "itemUuids": [
+                    "4a09d356-4d03-4a9f-9bb7-2f73a0fd85c0"
+                ],
+                "subtitle": null,
+                "title": "Hot Bites",
+                "uuid": "ae84d129-61b9-47d0-8fe7-be022d7c1c54",
+                "displayType": null
+            },
+            "ee73b605-7f27-4b8f-bf4f-9c7c46552c94": {
+                "itemUuids": [
+                    "205ec924-8962-47f7-b067-741f29826771",
+                    "29772ecb-924c-49a3-b878-99886948ebae"
+                ],
+                "subtitle": null,
+                "title": "Scrambled Eggs",
+                "uuid": "ee73b605-7f27-4b8f-bf4f-9c7c46552c94",
+                "displayType": null
+            },
+            "dc625a08-f652-4525-a369-9709c105cda0": {
+                "itemUuids": [
+                    "d58af86f-aded-4efb-b887-e50383be1436",
+                    "50349f28-69ee-442d-a20f-e365ec938afb"
+                ],
+                "subtitle": null,
+                "title": "Full Breakfast",
+                "uuid": "dc625a08-f652-4525-a369-9709c105cda0",
+                "displayType": null
+            },
+            "7d67ccda-83c9-432f-94fa-af69e6277cd3": {
+                "itemUuids": [
+                    "f51897cf-1ba3-4832-ad30-0c276ed0b914",
+                    "061886bf-57dd-4d25-a0a7-534b81dc9fde",
+                    "c8b6fb81-061e-49cb-96b7-0287c91e2fa0",
+                    "9d34bcaa-41fb-4459-8f61-d6550a5cca70",
+                    "7e6633d7-d32d-4df6-868e-4758c29db106",
+                    "aa64d55a-27bb-4343-ad92-c4599afc538f",
+                    "4c835503-45f6-49c9-ba95-b632db97691b"
+                ],
+                "subtitle": null,
+                "title": "Dessert",
+                "uuid": "7d67ccda-83c9-432f-94fa-af69e6277cd3",
+                "displayType": null
+            },
+            "faba8e23-0914-4130-b5b4-93f0eaf6a8cc": {
+                "itemUuids": [
+                    "a268854f-b66e-4a02-a56f-39e0bd619f98",
+                    "5dc76894-d13d-4b73-89c0-415cfc5cb8ec",
+                    "7e7cb265-f6a0-473b-80f3-05a922948945"
+                ],
+                "subtitle": null,
+                "title": "Risotto",
+                "uuid": "faba8e23-0914-4130-b5b4-93f0eaf6a8cc",
+                "displayType": null
+            },
+            "61cdde27-2214-46d7-9157-81c2a86d32e4": {
+                "itemUuids": [
+                    "dc9b1628-4dca-4c18-9931-fa35bf0edfb9",
+                    "789b88f0-f69e-4926-9fdf-aa4feb95dc3e",
+                    "3ac36f46-2a32-43d1-8ff7-b89fd036832b"
+                ],
+                "subtitle": null,
+                "title": "Omelette",
+                "uuid": "61cdde27-2214-46d7-9157-81c2a86d32e4",
+                "displayType": null
+            },
+            "7b598abc-c1dc-4251-9252-d0dfeb65538b": {
+                "itemUuids": [
+                    "e2510b41-e9b5-46b4-ac7b-85a77cb2167d",
+                    "96134a04-46ce-43eb-8925-0289826d7b07",
+                    "b7ba91f2-6b73-44ec-af2a-d6230dbf86ae",
+                    "2e07c290-3987-49b9-a872-6bf44b1384da",
+                    "3abaeb6c-6554-4fcb-bd05-320a23c71302",
+                    "47ce4a5b-0f18-46a4-8668-394ce865cc1a",
+                    "64838141-3dbf-48ef-b9a1-4e4fab860c08"
+                ],
+                "subtitle": null,
+                "title": "Pasta and Risotto",
+                "uuid": "7b598abc-c1dc-4251-9252-d0dfeb65538b",
+                "displayType": null
+            },
+            "49d66634-afb8-4b19-82a6-bff2e95c6b4c": {
+                "itemUuids": [
+                    "5f3634fb-8e6b-4421-855a-5336e0ce44f7",
+                    "e65f3f60-2508-48d5-866d-c0b6a6e599a9"
+                ],
+                "subtitle": null,
+                "title": "Croque",
+                "uuid": "49d66634-afb8-4b19-82a6-bff2e95c6b4c",
+                "displayType": null
+            },
+            "523b6592-d7b7-48e5-ab66-98d64bf5b9fa": {
+                "itemUuids": [
+                    "fc159b3c-a6c2-477b-8dfe-d05b3b0857ed"
+                ],
+                "subtitle": null,
+                "title": "Waffle",
+                "uuid": "523b6592-d7b7-48e5-ab66-98d64bf5b9fa",
+                "displayType": null
+            },
+            "bf37c8bf-dd7f-4e54-9150-05ee531f7a8d": {
+                "itemUuids": [
+                    "eb206925-30e4-4a0c-9043-2aee4d9828a2",
+                    "a0bc3bf0-9326-4bf7-9253-84d004b6cdb5",
+                    "b0a6fad8-acf5-4f88-a900-6d1e4ae01099",
+                    "01b8f8c8-6df0-4687-80fc-c7b3a858d979",
+                    "0541efdf-ea64-46e0-99c2-de13974a67c9",
+                    "1c3babc7-43e4-4cd4-bc92-f4d690397f1d",
+                    "cb9e4b10-2b13-44c3-8a55-fa51c91b984a"
+                ],
+                "subtitle": null,
+                "title": "Smoothies",
+                "uuid": "bf37c8bf-dd7f-4e54-9150-05ee531f7a8d",
+                "displayType": null
+            },
+            "7f228bee-afe2-4696-93c9-2dc61e542536": {
+                "itemUuids": [
+                    "f4b252f7-fd47-4c5f-9553-1f7f87f38ada",
+                    "d2494f3d-e2b6-4f84-b30c-4f6ab1f3a1a5",
+                    "2f2f98ca-9b17-48e8-9c71-493b35bb1148",
+                    "99ed21af-5006-4f2f-8528-4f7658cacff0"
+                ],
+                "subtitle": null,
+                "title": "Salad",
+                "uuid": "7f228bee-afe2-4696-93c9-2dc61e542536",
+                "displayType": null
+            },
+            "d2e2a102-f314-4373-bba3-f69f7e2656c8": {
+                "itemUuids": [
+                    "fa6bfdf9-b757-4320-91c6-90dcf60535c5",
+                    "1ae22150-0898-4744-b310-30acb336599a",
+                    "0804775d-1a84-4a0d-b8c5-04210660487c"
+                ],
+                "subtitle": null,
+                "title": "Proper Burgers",
+                "uuid": "d2e2a102-f314-4373-bba3-f69f7e2656c8",
+                "displayType": null
+            },
+            "fa0d3841-9c7d-4ae3-ad72-11479360eab2": {
+                "itemUuids": [
+                    "bb7474a3-a890-4291-9def-2615a7aa087b",
+                    "721a2788-f790-4b7f-9614-76bd777e0e53",
+                    "d7fca20a-933b-4208-97b3-4418ac37e4a6",
+                    "2634832f-ee64-4856-8a2d-eb224df4146b",
+                    "a6f5c7b2-55e6-484d-9653-14ccd05f1869",
+                    "b40a3aa3-528d-449f-8a8a-8520f8279aae"
+                ],
+                "subtitle": null,
+                "title": "Side Order",
+                "uuid": "fa0d3841-9c7d-4ae3-ad72-11479360eab2",
+                "displayType": null
+            },
+            "b70454a0-c90a-438b-956f-a8126d5b1031": {
+                "itemUuids": [
+                    "daf768d3-6f04-4c32-961b-b2eb5288edfa"
+                ],
+                "subtitle": null,
+                "title": "Crêpe",
+                "uuid": "b70454a0-c90a-438b-956f-a8126d5b1031",
+                "displayType": null
+            },
+            "3cc699b3-dbc4-47cb-ac1f-a7fa717fca39": {
+                "itemUuids": [
+                    "bb25105a-2ada-449d-ba0f-580ac4cfc3dc",
+                    "ac3f1c92-65db-4707-a823-101159300a94"
+                ],
+                "subtitle": null,
+                "title": "Fish",
+                "uuid": "3cc699b3-dbc4-47cb-ac1f-a7fa717fca39",
+                "displayType": null
+            },
+            "5154c273-e485-4020-832e-46dd627b24ff": {
+                "itemUuids": [
+                    "ed510c4c-6fcb-4104-b5b5-adea4f37dd2f",
+                    "67a17524-2ed6-4213-973c-9e5a7ffd17d2",
+                    "bb683215-9491-4af7-975f-84b5b96248d4",
+                    "2d09b5f2-e3a8-480f-a263-559905675f6c",
+                    "3e8edd3c-c4fe-4ad3-8102-387578930ced",
+                    "7fe62399-1d7f-4b3c-99e6-b3585dfd28ff",
+                    "553ac021-d9f4-4859-86f8-e5993816b5ad",
+                    "4aa86e94-85d8-4f91-a416-62ad8a2825e1",
+                    "65d4b628-3311-4391-8536-5a80d396cec6",
+                    "83ab6ec3-e547-42b2-93d3-082a8b3a0797",
+                    "f9cd5fa4-3feb-471c-9a45-21c79ab7eca6",
+                    "07374d37-7405-43a3-988c-aeae0752fd42",
+                    "1620b496-c2bd-491a-b645-d66de38c752b",
+                    "5f71304d-8b7c-4a67-a019-2bd39ad6234b"
+                ],
+                "subtitle": null,
+                "title": "Breakfast Bagel",
+                "uuid": "5154c273-e485-4020-832e-46dd627b24ff",
+                "displayType": null
+            },
+            "2dce0d98-98b0-4796-b9a2-d382c7354e32": {
+                "itemUuids": [
+                    "929eaa38-61ee-4cc6-bd15-b70d83395317",
+                    "06a34320-4d05-4d4c-9dcc-f0718863efb8",
+                    "65b54990-9553-49da-9be8-024285cbc3bc",
+                    "b60d3029-a289-4b14-b111-d77bb9ba6dd8"
+                ],
+                "subtitle": null,
+                "title": "Milkshakes",
+                "uuid": "2dce0d98-98b0-4796-b9a2-d382c7354e32",
+                "displayType": null
+            },
+            "9252203d-0f2e-459a-929a-4b2a1a2490df": {
+                "itemUuids": [
+                    "f865943a-8d1a-4cae-a17c-731f2c471d26",
+                    "76ecdc6f-40e7-4838-9da3-a4a49c6d7882",
+                    "3cf57612-c220-49f8-a3c7-db659458f668"
+                ],
+                "subtitle": null,
+                "title": "Moes De-Luxe Shakes",
+                "uuid": "9252203d-0f2e-459a-929a-4b2a1a2490df",
+                "displayType": null
+            },
+            "44ca0c4d-8f1d-482c-bab9-65abdc937423": {
+                "itemUuids": [
+                    "2c53bf7c-f5da-4519-88bb-288c42f64a4e"
+                ],
+                "subtitle": null,
+                "title": "Toast",
+                "uuid": "44ca0c4d-8f1d-482c-bab9-65abdc937423",
+                "displayType": null
+            },
+            "4f999e46-c510-4d79-9d4c-746997983e54": {
+                "itemUuids": [
+                    "da18af23-80f8-4328-9f68-b5b8c41942c7",
+                    "c63be904-091f-4132-bbeb-397bf70f4564",
+                    "75511435-964a-44a0-b514-5df4ca43bc7f"
+                ],
+                "subtitle": null,
+                "title": "Poached Eggs",
+                "uuid": "4f999e46-c510-4d79-9d4c-746997983e54",
+                "displayType": null
+            },
+            "1aea1a21-ee5d-4723-b139-6b6441f37ab8": {
+                "itemUuids": [
+                    "01f264a3-7b27-4608-9d03-3f89f9875c23",
+                    "6a07605b-65ca-4d89-a8f1-6f934e87f958",
+                    "10455c91-8567-4a70-9c7b-80330812884c",
+                    "009ddf4a-13eb-4164-b96c-4f7678758384",
+                    "ef1ee5e0-a25c-4999-b657-e51e7a89a98a",
+                    "a1d6768f-cfb5-4384-9830-d2ac56ca6a48",
+                    "9cfd7499-f1ce-4a22-839e-f17b5c93e927",
+                    "161ee628-d213-47af-8f0f-bd6325fabc1b"
+                ],
+                "subtitle": null,
+                "title": "Drinks",
+                "uuid": "1aea1a21-ee5d-4723-b139-6b6441f37ab8",
+                "displayType": null
+            }
+        },
+        "title": "Fiore Del Amore (Vauxhall)",
+        "uuid": "cb145a09-1ac9-4abb-9004-27fcdafb48ed",
+        "categories": [
+            "₴",
+            "Халяль",
+            "Італійська"
+        ],
+        "cuisineList": [
+            "Халяль",
+            "Італійська"
+        ],
+        "priceBucket": "₴",
+        "etaRange": {
+            "text": "25–35 min",
+            "iconUrl": ""
+        },
+        "ratingBadge": {
+            "text": "<span><span style=\"font-family: inherit; color: #3a3a48;\">4.3 <img src=\"https://d1a3f4spazzrp4.cloudfront.net/static/images/Star_Black_Eats_3.png\" width=\"14\" height=\"14\" vertical-align=\"middle\"> </span><span style=\"font-family: inherit; color: #757575;\">(52)</span></span>"
+        },
+        "disclaimerBadge": {
+            "text": "<span style=\"font-family: inherit;\">Allergies, intolerances and dietary requirements: before ordering, please contact the restaurant directly and ask to speak to a member of staff who can assist if you require information about ingredients and help cater for your needs. For more information on food safety and hygiene, please visit the <a href=\"http://ratings.food.gov.uk/\" style=\"color:#61ad5f;\">Food Standards Agency</a></span>"
+        },
+        "fareBadge": null,
+        "fareInfo": {
+            "serviceFee": 30,
+            "serviceFeeCents": 3000
+        },
+        "promotion": null,
+        "shouldIndex": false,
+        "heroImageUrls": [
+            {
+                "url": "https://d1ralsognjng37.cloudfront.net/977f21ec-dafb-47f8-98c3-6ebd6014cffe",
+                "width": 240
+            },
+            {
+                "url": "https://d1ralsognjng37.cloudfront.net/3b722fb1-d838-4eab-a12e-178c3907033a",
+                "width": 550
+            },
+            {
+                "url": "https://d1ralsognjng37.cloudfront.net/e62fa1fa-b033-4468-a958-208c5aac66fa",
+                "width": 640
+            },
+            {
+                "url": "https://d1ralsognjng37.cloudfront.net/8d94c6c5-0b00-41c3-b3d6-59f6beacfd6b",
+                "width": 750
+            },
+            {
+                "url": "https://d1ralsognjng37.cloudfront.net/0a8d9942-0dfa-4ba4-9d36-cc21ee618dfe",
+                "width": 1080
+            },
+            {
+                "url": "https://d1ralsognjng37.cloudfront.net/3012b8ce-6473-4395-9723-f5cbcd978ccf",
+                "width": 2880
+            }
+        ],
+        "isOpen": true,
+        "currencyCode": "GBP",
+        "closedMessage": "Currently unavailable",
+        "location": {
+            "address": "187 Hercules Rd, South Bank, London Se1 7ld, Uk, Unite 3, England SE1 7LD",
+            "streetAddress": "187 Hercules Rd",
+            "city": "",
+            "country": "GB",
+            "postalCode": "SE1 7LD",
+            "region": "England",
+            "latitude": 51.49632709999999,
+            "longitude": -0.1150737
+        },
+        "isDeliveryThirdParty": false,
+        "hours": [
+            {
+                "dayRange": "Every Day",
+                "sectionHours": [
+                    {
+                        "startTime": 0,
+                        "endTime": 60,
+                        "sectionTitle": "Menu"
+                    },
+                    {
+                        "startTime": 719,
+                        "endTime": 1439,
+                        "sectionTitle": "Menu"
+                    }
+                ]
+            }
+        ],
+        "disableOrderInstruction": false,
+        "disableCheckoutInstruction": false,
+        "nuggets": [],
+        "isWithinDeliveryRange": false,
+        "slug": "fiore-del-amore-vauxhall",
+        "citySlug": "london",
+        "phoneNumber": "+447447195456",
+        "metaJson": "{\"@context\":\"http:\\u002F\\u002Fschema.org\",\"@type\":\"Restaurant\",\"@id\":\"https:\\u002F\\u002Fwww.ubereats.com\\u002Fen-UA\\u002Flondon\\u002Ffood-delivery\\u002Ffiore-del-amore-vauxhall\\u002FyxRaCRrJSruQBCf82vtI7Q\\u002F\",\"name\":\"Fiore Del Amore (Vauxhall)\",\"priceRange\":\"₴\",\"potentialAction\":{\"@type\":\"OrderAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\\u002F\\u002Fwww.ubereats.com\\u002Fen-UA\\u002Flondon\\u002Ffood-delivery\\u002Ffiore-del-amore-vauxhall\\u002FyxRaCRrJSruQBCf82vtI7Q\\u002F?utm_campaign=order-action&utm_medium=organic\",\"inLanguage\":\"English\",\"actionPlatform\":[\"http:\\u002F\\u002Fschema.org\\u002FDesktopWebPlatform\",\"http:\\u002F\\u002Fschema.org\\u002FMobileWebPlatform\"]},\"deliveryMethod\":[\"http:\\u002F\\u002Fpurl.org\\u002Fgoodrelations\\u002Fv1#DeliveryModeOwnFleet\"]},\"geo\":{\"@type\":\"GeoCoordinates\",\"latitude\":51.49632709999999,\"longitude\":-0.1150737}}",
+        "promoTrackings": [],
+        "suggestedPromotion": {
+            "text": "",
+            "promotionUuid": ""
+        },
+        "supportedDiningModes": [
+            {
+                "mode": "DELIVERY",
+                "title": "Delivery",
+                "isSelected": true,
+                "isAvailable": true
+            }
+        ],
+        "isPreview": false,
+        "pinnedInfo": null
+    }
+}

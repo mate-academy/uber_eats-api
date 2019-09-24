@@ -1,0 +1,227 @@
+{
+    "status": "success",
+    "data": {
+        "sectionEntitiesMap": {
+            "7ed9124b-b95a-5360-898d-4dae54ef2103": {
+                "68e622e6-1246-5db6-957d-2ac5c6610a90": {
+                    "description": "The original and still the best! Enjoy twelve of our signature Original Glazed doughnuts. All our doughnuts are freshly made but we cannot offer hot doughnuts as part of delivery.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/f64ad168-ae0f-4ee7-9b50-dc06dc014094.jpeg",
+                    "price": 1495,
+                    "title": "Original Glazed Dozen",
+                    "uuid": "68e622e6-1246-5db6-957d-2ac5c6610a90",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "25884604-86a6-5c80-81bc-5bc29b543ccc": {
+                    "description": "2 dozen boxes of our melt-in-the-mouth Original Glazed",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/37274068-b807-4c7c-9aae-36598064e74a.jpeg",
+                    "price": 2395,
+                    "title": "Original Glazed Double Dozen",
+                    "uuid": "25884604-86a6-5c80-81bc-5bc29b543ccc",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "82e2faa8-e385-5572-86c6-4931e70c756e": {
+                    "description": "Buy 4 Sharer Dozens and get 1 extra dozen free. Choose our Sharer Dozen option to discover some of our latest and greatest doughnuts.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/c3a3d33b-2aa7-4489-9de5-60bb9e321f14.jpeg",
+                    "price": 6980,
+                    "title": "Sharer Dozen Bundle (5 Sharer Dozen)",
+                    "uuid": "82e2faa8-e385-5572-86c6-4931e70c756e",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "1a8e76bb-e92e-5a45-b859-637f0e8b2928": {
+                    "description": "Choose our Sharer Dozen option to discover some of our latest and greatest doughnuts.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/a67493e6-6254-4087-908c-96a3f61d0826.jpeg",
+                    "price": 1745,
+                    "title": "Sharer Dozen",
+                    "uuid": "1a8e76bb-e92e-5a45-b859-637f0e8b2928",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "7866284f-a561-56f3-a088-60a9ca0e1417": {
+                    "description": "Sharer Dozen plus Original Glazed Dozen, the perfect mix.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/11c27c9b-6d90-4630-8afe-5b9733209540.jpeg",
+                    "price": 2645,
+                    "title": "Sharer & Original Glazed Double Dozen",
+                    "uuid": "7866284f-a561-56f3-a088-60a9ca0e1417",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                }
+            }
+        },
+        "sections": [
+            {
+                "subsectionUuids": [
+                    "c6285f2f-e3d8-58f4-bec7-888a70d26f97",
+                    "3577f20d-311e-5bd8-a9dc-bdf6e3f7cdf6"
+                ],
+                "title": "Menu",
+                "subtitle": "12:00 AM – 11:59 PM",
+                "uuid": "7ed9124b-b95a-5360-898d-4dae54ef2103",
+                "isTop": true,
+                "isOnSale": true
+            }
+        ],
+        "subsectionsMap": {
+            "3577f20d-311e-5bd8-a9dc-bdf6e3f7cdf6": {
+                "itemUuids": [
+                    "82e2faa8-e385-5572-86c6-4931e70c756e"
+                ],
+                "subtitle": "",
+                "title": "Bundles",
+                "uuid": "3577f20d-311e-5bd8-a9dc-bdf6e3f7cdf6",
+                "displayType": null
+            },
+            "c6285f2f-e3d8-58f4-bec7-888a70d26f97": {
+                "itemUuids": [
+                    "1a8e76bb-e92e-5a45-b859-637f0e8b2928",
+                    "7866284f-a561-56f3-a088-60a9ca0e1417",
+                    "68e622e6-1246-5db6-957d-2ac5c6610a90",
+                    "25884604-86a6-5c80-81bc-5bc29b543ccc"
+                ],
+                "subtitle": "",
+                "title": "Dozens",
+                "uuid": "c6285f2f-e3d8-58f4-bec7-888a70d26f97",
+                "displayType": null
+            }
+        },
+        "title": "Krispy Kreme (Warren Street)",
+        "uuid": "5f62f33c-1040-4819-a375-5939f3bbb4d8",
+        "categories": [
+            "₴",
+            "Десерти",
+            "Американська"
+        ],
+        "cuisineList": [
+            "Десерти",
+            "Американська"
+        ],
+        "priceBucket": "₴",
+        "etaRange": {
+            "text": "20–30 min",
+            "iconUrl": ""
+        },
+        "ratingBadge": {
+            "text": "<span><span style=\"font-family: inherit; color: #3a3a48;\">4.0 <img src=\"https://d1a3f4spazzrp4.cloudfront.net/static/images/Star_Black_Eats_3.png\" width=\"14\" height=\"14\" vertical-align=\"middle\"> </span><span style=\"font-family: inherit; color: #757575;\">(23)</span></span>"
+        },
+        "disclaimerBadge": null,
+        "fareBadge": null,
+        "fareInfo": {
+            "serviceFee": 30,
+            "serviceFeeCents": 3000
+        },
+        "promotion": null,
+        "shouldIndex": false,
+        "heroImageUrls": [
+            {
+                "url": "https://d1ralsognjng37.cloudfront.net/9e6d3b88-8a76-46db-940b-73a96a5b6ed5",
+                "width": 240
+            },
+            {
+                "url": "https://d1ralsognjng37.cloudfront.net/11b93731-d866-41bc-bf15-a73624a68ae3",
+                "width": 550
+            },
+            {
+                "url": "https://d1ralsognjng37.cloudfront.net/29f2ee84-952a-45c3-b577-232e4cecc0fc",
+                "width": 640
+            },
+            {
+                "url": "https://d1ralsognjng37.cloudfront.net/bd80a829-e61b-4aff-b793-b737e89eaccb",
+                "width": 750
+            },
+            {
+                "url": "https://d1ralsognjng37.cloudfront.net/f63857a1-b88e-4a36-8835-712b5df6fd54",
+                "width": 1080
+            },
+            {
+                "url": "https://d1ralsognjng37.cloudfront.net/3a8b8812-87f9-437a-9573-b2520986b8b7",
+                "width": 2880
+            }
+        ],
+        "isOpen": true,
+        "currencyCode": "GBP",
+        "closedMessage": "Currently unavailable",
+        "location": {
+            "address": "Warren St, 74, England W1T 5NZ",
+            "streetAddress": "Warren St",
+            "city": "",
+            "country": "GB",
+            "postalCode": "W1T 5NZ",
+            "region": "England",
+            "latitude": 51.5243711,
+            "longitude": -0.13926739999999999
+        },
+        "isDeliveryThirdParty": false,
+        "hours": [
+            {
+                "dayRange": "Every Day",
+                "sectionHours": [
+                    {
+                        "startTime": 0,
+                        "endTime": 1439,
+                        "sectionTitle": ""
+                    }
+                ]
+            }
+        ],
+        "disableOrderInstruction": false,
+        "disableCheckoutInstruction": false,
+        "nuggets": [],
+        "isWithinDeliveryRange": false,
+        "slug": "krispy-kreme-warren-street",
+        "citySlug": "london",
+        "phoneNumber": "+442073880915",
+        "metaJson": "{\"@context\":\"http:\\u002F\\u002Fschema.org\",\"@type\":\"Restaurant\",\"@id\":\"https:\\u002F\\u002Fwww.ubereats.com\\u002Fen-UA\\u002Flondon\\u002Ffood-delivery\\u002Fkrispy-kreme-warren-street\\u002FX2LzPBBASBmjdVk587u02A\\u002F\",\"name\":\"Krispy Kreme (Warren Street)\",\"priceRange\":\"₴\",\"potentialAction\":{\"@type\":\"OrderAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\\u002F\\u002Fwww.ubereats.com\\u002Fen-UA\\u002Flondon\\u002Ffood-delivery\\u002Fkrispy-kreme-warren-street\\u002FX2LzPBBASBmjdVk587u02A\\u002F?utm_campaign=order-action&utm_medium=organic\",\"inLanguage\":\"English\",\"actionPlatform\":[\"http:\\u002F\\u002Fschema.org\\u002FDesktopWebPlatform\",\"http:\\u002F\\u002Fschema.org\\u002FMobileWebPlatform\"]},\"deliveryMethod\":[\"http:\\u002F\\u002Fpurl.org\\u002Fgoodrelations\\u002Fv1#DeliveryModeOwnFleet\"]},\"geo\":{\"@type\":\"GeoCoordinates\",\"latitude\":51.5243711,\"longitude\":-0.13926739999999999}}",
+        "promoTrackings": [],
+        "suggestedPromotion": {
+            "text": "",
+            "promotionUuid": ""
+        },
+        "supportedDiningModes": [
+            {
+                "mode": "DELIVERY",
+                "title": "Delivery",
+                "isSelected": true,
+                "isAvailable": true
+            }
+        ],
+        "isPreview": false,
+        "pinnedInfo": null
+    }
+}

@@ -1,0 +1,1013 @@
+{
+    "status": "success",
+    "data": {
+        "sectionEntitiesMap": {
+            "0dba4a7c-ccdf-5b77-9662-05bf1de55877": {
+                "f69e8701-b517-5ebd-9e04-bcaa921bd288": {
+                    "description": "Classic, hearty and rustic, with tomatoes, cucumber, pepper, Greek olives, red onion, feta and olive oil, finished with oregano.",
+                    "imageUrl": null,
+                    "price": 495,
+                    "title": "Greek Salad (V GF)",
+                    "uuid": "f69e8701-b517-5ebd-9e04-bcaa921bd288",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "ffd5bf35-e519-58b5-8a50-4916c101b0c5": {
+                    "description": "Spinach and hearty giant beans, cooked in a tomato and garlic sauce.\n",
+                    "imageUrl": null,
+                    "price": 535,
+                    "title": "Gigandes with Spinach (V VG GF)",
+                    "uuid": "ffd5bf35-e519-58b5-8a50-4916c101b0c5",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "5642c28b-9ad2-5fe7-aaea-2945cca6be9b": {
+                    "description": "Slow-roasted pork belly, with oregano, paprika and topped with red onion.",
+                    "imageUrl": null,
+                    "price": 710,
+                    "title": "Pork Belly (GF)",
+                    "uuid": "5642c28b-9ad2-5fe7-aaea-2945cca6be9b",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "5dad92c6-2a91-5fc1-a3a7-cdea41bdc401": {
+                    "description": "Traditional Greek Sausage from Thrace chargrilled and served with honey & mustard dressing",
+                    "imageUrl": null,
+                    "price": 660,
+                    "title": "Loukaniko Beef & Pork Sausage Skewer",
+                    "uuid": "5dad92c6-2a91-5fc1-a3a7-cdea41bdc401",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "2d92a446-0fe0-57ab-bde0-a7eebfff9db1": {
+                    "description": "Chicken, marinated with Greek herbs, served on a bed of tzatziki, and topped with onion, tomatoes and paprika.",
+                    "imageUrl": null,
+                    "price": 710,
+                    "title": "Chicken Monastiraki (GF)",
+                    "uuid": "2d92a446-0fe0-57ab-bde0-a7eebfff9db1",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "17b65949-40c1-5fd6-ba82-4f62fd755d1b": {
+                    "description": "Roasted pepper and cheese dip, finished with a touch of chilli.",
+                    "imageUrl": null,
+                    "price": 510,
+                    "title": "Spicy Feta Dip (Htipiti) (V GF)",
+                    "uuid": "17b65949-40c1-5fd6-ba82-4f62fd755d1b",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "cdfe1e20-3c66-5b4c-826f-1c2dd3fa0de6": {
+                    "description": null,
+                    "imageUrl": null,
+                    "price": 275,
+                    "title": "Diet Coke",
+                    "uuid": "cdfe1e20-3c66-5b4c-826f-1c2dd3fa0de6",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "11efa2c1-8e12-54cf-94bc-5a048c984c7f": {
+                    "description": "Wrapped in Greek flatbread with chips inside, with homemade tzatziki, fresh tomatoes, red onion and sweet paprika.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/c6be9470-052a-43f0-b57c-d59b0d9966be.jpeg",
+                    "price": 650,
+                    "title": "Chicken Souvlaki Wrap*",
+                    "uuid": "11efa2c1-8e12-54cf-94bc-5a048c984c7f",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "c8a234ad-8ced-583e-8e36-43ecfc9f16d4": {
+                    "description": "Served with saffron rice, Greek salad, tzatziki dip and Greek flatbread.",
+                    "imageUrl": null,
+                    "price": 950,
+                    "title": "Lamb Meatballs Box",
+                    "uuid": "c8a234ad-8ced-583e-8e36-43ecfc9f16d4",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "37cf3d42-c522-5932-bbe5-824edb3fc443": {
+                    "description": "Lamb, minced and marinated in Anatolian spices and mixed with feta from Epiros. Served with minted Greek yoghurt.",
+                    "imageUrl": null,
+                    "price": 660,
+                    "title": "Lamb Kefte",
+                    "uuid": "37cf3d42-c522-5932-bbe5-824edb3fc443",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "ac4a9dbd-bb35-5b2e-b40c-8324a56b1d09": {
+                    "description": "Wrapped in Greek flatbread with chips inside, with homemade tzatziki, fresh tomatoes, red onion and sweet paprika. (* No tzatziki in the Falafel, Jackfruit & vegan Meatballs Souvlaki Wrap).",
+                    "imageUrl": null,
+                    "price": 650,
+                    "title": "Jackfruit Gyros with Vegan Aioli Souvlaki Wrap*",
+                    "uuid": "ac4a9dbd-bb35-5b2e-b40c-8324a56b1d09",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "9a34d7ce-b750-5522-9ef7-7bb482bdf9fe": {
+                    "description": null,
+                    "imageUrl": null,
+                    "price": 275,
+                    "title": "Epsa Orangeade",
+                    "uuid": "9a34d7ce-b750-5522-9ef7-7bb482bdf9fe",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "6b42760e-29b6-503c-a649-b2a38ad904e7": {
+                    "description": "Choose your selection (can be made Vegetarian depending on the selection)",
+                    "imageUrl": null,
+                    "price": 4300,
+                    "title": "Santorini (Serves Two)",
+                    "uuid": "6b42760e-29b6-503c-a649-b2a38ad904e7",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "51d9d882-2f9d-526f-b0d1-fb245d359a84": {
+                    "description": "Tonia`s recipes of tiger prawns in a rich tomato sauce , with bulgur wheat, spinach, pickled peppers and feta.",
+                    "imageUrl": null,
+                    "price": 740,
+                    "title": "Tonia`s Prawns",
+                    "uuid": "51d9d882-2f9d-526f-b0d1-fb245d359a84",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "884a18c3-ccf4-55a9-b66b-fe0d3330b884": {
+                    "description": "Handmade lamb patties, grilled and topped with Greek yoghurt, tomato sauce, onion and sprinkled with paprika.",
+                    "imageUrl": null,
+                    "price": 710,
+                    "title": "Lamb Meatballs",
+                    "uuid": "884a18c3-ccf4-55a9-b66b-fe0d3330b884",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "7773ec25-7c53-5b5a-80b6-0e1a8107d518": {
+                    "description": "Wrapped in Greek flatbread with chips inside, with homemade tzatziki, fresh tomatoes, red onion and sweet paprika.",
+                    "imageUrl": null,
+                    "price": 650,
+                    "title": "Lamb Meatballs Souvlaki*",
+                    "uuid": "7773ec25-7c53-5b5a-80b6-0e1a8107d518",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "bfa3ca04-148b-56eb-ab87-19f62d074a7c": {
+                    "description": "Tossed in lemon juice, olive oil and oregano.",
+                    "imageUrl": null,
+                    "price": 360,
+                    "title": "New Potatoes (V VG GF)",
+                    "uuid": "bfa3ca04-148b-56eb-ab87-19f62d074a7c",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "24406157-be1f-559f-af21-366d68aa77ff": {
+                    "description": "Served with saffron rice, Greek salad, tzatziki dip and Greek flatbread.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/1d563793-684c-42a1-8805-ea5450fa23b2.jpeg",
+                    "price": 950,
+                    "title": "Pork Belly Box",
+                    "uuid": "24406157-be1f-559f-af21-366d68aa77ff",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "9d8ad597-2c27-5feb-8501-9ac4d690af30": {
+                    "description": "Cool tangy Greek yoghurt with cucumber and garlic.",
+                    "imageUrl": null,
+                    "price": 485,
+                    "title": "Tzatziki (V GF)",
+                    "uuid": "9d8ad597-2c27-5feb-8501-9ac4d690af30",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "ee22a495-0a05-5d00-815a-e525688c11b5": {
+                    "description": "Served with saffron rice, Greek salad, tzatziki dip and Greek flatbread.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/5d6b79f0-0264-4cd3-93cd-76cc972d3999.jpeg",
+                    "price": 950,
+                    "title": "Falafel Box (V)",
+                    "uuid": "ee22a495-0a05-5d00-815a-e525688c11b5",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "caa65df7-f725-5b71-95b1-e5cc73072b3c": {
+                    "description": "Fluffy, light and fried to perfection.",
+                    "imageUrl": null,
+                    "price": 385,
+                    "title": "Chips (V VG)",
+                    "uuid": "caa65df7-f725-5b71-95b1-e5cc73072b3c",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "a43bc3fd-90eb-5a40-8f0f-93a3b3c55891": {
+                    "description": null,
+                    "imageUrl": null,
+                    "price": 275,
+                    "title": "Ginger Beer",
+                    "uuid": "a43bc3fd-90eb-5a40-8f0f-93a3b3c55891",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "de1c0288-4866-584b-8d83-81939764c8a0": {
+                    "description": null,
+                    "imageUrl": null,
+                    "price": 275,
+                    "title": "Epsa Fizzy Lemonade",
+                    "uuid": "de1c0288-4866-584b-8d83-81939764c8a0",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "43155a64-efed-5229-87c0-9dd7d0be27a3": {
+                    "description": "Thinly shredded cabbage, carrot, red & green peppers, with an olive oil dressing.",
+                    "imageUrl": null,
+                    "price": 410,
+                    "title": "Aegean Slaw ( V VG GF)",
+                    "uuid": "43155a64-efed-5229-87c0-9dd7d0be27a3",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "f9489374-9684-5dc6-acac-5567cc26fdc1": {
+                    "description": "Greek Flatbread (V VG), Houmous (V VG GF), Melitzanosalata (V VG GF), Dolmades (V VG GF), Spinach with Gigandes (V VG GF), Falafel ( V VG)*, Jackfruit Stifado (V VG GF), Pourgouri - Bulgur Wheat (V VG), Aegean Slaw (V VG GF)\n",
+                    "imageUrl": null,
+                    "price": 3900,
+                    "title": "Vegan Greek Selection (Serves 3-4)",
+                    "uuid": "f9489374-9684-5dc6-acac-5567cc26fdc1",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "afeb6bd6-c8b8-52d3-871a-05dca6a7b94f": {
+                    "description": "Jackfruit, slow-cooked with button mushrooms, shallots and aniseed.",
+                    "imageUrl": null,
+                    "price": 610,
+                    "title": "Jackfruit Stifado (V VG GF)",
+                    "uuid": "afeb6bd6-c8b8-52d3-871a-05dca6a7b94f",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "6451af26-b6d0-52fc-b5c3-1b917c414566": {
+                    "description": null,
+                    "imageUrl": null,
+                    "price": 300,
+                    "title": "Coca Cola",
+                    "uuid": "6451af26-b6d0-52fc-b5c3-1b917c414566",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "91e1558e-1d51-5704-82ec-93da21fd400d": {
+                    "description": "Served with saffron rice, Greek salad, tzatziki dip and Greek flatbread.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/74e5a5a4-6b20-4bc4-9c61-171e179ced68.jpeg",
+                    "price": 950,
+                    "title": "Loukaniko Beef & Pork Sausage Box",
+                    "uuid": "91e1558e-1d51-5704-82ec-93da21fd400d",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "a4df8b30-c3a7-5bf8-a34e-36527649ce00": {
+                    "description": "2 x Greek Flatbread (V VG), 2 x Houmous (V VG GF), 2 x Tzatziki ( V GF), 2 x Dolmades (V VG GF), 2 x Chicken Skewer (GF), 2 x Halloumi Skewer ( V GF), 2 x Loukaniko Beef & Pork Sausage Skewer, 2 x Lamb Meatballs, 2 x Greek Salad ( V GF), 2 x Saffron Rice (V GF)",
+                    "imageUrl": null,
+                    "price": 9800,
+                    "title": "Best of Greece Selection (Serve 5-8)",
+                    "uuid": "a4df8b30-c3a7-5bf8-a34e-36527649ce00",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "4a3508ef-64de-590a-8b3b-d6817b19f69d": {
+                    "description": "Three filo pastry parcels with creamy leek, spinach and feta filling, handmade daily.",
+                    "imageUrl": null,
+                    "price": 590,
+                    "title": "Spinach Tiropitakia (V)*",
+                    "uuid": "4a3508ef-64de-590a-8b3b-d6817b19f69d",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "059ddb90-f4d4-5bc9-b514-d851e757d76a": {
+                    "description": "A classic Cypriot dish - cracked wheat, with tomatoes and onion.",
+                    "imageUrl": null,
+                    "price": 410,
+                    "title": "Pourgouri - Bulgur Wheat (V VG)",
+                    "uuid": "059ddb90-f4d4-5bc9-b514-d851e757d76a",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "1e742ef5-7a78-5939-99bb-38c84398a38e": {
+                    "description": "Succulent chicken wings, marinated in a smoked chilli relish.",
+                    "imageUrl": null,
+                    "price": 560,
+                    "title": "BBQ Chicken Wings (GF)",
+                    "uuid": "1e742ef5-7a78-5939-99bb-38c84398a38e",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "7757462c-b363-5b33-a5c5-9245f22b7ea1": {
+                    "description": "Our daily home blend of chickpeas, rich in tahini and delicately spiced with cumin and fresh chilli.",
+                    "imageUrl": null,
+                    "price": 510,
+                    "title": "Houmous (V VG GF)",
+                    "uuid": "7757462c-b363-5b33-a5c5-9245f22b7ea1",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "6fa7aa44-4ad4-51ab-bfd8-ce6616f2eead": {
+                    "description": "Wrapped in Greek flatbread with chips inside, with homemade tzatziki, fresh tomatoes, red onion and sweet paprika.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/e9d9b3c7-1bed-4d52-a8b6-b0d521474fab.jpeg",
+                    "price": 650,
+                    "title": "Pork Belly Souvlaki Wrap*",
+                    "uuid": "6fa7aa44-4ad4-51ab-bfd8-ce6616f2eead",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "61ff28f0-447a-5852-9fcf-5867d5f9f1e3": {
+                    "description": "Wrapped in Greek flatbread with chips inside, with homemade tzatziki, fresh tomatoes, red onion and sweet paprika.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/d0b3d702-eb7a-4669-bf30-86c6d1e87dd9.jpeg",
+                    "price": 650,
+                    "title": "Halloumi Souvlaki Wrap (V)*",
+                    "uuid": "61ff28f0-447a-5852-9fcf-5867d5f9f1e3",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "4d119648-ef4a-5ead-a018-b4db81d828af": {
+                    "description": "Served with saffron rice, Greek salad, tzatziki dip and Greek flatbread.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/b0820cbd-354f-43ee-a8b9-f5d73a2e250b.jpeg",
+                    "price": 950,
+                    "title": "Chicken Skewer Box",
+                    "uuid": "4d119648-ef4a-5ead-a018-b4db81d828af",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "9f29b129-0fba-51e1-a8c1-eca5cad3796d": {
+                    "description": "A light and fragrant blend of smoked aubergine, garlic, shallots and lemon.",
+                    "imageUrl": null,
+                    "price": 510,
+                    "title": "Melitzanosalata (V VG GF)",
+                    "uuid": "9f29b129-0fba-51e1-a8c1-eca5cad3796d",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "a0233028-d02b-5f15-bf9b-af08afd9f8d7": {
+                    "description": "Wrapped in Greek flatbread with chips inside, with homemade tzatziki, fresh tomatoes, red onion and sweet paprika. (* No tzatziki in the Falafel, Jackfruit & vegan Meatballs Souvlaki Wrap).",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/0b9eb7ad-9ce5-4fdf-89f7-2cf0764214d0.jpeg",
+                    "price": 650,
+                    "title": "Falafel with Tahini Souvlaki Wrap (V VG)*",
+                    "uuid": "a0233028-d02b-5f15-bf9b-af08afd9f8d7",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "bac5ddc6-ebdd-51b3-b48e-ba68f3335bed": {
+                    "description": "Choose your selection (can be made Vegetarian depending on selection):",
+                    "imageUrl": null,
+                    "price": 4000,
+                    "title": "Tonia`s Selection (Serves Two)",
+                    "uuid": "bac5ddc6-ebdd-51b3-b48e-ba68f3335bed",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "4f21fecd-f2aa-543d-81d2-3e006f9e05b0": {
+                    "description": "Chargrilled aubergine served with garlic & tomato sauce.",
+                    "imageUrl": null,
+                    "price": 560,
+                    "title": "Grilled Aubergine (V VG GF)",
+                    "uuid": "4f21fecd-f2aa-543d-81d2-3e006f9e05b0",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "9131e2ef-4e3f-5496-896f-f5ea89d3f19a": {
+                    "description": "Lamb, skewered with onions and peppers. Served with lemon mayonnaise.",
+                    "imageUrl": null,
+                    "price": 660,
+                    "title": "Lamb Skewer (GF)",
+                    "uuid": "9131e2ef-4e3f-5496-896f-f5ea89d3f19a",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "24b232ae-8d1a-5ceb-94b7-97d9b59e0c09": {
+                    "description": "Long-grain rice dressed with herbs, olive oil, Greek honey and fragrant Kozanis saffron.",
+                    "imageUrl": null,
+                    "price": 385,
+                    "title": "Saffron Rice (V GF)",
+                    "uuid": "24b232ae-8d1a-5ceb-94b7-97d9b59e0c09",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "220f6ed3-b7f7-5c91-a754-d4343207f149": {
+                    "description": "Rich, creamy and made fresh every day with naturally undyed cod roe.It`s not meant to be pink!",
+                    "imageUrl": null,
+                    "price": 465,
+                    "title": "Taramasalata",
+                    "uuid": "220f6ed3-b7f7-5c91-a754-d4343207f149",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "e0c29662-b5f0-4a90-8d74-35cb35218deb": {
+                    "description": null,
+                    "imageUrl": null,
+                    "price": 275,
+                    "title": "Coke Zero",
+                    "uuid": "e0c29662-b5f0-4a90-8d74-35cb35218deb",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "0c3270ff-c5bf-541b-9303-27ad0d65f9ea": {
+                    "description": "Yellow lentils from Santorini, cooked and blended with herbs and spices, topped with Santorini capers.",
+                    "imageUrl": null,
+                    "price": 485,
+                    "title": "Santorini Fava (V VG GF)",
+                    "uuid": "0c3270ff-c5bf-541b-9303-27ad0d65f9ea",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "33335945-6929-5379-87fc-30c3acb07700": {
+                    "description": "",
+                    "imageUrl": null,
+                    "price": 335,
+                    "title": "Greek Flatbread (V VG)",
+                    "uuid": "33335945-6929-5379-87fc-30c3acb07700",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "71bedfe6-f931-58dc-b31e-8864b0c1aed7": {
+                    "description": "Fresh - cut carrot, celery and cucumber.",
+                    "imageUrl": null,
+                    "price": 325,
+                    "title": "Crudités (V VG GF)",
+                    "uuid": "71bedfe6-f931-58dc-b31e-8864b0c1aed7",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "82b0b560-669c-5c23-a5d2-591ad77e66b2": {
+                    "description": "Halloumi, skewered with peppers and courgettes. Served with minted yoghurt.",
+                    "imageUrl": null,
+                    "price": 590,
+                    "title": "Halloumi & Vegetable Skewer (V GF)",
+                    "uuid": "82b0b560-669c-5c23-a5d2-591ad77e66b2",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "6e772212-fa7d-54a0-b497-d9f69b17fdfd": {
+                    "description": "Chicken, skewered with onion and peppers. Served with lemon mayonniase.",
+                    "imageUrl": null,
+                    "price": 640,
+                    "title": "Chicken Skewer (GF)",
+                    "uuid": "6e772212-fa7d-54a0-b497-d9f69b17fdfd",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "7900bb06-c938-525b-9a6f-8703b851f7a4": {
+                    "description": "Vine leaves stuffed with rice, tomato and fresh herbs.",
+                    "imageUrl": null,
+                    "price": 535,
+                    "title": "Dolmades (V VG GF)",
+                    "uuid": "7900bb06-c938-525b-9a6f-8703b851f7a4",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "362fa8ac-eba9-52c0-b50e-d59631c1b660": {
+                    "description": "Our signature recipe falafel served with, tahini dip, pickled celery & carrot, tomato & onion salsa, and sprinkled with sweet paprika.",
+                    "imageUrl": null,
+                    "price": 590,
+                    "title": "Falafel (V VG)*",
+                    "uuid": "362fa8ac-eba9-52c0-b50e-d59631c1b660",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "24eafd3a-3b5c-52cb-9a8c-5ed4b1b73c74": {
+                    "description": "Green lentils, beetroot and feta in our tangy lemon dressing.",
+                    "imageUrl": null,
+                    "price": 510,
+                    "title": "Beetroot, Feta & Lentil Salad (V GF)",
+                    "uuid": "24eafd3a-3b5c-52cb-9a8c-5ed4b1b73c74",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "2917af0d-7f16-52d1-a394-47daf44e1129": {
+                    "description": "Served with saffron rice, Greek salad, tzatziki dip and Greek flatbread.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/ebdbfaf3-6b20-4d40-aa31-fec2e492f125.jpeg",
+                    "price": 950,
+                    "title": "Halloumi Skewer Box (V)",
+                    "uuid": "2917af0d-7f16-52d1-a394-47daf44e1129",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "bf75424c-bca4-5648-99e3-d2451c8c776b": {
+                    "description": "Wrapped in Greek flatbread with chips inside, with homemade tzatziki, fresh tomatoes, red onion and sweet paprika. (* No tzatziki in the Falafel, Jackfruit & vegan Meatballs Souvlaki Wrap).\n",
+                    "imageUrl": null,
+                    "price": 650,
+                    "title": "Vegan Meatballs with Vegan Aioli Souvlaki Wrap*",
+                    "uuid": "bf75424c-bca4-5648-99e3-d2451c8c776b",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                }
+            }
+        },
+        "sections": [
+            {
+                "subsectionUuids": [
+                    "04c0b8df-a19b-574f-a6d2-166cf0ed2bf2",
+                    "2788c89e-a4c1-5abf-b411-064828f2fed5",
+                    "7cbd55f6-c412-5d6d-b31c-f1125289fc01",
+                    "02c453e0-a163-5d39-84e3-c35a0faf4510",
+                    "dd44dc00-672b-57e7-aca4-4a3119089399",
+                    "82cb7312-c37e-5e42-bccf-4053667ede18",
+                    "8082fceb-df1b-5b98-a438-6b7156644b38"
+                ],
+                "title": "Menu",
+                "subtitle": "11:45 AM – 10:30 PM",
+                "uuid": "0dba4a7c-ccdf-5b77-9662-05bf1de55877",
+                "isTop": true,
+                "isOnSale": true
+            }
+        ],
+        "subsectionsMap": {
+            "02c453e0-a163-5d39-84e3-c35a0faf4510": {
+                "itemUuids": [
+                    "43155a64-efed-5229-87c0-9dd7d0be27a3",
+                    "24b232ae-8d1a-5ceb-94b7-97d9b59e0c09",
+                    "caa65df7-f725-5b71-95b1-e5cc73072b3c",
+                    "bfa3ca04-148b-56eb-ab87-19f62d074a7c"
+                ],
+                "subtitle": null,
+                "title": "Sides",
+                "uuid": "02c453e0-a163-5d39-84e3-c35a0faf4510",
+                "displayType": null
+            },
+            "04c0b8df-a19b-574f-a6d2-166cf0ed2bf2": {
+                "itemUuids": [
+                    "6fa7aa44-4ad4-51ab-bfd8-ce6616f2eead",
+                    "11efa2c1-8e12-54cf-94bc-5a048c984c7f",
+                    "61ff28f0-447a-5852-9fcf-5867d5f9f1e3",
+                    "a0233028-d02b-5f15-bf9b-af08afd9f8d7",
+                    "ac4a9dbd-bb35-5b2e-b40c-8324a56b1d09",
+                    "7773ec25-7c53-5b5a-80b6-0e1a8107d518",
+                    "bf75424c-bca4-5648-99e3-d2451c8c776b"
+                ],
+                "subtitle": null,
+                "title": "Souvlaki Wraps",
+                "uuid": "04c0b8df-a19b-574f-a6d2-166cf0ed2bf2",
+                "displayType": null
+            },
+            "7cbd55f6-c412-5d6d-b31c-f1125289fc01": {
+                "itemUuids": [
+                    "33335945-6929-5379-87fc-30c3acb07700",
+                    "71bedfe6-f931-58dc-b31e-8864b0c1aed7",
+                    "7757462c-b363-5b33-a5c5-9245f22b7ea1",
+                    "9d8ad597-2c27-5feb-8501-9ac4d690af30",
+                    "220f6ed3-b7f7-5c91-a754-d4343207f149",
+                    "9f29b129-0fba-51e1-a8c1-eca5cad3796d",
+                    "0c3270ff-c5bf-541b-9303-27ad0d65f9ea",
+                    "17b65949-40c1-5fd6-ba82-4f62fd755d1b",
+                    "ffd5bf35-e519-58b5-8a50-4916c101b0c5",
+                    "7900bb06-c938-525b-9a6f-8703b851f7a4",
+                    "362fa8ac-eba9-52c0-b50e-d59631c1b660",
+                    "4a3508ef-64de-590a-8b3b-d6817b19f69d",
+                    "4f21fecd-f2aa-543d-81d2-3e006f9e05b0",
+                    "82b0b560-669c-5c23-a5d2-591ad77e66b2",
+                    "afeb6bd6-c8b8-52d3-871a-05dca6a7b94f",
+                    "f69e8701-b517-5ebd-9e04-bcaa921bd288",
+                    "24eafd3a-3b5c-52cb-9a8c-5ed4b1b73c74",
+                    "059ddb90-f4d4-5bc9-b514-d851e757d76a"
+                ],
+                "subtitle": null,
+                "title": "Vegetarian & Vegan Meze",
+                "uuid": "7cbd55f6-c412-5d6d-b31c-f1125289fc01",
+                "displayType": null
+            },
+            "dd44dc00-672b-57e7-aca4-4a3119089399": {
+                "itemUuids": [
+                    "6e772212-fa7d-54a0-b497-d9f69b17fdfd",
+                    "1e742ef5-7a78-5939-99bb-38c84398a38e",
+                    "2d92a446-0fe0-57ab-bde0-a7eebfff9db1",
+                    "5642c28b-9ad2-5fe7-aaea-2945cca6be9b",
+                    "5dad92c6-2a91-5fc1-a3a7-cdea41bdc401",
+                    "9131e2ef-4e3f-5496-896f-f5ea89d3f19a",
+                    "884a18c3-ccf4-55a9-b66b-fe0d3330b884",
+                    "37cf3d42-c522-5932-bbe5-824edb3fc443",
+                    "51d9d882-2f9d-526f-b0d1-fb245d359a84"
+                ],
+                "subtitle": null,
+                "title": "Skewers & Meats Meze Portions",
+                "uuid": "dd44dc00-672b-57e7-aca4-4a3119089399",
+                "displayType": null
+            },
+            "2788c89e-a4c1-5abf-b411-064828f2fed5": {
+                "itemUuids": [
+                    "4d119648-ef4a-5ead-a018-b4db81d828af",
+                    "2917af0d-7f16-52d1-a394-47daf44e1129",
+                    "c8a234ad-8ced-583e-8e36-43ecfc9f16d4",
+                    "24406157-be1f-559f-af21-366d68aa77ff",
+                    "91e1558e-1d51-5704-82ec-93da21fd400d",
+                    "ee22a495-0a05-5d00-815a-e525688c11b5"
+                ],
+                "subtitle": null,
+                "title": "Greek Box",
+                "uuid": "2788c89e-a4c1-5abf-b411-064828f2fed5",
+                "displayType": null
+            },
+            "82cb7312-c37e-5e42-bccf-4053667ede18": {
+                "itemUuids": [
+                    "a4df8b30-c3a7-5bf8-a34e-36527649ce00",
+                    "f9489374-9684-5dc6-acac-5567cc26fdc1",
+                    "bac5ddc6-ebdd-51b3-b48e-ba68f3335bed",
+                    "6b42760e-29b6-503c-a649-b2a38ad904e7"
+                ],
+                "subtitle": null,
+                "title": "Sharing Menus",
+                "uuid": "82cb7312-c37e-5e42-bccf-4053667ede18",
+                "displayType": null
+            },
+            "8082fceb-df1b-5b98-a438-6b7156644b38": {
+                "itemUuids": [
+                    "6451af26-b6d0-52fc-b5c3-1b917c414566",
+                    "cdfe1e20-3c66-5b4c-826f-1c2dd3fa0de6",
+                    "e0c29662-b5f0-4a90-8d74-35cb35218deb",
+                    "a43bc3fd-90eb-5a40-8f0f-93a3b3c55891",
+                    "de1c0288-4866-584b-8d83-81939764c8a0",
+                    "9a34d7ce-b750-5522-9ef7-7bb482bdf9fe"
+                ],
+                "subtitle": null,
+                "title": "Soft Drinks",
+                "uuid": "8082fceb-df1b-5b98-a438-6b7156644b38",
+                "displayType": null
+            }
+        },
+        "title": "The Real Greek (Marylebone)",
+        "uuid": "194c69a9-b5d1-47bc-829b-f7298f289f62",
+        "categories": [
+            "₴",
+            "Грецька",
+            "Здорова їжа",
+            "Середземноморська",
+            "Для веганів"
+        ],
+        "cuisineList": [
+            "Грецька",
+            "Здорова їжа",
+            "Середземноморська",
+            "Для веганів"
+        ],
+        "priceBucket": "₴",
+        "etaRange": {
+            "text": "25–35 min",
+            "iconUrl": ""
+        },
+        "ratingBadge": {
+            "text": "<span><span style=\"font-family: inherit; color: #3a3a48;\">3.4 <img src=\"https://d1a3f4spazzrp4.cloudfront.net/static/images/Star_Black_Eats_3.png\" width=\"14\" height=\"14\" vertical-align=\"middle\"> </span><span style=\"font-family: inherit; color: #757575;\">(200+)</span></span>"
+        },
+        "disclaimerBadge": {
+            "text": "<span style=\"font-family: inherit;\">For full allergen information, <a href=\"http://www.therealgreek.com/menus/\" style=\"color:#61ad5f;\">http://www.therealgreek.com/menus/</a></span>"
+        },
+        "fareBadge": null,
+        "fareInfo": {
+            "serviceFee": 30,
+            "serviceFeeCents": 3000
+        },
+        "promotion": null,
+        "shouldIndex": false,
+        "heroImageUrls": [
+            {
+                "url": "https://d1ralsognjng37.cloudfront.net/a0dd01a1-b78e-4aa2-ad50-3b5dcdc5bc52",
+                "width": 240
+            },
+            {
+                "url": "https://d1ralsognjng37.cloudfront.net/0c9e3fc8-f4d2-4c60-b7fe-7ce66902654f",
+                "width": 550
+            },
+            {
+                "url": "https://d1ralsognjng37.cloudfront.net/bb6955bd-6062-4b07-ba54-addc8588423a",
+                "width": 640
+            },
+            {
+                "url": "https://d1ralsognjng37.cloudfront.net/b2d5d756-2de5-4c0b-af69-d678047848fd",
+                "width": 750
+            },
+            {
+                "url": "https://d1ralsognjng37.cloudfront.net/c6aac5f4-c741-4a33-a646-f87a06703524",
+                "width": 1080
+            },
+            {
+                "url": "https://d1ralsognjng37.cloudfront.net/1ec44557-0a61-4de9-9346-d5645e543c52",
+                "width": 2880
+            }
+        ],
+        "isOpen": true,
+        "currencyCode": "GBP",
+        "closedMessage": "Currently unavailable",
+        "location": {
+            "address": "56 Paddington Street, London, United Kingdom W1U 4HY",
+            "streetAddress": "56 Paddington Street",
+            "city": "London",
+            "country": "44",
+            "postalCode": "W1U 4HY",
+            "region": "United Kingdom",
+            "latitude": 51.5206436,
+            "longitude": -0.1529253
+        },
+        "isDeliveryThirdParty": false,
+        "hours": [
+            {
+                "dayRange": "Sunday",
+                "sectionHours": [
+                    {
+                        "startTime": 705,
+                        "endTime": 1320,
+                        "sectionTitle": ""
+                    }
+                ]
+            },
+            {
+                "dayRange": "Monday - Saturday",
+                "sectionHours": [
+                    {
+                        "startTime": 705,
+                        "endTime": 1350,
+                        "sectionTitle": ""
+                    }
+                ]
+            }
+        ],
+        "disableOrderInstruction": true,
+        "disableCheckoutInstruction": false,
+        "nuggets": [],
+        "isWithinDeliveryRange": false,
+        "slug": "the-real-greek-marylebone",
+        "citySlug": "london",
+        "phoneNumber": "+442074860466",
+        "metaJson": "{\"@context\":\"http:\\u002F\\u002Fschema.org\",\"@type\":\"Restaurant\",\"@id\":\"https:\\u002F\\u002Fwww.ubereats.com\\u002Fen-UA\\u002Flondon\\u002Ffood-delivery\\u002Fthe-real-greek-marylebone\\u002FGUxpqbXRR7yCm_cpjyifYg\\u002F\",\"name\":\"The Real Greek (Marylebone)\",\"priceRange\":\"₴\",\"potentialAction\":{\"@type\":\"OrderAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\\u002F\\u002Fwww.ubereats.com\\u002Fen-UA\\u002Flondon\\u002Ffood-delivery\\u002Fthe-real-greek-marylebone\\u002FGUxpqbXRR7yCm_cpjyifYg\\u002F?utm_campaign=order-action&utm_medium=organic\",\"inLanguage\":\"English\",\"actionPlatform\":[\"http:\\u002F\\u002Fschema.org\\u002FDesktopWebPlatform\",\"http:\\u002F\\u002Fschema.org\\u002FMobileWebPlatform\"]},\"deliveryMethod\":[\"http:\\u002F\\u002Fpurl.org\\u002Fgoodrelations\\u002Fv1#DeliveryModeOwnFleet\"]},\"address\":{\"@type\":\"PostalAddress\",\"addressLocality\":\"London\",\"addressRegion\":\"United Kingdom\",\"postalCode\":\"W1U 4HY\",\"addressCountry\":\"44\",\"streetAddress\":\"56 Paddington Street\"},\"geo\":{\"@type\":\"GeoCoordinates\",\"latitude\":51.5206436,\"longitude\":-0.1529253}}",
+        "promoTrackings": [],
+        "suggestedPromotion": {
+            "text": "",
+            "promotionUuid": ""
+        },
+        "supportedDiningModes": [
+            {
+                "mode": "DELIVERY",
+                "title": "Delivery",
+                "isSelected": true,
+                "isAvailable": true
+            }
+        ],
+        "isPreview": false,
+        "pinnedInfo": null
+    }
+}

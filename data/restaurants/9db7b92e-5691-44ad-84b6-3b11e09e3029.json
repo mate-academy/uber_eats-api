@@ -1,0 +1,1155 @@
+{
+    "status": "success",
+    "data": {
+        "sectionEntitiesMap": {
+            "766649c8-7102-5e27-81fc-5a19f253c627": {
+                "b7b875e6-2437-5714-9293-6fdf1648548c": {
+                    "description": "Crunchy coated mixed vegetable pieces, fresh lettuce, tomato, onion, red cabbage and 3 signature sauces served in our handmade toasted sesame bread.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/0f8d08cd-9e6e-44bd-9a60-1bfecf7a5521.jpeg",
+                    "price": 599,
+                    "title": "Veggie Kebab",
+                    "uuid": "b7b875e6-2437-5714-9293-6fdf1648548c",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "endorsement": {
+                        "text": "",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png"
+                    },
+                    "classifications": []
+                },
+                "3a25e201-5dd6-5543-ab3a-0e1f91f57008": {
+                    "description": "",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/3b1c8bda-5893-4d75-b71f-3b76fa4f240a.jpeg",
+                    "price": 40,
+                    "title": "Yogurt",
+                    "uuid": "3a25e201-5dd6-5543-ab3a-0e1f91f57008",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "8ffb5157-babc-5a2d-be69-18b5cef61ddb": {
+                    "description": "Add to your meal with our extra toppings",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/77e1b10a-7531-431d-bac3-233449d9b2bd.jpeg",
+                    "price": 60,
+                    "title": "Jalapenos",
+                    "uuid": "8ffb5157-babc-5a2d-be69-18b5cef61ddb",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "a0480c83-fde0-53c3-8316-9ce71c3ca0c4": {
+                    "description": "",
+                    "imageUrl": "",
+                    "price": 199,
+                    "title": "Ayran",
+                    "uuid": "a0480c83-fde0-53c3-8316-9ce71c3ca0c4",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "53034744-e00d-5cae-a23a-9864b5dbfc25": {
+                    "description": "Garlic, Yogurt & Spicy",
+                    "imageUrl": "",
+                    "price": 100,
+                    "title": "Set of All 3 Signature sauces",
+                    "uuid": "53034744-e00d-5cae-a23a-9864b5dbfc25",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "cae8d684-6ea7-5db3-b9cd-e9f08192d50c": {
+                    "description": "Traditional Turkish pizza, toasted flatbread topped with marinated minced beef. Served with a wedge of lemon.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/8c4de561-6ac1-4cf5-abb0-bd380b4cf3be.jpeg",
+                    "price": 399,
+                    "title": "Lahmacun",
+                    "uuid": "cae8d684-6ea7-5db3-b9cd-e9f08192d50c",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "d9c30c38-bf4b-5e2c-a50e-48c837d2504b": {
+                    "description": "Your choice of doner meats, fresh iceberg lettuce, tomato, onion, dill pickle and our signature burger sauce served in a brioche bun.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/77730f7c-83dd-4b5d-98c5-369ed06dd17d.jpeg",
+                    "price": 599,
+                    "title": "Doner Burger",
+                    "uuid": "d9c30c38-bf4b-5e2c-a50e-48c837d2504b",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "5dbe538d-ed6a-5359-8668-63d54b1bc4df": {
+                    "description": "Doner Burger with melted nacho cheese sauce, jr. fries and a Capri sun",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/1eedc8f2-5a00-48aa-87d8-fc0dabe40939.jpeg",
+                    "price": 599,
+                    "title": "Melted Nacho Cheese Burger",
+                    "uuid": "5dbe538d-ed6a-5359-8668-63d54b1bc4df",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "5c1a853d-0919-5b10-a60a-cbbdaebb8b32": {
+                    "description": "",
+                    "imageUrl": "",
+                    "price": 249,
+                    "title": "Folkingtons Juice - Pink Lemonade",
+                    "uuid": "5c1a853d-0919-5b10-a60a-cbbdaebb8b32",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "1ec8796c-b354-54c5-ac26-4019ea4f7f8b": {
+                    "description": "Your choice of doner meats with lettuce, tomato, onion and red cabbage.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/d22c85de-132c-4275-a7fd-62abbe49479a.jpeg",
+                    "price": 549,
+                    "title": "Doner Gym Box - From only 329 Calories and 44 Grams Protein",
+                    "uuid": "1ec8796c-b354-54c5-ac26-4019ea4f7f8b",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "42eda123-a585-5ef6-9aea-8d9006008eb8": {
+                    "description": "",
+                    "imageUrl": "",
+                    "price": 199,
+                    "title": "Coke (Can)",
+                    "uuid": "42eda123-a585-5ef6-9aea-8d9006008eb8",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "b8c4414c-7042-5759-a2ac-ed06565a08f3": {
+                    "description": "Our newest kebab sandwich! Your choice of doner meats, fresh lettuce, tomato, onion and red cabbage. Served with our spicy signature sauce in our handmade, wholemeal toasted multigrain and sesame bread",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/679c44bb-df52-40ca-b4fd-fc3b99a7c421.jpeg",
+                    "price": 699,
+                    "title": "KCal Kebab - From only 585 Calories and 42 Grams Protein",
+                    "uuid": "b8c4414c-7042-5759-a2ac-ed06565a08f3",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "af9eeb63-02df-58c9-8b26-a5365951c348": {
+                    "description": "",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/58cc2abd-92c4-452a-8516-4c821b803f47.jpeg",
+                    "price": 40,
+                    "title": "Spicy",
+                    "uuid": "af9eeb63-02df-58c9-8b26-a5365951c348",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "3e1b3954-1efd-50db-89d3-c8c647a5abcb": {
+                    "description": "Requires bottle opener",
+                    "imageUrl": "",
+                    "price": 199,
+                    "title": "Sprite (Bottle)",
+                    "uuid": "3e1b3954-1efd-50db-89d3-c8c647a5abcb",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "7ab317e7-364e-54bb-8252-b4b8a09a2668": {
+                    "description": "Requires bottle opener",
+                    "imageUrl": "",
+                    "price": 199,
+                    "title": "Coke (Bottle)",
+                    "uuid": "7ab317e7-364e-54bb-8252-b4b8a09a2668",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "80c3b4fa-1134-5548-ad17-be114373a98e": {
+                    "description": "Your choice of doner meats, melted cheese, onions, jalapenos and our 3 signature sauces in a toasted quesadilla",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/1888e045-4de8-4046-8cdd-048fb69e4953.jpeg",
+                    "price": 599,
+                    "title": "Doner Quesadilla",
+                    "uuid": "80c3b4fa-1134-5548-ad17-be114373a98e",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "4268d88b-1727-5c52-9883-e7ad90c8fecc": {
+                    "description": "Your choice of doner meats with fries.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/d4d569cd-3702-4796-9906-bd7fd2961989.jpeg",
+                    "price": 549,
+                    "title": "Doner Box with Fries",
+                    "uuid": "4268d88b-1727-5c52-9883-e7ad90c8fecc",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "094cb18f-7bc5-586e-baa5-c54c65b61139": {
+                    "description": "",
+                    "imageUrl": "",
+                    "price": 249,
+                    "title": "Folkingtons Juice - Mango",
+                    "uuid": "094cb18f-7bc5-586e-baa5-c54c65b61139",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "884cd819-f405-557c-99b4-a9da3a7f5600": {
+                    "description": "Our Trademark kebab sandwich, a must  try! Your choice of doner meats, fresh lettuce, tomato, onion, red cabbage and 3 signature sauces served in our handmade toasted sesame bread.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/f5dc8768-0405-493e-99f0-3ff7dfd0566d.jpeg",
+                    "price": 699,
+                    "title": "The Original German Doner Kebab",
+                    "uuid": "884cd819-f405-557c-99b4-a9da3a7f5600",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "ccbdbf4c-67fd-54ac-bd2f-0f3bf0f26577": {
+                    "description": "Traditional Turkish pizza, toasted flatbread topped with marinated minced beef, your choice of doner meats. fresh lettuce. tomato, onion, red cabbage and 3 signature sauces.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/03d8357f-8c7b-4d07-8834-a69627c1e1ea.jpeg",
+                    "price": 699,
+                    "title": "Doner Lahmacun Wrap",
+                    "uuid": "ccbdbf4c-67fd-54ac-bd2f-0f3bf0f26577",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "69ae33d1-8239-5fb5-a7e5-2450b3481cee": {
+                    "description": "",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/eef9d220-fd91-4db2-83fd-a64f01bc502a.jpeg",
+                    "price": 199,
+                    "title": "Diet Coke (Can)",
+                    "uuid": "69ae33d1-8239-5fb5-a7e5-2450b3481cee",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "2cba507d-3d21-5d2a-98be-560fd1aa2ecf": {
+                    "description": "",
+                    "imageUrl": "",
+                    "price": 100,
+                    "title": "Capri Sun",
+                    "uuid": "2cba507d-3d21-5d2a-98be-560fd1aa2ecf",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "e5b79f86-8e79-51f0-aaa7-6cf51f05bfcb": {
+                    "description": "",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/c0a4aa6d-1ea8-4d53-9f58-4cc3a4b05bf5.jpeg",
+                    "price": 199,
+                    "title": "Fries",
+                    "uuid": "e5b79f86-8e79-51f0-aaa7-6cf51f05bfcb",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "3179ee07-7d4c-5091-8e93-73bd72955a9c": {
+                    "description": "Doner burger with our 3 signature sauces, jr. fries and a capri sun",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/93023a17-6d77-400c-afea-4b7993ac6466.jpeg",
+                    "price": 599,
+                    "title": "Signature Burger",
+                    "uuid": "3179ee07-7d4c-5091-8e93-73bd72955a9c",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "81a6b4d6-ee9e-568b-a39a-e25c413dbc98": {
+                    "description": "Melted cheese & jalapeños in a crunchy coating.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/f4c93ebf-b5f8-48ae-8f4e-df9e79c812b5.jpeg",
+                    "price": 399,
+                    "title": "Chilli Cheese Bites",
+                    "uuid": "81a6b4d6-ee9e-568b-a39a-e25c413dbc98",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "66b712f6-1a91-582d-b33c-588aee6176d5": {
+                    "description": "",
+                    "imageUrl": "",
+                    "price": 249,
+                    "title": "Aloe Vera",
+                    "uuid": "66b712f6-1a91-582d-b33c-588aee6176d5",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "bcc88356-bb20-5f78-a908-33011e74debc": {
+                    "description": "Doner Burger, with our original burger sauce, jr. fries and a Capri Sun",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/a597c634-a76d-453c-ab82-edec6944a814.jpeg",
+                    "price": 599,
+                    "title": "Original Burger",
+                    "uuid": "bcc88356-bb20-5f78-a908-33011e74debc",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "d8ead04a-011d-5c09-a2ac-1d77a199c4b9": {
+                    "description": "French Fries topped with meted nacho cheese sauce",
+                    "imageUrl": "",
+                    "price": 249,
+                    "title": "Cheesy Fries",
+                    "uuid": "d8ead04a-011d-5c09-a2ac-1d77a199c4b9",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "f0527e37-a961-5624-b1e0-10d69abab866": {
+                    "description": "",
+                    "imageUrl": "",
+                    "price": 199,
+                    "title": "Coke Zero (Can)",
+                    "uuid": "f0527e37-a961-5624-b1e0-10d69abab866",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "b0012f66-2577-555b-9745-29b0e71c07dd": {
+                    "description": "",
+                    "imageUrl": "",
+                    "price": 199,
+                    "title": "Smart Still water",
+                    "uuid": "b0012f66-2577-555b-9745-29b0e71c07dd",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "186c5765-bd50-5d06-8329-3cd8c7c5cd25": {
+                    "description": "",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/ca4424bb-1fc3-4ee6-81d5-3b677d92e06d.jpeg",
+                    "price": 40,
+                    "title": "Garlic",
+                    "uuid": "186c5765-bd50-5d06-8329-3cd8c7c5cd25",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "b79e99ed-1639-5bee-93bb-bfb9baee5094": {
+                    "description": "Fresh salad with fresh lettuce, red cabbage, onion, tomato, feta cheese, jalapeños served with a wedge of lemon.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/d0a67739-17ed-4cf9-a402-cc3c4fd281fd.jpeg",
+                    "price": 249,
+                    "title": "Side Salad",
+                    "uuid": "b79e99ed-1639-5bee-93bb-bfb9baee5094",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "1063c735-0c6a-5d76-852d-1aa92ab9c203": {
+                    "description": "",
+                    "imageUrl": "",
+                    "price": 249,
+                    "title": "Red Bull",
+                    "uuid": "1063c735-0c6a-5d76-852d-1aa92ab9c203",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "2248e6fd-42c2-5bd7-ad59-16b82430212d": {
+                    "description": "Crunchy coated mixed vegetable patty, fresh iceberg lettuce, tomato, onion, dill pickle and our signature burger sauce served in a brioche bun.",
+                    "imageUrl": "",
+                    "price": 499,
+                    "title": "Veggie Burger",
+                    "uuid": "2248e6fd-42c2-5bd7-ad59-16b82430212d",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "endorsement": {
+                        "text": "",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png"
+                    },
+                    "classifications": []
+                },
+                "65abf252-507c-5a7b-9cb1-6a8c11096aa2": {
+                    "description": "",
+                    "imageUrl": "",
+                    "price": 199,
+                    "title": "Sprite (Can)",
+                    "uuid": "65abf252-507c-5a7b-9cb1-6a8c11096aa2",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "941711d7-8f3d-5af6-92d4-a108fae77487": {
+                    "description": "",
+                    "imageUrl": "",
+                    "price": 249,
+                    "title": "Appletiser",
+                    "uuid": "941711d7-8f3d-5af6-92d4-a108fae77487",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "42796ec0-c263-5526-b7a4-729d6c2e421b": {
+                    "description": "",
+                    "imageUrl": "",
+                    "price": 199,
+                    "title": "Fanta (Can)",
+                    "uuid": "42796ec0-c263-5526-b7a4-729d6c2e421b",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "495c78ff-a929-55e1-a510-cea51b3c8bbf": {
+                    "description": "",
+                    "imageUrl": "",
+                    "price": 199,
+                    "title": "Smart Sparkling water",
+                    "uuid": "495c78ff-a929-55e1-a510-cea51b3c8bbf",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "0eb5475f-ba6c-5bf9-8393-0efce96ab8ca": {
+                    "description": "Nacho chips with your choice of doner meats, salsa, melted cheese sauce & jalapeños with a dusting of garlic & paprika seasoning.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/cbec1bcf-94de-4555-bed4-f3e75273c90e.jpeg",
+                    "price": 499,
+                    "title": "Doner Nachos",
+                    "uuid": "0eb5475f-ba6c-5bf9-8393-0efce96ab8ca",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "12077eb3-b544-5f29-884d-bdb4f322bf6c": {
+                    "description": "",
+                    "imageUrl": "",
+                    "price": 249,
+                    "title": "Folkingtons Juice - Cloudy Apple",
+                    "uuid": "12077eb3-b544-5f29-884d-bdb4f322bf6c",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "d884e467-fe90-508d-b1e8-af9c8cb1b8c8": {
+                    "description": "French Fries topped with meted nacho cheese sauce, jalapenos and our flaming seasoning",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/a7b853ac-6bf4-463a-b608-3a78947cf52d.jpeg",
+                    "price": 299,
+                    "title": "Nacho Fries",
+                    "uuid": "d884e467-fe90-508d-b1e8-af9c8cb1b8c8",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "52ca9794-a6c0-5dbc-846d-f87abcc999d7": {
+                    "description": "Add to your meal with our extra toppings",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/f87910d3-d258-49cd-9684-39b05a4e9130.jpeg",
+                    "price": 60,
+                    "title": "Pickles",
+                    "uuid": "52ca9794-a6c0-5dbc-846d-f87abcc999d7",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "ebca5100-e408-577d-897a-95cd9ef274ef": {
+                    "description": "Frühlingsrolle – Two Spring rolls with your choice of doner meats and jalapeños, wrapped in a light crispy pastry. Served with a set of 3 signature sauce dips.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/6f201ed2-4439-4f28-8265-a8b13b1a2f7c.jpeg",
+                    "price": 249,
+                    "title": "Doner Spring Rolls - Frühlingsrolle",
+                    "uuid": "ebca5100-e408-577d-897a-95cd9ef274ef",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "7c46e899-be19-545c-91af-67da838b592a": {
+                    "description": "Your choice of doner meats, fresh lettuce, tomato, onion and red cabbage and 3 signature sauces served in a flatbread wrap.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/ea459de2-4614-4c5b-9834-ec86fba22a82.jpeg",
+                    "price": 699,
+                    "title": "Doner Durum Wrap",
+                    "uuid": "7c46e899-be19-545c-91af-67da838b592a",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "551302fa-660d-53e4-8222-e841fd79a458": {
+                    "description": "Your choice of Doner meats with fries, melted cheese sauce and jalapenos.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/ba6a0e37-92ed-4f1b-b35c-022d499797e0.jpeg",
+                    "price": 549,
+                    "title": "Doner Box Chips & Cheese",
+                    "uuid": "551302fa-660d-53e4-8222-e841fd79a458",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "1de4413c-78c9-56aa-b5df-2c3fd7559741": {
+                    "description": "",
+                    "imageUrl": "",
+                    "price": 249,
+                    "title": "Folkingtons Juice - Orange",
+                    "uuid": "1de4413c-78c9-56aa-b5df-2c3fd7559741",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "8ecf5bd0-b425-597e-ba12-14656806a9cd": {
+                    "description": "Requires bottle opener",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/659b80e6-c98b-4b67-a2c2-d07bf4d97d15.jpeg",
+                    "price": 199,
+                    "title": "Diet Coke (Bottle)",
+                    "uuid": "8ecf5bd0-b425-597e-ba12-14656806a9cd",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "a7b4207d-e18b-528d-b459-c3fb832a54d9": {
+                    "description": "Add to your meal with our extra toppings",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/6620aa95-e373-49e8-9db8-3e5fceba4da5.jpeg",
+                    "price": 60,
+                    "title": "Feta Cheese",
+                    "uuid": "a7b4207d-e18b-528d-b459-c3fb832a54d9",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "991e1780-e32f-5302-9dab-f5156dfa27d8": {
+                    "description": "French Fries coated with our flaming seasoning",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/d0246e1c-da49-4cfc-a762-be39ce635049.jpeg",
+                    "price": 249,
+                    "title": "Flaming Fries",
+                    "uuid": "991e1780-e32f-5302-9dab-f5156dfa27d8",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "c94b6acd-a695-5faf-b829-283353615c73": {
+                    "description": "Requires bottle opener",
+                    "imageUrl": "",
+                    "price": 199,
+                    "title": "Coke Zero (Bottle)",
+                    "uuid": "c94b6acd-a695-5faf-b829-283353615c73",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "3f41d93d-28b7-5ab9-b4c9-7de608de2418": {
+                    "description": "Your choice of doner meats, fresh lettuce. tomato, onion and red cabbage with fries.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/37f9c9f7-5d2c-4ce0-9f1d-15389f346928.jpeg",
+                    "price": 549,
+                    "title": "Doner Box with Fries & Salad",
+                    "uuid": "3f41d93d-28b7-5ab9-b4c9-7de608de2418",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "c4f22976-5f73-5c76-a317-509bb0a35ea3": {
+                    "description": "Add to your meal with our extra toppings",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/2b8683fa-a6ab-4051-8031-a72a6229c72a.jpeg",
+                    "price": 60,
+                    "title": "Melted Nacho Cheese Sauce",
+                    "uuid": "c4f22976-5f73-5c76-a317-509bb0a35ea3",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "e0e2fb1e-e202-59c0-ae1c-4875347377e8": {
+                    "description": "",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/75ec399f-27c9-4b87-80e9-002f1a537814.jpeg",
+                    "price": 199,
+                    "title": "Onion Rings",
+                    "uuid": "e0e2fb1e-e202-59c0-ae1c-4875347377e8",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "6caada7a-bff6-5034-8645-b1e6f7b19cc8": {
+                    "description": "Requires bottle opener",
+                    "imageUrl": "",
+                    "price": 199,
+                    "title": "Fanta (Bottle)",
+                    "uuid": "6caada7a-bff6-5034-8645-b1e6f7b19cc8",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                }
+            }
+        },
+        "sections": [
+            {
+                "subsectionUuids": [
+                    "8f90795d-a0c1-52ed-bed7-b8a75d3af832",
+                    "a463b53d-17d9-50b6-bf8f-5b1caf7c53aa",
+                    "18fcf601-eaed-5375-98d7-51b8dd2dd83b",
+                    "e340607c-ca75-5109-abcb-63a1da6dd7f2",
+                    "ec2196b5-7733-5ba8-9ce0-8fa00a9385bd",
+                    "331e72a8-525b-5171-b1cd-d08415daff44",
+                    "b70a6d0c-e34d-50d6-ad5b-e5fd71862b4f",
+                    "8b849fc2-2deb-53ad-a7d4-c6eaed7a9302",
+                    "86fde076-9c58-50e1-bc28-8ae9f2d0d1a7"
+                ],
+                "title": "Menu",
+                "subtitle": "11:00 AM – 11:59 PM",
+                "uuid": "766649c8-7102-5e27-81fc-5a19f253c627",
+                "isTop": true,
+                "isOnSale": true
+            }
+        ],
+        "subsectionsMap": {
+            "8f90795d-a0c1-52ed-bed7-b8a75d3af832": {
+                "itemUuids": [
+                    "ebca5100-e408-577d-897a-95cd9ef274ef",
+                    "cae8d684-6ea7-5db3-b9cd-e9f08192d50c",
+                    "0eb5475f-ba6c-5bf9-8393-0efce96ab8ca",
+                    "81a6b4d6-ee9e-568b-a39a-e25c413dbc98"
+                ],
+                "subtitle": "",
+                "title": "Nibbles",
+                "uuid": "8f90795d-a0c1-52ed-bed7-b8a75d3af832",
+                "displayType": null
+            },
+            "18fcf601-eaed-5375-98d7-51b8dd2dd83b": {
+                "itemUuids": [
+                    "1ec8796c-b354-54c5-ac26-4019ea4f7f8b",
+                    "4268d88b-1727-5c52-9883-e7ad90c8fecc",
+                    "551302fa-660d-53e4-8222-e841fd79a458",
+                    "3f41d93d-28b7-5ab9-b4c9-7de608de2418"
+                ],
+                "subtitle": "",
+                "title": "Doner Boxes",
+                "uuid": "18fcf601-eaed-5375-98d7-51b8dd2dd83b",
+                "displayType": null
+            },
+            "331e72a8-525b-5171-b1cd-d08415daff44": {
+                "itemUuids": [
+                    "a7b4207d-e18b-528d-b459-c3fb832a54d9",
+                    "8ffb5157-babc-5a2d-be69-18b5cef61ddb",
+                    "52ca9794-a6c0-5dbc-846d-f87abcc999d7",
+                    "c4f22976-5f73-5c76-a317-509bb0a35ea3"
+                ],
+                "subtitle": "",
+                "title": "Extra Toppings",
+                "uuid": "331e72a8-525b-5171-b1cd-d08415daff44",
+                "displayType": null
+            },
+            "a463b53d-17d9-50b6-bf8f-5b1caf7c53aa": {
+                "itemUuids": [
+                    "884cd819-f405-557c-99b4-a9da3a7f5600",
+                    "b8c4414c-7042-5759-a2ac-ed06565a08f3",
+                    "7c46e899-be19-545c-91af-67da838b592a",
+                    "ccbdbf4c-67fd-54ac-bd2f-0f3bf0f26577",
+                    "80c3b4fa-1134-5548-ad17-be114373a98e",
+                    "d9c30c38-bf4b-5e2c-a50e-48c837d2504b",
+                    "b7b875e6-2437-5714-9293-6fdf1648548c",
+                    "2248e6fd-42c2-5bd7-ad59-16b82430212d"
+                ],
+                "subtitle": "",
+                "title": "A la Carte",
+                "uuid": "a463b53d-17d9-50b6-bf8f-5b1caf7c53aa",
+                "displayType": null
+            },
+            "e340607c-ca75-5109-abcb-63a1da6dd7f2": {
+                "itemUuids": [
+                    "bcc88356-bb20-5f78-a908-33011e74debc",
+                    "3179ee07-7d4c-5091-8e93-73bd72955a9c",
+                    "5dbe538d-ed6a-5359-8668-63d54b1bc4df"
+                ],
+                "subtitle": "",
+                "title": "Junior Meal Deals",
+                "uuid": "e340607c-ca75-5109-abcb-63a1da6dd7f2",
+                "displayType": null
+            },
+            "ec2196b5-7733-5ba8-9ce0-8fa00a9385bd": {
+                "itemUuids": [
+                    "d884e467-fe90-508d-b1e8-af9c8cb1b8c8",
+                    "991e1780-e32f-5302-9dab-f5156dfa27d8",
+                    "e5b79f86-8e79-51f0-aaa7-6cf51f05bfcb",
+                    "e0e2fb1e-e202-59c0-ae1c-4875347377e8",
+                    "b79e99ed-1639-5bee-93bb-bfb9baee5094",
+                    "d8ead04a-011d-5c09-a2ac-1d77a199c4b9"
+                ],
+                "subtitle": "",
+                "title": "Sides",
+                "uuid": "ec2196b5-7733-5ba8-9ce0-8fa00a9385bd",
+                "displayType": null
+            },
+            "8b849fc2-2deb-53ad-a7d4-c6eaed7a9302": {
+                "itemUuids": [
+                    "42eda123-a585-5ef6-9aea-8d9006008eb8",
+                    "7ab317e7-364e-54bb-8252-b4b8a09a2668",
+                    "69ae33d1-8239-5fb5-a7e5-2450b3481cee",
+                    "8ecf5bd0-b425-597e-ba12-14656806a9cd",
+                    "f0527e37-a961-5624-b1e0-10d69abab866",
+                    "c94b6acd-a695-5faf-b829-283353615c73",
+                    "42796ec0-c263-5526-b7a4-729d6c2e421b",
+                    "6caada7a-bff6-5034-8645-b1e6f7b19cc8",
+                    "65abf252-507c-5a7b-9cb1-6a8c11096aa2",
+                    "3e1b3954-1efd-50db-89d3-c8c647a5abcb",
+                    "a0480c83-fde0-53c3-8316-9ce71c3ca0c4",
+                    "b0012f66-2577-555b-9745-29b0e71c07dd",
+                    "495c78ff-a929-55e1-a510-cea51b3c8bbf",
+                    "2cba507d-3d21-5d2a-98be-560fd1aa2ecf"
+                ],
+                "subtitle": "",
+                "title": "Soft Drinks",
+                "uuid": "8b849fc2-2deb-53ad-a7d4-c6eaed7a9302",
+                "displayType": null
+            },
+            "86fde076-9c58-50e1-bc28-8ae9f2d0d1a7": {
+                "itemUuids": [
+                    "941711d7-8f3d-5af6-92d4-a108fae77487",
+                    "1063c735-0c6a-5d76-852d-1aa92ab9c203",
+                    "12077eb3-b544-5f29-884d-bdb4f322bf6c",
+                    "1de4413c-78c9-56aa-b5df-2c3fd7559741",
+                    "094cb18f-7bc5-586e-baa5-c54c65b61139",
+                    "5c1a853d-0919-5b10-a60a-cbbdaebb8b32",
+                    "66b712f6-1a91-582d-b33c-588aee6176d5"
+                ],
+                "subtitle": "",
+                "title": "Premium Beverages",
+                "uuid": "86fde076-9c58-50e1-bc28-8ae9f2d0d1a7",
+                "displayType": null
+            },
+            "b70a6d0c-e34d-50d6-ad5b-e5fd71862b4f": {
+                "itemUuids": [
+                    "186c5765-bd50-5d06-8329-3cd8c7c5cd25",
+                    "3a25e201-5dd6-5543-ab3a-0e1f91f57008",
+                    "af9eeb63-02df-58c9-8b26-a5365951c348",
+                    "53034744-e00d-5cae-a23a-9864b5dbfc25"
+                ],
+                "subtitle": "",
+                "title": "Signature Sauce Dips",
+                "uuid": "b70a6d0c-e34d-50d6-ad5b-e5fd71862b4f",
+                "displayType": null
+            }
+        },
+        "title": "German Doner Kebab (Islington)",
+        "uuid": "9db7b92e-5691-44ad-84b6-3b11e09e3029",
+        "categories": [
+            "₴",
+            "Німецька",
+            "Турецька",
+            "Халяль"
+        ],
+        "cuisineList": [
+            "Німецька",
+            "Турецька",
+            "Халяль"
+        ],
+        "priceBucket": "₴",
+        "etaRange": {
+            "text": "20–30 min",
+            "iconUrl": ""
+        },
+        "ratingBadge": {
+            "text": "<span><span style=\"font-family: inherit; color: #3a3a48;\">4.1 <img src=\"https://d1a3f4spazzrp4.cloudfront.net/static/images/Star_Black_Eats_3.png\" width=\"14\" height=\"14\" vertical-align=\"middle\"> </span><span style=\"font-family: inherit; color: #757575;\">(200+)</span></span>"
+        },
+        "disclaimerBadge": {
+            "text": "<span style=\"font-family: inherit;\">Allergies, intolerances and dietary requirements: before ordering, please contact the restaurant directly and ask to speak to a member of staff who can assist if you require information about ingredients and help cater for your needs. For more information on food safety and hygiene, please visit the <a href=\"https://www.food.gov.uk/\" style=\"color:#61ad5f;\">Food Standards Agency</a></span>"
+        },
+        "fareBadge": null,
+        "fareInfo": {
+            "serviceFee": 30,
+            "serviceFeeCents": 3000
+        },
+        "promotion": null,
+        "shouldIndex": false,
+        "heroImageUrls": [
+            {
+                "url": "https://d1ralsognjng37.cloudfront.net/874f088f-2db3-441e-b552-f48fac7ed4d5",
+                "width": 240
+            },
+            {
+                "url": "https://d1ralsognjng37.cloudfront.net/8e22eb4e-8476-41cc-ba19-3794734f1b78",
+                "width": 550
+            },
+            {
+                "url": "https://d1ralsognjng37.cloudfront.net/e360269d-5b49-4ca8-b181-3eb95d9f5d9a",
+                "width": 640
+            },
+            {
+                "url": "https://d1ralsognjng37.cloudfront.net/321d017f-f2a4-40bb-9799-35af9df724f0",
+                "width": 750
+            },
+            {
+                "url": "https://d1ralsognjng37.cloudfront.net/e09f30e8-7548-4db7-b73f-b99cb9813c47",
+                "width": 1080
+            },
+            {
+                "url": "https://d1ralsognjng37.cloudfront.net/b52405a6-b848-4820-a1f2-ed99267801e4",
+                "width": 2880
+            }
+        ],
+        "isOpen": true,
+        "currencyCode": "GBP",
+        "closedMessage": "Currently unavailable",
+        "location": {
+            "address": "11b Islington High St, London, England N1 9LQ",
+            "streetAddress": "11B Islington High St",
+            "city": "London",
+            "country": "GB",
+            "postalCode": "N1 9LQ",
+            "region": "England",
+            "latitude": 51.532394,
+            "longitude": -0.106498
+        },
+        "isDeliveryThirdParty": false,
+        "hours": [
+            {
+                "dayRange": "Sunday - Thursday",
+                "sectionHours": [
+                    {
+                        "startTime": 0,
+                        "endTime": 105,
+                        "sectionTitle": "Menu"
+                    },
+                    {
+                        "startTime": 660,
+                        "endTime": 1439,
+                        "sectionTitle": "Menu"
+                    }
+                ]
+            },
+            {
+                "dayRange": "Friday - Saturday",
+                "sectionHours": [
+                    {
+                        "startTime": 0,
+                        "endTime": 225,
+                        "sectionTitle": "Menu"
+                    },
+                    {
+                        "startTime": 660,
+                        "endTime": 1439,
+                        "sectionTitle": "Menu"
+                    }
+                ]
+            }
+        ],
+        "disableOrderInstruction": true,
+        "disableCheckoutInstruction": true,
+        "nuggets": [],
+        "isWithinDeliveryRange": false,
+        "slug": "german-doner-kebab-islington",
+        "citySlug": "london",
+        "phoneNumber": "+442078377876",
+        "metaJson": "{\"@context\":\"http:\\u002F\\u002Fschema.org\",\"@type\":\"Restaurant\",\"@id\":\"https:\\u002F\\u002Fwww.ubereats.com\\u002Fen-UA\\u002Flondon\\u002Ffood-delivery\\u002Fgerman-doner-kebab-islington\\u002Fnbe5LlaRRK2EtjsR4J4wKQ\\u002F\",\"name\":\"German Doner Kebab (Islington)\",\"priceRange\":\"₴\",\"potentialAction\":{\"@type\":\"OrderAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\\u002F\\u002Fwww.ubereats.com\\u002Fen-UA\\u002Flondon\\u002Ffood-delivery\\u002Fgerman-doner-kebab-islington\\u002Fnbe5LlaRRK2EtjsR4J4wKQ\\u002F?utm_campaign=order-action&utm_medium=organic\",\"inLanguage\":\"English\",\"actionPlatform\":[\"http:\\u002F\\u002Fschema.org\\u002FDesktopWebPlatform\",\"http:\\u002F\\u002Fschema.org\\u002FMobileWebPlatform\"]},\"deliveryMethod\":[\"http:\\u002F\\u002Fpurl.org\\u002Fgoodrelations\\u002Fv1#DeliveryModeOwnFleet\"]},\"address\":{\"@type\":\"PostalAddress\",\"addressLocality\":\"London\",\"addressRegion\":\"England\",\"postalCode\":\"N1 9LQ\",\"addressCountry\":\"GB\",\"streetAddress\":\"11B Islington High St\"},\"geo\":{\"@type\":\"GeoCoordinates\",\"latitude\":51.532394,\"longitude\":-0.106498}}",
+        "promoTrackings": [],
+        "suggestedPromotion": {
+            "text": "",
+            "promotionUuid": ""
+        },
+        "supportedDiningModes": [
+            {
+                "mode": "DELIVERY",
+                "title": "Delivery",
+                "isSelected": true,
+                "isAvailable": true
+            }
+        ],
+        "isPreview": false,
+        "pinnedInfo": null
+    }
+}

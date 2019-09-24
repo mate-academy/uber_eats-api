@@ -1,0 +1,2701 @@
+{
+    "status": "success",
+    "data": {
+        "sectionEntitiesMap": {
+            "b237d3a2-5420-43ae-9990-d4767c523539": {
+                "539eb895-3439-4452-9a84-309f973ccf1a": {
+                    "description": "300g.",
+                    "imageUrl": null,
+                    "price": 11000,
+                    "title": "Puff khachapuri with cherries",
+                    "uuid": "539eb895-3439-4452-9a84-309f973ccf1a",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "c0951bcf-4ae8-4da8-80c0-d18da006389e": {
+                    "description": "Stewed red beans with aromatic spices, served with pickled cucumber pieces, crispy cabbage pelustka, and suluguni cheese in lavash (200/170g).",
+                    "imageUrl": "",
+                    "price": 13500,
+                    "title": "Rachinski-style lobio",
+                    "uuid": "c0951bcf-4ae8-4da8-80c0-d18da006389e",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "8de53b0b-0f9a-4eab-9364-9e938be1f0ee": {
+                    "description": "300g.",
+                    "imageUrl": null,
+                    "price": 13000,
+                    "title": "Khachapuri with pork and oyster mushrooms",
+                    "uuid": "8de53b0b-0f9a-4eab-9364-9e938be1f0ee",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "ca225600-e8eb-494a-ad56-0c262bdfc0ab": {
+                    "description": "250/100g.",
+                    "imageUrl": "",
+                    "price": 42500,
+                    "title": "Veal rackwith suluguni cheesein lavash",
+                    "uuid": "ca225600-e8eb-494a-ad56-0c262bdfc0ab",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "79266e98-98f3-4b96-9da9-50e5f42fa64e": {
+                    "description": "300g.",
+                    "imageUrl": "",
+                    "price": 11500,
+                    "title": "Megrelian-style khachapuri",
+                    "uuid": "79266e98-98f3-4b96-9da9-50e5f42fa64e",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "1d7c3699-5a91-4688-9b6c-a47d4ca98ba4": {
+                    "description": "3/6/9pcs.",
+                    "imageUrl": "",
+                    "price": 5400,
+                    "title": "Khinkali with spinach and mushroom in cream sauce",
+                    "uuid": "1d7c3699-5a91-4688-9b6c-a47d4ca98ba4",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "1f4cbe6c-9ba2-42bb-871b-c1d8e324bcc2": {
+                    "description": "Ground mutton with onion, fresh coriander, parsley, and traditional georgian spices (200/70g).",
+                    "imageUrl": "",
+                    "price": 21500,
+                    "title": "Mutton lulya-kebab",
+                    "uuid": "1f4cbe6c-9ba2-42bb-871b-c1d8e324bcc2",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "cf15fe5f-c70d-477c-a033-f9ba4c84c4ce": {
+                    "description": "Chicken Tapaka stewed in cream sausewith traditional georgian spicesand aromatic garlik. Served on ketsi (200/200g).",
+                    "imageUrl": "",
+                    "price": 32500,
+                    "title": "Chkmerski chicken in milk sauce",
+                    "uuid": "cf15fe5f-c70d-477c-a033-f9ba4c84c4ce",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "12bcb26b-80ce-435d-a13d-6c391e5848ec": {
+                    "description": "3/6/9pcs.",
+                    "imageUrl": "",
+                    "price": 5400,
+                    "title": "Khinkali with pork and veal",
+                    "uuid": "12bcb26b-80ce-435d-a13d-6c391e5848ec",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "61b51d15-024b-4776-94ac-2b56f201cb62": {
+                    "description": "3/6/9pcs.",
+                    "imageUrl": "",
+                    "price": 6000,
+                    "title": "Khinkali with veal and basil",
+                    "uuid": "61b51d15-024b-4776-94ac-2b56f201cb62",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "24daa5a2-34dc-4b82-a8da-53e4a017eed5": {
+                    "description": "300g.",
+                    "imageUrl": null,
+                    "price": 13000,
+                    "title": "Khachapuri with veal",
+                    "uuid": "24daa5a2-34dc-4b82-a8da-53e4a017eed5",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "b284def7-7a41-454c-bac5-7a53b0098ccc": {
+                    "description": "Juicy mix of pork, and veal with rice, wrapped in vine leaves. Served on ketsi with traditional matzoon sauce (200/30г).",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/abf4589f-4b27-42a4-9ddf-1ecba345f5c3.jpeg",
+                    "price": 16500,
+                    "title": "Dolma",
+                    "uuid": "b284def7-7a41-454c-bac5-7a53b0098ccc",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "05c99d2e-25cd-464a-8454-a6223cce9d01": {
+                    "description": "Crispy cucumbers, sweet pepper, juicy tomatoes, onion rings, greens. Dressed with walnut sauce, and garlic (250g).",
+                    "imageUrl": "",
+                    "price": 12500,
+                    "title": "Georgian vegetable salad",
+                    "uuid": "05c99d2e-25cd-464a-8454-a6223cce9d01",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "cdcce8fb-4b07-4046-a93c-a5a1ad2d7f7c": {
+                    "description": "(300/150/70 g)",
+                    "imageUrl": null,
+                    "price": 35000,
+                    "title": "Baked sterlet with green peas mousse and vine sauce",
+                    "uuid": "cdcce8fb-4b07-4046-a93c-a5a1ad2d7f7c",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "dc4bfb14-5813-4235-8fe0-ee1bf80cda2d": {
+                    "description": "Thin grilled slices of eggplant with tender traditional georgian bazhe sauce (200/15g).",
+                    "imageUrl": "",
+                    "price": 12500,
+                    "title": "Old Kutaissi-style vegetable rolls with nut cream",
+                    "uuid": "dc4bfb14-5813-4235-8fe0-ee1bf80cda2d",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "endorsement": {
+                        "text": "Vegetarian",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_check@3x.png"
+                    },
+                    "classifications": []
+                },
+                "73e66e2d-ae64-46b8-9272-eb5c38ef85f6": {
+                    "description": "Light green peas soup with cream and tender pike perch fillet. Served with crispy lavash chips (250/55 g)",
+                    "imageUrl": null,
+                    "price": 17000,
+                    "title": "Green peas cream-soup with pikeperch",
+                    "uuid": "73e66e2d-ae64-46b8-9272-eb5c38ef85f6",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "8506f1e1-377c-4295-b259-4e21c6dc3467": {
+                    "description": "3/6/9pcs.",
+                    "imageUrl": "",
+                    "price": 6900,
+                    "title": "Khinkali with chicken and mushrooms in cream sauce",
+                    "uuid": "8506f1e1-377c-4295-b259-4e21c6dc3467",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "a8ea839b-8fb3-4b9e-9a56-3654e65f6b6b": {
+                    "description": "Traditional ukrainian borsh with veal, served with two homemade donuts, sour cream, lard, crimean onion and greens (350/70/55 g)",
+                    "imageUrl": null,
+                    "price": 11500,
+                    "title": "Ukrainian borsch with veal, pampushkies and lard ",
+                    "uuid": "a8ea839b-8fb3-4b9e-9a56-3654e65f6b6b",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "20703f49-ffd1-4e37-badb-36ffc7d9e8b1": {
+                    "description": "Mutton pieces stewed in tkemali sauce. Aromatic coriander, parsley, and garlik give spice of dish. Served on ketsi (300g).",
+                    "imageUrl": "",
+                    "price": 19800,
+                    "title": "Mutton Chakapuli",
+                    "uuid": "20703f49-ffd1-4e37-badb-36ffc7d9e8b1",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "81cbc0e7-fa1d-4a29-8bbc-f72865f2270f": {
+                    "description": "Pieces of pork neck shoulder marinated in sauce on the basisof onion,salt, pepper, and aromatic laurel leaves (200/70g).",
+                    "imageUrl": "",
+                    "price": 24500,
+                    "title": "Pork shashlik",
+                    "uuid": "81cbc0e7-fa1d-4a29-8bbc-f72865f2270f",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "87567be2-70bc-4bd9-9df7-2493687eb981": {
+                    "description": "Tender veal pieces stewed with onion and tomatoes with the additionof georgian spices, garlik, parsley and coriander. Served on ketsi (300g).",
+                    "imageUrl": "",
+                    "price": 18800,
+                    "title": "Chashushuli",
+                    "uuid": "87567be2-70bc-4bd9-9df7-2493687eb981",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "dc012e97-99da-46c2-be52-91e183e9a340": {
+                    "description": "Thin potatoe slices fried with salo, and onion (250g).",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/73d1af32-a6ff-410f-9413-7994e149003d",
+                    "price": 6200,
+                    "title": "Home-style fried potatoes",
+                    "uuid": "dc012e97-99da-46c2-be52-91e183e9a340",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "30120844-1db4-44c1-b23f-9f9350ec2255": {
+                    "description": "Baked pike perch fillet with aromatic celery, crimean onion, zucchini, and juicy carrotand sweet pepper. Served on ketsi (150/150g).",
+                    "imageUrl": "",
+                    "price": 34500,
+                    "title": "Pike perch with vegetables",
+                    "uuid": "30120844-1db4-44c1-b23f-9f9350ec2255",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "b6a9248a-5146-449a-806f-e63a98f7fa21": {
+                    "description": "300g.",
+                    "imageUrl": null,
+                    "price": 8800,
+                    "title": "Khachapuri with beans",
+                    "uuid": "b6a9248a-5146-449a-806f-e63a98f7fa21",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "bd2fcc56-55a5-4d0a-b36a-d0a72e742708": {
+                    "description": "Spicy soup with mutton. Served with aromatic greens, red spicy pepper, and spicy green adjika (350g).",
+                    "imageUrl": "",
+                    "price": 13500,
+                    "title": "Shurpa",
+                    "uuid": "bd2fcc56-55a5-4d0a-b36a-d0a72e742708",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "06d3ed30-8329-41c7-826e-404f8ba700d6": {
+                    "description": "Crispy cucumbers, sweet pepper, juicy tomatoes, cremian onion rings, and greens with garlic. Dressed with bazhe sauce (230g).",
+                    "imageUrl": "",
+                    "price": 13500,
+                    "title": "Tbilisi-style salad with baja sauce",
+                    "uuid": "06d3ed30-8329-41c7-826e-404f8ba700d6",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "endorsement": {
+                        "text": "Vegetarian",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_check@3x.png"
+                    },
+                    "classifications": []
+                },
+                "d75e4112-e735-4cfe-9c64-f15ab089d73c": {
+                    "description": "3/6/9pcs.",
+                    "imageUrl": "",
+                    "price": 7500,
+                    "title": "Khinkali with veal tongue and mushrooms in cream sauce",
+                    "uuid": "d75e4112-e735-4cfe-9c64-f15ab089d73c",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "d98fb0b3-261a-4d31-b361-c84d53351047": {
+                    "description": "300g.",
+                    "imageUrl": null,
+                    "price": 14700,
+                    "title": "Imereti style khachapuri with herbs",
+                    "uuid": "d98fb0b3-261a-4d31-b361-c84d53351047",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "fc3c2df5-358e-4781-b691-14d77b865a3a": {
+                    "description": "3/6/9pcs.",
+                    "imageUrl": "",
+                    "price": 5400,
+                    "title": "Khinkali with pork, veal, and garlic",
+                    "uuid": "fc3c2df5-358e-4781-b691-14d77b865a3a",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "2c97318e-00be-42a8-89f2-869e85ec5969": {
+                    "description": "Juicy yeast cake in boat-like shape baked with suluguni and imeretiancheese of farm production. Traditionally served with an egg yolk (300/20g).",
+                    "imageUrl": "",
+                    "price": 11500,
+                    "title": "Adjarian khachapuri",
+                    "uuid": "2c97318e-00be-42a8-89f2-869e85ec5969",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "9673ccbc-e822-4a30-9e18-11ada78bbba0": {
+                    "description": "3/6/9pcs.",
+                    "imageUrl": "",
+                    "price": 11700,
+                    "title": "Khinkali with cocktail shrimp in cream sauce",
+                    "uuid": "9673ccbc-e822-4a30-9e18-11ada78bbba0",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "a1f0d7cd-b4e0-4fad-bb69-38185b5dcb35": {
+                    "description": "Fried turkey pieces in soy sauce and sesame, romaine salad, radicchio salad, fresh cucumber,baked sweet pepper, and onion rings. Served with warm cheese sauce (210g).",
+                    "imageUrl": "",
+                    "price": 16500,
+                    "title": "Warm salad with turkey under cheese sauce",
+                    "uuid": "a1f0d7cd-b4e0-4fad-bb69-38185b5dcb35",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "91a4a5b8-d9e9-4a51-ade0-d9b621dc122b": {
+                    "description": "Chicken stewed with onion, juicy tomatoes, georgian spices, spicy coriander, and parsley. Served on ketsi (300g).",
+                    "imageUrl": "",
+                    "price": 15800,
+                    "title": "Chakhokhbili",
+                    "uuid": "91a4a5b8-d9e9-4a51-ade0-d9b621dc122b",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "3a330cd0-b6bc-4561-b96d-aed8d8422ea4": {
+                    "description": "660/40g",
+                    "imageUrl": "",
+                    "price": 22500,
+                    "title": "Adjarian Khachapuri \"Titanic\"",
+                    "uuid": "3a330cd0-b6bc-4561-b96d-aed8d8422ea4",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "1280b681-a62d-44d8-98e4-56a31c8ae1bf": {
+                    "description": "Tender turkey fillet sous videwith traditional georgian sauce bazhe (100/100g).",
+                    "imageUrl": "",
+                    "price": 12500,
+                    "title": "Turkey satcivi",
+                    "uuid": "1280b681-a62d-44d8-98e4-56a31c8ae1bf",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "16b548a4-e51b-453c-8b48-5e2e3c6ce384": {
+                    "description": "Spicy georgian soup with veal. Served witharomatic greens, red spicy pepper, and piquant red adjika (350g).",
+                    "imageUrl": "",
+                    "price": 9500,
+                    "title": "Kharcho ",
+                    "uuid": "16b548a4-e51b-453c-8b48-5e2e3c6ce384",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "2c3dbddc-dd1a-463e-a8e6-da190ef11bd9": {
+                    "description": "120g.",
+                    "imageUrl": "",
+                    "price": 13500,
+                    "title": "Walnut cake under white chocolate",
+                    "uuid": "2c3dbddc-dd1a-463e-a8e6-da190ef11bd9",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "ecbc859c-2791-4c18-acba-bf74d17e88b6": {
+                    "description": "950g",
+                    "imageUrl": "",
+                    "price": 32800,
+                    "title": "Royal Khachapuri ",
+                    "uuid": "ecbc859c-2791-4c18-acba-bf74d17e88b6",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "8d186f20-eb25-460c-8530-a9b23ada8b42": {
+                    "description": "Chicken broth with home-made noodles and chicken meatballs. Served with aromatic greens and cpispy lavash chips (350 g)",
+                    "imageUrl": null,
+                    "price": 5500,
+                    "title": "Soup with home-made noodles and chicken cecils",
+                    "uuid": "8d186f20-eb25-460c-8530-a9b23ada8b42",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "8db55be4-f144-485e-a3db-a617c6ea2d0f": {
+                    "description": "Served with honey-nut sauce (200/40g).",
+                    "imageUrl": "",
+                    "price": 11500,
+                    "title": "Home-style fried cheese with crisps",
+                    "uuid": "8db55be4-f144-485e-a3db-a617c6ea2d0f",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "78245a8a-71c8-4367-9552-51d9976cd491": {
+                    "description": "Lollo-rossa salad, fresh cucumbers, tomatoes, sweetpepper, cremian onion, tender feta cheese, and olives. Dressed with walnuts sauce (235g).",
+                    "imageUrl": "",
+                    "price": 15500,
+                    "title": "Caucasian-style saladwith feta cheese",
+                    "uuid": "78245a8a-71c8-4367-9552-51d9976cd491",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "300616da-61dd-4807-8398-e1cda7170075": {
+                    "description": "300g.",
+                    "imageUrl": null,
+                    "price": 12600,
+                    "title": "Kubdari-svanuri with pork",
+                    "uuid": "300616da-61dd-4807-8398-e1cda7170075",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "65050774-0a5e-45a5-8761-bcad5c93bac5": {
+                    "description": "/price per 100 grammes/",
+                    "imageUrl": null,
+                    "price": 23500,
+                    "title": "Rack of lamb",
+                    "uuid": "65050774-0a5e-45a5-8761-bcad5c93bac5",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "130ab13e-8130-4d53-a6fb-0d6e3946aac0": {
+                    "description": "Traditional georgian appetizer made of spinachand beetroot with ground walnutsand aromatic georgian spices (140g).",
+                    "imageUrl": "",
+                    "price": 6500,
+                    "title": "Spinach and beetrootassorted pkhali",
+                    "uuid": "130ab13e-8130-4d53-a6fb-0d6e3946aac0",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "8992c0dd-b04d-4026-a7c5-a75fe193e8dc": {
+                    "description": "Fresh spinach, black-eyed peas, broccoli, and juicy tomatoes, and orange-mustard sause gives unusual tast (200g).",
+                    "imageUrl": "",
+                    "price": 15500,
+                    "title": "Fresh spinach saladwith orange-mustard sauce",
+                    "uuid": "8992c0dd-b04d-4026-a7c5-a75fe193e8dc",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "6720c7b3-c6ed-4fd0-aeb8-19440a864402": {
+                    "description": "300g.",
+                    "imageUrl": null,
+                    "price": 13600,
+                    "title": "Khachapuri with chicken and mushrooms",
+                    "uuid": "6720c7b3-c6ed-4fd0-aeb8-19440a864402",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "33b39806-0ae4-4cf7-8728-6af7cdb22aaf": {
+                    "description": "Grilled veal medallions and zucchini, lollo-rossa salad, crispy cucumbers, tomatoes, and sweet pepper, and cremian onion. Dressed with honey-mustard sauce (210g).",
+                    "imageUrl": "",
+                    "price": 19500,
+                    "title": "Vegetables and grilled vealwith honey-mustard sauce",
+                    "uuid": "33b39806-0ae4-4cf7-8728-6af7cdb22aaf",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "64a8d771-004f-4932-bd1c-092cadb4bd24": {
+                    "description": "300g.",
+                    "imageUrl": null,
+                    "price": 13000,
+                    "title": "Puff khachapuri with blueberries",
+                    "uuid": "64a8d771-004f-4932-bd1c-092cadb4bd24",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "91776693-f31b-4d1d-b364-45e72c648f64": {
+                    "description": "Veal roast pieces marinated in special marinade with not sharp red adjika (200/70g).",
+                    "imageUrl": "",
+                    "price": 43500,
+                    "title": "Veal shashlik",
+                    "uuid": "91776693-f31b-4d1d-b364-45e72c648f64",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "7e48c61f-10c1-4a25-86ec-0792295c4182": {
+                    "description": "Served on ketsi (255g).",
+                    "imageUrl": "",
+                    "price": 6800,
+                    "title": "Boiled potatoes with bacon",
+                    "uuid": "7e48c61f-10c1-4a25-86ec-0792295c4182",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "b73d16fd-cbea-4d7e-996f-10cdb516abc0": {
+                    "description": "Tender salmon, crispy cucumbers, iceberg salad,juicy tomatoes, quail eggs, and crimean onion. Dressed with mustard sauce, and sprinkled with grated Parmesan cheese (230g).",
+                    "imageUrl": "",
+                    "price": 18800,
+                    "title": "Salad with boiled salmon and quail eggs",
+                    "uuid": "b73d16fd-cbea-4d7e-996f-10cdb516abc0",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "bfca3d61-5acd-4aa1-93e9-241242a13127": {
+                    "description": "Grilled pike perch baked with tomatoes, suluguni cheese, tender spinach and fragrant mushrooms in cream sauce. Served on ketsi (350 g)",
+                    "imageUrl": null,
+                    "price": 34500,
+                    "title": "Pike perch baked on ketsi with suluguni cheese and spinach",
+                    "uuid": "bfca3d61-5acd-4aa1-93e9-241242a13127",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "6d852db4-539d-4738-bb2c-1b317c25319b": {
+                    "description": "Thin dough with sweet cherryor blueberry stuffing. Served in cherry kissel (250/100g).",
+                    "imageUrl": "",
+                    "price": 5400,
+                    "title": "Khinkali with berries in kissel",
+                    "uuid": "6d852db4-539d-4738-bb2c-1b317c25319b",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "180bdafe-95ad-4d2e-8334-e0cb39341cb1": {
+                    "description": "300g.",
+                    "imageUrl": null,
+                    "price": 13000,
+                    "title": "Khachapuri with mutton",
+                    "uuid": "180bdafe-95ad-4d2e-8334-e0cb39341cb1",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "d0e29eb3-c454-47fc-b115-2082a62e1bb1": {
+                    "description": "Ground veal with onion, fresh coriander, parsley, and traditional georgian spices (200/70g).",
+                    "imageUrl": "",
+                    "price": 21500,
+                    "title": "Veal lulya-kebab",
+                    "uuid": "d0e29eb3-c454-47fc-b115-2082a62e1bb1",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "6595b42a-0cfd-428f-a5f5-c0115afa71b1": {
+                    "description": "Veal cheeks slices stewed in classic demi-glace sauce with the addition of sweet pepper, carrot and garlik. Served on ketsi (300g).",
+                    "imageUrl": "",
+                    "price": 20500,
+                    "title": "Veal cheeks stewed with marinade",
+                    "uuid": "6595b42a-0cfd-428f-a5f5-c0115afa71b1",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "ba021ef8-21b3-46df-b951-2b8c6c997842": {
+                    "description": "3/6/9pcs.",
+                    "imageUrl": "",
+                    "price": 5700,
+                    "title": "Khinkali with veal",
+                    "uuid": "ba021ef8-21b3-46df-b951-2b8c6c997842",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "165ef62d-a04f-442a-acb5-22053f007630": {
+                    "description": "Mutton pieces marinated in red georgian adjika, and spicy jeera sauce (200/70g).",
+                    "imageUrl": "",
+                    "price": 38000,
+                    "title": "Mutton shashlik",
+                    "uuid": "165ef62d-a04f-442a-acb5-22053f007630",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "9a9aa222-82a3-4420-a199-d2ce405b4095": {
+                    "description": "3/6/9pcs.",
+                    "imageUrl": "",
+                    "price": 5400,
+                    "title": "Khinkali with mutton",
+                    "uuid": "9a9aa222-82a3-4420-a199-d2ce405b4095",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "32a1cff0-9507-4306-b754-87f12f35398b": {
+                    "description": "300/20g.",
+                    "imageUrl": "",
+                    "price": 16000,
+                    "title": "Khachapuri with juicy chiken, fragrant mushrooms, and creamy sauceand spicy smoked suluguni cheese",
+                    "uuid": "32a1cff0-9507-4306-b754-87f12f35398b",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "4f11f6fe-ab3c-4f1a-bcaf-8b370a07d876": {
+                    "description": "3/6/9pcs.",
+                    "imageUrl": "",
+                    "price": 5700,
+                    "title": "Khinkali with mutton and green adjika",
+                    "uuid": "4f11f6fe-ab3c-4f1a-bcaf-8b370a07d876",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "endorsement": {
+                        "text": "Spicy",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png"
+                    },
+                    "classifications": []
+                },
+                "2edfd168-56b3-4ad0-9b28-97ee2d1c47c2": {
+                    "description": "Marinated in georgian spices chicken grilled underpressure. Served with aromatic garlik sauce  / weight meal / price indicated for (100 / 40g) / possible weight of chicken from 300 to 600 g.",
+                    "imageUrl": "",
+                    "price": 9500,
+                    "title": "Chicken Tapaka (flattened and grilled chicken) with garlic sauce",
+                    "uuid": "2edfd168-56b3-4ad0-9b28-97ee2d1c47c2",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "94efeb39-237e-4745-9047-68dca5015658": {
+                    "description": "Grilled salmon filletstewed in classic narsharab sauce. Served in ketze. (150/50/50g).",
+                    "imageUrl": "",
+                    "price": 38500,
+                    "title": "Salmon filletin pomegranate sauce",
+                    "uuid": "94efeb39-237e-4745-9047-68dca5015658",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "1f3c4fc0-d111-4326-8db9-4c9240297b48": {
+                    "description": "Fried crispy carp pieces (100g).",
+                    "imageUrl": "",
+                    "price": 9000,
+                    "title": "Home-style fried carpwith crisps",
+                    "uuid": "1f3c4fc0-d111-4326-8db9-4c9240297b48",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "e6a222d9-6281-47e2-9926-4ea98f30800e": {
+                    "description": "3/6/9pcs.",
+                    "imageUrl": "",
+                    "price": 5400,
+                    "title": "Khinkali with suluguni cheese and greens",
+                    "uuid": "e6a222d9-6281-47e2-9926-4ea98f30800e",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "553f9575-286b-4a0a-806b-e558b81bfdf5": {
+                    "description": "250g.",
+                    "imageUrl": null,
+                    "price": 8800,
+                    "title": "Puff khachapuri",
+                    "uuid": "553f9575-286b-4a0a-806b-e558b81bfdf5",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "74efa661-72c2-4135-b515-5587bdcbf8f7": {
+                    "description": "Turkey fillet marinated in special sauce with mustard (200/70g).",
+                    "imageUrl": "",
+                    "price": 22500,
+                    "title": "Turkey shashlik",
+                    "uuid": "74efa661-72c2-4135-b515-5587bdcbf8f7",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                }
+            },
+            "549aff4a-693e-4d92-992b-56eec65f22fc": {
+                "0ff2ee73-b744-4165-afbc-09bc187f7085": {
+                    "description": "300г.",
+                    "imageUrl": null,
+                    "price": 14700,
+                    "title": "Хачапурі по-імертинськи з зеленню",
+                    "uuid": "0ff2ee73-b744-4165-afbc-09bc187f7085",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "fe374f31-5104-450b-8664-a35711f07baf": {
+                    "description": "Обсмаженi на грилi кружальця баклажану, цуккiнi, цибулi, помiдору, скибочки солодкого перцю та шампiньйони (200 г)",
+                    "imageUrl": null,
+                    "price": 11000,
+                    "title": "Овочi гриль",
+                    "uuid": "fe374f31-5104-450b-8664-a35711f07baf",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "f3970863-5d00-4866-990f-056c59e0dc4a": {
+                    "description": "Молода телятина з додаванням припущенного лука, свіжої кінзи, петрушки і традиційних грузинських спецій (200/70г).",
+                    "imageUrl": "",
+                    "price": 21500,
+                    "title": "Люля-кебаб із телятини ",
+                    "uuid": "f3970863-5d00-4866-990f-056c59e0dc4a",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "b8198183-e76e-4f7a-8fee-a576d369dc98": {
+                    "description": "300г.",
+                    "imageUrl": null,
+                    "price": 13000,
+                    "title": "Хачапурі зі свининою та вешенками",
+                    "uuid": "b8198183-e76e-4f7a-8fee-a576d369dc98",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "373d193d-892a-4e52-84d9-4aec3a31b7b7": {
+                    "description": "(250/100г).",
+                    "imageUrl": "",
+                    "price": 42500,
+                    "title": "Каре телятини із сиром сулугуні в лаваші",
+                    "uuid": "373d193d-892a-4e52-84d9-4aec3a31b7b7",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "52bc1e7d-4df1-45a1-a11f-88b8141042ae": {
+                    "description": "3/6/9шт.",
+                    "imageUrl": "",
+                    "price": 5700,
+                    "title": "Хінкалі з бараниною і зеленою аджикою",
+                    "uuid": "52bc1e7d-4df1-45a1-a11f-88b8141042ae",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "9a091cf8-a5e3-4157-a63e-3000132d3d60": {
+                    "description": "300г.",
+                    "imageUrl": null,
+                    "price": 13000,
+                    "title": "Хачапурі з телятиною",
+                    "uuid": "9a091cf8-a5e3-4157-a63e-3000132d3d60",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "c9838ca1-d26e-4f60-89e2-0b370c453ed1": {
+                    "description": "Філе індички, мариноване у фірмовому соусі\n з додаванням гірчиці (200/70г).",
+                    "imageUrl": "",
+                    "price": 22500,
+                    "title": "Шашлик з індички ",
+                    "uuid": "c9838ca1-d26e-4f60-89e2-0b370c453ed1",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "93c6ba2e-c9f0-4a9d-835b-f7d78bfd90b4": {
+                    "description": "Хрусткі огірки, солодкий перець, соковиті помідори, кільця ялтинської цибулі, зелень. Заправляється горіховим соусом з часником (250г).",
+                    "imageUrl": "",
+                    "price": 12500,
+                    "title": "Грузинський овочевий салат ",
+                    "uuid": "93c6ba2e-c9f0-4a9d-835b-f7d78bfd90b4",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "2e9d83ca-7c9a-4bb2-a740-da66104bd477": {
+                    "description": "Тонкі слайси з баклажанів, обсмажені на грилі з ніжним традиційним грузинським соусом баже (200/15г).",
+                    "imageUrl": "",
+                    "price": 12500,
+                    "title": "Овочеві рулетики по-старокутаїськи з горіховим кремом ",
+                    "uuid": "2e9d83ca-7c9a-4bb2-a740-da66104bd477",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "8f10f885-d783-4170-a6db-9c912191dd0f": {
+                    "description": "(255г).",
+                    "imageUrl": "",
+                    "price": 6800,
+                    "title": "Відварна картопля з підчеревиною",
+                    "uuid": "8f10f885-d783-4170-a6db-9c912191dd0f",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "c2808701-cb78-43d2-bf65-ef193c9917fb": {
+                    "description": "Запечене філе судака з ароматною селерою, ялтинською цибулею, цукіні, соковитою морквою і болгарським перцем. Подається на кеці (150/150г).",
+                    "imageUrl": "",
+                    "price": 34500,
+                    "title": "Судак з овочами ",
+                    "uuid": "c2808701-cb78-43d2-bf65-ef193c9917fb",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "2f9bdf8d-7df0-4d44-95d0-7f5fb88610f0": {
+                    "description": "Мариноване в грузинських спеціях курча, обсмажується до золотистої скоринки під пресом. Подається з ароматним часниковим соусом /вагова страва/ ціна вказана за (100/40г)/ можлива вага курча від 300 до 600 г.",
+                    "imageUrl": "",
+                    "price": 9500,
+                    "title": "Курча тапака з часниковим соусом ",
+                    "uuid": "2f9bdf8d-7df0-4d44-95d0-7f5fb88610f0",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "a7c61f60-7a16-4b38-a80a-a1033d7b8297": {
+                    "description": "3/6/8шт.",
+                    "imageUrl": "",
+                    "price": 6000,
+                    "title": "Хінкалі з телятиною і базиліком",
+                    "uuid": "a7c61f60-7a16-4b38-a80a-a1033d7b8297",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "f6858269-71a6-4807-9176-7c1551f37532": {
+                    "description": "Свіжий шпинат, спаржева квасоля, броколі й соковиті помідори, незвичайний смак салату додає\nгірчично-апельсинова заправка (200г).",
+                    "imageUrl": "",
+                    "price": 15500,
+                    "title": "Салат зі свіжого шпинату під гірчично-апельсиновим соусом ",
+                    "uuid": "f6858269-71a6-4807-9176-7c1551f37532",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "8c76b6fc-4c1b-4154-ac65-c9c44858dc55": {
+                    "description": "Салат лоло россо, свіжі огірки, соковиті помідори\n і солодкий перець, ялтинська цибуля, ніжний сир фета, маслини і оливки. Заправляється горіховим соусом (235г).",
+                    "imageUrl": "",
+                    "price": 15500,
+                    "title": "Салат по-кавказьки із сиром фета ",
+                    "uuid": "8c76b6fc-4c1b-4154-ac65-c9c44858dc55",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "c8d259b6-d634-40cd-a658-553c2728e732": {
+                    "description": "Подається з медово-горіховим соусом (200/40г).",
+                    "imageUrl": "",
+                    "price": 11500,
+                    "title": "Сир, смажений по-домашньому з хрусткою скоринкою ",
+                    "uuid": "c8d259b6-d634-40cd-a658-553c2728e732",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "a3cc35a2-4fb4-462c-8b26-e4d67fa82530": {
+                    "description": "Шматочки баранини тушкуються у соусi ткемалi. Пiкантностi стравi надає ароматна кiнза, петрушка та часник. Подається на кеци (300 г)",
+                    "imageUrl": null,
+                    "price": 19800,
+                    "title": "Чакапулi з баранини",
+                    "uuid": "a3cc35a2-4fb4-462c-8b26-e4d67fa82530",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "4c4aff8d-f996-4d1d-b995-ada15dafd8e4": {
+                    "description": "3/6/9шт.",
+                    "imageUrl": "",
+                    "price": 5400,
+                    "title": "Хінкалі із сиром сулугуні та зеленню",
+                    "uuid": "4c4aff8d-f996-4d1d-b995-ada15dafd8e4",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "e20ab17f-759d-43eb-8d3d-41e8c5e3dbe9": {
+                    "description": "Соковитий коржик у формі човників із дріжджового тіста, запечений із сиром сулугуні й імеретинським фермерського виробництва. Традиційно подається з яєчним жовтком (300г).",
+                    "imageUrl": "",
+                    "price": 11500,
+                    "title": "Хачапурі по-аджарськи ",
+                    "uuid": "e20ab17f-759d-43eb-8d3d-41e8c5e3dbe9",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "6acffae1-7668-427d-a374-9f5e3198978d": {
+                    "description": "300г.",
+                    "imageUrl": null,
+                    "price": 8800,
+                    "title": "Хачапурі з квасолею",
+                    "uuid": "6acffae1-7668-427d-a374-9f5e3198978d",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "757a9015-5c70-49ec-9f55-4729631edcdb": {
+                    "description": "Легкий суп iз зеленого горошку з вершками та нiжним фiле судака. Подається з хрусткими чiпсами iз лавашу (250/55 г)",
+                    "imageUrl": null,
+                    "price": 17000,
+                    "title": "Крем-суп iз зеленого горошку з судаком",
+                    "uuid": "757a9015-5c70-49ec-9f55-4729631edcdb",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "bf56aa6e-81c3-4cf1-971d-63a75dff5d85": {
+                    "description": "(300/150/70 г)",
+                    "imageUrl": null,
+                    "price": 35000,
+                    "title": "Запечена стерлядь з мусом iз зеленого горошку та винним соусом",
+                    "uuid": "bf56aa6e-81c3-4cf1-971d-63a75dff5d85",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "a6051f13-77d8-4aaa-9b02-277a0492fe02": {
+                    "description": "600г.",
+                    "imageUrl": "",
+                    "price": 21000,
+                    "title": "Хачапурі по-аджарськи \"Титанік\"",
+                    "uuid": "a6051f13-77d8-4aaa-9b02-277a0492fe02",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "203aa26b-5fc8-42da-a074-1d7cddd41dc7": {
+                    "description": "Курча тапака нудиться у вершковому соусі з додаванням традиційних грузинських спецій та ароматного часнику. Подається на кеці (200/200г).",
+                    "imageUrl": "",
+                    "price": 32500,
+                    "title": "Курча по-чкмерськи в молочному соусі ",
+                    "uuid": "203aa26b-5fc8-42da-a074-1d7cddd41dc7",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "03890503-5d3a-4126-89a2-873e09beb1e1": {
+                    "description": "250г.",
+                    "imageUrl": null,
+                    "price": 8800,
+                    "title": "Хачапурі з листкового тіста",
+                    "uuid": "03890503-5d3a-4126-89a2-873e09beb1e1",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "375bb344-19c1-4e4e-b348-5e04a4c8ff68": {
+                    "description": "3/6/9шт.",
+                    "imageUrl": "",
+                    "price": 5400,
+                    "title": "Хінкалі зі свининою і телятиною, часником",
+                    "uuid": "375bb344-19c1-4e4e-b348-5e04a4c8ff68",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "f37fea3d-11ee-4b7d-bd0f-686bf1a5237f": {
+                    "description": "3/6/9шт.",
+                    "imageUrl": "",
+                    "price": 5400,
+                    "title": "Хінкалі зі шпинатом і грибами у вершковому соусі",
+                    "uuid": "f37fea3d-11ee-4b7d-bd0f-686bf1a5237f",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "5b2802c7-c6af-4653-a063-4ba0942f74c3": {
+                    "description": " Хрусткі огірки, солодкий перець, помідори,\n кільця ялтинської цибулі, зелень із дрібно рубаним часником. Заправляється соусом баже (230г).",
+                    "imageUrl": "",
+                    "price": 13500,
+                    "title": "Салат по-тбіліськи під соусом баже ",
+                    "uuid": "5b2802c7-c6af-4653-a063-4ba0942f74c3",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "545d81da-081b-41ad-a24a-6609134282e3": {
+                    "description": "3/6/9шт.",
+                    "imageUrl": "",
+                    "price": 5400,
+                    "title": "Хінкалі з бараниною",
+                    "uuid": "545d81da-081b-41ad-a24a-6609134282e3",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "955dc15f-2cbb-451c-83fb-f494a0b271c9": {
+                    "description": "3/6/9шт.",
+                    "imageUrl": "",
+                    "price": 6900,
+                    "title": "Хінкалі з куркою і грибами у вершковому соусі",
+                    "uuid": "955dc15f-2cbb-451c-83fb-f494a0b271c9",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "460a54f9-5e1a-419a-af5d-66e717b5e411": {
+                    "description": "(300/20г).",
+                    "imageUrl": "",
+                    "price": 16000,
+                    "title": "Хачапурі з соковитою куркою, ароматними грибами, вершковим соусом і пікантним копченим сиром сулугуні",
+                    "uuid": "460a54f9-5e1a-419a-af5d-66e717b5e411",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "bacee517-174e-489b-bd72-c122d9d4bbaa": {
+                    "description": "Обсмажена на грилi форель з кружечками баклажанiв, цукiнi, цибулi, помiдору та скибочками болгарського перцю (190/115/50 г)",
+                    "imageUrl": null,
+                    "price": 34500,
+                    "title": "Форель з овочами гриль",
+                    "uuid": "bacee517-174e-489b-bd72-c122d9d4bbaa",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "c5779fe0-f61b-4fc5-a910-f7aca3c2e58d": {
+                    "description": "3/6/9шт.",
+                    "imageUrl": "",
+                    "price": 5400,
+                    "title": "Хінкалі ягідні в киселі",
+                    "uuid": "c5779fe0-f61b-4fc5-a910-f7aca3c2e58d",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "8824f38c-72b1-4c5f-821d-cfc030af2e4d": {
+                    "description": "Ніжні шматочки телятини тушкуються з цибулею і помідорами з додаванням грузинських спецій, часнику, петрушки й кінзи. Подається на кеці (300г).",
+                    "imageUrl": "",
+                    "price": 18800,
+                    "title": "Чашушулі ",
+                    "uuid": "8824f38c-72b1-4c5f-821d-cfc030af2e4d",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "f6056603-5333-4fdb-a047-1fae6d480f8a": {
+                    "description": "Обсмаженi на грилi шматочки судака запiкаються з помiдорами, сиром сулугунi, нiжним шпинатом та ароматними грибами у вершковому соусi. Подається на кеци (350 г)",
+                    "imageUrl": null,
+                    "price": 34500,
+                    "title": "Судак, запечений на кеци з сиром сулугунi та шпинатом",
+                    "uuid": "f6056603-5333-4fdb-a047-1fae6d480f8a",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "99433769-39ff-440b-a3f6-2a166aebf2d7": {
+                    "description": "(120 г)",
+                    "imageUrl": null,
+                    "price": 13500,
+                    "title": "Горiховий пирiг пiд бiлим шоколадом",
+                    "uuid": "99433769-39ff-440b-a3f6-2a166aebf2d7",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "2e25ed31-5063-4030-b808-98276aa37080": {
+                    "description": "Тушкована з ароматними спеціями червона квасоля. Подається із соліннями і сиром сулугуні (200/170г).",
+                    "imageUrl": "",
+                    "price": 13500,
+                    "title": "Лобіо по-рачинськи ",
+                    "uuid": "2e25ed31-5063-4030-b808-98276aa37080",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "904a3b57-d0e5-412a-9186-ed61c77b0a3e": {
+                    "description": "3/6/9шт.",
+                    "imageUrl": "",
+                    "price": 5700,
+                    "title": "Хінкалі з телятиною",
+                    "uuid": "904a3b57-d0e5-412a-9186-ed61c77b0a3e",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "4768c501-238e-4c60-bdc7-045a5726eb4d": {
+                    "description": "Шматочки соковитого свинячого ошийка маринуються в соусі\n на основі цибулі, солі, перцю й ароматного лаврового листа (200/70г).",
+                    "imageUrl": "",
+                    "price": 24500,
+                    "title": "Шашлик зі свинини ",
+                    "uuid": "4768c501-238e-4c60-bdc7-045a5726eb4d",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "aae0abfe-e33e-4821-b31f-48708211e41d": {
+                    "description": "300г.",
+                    "imageUrl": null,
+                    "price": 12600,
+                    "title": "Кубдарі-сванурі зі свининою",
+                    "uuid": "aae0abfe-e33e-4821-b31f-48708211e41d",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "efa83362-69ca-45d0-98b8-29359af44406": {
+                    "description": "(120г).",
+                    "imageUrl": "",
+                    "price": 13500,
+                    "title": "Горіховий пиріг під білим шоколадом",
+                    "uuid": "efa83362-69ca-45d0-98b8-29359af44406",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "34b9d100-fd49-429b-bedb-7529e996d5cb": {
+                    "description": "Шматочки баранини, мариновані в соусі\nз червоної грузинської аджики й пікантної зіри (200/70г).",
+                    "imageUrl": "",
+                    "price": 38000,
+                    "title": "Шашлик з баранини ",
+                    "uuid": "34b9d100-fd49-429b-bedb-7529e996d5cb",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "5bf36285-29de-4026-9865-d9eb6d4b5d4a": {
+                    "description": "3/6/9шт.",
+                    "imageUrl": "",
+                    "price": 5400,
+                    "title": "Хінкалі зі свининою і телятиною",
+                    "uuid": "5bf36285-29de-4026-9865-d9eb6d4b5d4a",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "6560117a-4720-4c5b-8e51-713695d2748d": {
+                    "description": "(100 г)",
+                    "imageUrl": null,
+                    "price": 11500,
+                    "title": "Чурчхела",
+                    "uuid": "6560117a-4720-4c5b-8e51-713695d2748d",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "d0b9e19b-0592-420b-876d-1ce50116b868": {
+                    "description": "980г.",
+                    "imageUrl": "",
+                    "price": 32800,
+                    "title": "Хачапурі по-царськи ",
+                    "uuid": "d0b9e19b-0592-420b-876d-1ce50116b868",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "a745bf3f-beb5-4c87-8acb-53a681f722f3": {
+                    "description": "Соковитий коржик із дріжджового тіста, запечений із сиром сулугуні й імеретинським фермерського виробництва всередині та зверху (300г).",
+                    "imageUrl": "",
+                    "price": 11500,
+                    "title": "Хачапурі по-мегрельськи ",
+                    "uuid": "a745bf3f-beb5-4c87-8acb-53a681f722f3",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "fcaad76d-83f5-4320-9e13-0d3dca2f6ddd": {
+                    "description": "Тонкі шматочки картоплі, смажені із салом і цибулею (250г).",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/1a8f1447-3c4f-40d3-8091-67a276803b29.jpeg",
+                    "price": 6200,
+                    "title": "Картопля, смажена по-домашньому на сковороді ",
+                    "uuid": "fcaad76d-83f5-4320-9e13-0d3dca2f6ddd",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "17bc8818-5afd-4595-8b00-552fdc6642c7": {
+                    "description": "Курячий бульйон з локшиною власного виробництва та курячими фрикадельками. Подається з ароматною зеленню, та хрусткими чiпсами iз лавашу (350 г)",
+                    "imageUrl": null,
+                    "price": 5500,
+                    "title": "Суп з домашньою локшиною та курячими фрикадельками",
+                    "uuid": "17bc8818-5afd-4595-8b00-552fdc6642c7",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "fddb6d55-6bc4-4824-90eb-df340110ddef": {
+                    "description": "Гострий суп з баранини. Подається з ароматною зеленню, червоним гострим перцем і гострою зеленою аджикою (350г).",
+                    "imageUrl": "",
+                    "price": 13500,
+                    "title": "Шурпа ",
+                    "uuid": "fddb6d55-6bc4-4824-90eb-df340110ddef",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "f9da253d-54f0-4087-b7e2-b57b72a94db4": {
+                    "description": "Ніжний лосось, хрусткі огірки, салат айсберг, соковиті помідори, половинки перепелиних яєць, ялтинська цибуля. Заправляється гірчичною заправкою і посипається тертим сиром пармезан (230г).",
+                    "imageUrl": "",
+                    "price": 18800,
+                    "title": "Салат з відвареного лосося з перепелиними яйцями ",
+                    "uuid": "f9da253d-54f0-4087-b7e2-b57b72a94db4",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "2ee6f7d8-cc66-463b-80ab-04e0b0f8fb06": {
+                    "description": "Шматочки телячої вирізки, мариновані\nу фірмовому маринаді з червоною негострою аджикою (200/70г).",
+                    "imageUrl": "",
+                    "price": 43500,
+                    "title": "Шашлик з телятини ",
+                    "uuid": "2ee6f7d8-cc66-463b-80ab-04e0b0f8fb06",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "43aca3ca-fa94-4b1a-96ba-7abe1eb7eb6c": {
+                    "description": "Скибочки телячих щічок томляться в класичному соусі деміглас із додаванням солодкого перцю, моркви й часнику. Подається на кеці (300г).",
+                    "imageUrl": "",
+                    "price": 20500,
+                    "title": "Телячі щічки, томлені в маринаді ",
+                    "uuid": "43aca3ca-fa94-4b1a-96ba-7abe1eb7eb6c",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "a229139e-7b3f-4f7c-bbf3-59f54a964680": {
+                    "description": "Найтонкiше лиcткове тiсто, просочене медом з дрiбно подрiбненим волоським горiхом (50 г, 1 шт)",
+                    "imageUrl": null,
+                    "price": 4500,
+                    "title": "Пахлава бакiнска з волоським горiхом",
+                    "uuid": "a229139e-7b3f-4f7c-bbf3-59f54a964680",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "54729f11-5e0b-46fb-8311-e1043daed4ba": {
+                    "description": "Традиційна грузинська закуска зі шпинату і буряка з меленим волоським горіхом і ароматними грузинськими спеціями (140г).",
+                    "imageUrl": "",
+                    "price": 6500,
+                    "title": "Асорті пхали зі шпинату і буряків ",
+                    "uuid": "54729f11-5e0b-46fb-8311-e1043daed4ba",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "5322e5b8-6e09-48d9-943d-64031774bff1": {
+                    "description": "300г.",
+                    "imageUrl": null,
+                    "price": 13600,
+                    "title": "Хачапурі з куркою та грибами",
+                    "uuid": "5322e5b8-6e09-48d9-943d-64031774bff1",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "8e158c7c-66a1-412d-8653-a3453b3b6fbb": {
+                    "description": "(255 г)",
+                    "imageUrl": null,
+                    "price": 6800,
+                    "title": "Вiдварна картопля з пiдчеревиною",
+                    "uuid": "8e158c7c-66a1-412d-8653-a3453b3b6fbb",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "63d81765-7cc5-49b8-a15d-df7b180ffc54": {
+                    "description": "(300 г)",
+                    "imageUrl": null,
+                    "price": 11000,
+                    "title": "Хачапурi з листкового тiста з вишнею",
+                    "uuid": "63d81765-7cc5-49b8-a15d-df7b180ffc54",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "18972d81-0883-4fe2-928a-a92b1adc8204": {
+                    "description": "3/6/9шт.",
+                    "imageUrl": "",
+                    "price": 11700,
+                    "title": "Хінкалі з коктейльною креветкою у вершковому соусі",
+                    "uuid": "18972d81-0883-4fe2-928a-a92b1adc8204",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "96b19f45-7da4-4af4-9224-63de136bcec8": {
+                    "description": "Ніжне філе індички су-від у традиційному грузинському соусі баже (100/100г).",
+                    "imageUrl": "",
+                    "price": 12500,
+                    "title": "Сациві з індички ",
+                    "uuid": "96b19f45-7da4-4af4-9224-63de136bcec8",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "3576679e-de41-4185-9efc-e632b0dde254": {
+                    "description": "300г.",
+                    "imageUrl": null,
+                    "price": 13000,
+                    "title": "Хачапурі з листкового тіста з чорницями",
+                    "uuid": "3576679e-de41-4185-9efc-e632b0dde254",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "3a2110c0-bf99-48b3-9c99-cacda7bfdea5": {
+                    "description": "Медальйони з телятини, обсмажені на грилі, салат лоло россо, хрусткі огірки, помідори і солодкий перець, ялтинська цибуля. Заправляється медово-гірчичним соусом (210г).",
+                    "imageUrl": "",
+                    "price": 19500,
+                    "title": "Овочі з телятиною-гриль під медово-гірчичним соусом ",
+                    "uuid": "3a2110c0-bf99-48b3-9c99-cacda7bfdea5",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "32d3931d-dd55-40c5-b6d2-4838b2aef895": {
+                    "description": "300г.",
+                    "imageUrl": null,
+                    "price": 13000,
+                    "title": "Хачапурі з бараниною",
+                    "uuid": "32d3931d-dd55-40c5-b6d2-4838b2aef895",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "6417e5ef-a901-441b-b0be-a8014c3b3f08": {
+                    "description": "Традицiйний червоний борщ з телятиною, подається з двома пампушками власного виробництва, сметаною, генеральським салом, кримською цибулею та зеленню  (350/70/55 г)",
+                    "imageUrl": null,
+                    "price": 11500,
+                    "title": "Борщ український з телятиною, пушками i генеральським салом",
+                    "uuid": "6417e5ef-a901-441b-b0be-a8014c3b3f08",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "65b9a1e2-a81c-4f23-9088-44ce18d56ebc": {
+                    "description": "Гострий грузинський суп із телятини. Подається з ароматною зеленню, червоним гострим перцем і пікантною червоною аджикою (350г).",
+                    "imageUrl": "",
+                    "price": 9500,
+                    "title": "Харчо ",
+                    "uuid": "65b9a1e2-a81c-4f23-9088-44ce18d56ebc",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "61dd9692-d267-4e94-a5e5-5e150c858fbf": {
+                    "description": "Шматочки курячого стегна тушкуються з цибулею, соковитими помідорами, грузинськими спеціями, пікатною кінзою і петрушкою. Подається на кеці (300г).",
+                    "imageUrl": "",
+                    "price": 15800,
+                    "title": "Чахохбілі ",
+                    "uuid": "61dd9692-d267-4e94-a5e5-5e150c858fbf",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "528c632d-5ba9-4dc8-bcba-bfabbda9e213": {
+                    "description": "Обсмажене філе сьомги,\nтомлене в класичному соусі наршараб. Подається на кеці (150/50/50г).",
+                    "imageUrl": "",
+                    "price": 38500,
+                    "title": "Філе сьомги в гранатовому соусі ",
+                    "uuid": "528c632d-5ba9-4dc8-bcba-bfabbda9e213",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "d46d80b5-531a-4558-822b-23c9a30205ef": {
+                    "description": "Шматочки коропа, обсмажені до хрусткої скоринки /вагова страва/ (100г).",
+                    "imageUrl": "",
+                    "price": 9000,
+                    "title": "Короп, смажений по-домашньому з хрусткою скоринкою",
+                    "uuid": "d46d80b5-531a-4558-822b-23c9a30205ef",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "7ee080c1-7a1d-4374-b07a-a6bec7a0ac0d": {
+                    "description": "(155/50 г)",
+                    "imageUrl": null,
+                    "price": 8500,
+                    "title": "Яблучний штрудель з горiхами, корицею та кулькою морозива",
+                    "uuid": "7ee080c1-7a1d-4374-b07a-a6bec7a0ac0d",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "55ce3e37-62ff-4e65-bacd-a3fa1d9c5764": {
+                    "description": "3/6/9шт.",
+                    "imageUrl": "",
+                    "price": 7500,
+                    "title": "Хінкалі з телячим язиком і грибами у вершковому соусі",
+                    "uuid": "55ce3e37-62ff-4e65-bacd-a3fa1d9c5764",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "ed5d825f-2a51-43d0-9b17-baa1e4eed120": {
+                    "description": "Мікс соковитої свинини з телятиною і рисом, загорнутий в пікантне виноградне листя. Подається з традиційним соусом мацоні (200/30г).",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/bb6ba9a2-8c47-4108-91ed-be3b94ce5af7.jpeg",
+                    "price": 16500,
+                    "title": "Долма ",
+                    "uuid": "ed5d825f-2a51-43d0-9b17-baa1e4eed120",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "94801639-9982-4ae9-b474-3b2d2f569380": {
+                    "description": "300г.",
+                    "imageUrl": null,
+                    "price": 11000,
+                    "title": "Хачапурі з листкового тіста з вишнями",
+                    "uuid": "94801639-9982-4ae9-b474-3b2d2f569380",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "3132bb07-a3b6-4c02-9cf9-805cc74c3c13": {
+                    "description": "Молода баранина з додаванням припущенної цибулі, свіжої кінзи, петрушки і традиційних грузинських спецій (200/70г).",
+                    "imageUrl": "",
+                    "price": 21500,
+                    "title": "Люля-кебаб із баранини ",
+                    "uuid": "3132bb07-a3b6-4c02-9cf9-805cc74c3c13",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "20b42298-019a-4b3e-9fbf-207c6bffa5ee": {
+                    "description": "Шматочки філе індички, обсмажені в соєвому соусі з кунжутом, салат ромен, радіккіо, свіжий огірок, запечений солодкий перець, кільця ялтинської цибулі. Подається з теплим сирним соусом (210г).",
+                    "imageUrl": "",
+                    "price": 16500,
+                    "title": "Теплий салат з індичкою під сирним соусом ",
+                    "uuid": "20b42298-019a-4b3e-9fbf-207c6bffa5ee",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                }
+            }
+        },
+        "sections": [
+            {
+                "subsectionUuids": [
+                    "cc331f3c-151a-45ca-86f3-c0cacd4998b4",
+                    "1b5d7216-ae0a-447e-af5a-2afbde9e0fc6",
+                    "69a92841-76e5-4bf5-8ca2-f92d2f419c53",
+                    "654109ad-0f46-4077-8f26-ec5c00dd1db4",
+                    "deb32892-1ab0-4523-bca4-810c99db3212",
+                    "3d37dd5e-e89e-4751-a0c3-6aa5d3a75776",
+                    "442f3821-1cae-47b3-a05c-d19963b3844a",
+                    "d1186894-3700-412c-9ef8-7f6b24b61109",
+                    "00a522b0-4640-46dd-9f86-b6c1959c5cb7",
+                    "47266b46-dbd3-468b-9e28-d2a240e83684",
+                    "f2155d95-27da-4497-8fe6-52a4ece0b78d",
+                    "d4a2a2e0-d613-443d-9749-23a3abdac5ef"
+                ],
+                "title": "SWITCH LANGUAGE (ENG)  ",
+                "subtitle": "11:00 AM – 10:00 PM",
+                "uuid": "b237d3a2-5420-43ae-9990-d4767c523539",
+                "isTop": true,
+                "isOnSale": true
+            },
+            {
+                "subsectionUuids": [
+                    "743d5aed-c5f6-4e92-a3d2-06a6af2364cc",
+                    "be8147d0-af37-4115-9183-6633d92891e1",
+                    "bf4d7121-3280-426c-9667-99d0089143a5",
+                    "c42506b7-5e52-4544-9fc7-b97cca3093d4",
+                    "c5c10ac9-4eae-4ca0-898f-2d6a844f52ee",
+                    "0c4ca151-658b-43aa-b80f-2e31909f32ad",
+                    "01016eb6-b600-4142-bc74-58f4546d8080",
+                    "fcfffeb8-cf2c-49c4-b76e-3f82384cbd4e",
+                    "49cff7ad-7b07-4f97-b7e3-7bb3ec9b83dc",
+                    "17db5f4b-a158-4cb4-a27c-b58d5f16588b",
+                    "ea914668-dc34-4cad-a8c7-6a76200995af",
+                    "1374f246-c3b6-4d82-8b5b-de6eca8cb915"
+                ],
+                "title": "SWITCH LANGUAGE (UKR)  ",
+                "subtitle": "11:00 AM – 10:00 PM",
+                "uuid": "549aff4a-693e-4d92-992b-56eec65f22fc",
+                "isTop": false,
+                "isOnSale": true
+            }
+        ],
+        "subsectionsMap": {
+            "01016eb6-b600-4142-bc74-58f4546d8080": {
+                "itemUuids": [
+                    "65b9a1e2-a81c-4f23-9088-44ce18d56ebc",
+                    "fddb6d55-6bc4-4824-90eb-df340110ddef",
+                    "757a9015-5c70-49ec-9f55-4729631edcdb",
+                    "17bc8818-5afd-4595-8b00-552fdc6642c7",
+                    "6417e5ef-a901-441b-b0be-a8014c3b3f08"
+                ],
+                "subtitle": "",
+                "title": "Перші страви",
+                "uuid": "01016eb6-b600-4142-bc74-58f4546d8080",
+                "displayType": null
+            },
+            "3d37dd5e-e89e-4751-a0c3-6aa5d3a75776": {
+                "itemUuids": [
+                    "b284def7-7a41-454c-bac5-7a53b0098ccc",
+                    "c0951bcf-4ae8-4da8-80c0-d18da006389e",
+                    "8db55be4-f144-485e-a3db-a617c6ea2d0f"
+                ],
+                "subtitle": "",
+                "title": "Hot appetizers",
+                "uuid": "3d37dd5e-e89e-4751-a0c3-6aa5d3a75776",
+                "displayType": null
+            },
+            "ea914668-dc34-4cad-a8c7-6a76200995af": {
+                "itemUuids": [
+                    "fcaad76d-83f5-4320-9e13-0d3dca2f6ddd",
+                    "8f10f885-d783-4170-a6db-9c912191dd0f",
+                    "8e158c7c-66a1-412d-8653-a3453b3b6fbb",
+                    "fe374f31-5104-450b-8664-a35711f07baf"
+                ],
+                "subtitle": "",
+                "title": "Гарніри",
+                "uuid": "ea914668-dc34-4cad-a8c7-6a76200995af",
+                "displayType": null
+            },
+            "00a522b0-4640-46dd-9f86-b6c1959c5cb7": {
+                "itemUuids": [
+                    "20703f49-ffd1-4e37-badb-36ffc7d9e8b1",
+                    "87567be2-70bc-4bd9-9df7-2493687eb981",
+                    "6595b42a-0cfd-428f-a5f5-c0115afa71b1",
+                    "2edfd168-56b3-4ad0-9b28-97ee2d1c47c2",
+                    "cf15fe5f-c70d-477c-a033-f9ba4c84c4ce",
+                    "91a4a5b8-d9e9-4a51-ade0-d9b621dc122b"
+                ],
+                "subtitle": "",
+                "title": "Meat courses",
+                "uuid": "00a522b0-4640-46dd-9f86-b6c1959c5cb7",
+                "displayType": null
+            },
+            "1b5d7216-ae0a-447e-af5a-2afbde9e0fc6": {
+                "itemUuids": [
+                    "79266e98-98f3-4b96-9da9-50e5f42fa64e",
+                    "2c97318e-00be-42a8-89f2-869e85ec5969",
+                    "32a1cff0-9507-4306-b754-87f12f35398b",
+                    "d98fb0b3-261a-4d31-b361-c84d53351047",
+                    "553f9575-286b-4a0a-806b-e558b81bfdf5",
+                    "180bdafe-95ad-4d2e-8334-e0cb39341cb1",
+                    "24daa5a2-34dc-4b82-a8da-53e4a017eed5",
+                    "6720c7b3-c6ed-4fd0-aeb8-19440a864402",
+                    "300616da-61dd-4807-8398-e1cda7170075",
+                    "8de53b0b-0f9a-4eab-9364-9e938be1f0ee",
+                    "b6a9248a-5146-449a-806f-e63a98f7fa21",
+                    "539eb895-3439-4452-9a84-309f973ccf1a",
+                    "64a8d771-004f-4932-bd1c-092cadb4bd24"
+                ],
+                "subtitle": "",
+                "title": "Homestyle pastries",
+                "uuid": "1b5d7216-ae0a-447e-af5a-2afbde9e0fc6",
+                "displayType": null
+            },
+            "1374f246-c3b6-4d82-8b5b-de6eca8cb915": {
+                "itemUuids": [
+                    "efa83362-69ca-45d0-98b8-29359af44406",
+                    "99433769-39ff-440b-a3f6-2a166aebf2d7",
+                    "7ee080c1-7a1d-4374-b07a-a6bec7a0ac0d",
+                    "63d81765-7cc5-49b8-a15d-df7b180ffc54",
+                    "a229139e-7b3f-4f7c-bbf3-59f54a964680",
+                    "6560117a-4720-4c5b-8e51-713695d2748d"
+                ],
+                "subtitle": "",
+                "title": "Десерти",
+                "uuid": "1374f246-c3b6-4d82-8b5b-de6eca8cb915",
+                "displayType": null
+            },
+            "fcfffeb8-cf2c-49c4-b76e-3f82384cbd4e": {
+                "itemUuids": [
+                    "528c632d-5ba9-4dc8-bcba-bfabbda9e213",
+                    "c2808701-cb78-43d2-bf65-ef193c9917fb",
+                    "d46d80b5-531a-4558-822b-23c9a30205ef",
+                    "bacee517-174e-489b-bd72-c122d9d4bbaa",
+                    "bf56aa6e-81c3-4cf1-971d-63a75dff5d85",
+                    "f6056603-5333-4fdb-a047-1fae6d480f8a"
+                ],
+                "subtitle": "",
+                "title": "Рибні страви",
+                "uuid": "fcfffeb8-cf2c-49c4-b76e-3f82384cbd4e",
+                "displayType": null
+            },
+            "d4a2a2e0-d613-443d-9749-23a3abdac5ef": {
+                "itemUuids": [
+                    "2c3dbddc-dd1a-463e-a8e6-da190ef11bd9"
+                ],
+                "subtitle": "",
+                "title": "Desserts",
+                "uuid": "d4a2a2e0-d613-443d-9749-23a3abdac5ef",
+                "displayType": null
+            },
+            "47266b46-dbd3-468b-9e28-d2a240e83684": {
+                "itemUuids": [
+                    "74efa661-72c2-4135-b515-5587bdcbf8f7",
+                    "91776693-f31b-4d1d-b364-45e72c648f64",
+                    "81cbc0e7-fa1d-4a29-8bbc-f72865f2270f",
+                    "165ef62d-a04f-442a-acb5-22053f007630",
+                    "1f4cbe6c-9ba2-42bb-871b-c1d8e324bcc2",
+                    "d0e29eb3-c454-47fc-b115-2082a62e1bb1",
+                    "ca225600-e8eb-494a-ad56-0c262bdfc0ab",
+                    "65050774-0a5e-45a5-8761-bcad5c93bac5"
+                ],
+                "subtitle": "",
+                "title": "Grill menu",
+                "uuid": "47266b46-dbd3-468b-9e28-d2a240e83684",
+                "displayType": null
+            },
+            "bf4d7121-3280-426c-9667-99d0089143a5": {
+                "itemUuids": [
+                    "a6051f13-77d8-4aaa-9b02-277a0492fe02",
+                    "d0b9e19b-0592-420b-876d-1ce50116b868"
+                ],
+                "subtitle": "",
+                "title": "Хачапурі на компанію ",
+                "uuid": "bf4d7121-3280-426c-9667-99d0089143a5",
+                "displayType": null
+            },
+            "deb32892-1ab0-4523-bca4-810c99db3212": {
+                "itemUuids": [
+                    "05c99d2e-25cd-464a-8454-a6223cce9d01",
+                    "8992c0dd-b04d-4026-a7c5-a75fe193e8dc",
+                    "78245a8a-71c8-4367-9552-51d9976cd491",
+                    "06d3ed30-8329-41c7-826e-404f8ba700d6",
+                    "b73d16fd-cbea-4d7e-996f-10cdb516abc0",
+                    "33b39806-0ae4-4cf7-8728-6af7cdb22aaf",
+                    "a1f0d7cd-b4e0-4fad-bb69-38185b5dcb35"
+                ],
+                "subtitle": "",
+                "title": "Salads",
+                "uuid": "deb32892-1ab0-4523-bca4-810c99db3212",
+                "displayType": null
+            },
+            "be8147d0-af37-4115-9183-6633d92891e1": {
+                "itemUuids": [
+                    "a745bf3f-beb5-4c87-8acb-53a681f722f3",
+                    "e20ab17f-759d-43eb-8d3d-41e8c5e3dbe9",
+                    "460a54f9-5e1a-419a-af5d-66e717b5e411",
+                    "0ff2ee73-b744-4165-afbc-09bc187f7085",
+                    "03890503-5d3a-4126-89a2-873e09beb1e1",
+                    "32d3931d-dd55-40c5-b6d2-4838b2aef895",
+                    "9a091cf8-a5e3-4157-a63e-3000132d3d60",
+                    "5322e5b8-6e09-48d9-943d-64031774bff1",
+                    "aae0abfe-e33e-4821-b31f-48708211e41d",
+                    "b8198183-e76e-4f7a-8fee-a576d369dc98",
+                    "6acffae1-7668-427d-a374-9f5e3198978d",
+                    "94801639-9982-4ae9-b474-3b2d2f569380",
+                    "3576679e-de41-4185-9efc-e632b0dde254"
+                ],
+                "subtitle": "",
+                "title": "Домашня випічка",
+                "uuid": "be8147d0-af37-4115-9183-6633d92891e1",
+                "displayType": null
+            },
+            "c373ab10-6285-4e5e-9e2d-35b62b013b7b": {
+                "itemUuids": [
+                    "b32354af-2e76-4056-9749-2bc91db92670",
+                    "555c0d04-6a8d-43bf-9d77-d7f9becc863a",
+                    "da55d0de-91cb-42c7-b1b7-8e916fe592d8",
+                    "22e536a5-5038-4b26-a0d2-23d6c4e58347",
+                    "6c978203-a748-4ad8-b122-c9a0b53ac825",
+                    "f1617c87-ea67-4d06-b213-3271b2d66c44"
+                ],
+                "subtitle": null,
+                "title": "Фестиваль Курчат",
+                "uuid": "c373ab10-6285-4e5e-9e2d-35b62b013b7b",
+                "displayType": null
+            },
+            "49cff7ad-7b07-4f97-b7e3-7bb3ec9b83dc": {
+                "itemUuids": [
+                    "8824f38c-72b1-4c5f-821d-cfc030af2e4d",
+                    "43aca3ca-fa94-4b1a-96ba-7abe1eb7eb6c",
+                    "61dd9692-d267-4e94-a5e5-5e150c858fbf",
+                    "2f9bdf8d-7df0-4d44-95d0-7f5fb88610f0",
+                    "203aa26b-5fc8-42da-a074-1d7cddd41dc7",
+                    "34b9d100-fd49-429b-bedb-7529e996d5cb",
+                    "a3cc35a2-4fb4-462c-8b26-e4d67fa82530"
+                ],
+                "subtitle": "",
+                "title": "М'ясні страви",
+                "uuid": "49cff7ad-7b07-4f97-b7e3-7bb3ec9b83dc",
+                "displayType": null
+            },
+            "cc331f3c-151a-45ca-86f3-c0cacd4998b4": {
+                "itemUuids": [
+                    "9a9aa222-82a3-4420-a199-d2ce405b4095",
+                    "4f11f6fe-ab3c-4f1a-bcaf-8b370a07d876",
+                    "ba021ef8-21b3-46df-b951-2b8c6c997842",
+                    "61b51d15-024b-4776-94ac-2b56f201cb62",
+                    "d75e4112-e735-4cfe-9c64-f15ab089d73c",
+                    "12bcb26b-80ce-435d-a13d-6c391e5848ec",
+                    "fc3c2df5-358e-4781-b691-14d77b865a3a",
+                    "8506f1e1-377c-4295-b259-4e21c6dc3467",
+                    "9673ccbc-e822-4a30-9e18-11ada78bbba0",
+                    "1d7c3699-5a91-4688-9b6c-a47d4ca98ba4",
+                    "e6a222d9-6281-47e2-9926-4ea98f30800e",
+                    "6d852db4-539d-4738-bb2c-1b317c25319b"
+                ],
+                "subtitle": "",
+                "title": "Khinkali",
+                "uuid": "cc331f3c-151a-45ca-86f3-c0cacd4998b4",
+                "displayType": null
+            },
+            "d1186894-3700-412c-9ef8-7f6b24b61109": {
+                "itemUuids": [
+                    "30120844-1db4-44c1-b23f-9f9350ec2255",
+                    "1f3c4fc0-d111-4326-8db9-4c9240297b48",
+                    "94efeb39-237e-4745-9047-68dca5015658",
+                    "cdcce8fb-4b07-4046-a93c-a5a1ad2d7f7c",
+                    "bfca3d61-5acd-4aa1-93e9-241242a13127"
+                ],
+                "subtitle": "",
+                "title": "Fish courses",
+                "uuid": "d1186894-3700-412c-9ef8-7f6b24b61109",
+                "displayType": null
+            },
+            "17db5f4b-a158-4cb4-a27c-b58d5f16588b": {
+                "itemUuids": [
+                    "2ee6f7d8-cc66-463b-80ab-04e0b0f8fb06",
+                    "4768c501-238e-4c60-bdc7-045a5726eb4d",
+                    "c9838ca1-d26e-4f60-89e2-0b370c453ed1",
+                    "3132bb07-a3b6-4c02-9cf9-805cc74c3c13",
+                    "f3970863-5d00-4866-990f-056c59e0dc4a",
+                    "373d193d-892a-4e52-84d9-4aec3a31b7b7"
+                ],
+                "subtitle": "",
+                "title": "Гриль меню",
+                "uuid": "17db5f4b-a158-4cb4-a27c-b58d5f16588b",
+                "displayType": null
+            },
+            "442f3821-1cae-47b3-a05c-d19963b3844a": {
+                "itemUuids": [
+                    "16b548a4-e51b-453c-8b48-5e2e3c6ce384",
+                    "bd2fcc56-55a5-4d0a-b36a-d0a72e742708",
+                    "73e66e2d-ae64-46b8-9272-eb5c38ef85f6",
+                    "8d186f20-eb25-460c-8530-a9b23ada8b42",
+                    "a8ea839b-8fb3-4b9e-9a56-3654e65f6b6b"
+                ],
+                "subtitle": "",
+                "title": "Soups",
+                "uuid": "442f3821-1cae-47b3-a05c-d19963b3844a",
+                "displayType": null
+            },
+            "69a92841-76e5-4bf5-8ca2-f92d2f419c53": {
+                "itemUuids": [
+                    "3a330cd0-b6bc-4561-b96d-aed8d8422ea4",
+                    "ecbc859c-2791-4c18-acba-bf74d17e88b6"
+                ],
+                "subtitle": "",
+                "title": "Khachapuri for company ",
+                "uuid": "69a92841-76e5-4bf5-8ca2-f92d2f419c53",
+                "displayType": null
+            },
+            "c42506b7-5e52-4544-9fc7-b97cca3093d4": {
+                "itemUuids": [
+                    "54729f11-5e0b-46fb-8311-e1043daed4ba",
+                    "2e9d83ca-7c9a-4bb2-a740-da66104bd477",
+                    "96b19f45-7da4-4af4-9224-63de136bcec8"
+                ],
+                "subtitle": "",
+                "title": "Холодні закуски",
+                "uuid": "c42506b7-5e52-4544-9fc7-b97cca3093d4",
+                "displayType": null
+            },
+            "654109ad-0f46-4077-8f26-ec5c00dd1db4": {
+                "itemUuids": [
+                    "130ab13e-8130-4d53-a6fb-0d6e3946aac0",
+                    "dc4bfb14-5813-4235-8fe0-ee1bf80cda2d",
+                    "1280b681-a62d-44d8-98e4-56a31c8ae1bf"
+                ],
+                "subtitle": "",
+                "title": "Cold appetizers",
+                "uuid": "654109ad-0f46-4077-8f26-ec5c00dd1db4",
+                "displayType": null
+            },
+            "0c4ca151-658b-43aa-b80f-2e31909f32ad": {
+                "itemUuids": [
+                    "ed5d825f-2a51-43d0-9b17-baa1e4eed120",
+                    "2e25ed31-5063-4030-b808-98276aa37080",
+                    "c8d259b6-d634-40cd-a658-553c2728e732"
+                ],
+                "subtitle": "",
+                "title": "Гарячі закуски",
+                "uuid": "0c4ca151-658b-43aa-b80f-2e31909f32ad",
+                "displayType": null
+            },
+            "c5c10ac9-4eae-4ca0-898f-2d6a844f52ee": {
+                "itemUuids": [
+                    "93c6ba2e-c9f0-4a9d-835b-f7d78bfd90b4",
+                    "f6858269-71a6-4807-9176-7c1551f37532",
+                    "8c76b6fc-4c1b-4154-ac65-c9c44858dc55",
+                    "5b2802c7-c6af-4653-a063-4ba0942f74c3",
+                    "f9da253d-54f0-4087-b7e2-b57b72a94db4",
+                    "3a2110c0-bf99-48b3-9c99-cacda7bfdea5",
+                    "20b42298-019a-4b3e-9fbf-207c6bffa5ee"
+                ],
+                "subtitle": "",
+                "title": "Салати",
+                "uuid": "c5c10ac9-4eae-4ca0-898f-2d6a844f52ee",
+                "displayType": null
+            },
+            "743d5aed-c5f6-4e92-a3d2-06a6af2364cc": {
+                "itemUuids": [
+                    "545d81da-081b-41ad-a24a-6609134282e3",
+                    "52bc1e7d-4df1-45a1-a11f-88b8141042ae",
+                    "904a3b57-d0e5-412a-9186-ed61c77b0a3e",
+                    "a7c61f60-7a16-4b38-a80a-a1033d7b8297",
+                    "55ce3e37-62ff-4e65-bacd-a3fa1d9c5764",
+                    "5bf36285-29de-4026-9865-d9eb6d4b5d4a",
+                    "375bb344-19c1-4e4e-b348-5e04a4c8ff68",
+                    "955dc15f-2cbb-451c-83fb-f494a0b271c9",
+                    "18972d81-0883-4fe2-928a-a92b1adc8204",
+                    "f37fea3d-11ee-4b7d-bd0f-686bf1a5237f",
+                    "4c4aff8d-f996-4d1d-b995-ada15dafd8e4",
+                    "c5779fe0-f61b-4fc5-a910-f7aca3c2e58d"
+                ],
+                "subtitle": "",
+                "title": "Хінкалі",
+                "uuid": "743d5aed-c5f6-4e92-a3d2-06a6af2364cc",
+                "displayType": null
+            },
+            "f2155d95-27da-4497-8fe6-52a4ece0b78d": {
+                "itemUuids": [
+                    "dc012e97-99da-46c2-be52-91e183e9a340",
+                    "7e48c61f-10c1-4a25-86ec-0792295c4182"
+                ],
+                "subtitle": "",
+                "title": "Garnish",
+                "uuid": "f2155d95-27da-4497-8fe6-52a4ece0b78d",
+                "displayType": null
+            }
+        },
+        "title": "Хінкалі (вул. Шота Руставелі)",
+        "uuid": "bdc84df4-6510-4b63-9671-7152becc1cbe",
+        "categories": [
+            "₴₴",
+            "Близькосхідна",
+            "Традиційна їжа",
+            "Грузинська"
+        ],
+        "cuisineList": [
+            "Близькосхідна",
+            "Традиційна їжа",
+            "Грузинська"
+        ],
+        "priceBucket": "₴₴",
+        "etaRange": {
+            "text": "50–60 min",
+            "iconUrl": ""
+        },
+        "ratingBadge": {
+            "text": "<span><span style=\"font-family: inherit; color: #3a3a48;\">4.2 <img src=\"https://d1a3f4spazzrp4.cloudfront.net/static/images/Star_Black_Eats_3.png\" width=\"14\" height=\"14\" vertical-align=\"middle\"> </span><span style=\"font-family: inherit; color: #757575;\">(33)</span></span>"
+        },
+        "disclaimerBadge": null,
+        "fareBadge": null,
+        "fareInfo": {
+            "serviceFee": 30,
+            "serviceFeeCents": 3000
+        },
+        "promotion": null,
+        "shouldIndex": true,
+        "heroImageUrls": [
+            {
+                "url": "https://d1ralsognjng37.cloudfront.net/45e692da-b8b4-40bd-95eb-8c48918c35ae.jpeg",
+                "width": 240
+            },
+            {
+                "url": "https://d1ralsognjng37.cloudfront.net/ca676b24-5a0e-4599-a007-2121c40fdfb4.jpeg",
+                "width": 550
+            },
+            {
+                "url": "https://d1ralsognjng37.cloudfront.net/16d7a8ab-c6d8-4c0d-beb1-15e8d151936f.jpeg",
+                "width": 640
+            },
+            {
+                "url": "https://d1ralsognjng37.cloudfront.net/576c3f77-d5a2-4dd5-87bc-b407854979b0.jpeg",
+                "width": 750
+            },
+            {
+                "url": "https://d1ralsognjng37.cloudfront.net/6f7a07fd-e730-46c7-8f2d-ce4d68b6c379.jpeg",
+                "width": 1080
+            },
+            {
+                "url": "https://d1ralsognjng37.cloudfront.net/3e853a7c-7b14-47e2-b243-7c2edd6b428d.jpeg",
+                "width": 2880
+            }
+        ],
+        "isOpen": true,
+        "currencyCode": "UAH",
+        "closedMessage": "Currently unavailable",
+        "location": {
+            "address": "Shota Rustaveli St, 4, Kyiv, 02000",
+            "streetAddress": "Shota Rustaveli St, 4",
+            "city": "Kyiv",
+            "country": "UA",
+            "postalCode": "02000",
+            "region": "",
+            "latitude": 50.440072731232924,
+            "longitude": 30.522066805184373
+        },
+        "isDeliveryThirdParty": false,
+        "hours": [
+            {
+                "dayRange": "Every Day",
+                "sectionHours": [
+                    {
+                        "startTime": 660,
+                        "endTime": 1320,
+                        "sectionTitle": "SWITCH LANGUAGE (ENG)  "
+                    },
+                    {
+                        "startTime": 660,
+                        "endTime": 1320,
+                        "sectionTitle": "SWITCH LANGUAGE (UKR)  "
+                    }
+                ]
+            }
+        ],
+        "disableOrderInstruction": false,
+        "disableCheckoutInstruction": false,
+        "nuggets": [],
+        "isWithinDeliveryRange": false,
+        "slug": "хінкалі-вул-шота-руставелі",
+        "citySlug": "kyiv",
+        "phoneNumber": "+380675032079",
+        "metaJson": "{\"@context\":\"http:\\u002F\\u002Fschema.org\",\"@type\":\"Restaurant\",\"@id\":\"https:\\u002F\\u002Fwww.ubereats.com\\u002Fen-UA\\u002Fkyiv\\u002Ffood-delivery\\u002F%D1%85%D1%96%D0%BD%D0%BA%D0%B0%D0%BB%D1%96-%D0%B2%D1%83%D0%BB-%D1%88%D0%BE%D1%82%D0%B0-%D1%80%D1%83%D1%81%D1%82%D0%B0%D0%B2%D0%B5%D0%BB%D1%96\\u002FvchN9GUQS2OWcXFSvswcvg\\u002F\",\"name\":\"Хінкалі (вул. Шота Руставелі)\",\"priceRange\":\"₴₴\",\"potentialAction\":{\"@type\":\"OrderAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\\u002F\\u002Fwww.ubereats.com\\u002Fen-UA\\u002Fkyiv\\u002Ffood-delivery\\u002F%D1%85%D1%96%D0%BD%D0%BA%D0%B0%D0%BB%D1%96-%D0%B2%D1%83%D0%BB-%D1%88%D0%BE%D1%82%D0%B0-%D1%80%D1%83%D1%81%D1%82%D0%B0%D0%B2%D0%B5%D0%BB%D1%96\\u002FvchN9GUQS2OWcXFSvswcvg\\u002F?utm_campaign=order-action&utm_medium=organic\",\"inLanguage\":\"English\",\"actionPlatform\":[\"http:\\u002F\\u002Fschema.org\\u002FDesktopWebPlatform\",\"http:\\u002F\\u002Fschema.org\\u002FMobileWebPlatform\"]},\"deliveryMethod\":[\"http:\\u002F\\u002Fpurl.org\\u002Fgoodrelations\\u002Fv1#DeliveryModeOwnFleet\"]},\"address\":{\"@type\":\"PostalAddress\",\"addressLocality\":\"Kyiv\",\"addressRegion\":\"\",\"postalCode\":\"02000\",\"addressCountry\":\"UA\",\"streetAddress\":\"Shota Rustaveli St, 4\"},\"geo\":{\"@type\":\"GeoCoordinates\",\"latitude\":50.440072731232924,\"longitude\":30.522066805184373}}",
+        "promoTrackings": [],
+        "suggestedPromotion": {
+            "text": "",
+            "promotionUuid": ""
+        },
+        "supportedDiningModes": [
+            {
+                "mode": "DELIVERY",
+                "title": "Delivery",
+                "isSelected": true,
+                "isAvailable": true
+            }
+        ],
+        "isPreview": false,
+        "pinnedInfo": null
+    }
+}

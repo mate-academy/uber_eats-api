@@ -1,0 +1,1464 @@
+{
+    "status": "success",
+    "data": {
+        "sectionEntitiesMap": {
+            "d3855908-5f2a-497e-b95d-49dcde176054": {
+                "48fce4ab-1a84-4e12-a6b5-b4b4fbc41eaf": {
+                    "description": "Bavarian sausage with greens, grilled bun, seasonal vegetables, and sauces.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/65661266-27e9-479e-a6ab-a1c9dafe8dc5",
+                    "price": 4100,
+                    "title": "German",
+                    "uuid": "48fce4ab-1a84-4e12-a6b5-b4b4fbc41eaf",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "fc408009-7a03-4e15-9383-d3486f6e0cb0": {
+                    "description": "With egg noodles, Chinese-style vegetables, and sauce to choose.",
+                    "imageUrl": "",
+                    "price": 5900,
+                    "title": "Wok with vegetables",
+                    "uuid": "fc408009-7a03-4e15-9383-d3486f6e0cb0",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "endorsement": {
+                        "text": "Вегетаріанська страва",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png"
+                    },
+                    "classifications": []
+                },
+                "fb0ccf7b-8e32-4252-bba4-4a3b433f7a72": {
+                    "description": "Grilled bun, cutlet, tomato, toasted cheese, iceberg salad, pickled onion, BBQ sauce.",
+                    "imageUrl": "",
+                    "price": 10500,
+                    "title": "Double pork burger",
+                    "uuid": "fb0ccf7b-8e32-4252-bba4-4a3b433f7a72",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "71a36a73-df32-408a-814d-ad664dfb1887": {
+                    "description": "With wheat noodles, Chinese-style vegetables, sauce to choose.",
+                    "imageUrl": "",
+                    "price": 7900,
+                    "title": "Wok with chicken and gong bao sauce",
+                    "uuid": "71a36a73-df32-408a-814d-ad664dfb1887",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "endorsement": {
+                        "text": "Гостра страва",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_check@3x.png"
+                    },
+                    "classifications": []
+                },
+                "b2448c37-8792-48ae-81b8-3d55c8fe0a86": {
+                    "description": "Grilled bun, 2 beef cutlets, double toasted cheese, pickled cucumber or tomato, pickled onion, iceberg lettuce, and BBQ sauce.",
+                    "imageUrl": "",
+                    "price": 10900,
+                    "title": "Double beef burger",
+                    "uuid": "b2448c37-8792-48ae-81b8-3d55c8fe0a86",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "1219e367-5d24-4ce8-a3eb-76fb8843187a": {
+                    "description": "Grilled bun, beef cutlet, toasted cheese, pickled cucumber or tomato, pickled onion, iceberg salad, BBQ sauce.",
+                    "imageUrl": "",
+                    "price": 10900,
+                    "title": "Double lamb burger",
+                    "uuid": "1219e367-5d24-4ce8-a3eb-76fb8843187a",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "a70a9269-7a51-4dd8-aec3-9c6928728797": {
+                    "description": "With egg noodles, Chinese-style vegetables, and sauce to choose.",
+                    "imageUrl": "",
+                    "price": 7900,
+                    "title": "Wok with pork anf vegetables",
+                    "uuid": "a70a9269-7a51-4dd8-aec3-9c6928728797",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "b1d328a5-0a8c-45a3-86e0-388fe4ef7f5e": {
+                    "description": "Bean noodles, vegetables Chinese style (bell pepper, zucchini, green beans, mushrooms, carrots, onion, sesame seeds), sauce of your choice.",
+                    "imageUrl": "",
+                    "price": 7900,
+                    "title": "Wok bean noodles with chicken",
+                    "uuid": "b1d328a5-0a8c-45a3-86e0-388fe4ef7f5e",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "dd068048-c314-4a42-baca-9697f38d8e61": {
+                    "description": "Bean noodles, vegetables Chinese style (bell pepper, zucchini, green beans, mushrooms, carrots, onion, sesame seeds), sauce of your choice.",
+                    "imageUrl": "",
+                    "price": 6900,
+                    "title": "Wok bean noodles with vegetables",
+                    "uuid": "dd068048-c314-4a42-baca-9697f38d8e61",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "2c36a3bd-ee0d-4784-bab9-cf2ecafc04d4": {
+                    "description": "30 g.",
+                    "imageUrl": "",
+                    "price": 500,
+                    "title": "Sauces",
+                    "uuid": "2c36a3bd-ee0d-4784-bab9-cf2ecafc04d4",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "f3ff84a3-6dd3-4aa1-ad9f-546a410e340f": {
+                    "description": "Grilled bun, beef cutlet, toasted cheese, pickled cucumber or tomato, pickled onion, iceberg salad, BBQ sauce.",
+                    "imageUrl": "",
+                    "price": 6900,
+                    "title": "Lamb burger",
+                    "uuid": "f3ff84a3-6dd3-4aa1-ad9f-546a410e340f",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "479db35a-9aeb-4fee-9a12-77bdf7659504": {
+                    "description": "Toast bread, toast cheese, ham, tomato, and garlic sauce.",
+                    "imageUrl": "",
+                    "price": 2700,
+                    "title": "Ham sandwich",
+                    "uuid": "479db35a-9aeb-4fee-9a12-77bdf7659504",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "df801d08-6503-4f40-afc6-e14457eaa65d": {
+                    "description": "Grilled bun, milk sausage, and ketchup for kids.",
+                    "imageUrl": "",
+                    "price": 3100,
+                    "title": "For kids",
+                    "uuid": "df801d08-6503-4f40-afc6-e14457eaa65d",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "23fda23e-c779-4c50-be85-7597384fb19f": {
+                    "description": "With wheat noodles, ham, tost cheese, cream sauce.",
+                    "imageUrl": "",
+                    "price": 6900,
+                    "title": "Wok noodles Carbonara cheese",
+                    "uuid": "23fda23e-c779-4c50-be85-7597384fb19f",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "3c63107e-b4f9-4d4d-a326-2d63e6d600b4": {
+                    "description": "Bavarian sausage to choose, and salad of seasonal vegetables. ",
+                    "imageUrl": "",
+                    "price": 2700,
+                    "title": "Grilled sausage with salad",
+                    "uuid": "3c63107e-b4f9-4d4d-a326-2d63e6d600b4",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": "",
+                    "suspendUntil": 8640000000,
+                    "classifications": []
+                },
+                "5f3d0c3c-719a-4441-9f76-6b81c6bc6818": {
+                    "description": "Bavarian sausage with cheese, grilled bun, seasonal vegetables, tomato or carrot in Korean style, and sauces.",
+                    "imageUrl": "",
+                    "price": 4900,
+                    "title": "Walker",
+                    "uuid": "5f3d0c3c-719a-4441-9f76-6b81c6bc6818",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "6c560eae-a780-474f-8a36-8450069e8d3a": {
+                    "description": "Milk sausage, grilled bun, seasonal vegetables, and sauces.",
+                    "imageUrl": "",
+                    "price": 4100,
+                    "title": "American",
+                    "uuid": "6c560eae-a780-474f-8a36-8450069e8d3a",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "3b174547-1fd6-45b7-9ddd-c7be4c35daba": {
+                    "description": "",
+                    "imageUrl": "",
+                    "price": 3300,
+                    "title": "Fries with onion and cheese sauce",
+                    "uuid": "3b174547-1fd6-45b7-9ddd-c7be4c35daba",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "51201072-bdb0-4314-9625-2d7831a1062b": {
+                    "description": "Bean noodles, vegetables Chinese style (bell pepper, zucchini, green beans, mushrooms, carrots, onion, sesame seeds), sauce of your choice.",
+                    "imageUrl": "",
+                    "price": 8900,
+                    "title": "Wok bean noodles with chicken, Gong Bao sauce and peanuts",
+                    "uuid": "51201072-bdb0-4314-9625-2d7831a1062b",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "e3d4730b-3fa9-4792-a5d5-970c137db239": {
+                    "description": "Bean noodles, vegetables Chinese style (bell pepper, zucchini, green beans, mushrooms, carrots, onion, sesame seeds), sauce of your choice.",
+                    "imageUrl": "",
+                    "price": 8900,
+                    "title": "Wok bean noodles with pork",
+                    "uuid": "e3d4730b-3fa9-4792-a5d5-970c137db239",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "2a4a2451-ff79-43ab-9306-6268282009d7": {
+                    "description": "Grilled bun, chicken cutlet, toasted cheese, pickled cucumber or tomato, pickled onion, iceberg lettuce, and BBQ sauce.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/84f66ca7-e922-490f-aeb2-bf35ce7bef3e",
+                    "price": 5900,
+                    "title": "Chicken burger",
+                    "uuid": "2a4a2451-ff79-43ab-9306-6268282009d7",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "dbfa7c19-23a3-4f6d-a863-0d6c59860254": {
+                    "description": " Hot dog for kids, fries, and juice 0,2. ",
+                    "imageUrl": "",
+                    "price": 7100,
+                    "title": "Combo menu for kids",
+                    "uuid": "dbfa7c19-23a3-4f6d-a863-0d6c59860254",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "8eef6dfa-9ecc-4ab0-9bcd-49cebcc4e61d": {
+                    "description": "Milk sausage, grilled bun, dried onion, tomato, sweet pepper, iceberg lettuce, dor blue cheese, and cream sauce.",
+                    "imageUrl": "",
+                    "price": 5400,
+                    "title": "Royal",
+                    "uuid": "8eef6dfa-9ecc-4ab0-9bcd-49cebcc4e61d",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "619d2479-9c6f-4f09-95ab-7c46e09bbf41": {
+                    "description": "",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/9b057f1f-4e32-4f10-86bc-2cf2702a932e",
+                    "price": 4400,
+                    "title": "Chicken nuggets",
+                    "uuid": "619d2479-9c6f-4f09-95ab-7c46e09bbf41",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "4b988bab-d019-4129-9105-77ffbefcf4e9": {
+                    "description": "Grilled bun, 2 chicken cutlets, double toasted cheese, pickled cucumber or tomato, pickled onion, iceberg lettuce, and BBQ sauce.",
+                    "imageUrl": "",
+                    "price": 9900,
+                    "title": "Double chicken burger",
+                    "uuid": "4b988bab-d019-4129-9105-77ffbefcf4e9",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "f1e3d6db-c0bd-4dc0-aea7-336927233770": {
+                    "description": "Grilled bun, beef cutlet, toast cheese, pickled cucumber or tomato, pickled onion, iceberg lettuce, and BBQ sauce.",
+                    "imageUrl": "",
+                    "price": 6900,
+                    "title": "Beef burger",
+                    "uuid": "f1e3d6db-c0bd-4dc0-aea7-336927233770",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "45b21d69-ca20-44d1-8223-37971397fabc": {
+                    "description": "With egg noodles, Chinese-style vegetables, and sauce to choose.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/3f8ae1e1-10ae-47ca-89f2-b1eca8f2c33c",
+                    "price": 6900,
+                    "title": "Wok with chicken and vegetables",
+                    "uuid": "45b21d69-ca20-44d1-8223-37971397fabc",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "34e376f2-9877-4e34-b013-7e3943bcfe19": {
+                    "description": "With squid, mussels, octopus, egg noodles, Chinese-style vegetables, and sauce to choose.",
+                    "imageUrl": "",
+                    "price": 8900,
+                    "title": "Wok with seafood",
+                    "uuid": "34e376f2-9877-4e34-b013-7e3943bcfe19",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "2960b965-b024-4f5e-8e4c-ead53b2a23c8": {
+                    "description": "Turkey and pork sausage, grilled bun, seasonal vegetables, and sauces.",
+                    "imageUrl": "",
+                    "price": 4100,
+                    "title": "Indian",
+                    "uuid": "2960b965-b024-4f5e-8e4c-ead53b2a23c8",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "5d030260-6c72-4f31-a55c-e6e58c99adf8": {
+                    "description": "Hunter sausage, grilled bun, and sauces.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/b33789e0-36fd-4a4f-b488-31cd070631a6",
+                    "price": 3100,
+                    "title": "Frenchman",
+                    "uuid": "5d030260-6c72-4f31-a55c-e6e58c99adf8",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "dcf736ce-c810-420f-ab41-c21df096e656": {
+                    "description": "Hot dog, fries, and Pepsi Cola 0,33.",
+                    "imageUrl": "",
+                    "price": 6300,
+                    "title": "Combo menu hot-dogs",
+                    "uuid": "dcf736ce-c810-420f-ab41-c21df096e656",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "5d1b6cef-5878-49b9-8c01-5c4f726790b1": {
+                    "description": "Bean noodles, vegetables Chinese style (bell pepper, zucchini, green beans, mushrooms, carrots, onion, sesame seeds), sauce of your choice.",
+                    "imageUrl": "",
+                    "price": 9900,
+                    "title": "Wok bean noodles with seafood",
+                    "uuid": "5d1b6cef-5878-49b9-8c01-5c4f726790b1",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "1d959a25-6ce4-4b8a-bd5f-8f2b8c67353d": {
+                    "description": "Burgers or  sandwich, fries, and Pepsi Cola 0,33. ",
+                    "imageUrl": "",
+                    "price": 5900,
+                    "title": "Combo menu burgers and sandwiches",
+                    "uuid": "1d959a25-6ce4-4b8a-bd5f-8f2b8c67353d",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "775fdc09-29ba-498f-a0e0-481223869e6c": {
+                    "description": "Grilled bun, cutlet, tomato, toasted cheese, iceberg salad, pickled onion, BBQ sauce.",
+                    "imageUrl": "",
+                    "price": 6500,
+                    "title": "Classical pork burger",
+                    "uuid": "775fdc09-29ba-498f-a0e0-481223869e6c",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "58c0fe33-dc5c-4f5a-9424-e658a6f0d107": {
+                    "description": "",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/2cbea9c5-94c1-48ad-80db-78afee9ddad5",
+                    "price": 2700,
+                    "title": "Fries",
+                    "uuid": "58c0fe33-dc5c-4f5a-9424-e658a6f0d107",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                }
+            },
+            "79015ebf-3c66-4664-8857-ed6c31f696b0": {
+                "4b146a71-14a3-451c-bc27-b9adb6b576f7": {
+                    "description": "Локшина бобова, овочі по-китайськи (перець болгарський, цукіні, квасоля стручкова, печериці, морква, цибуля, кунжут), соус на вибір.",
+                    "imageUrl": "",
+                    "price": 9900,
+                    "title": "Wok бобова локшина з морепродуктами",
+                    "uuid": "4b146a71-14a3-451c-bc27-b9adb6b576f7",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "4988fee8-44ca-4528-a379-8e4724e07ebd": {
+                    "description": "Молочна сосиска, булка гриль, цибуля сушена, помідор, паприка, салат айсберг, сир дор-блю, соус вершковий. ",
+                    "imageUrl": "",
+                    "price": 5400,
+                    "title": "Царський",
+                    "uuid": "4988fee8-44ca-4528-a379-8e4724e07ebd",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "dfed95ca-524f-4802-a27b-5c5a90fec3d5": {
+                    "description": "Локшина бобова, овочі по-китайськи (перець болгарський, цукіні, квасоля стручкова, печериці, морква, цибуля, кунжут), соус на вибір.",
+                    "imageUrl": "",
+                    "price": 7900,
+                    "title": "Wok бобова локшина з куркою",
+                    "uuid": "dfed95ca-524f-4802-a27b-5c5a90fec3d5",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "e6914304-b19e-4ac6-9537-4fcd02f41ac2": {
+                    "description": "Булка гриль, молочна сосиска, та дитячий кетчуп. ",
+                    "imageUrl": "",
+                    "price": 3100,
+                    "title": "Дитячий",
+                    "uuid": "e6914304-b19e-4ac6-9537-4fcd02f41ac2",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "2e95c7a8-9b16-48d7-909f-ee5825857fee": {
+                    "description": "Локшина яєчна, овочі по-китайськи (перець болгарський, цукіні, квасоля стручкова, печериці, морква, цибуля, кунжут), соус на вибір (кисло-солодкий або пряний з імбирем).",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/0f6422b0-a4b5-4579-99ba-1293699d8776",
+                    "price": 6900,
+                    "title": "Wok локшина з курятиною та овочами",
+                    "uuid": "2e95c7a8-9b16-48d7-909f-ee5825857fee",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "5f3d0c3c-719a-4441-9f76-6b81c6bc6818": {
+                    "description": "Bavarian sausage with cheese, grilled bun, seasonal vegetables, tomato or carrot in Korean style, and sauces.",
+                    "imageUrl": "",
+                    "price": 4900,
+                    "title": "Walker",
+                    "uuid": "5f3d0c3c-719a-4441-9f76-6b81c6bc6818",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "664299a1-c607-4c29-a8b2-08cb907494c4": {
+                    "description": "Булка гриль, котлета куряча, тостовий сир, маринований огірок або помідор, цибуля маринована, салат айсберг, соус BBQ. ",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/bfb0374f-1c95-4915-81c8-a6d3b8e3345b",
+                    "price": 5900,
+                    "title": "Бургер курячий",
+                    "uuid": "664299a1-c607-4c29-a8b2-08cb907494c4",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "b5734fc3-8e43-4b0c-9fd4-6d938df41382": {
+                    "description": "Локшина яєчна, овочі по-китайськи (перець болгарський, цукіні, квасоля стручкова, печериці, морква, цибуля, кунжут), соус на вибір (кисло-солодкий або пряний з імбирем), кальмари, мідії, восьминіг.",
+                    "imageUrl": "",
+                    "price": 8900,
+                    "title": "Wok з морепродуктами",
+                    "uuid": "b5734fc3-8e43-4b0c-9fd4-6d938df41382",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "06efb300-71c2-43ed-8a0e-21ad91c1a1c9": {
+                    "description": "Локшина яєчна, шинка, вершковий соус, тостовий сир",
+                    "imageUrl": "",
+                    "price": 6900,
+                    "title": "Wok локшина Карбонара",
+                    "uuid": "06efb300-71c2-43ed-8a0e-21ad91c1a1c9",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "ad616c58-bd37-4362-8438-4fc13767805b": {
+                    "description": "Сосиска з м’яса iндички та свинини; булка гриль, сезонні овочі: капуста, огірок (свіжі або мариновані в залежності від сезону), маринована цибуля, соуси: BBQ, часниковий, гірчичний. ",
+                    "imageUrl": "",
+                    "price": 4100,
+                    "title": "Індіанець",
+                    "uuid": "ad616c58-bd37-4362-8438-4fc13767805b",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "7d915595-ac8f-4ce2-b92e-18c8bc9e8413": {
+                    "description": "Локшина яєчна, овочі по-китайськи (перець болгарський, цукіні, квасоля стручкова, печериці, морква, цибуля, кунжут), соус Гунбао, перець чілі. До складу входить арахіс.",
+                    "imageUrl": "",
+                    "price": 7900,
+                    "title": "Wok локшина з куркою та соусом Гунбао",
+                    "uuid": "7d915595-ac8f-4ce2-b92e-18c8bc9e8413",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "endorsement": {
+                        "text": "Гостра страва",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_check@3x.png"
+                    },
+                    "classifications": []
+                },
+                "6af48ec4-40d3-4dff-8d97-262a03289e93": {
+                    "description": "Булочка гриль, котлета, помідор, тостовий сир, салат айсберг, маринована цибуля,  соус BBQ.",
+                    "imageUrl": "",
+                    "price": 10500,
+                    "title": "Бургер зі свининою подвійний ",
+                    "uuid": "6af48ec4-40d3-4dff-8d97-262a03289e93",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "7341484a-45b9-4689-aed0-22d3ec17f3a9": {
+                    "description": "Локшина бобова, овочі по-китайськи (перець болгарський, цукіні, квасоля стручкова, печериці, морква, цибуля, кунжут), соус на вибір.",
+                    "imageUrl": "",
+                    "price": 8900,
+                    "title": "Wok бобова локшина з куркою, соусом Гунбао та арахісом",
+                    "uuid": "7341484a-45b9-4689-aed0-22d3ec17f3a9",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "9dff9260-35e1-4f8f-9b87-4ef8b032b184": {
+                    "description": " До складу входять: хот-дог Дитячий, маленька картопля фрі, сік 0,2.",
+                    "imageUrl": "",
+                    "price": 7100,
+                    "title": "Комбо меню дитяче",
+                    "uuid": "9dff9260-35e1-4f8f-9b87-4ef8b032b184",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "54667126-02e7-425c-9827-4f0b5e5d37c5": {
+                    "description": " До складу входять: обраний сендвіч, або бургер, маленька картопля фрі, Pepsi Cola 0,33.",
+                    "imageUrl": "",
+                    "price": 7100,
+                    "title": "Комбо меню сендвічі та бургери",
+                    "uuid": "54667126-02e7-425c-9827-4f0b5e5d37c5",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "e7d6de8a-d818-4d22-956c-8f33efa41751": {
+                    "description": "До складу входять: обраний хот-дог, маленька картопля фрі, Pepsi Cola 0,33.",
+                    "imageUrl": "",
+                    "price": 6300,
+                    "title": "Комбо меню хот-доги",
+                    "uuid": "e7d6de8a-d818-4d22-956c-8f33efa41751",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "e9d7c9ec-d0ff-4e67-886c-11cb0b798b58": {
+                    "description": "Булка гриль, 2 котлети курячі, подвійний тостовий сир, маринований огірок або помідор, цибуля маринована, салат айсберг, соус BBQ. ",
+                    "imageUrl": "",
+                    "price": 9900,
+                    "title": "Подвійний бургер курячий",
+                    "uuid": "e9d7c9ec-d0ff-4e67-886c-11cb0b798b58",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "5a89fc28-7972-460e-90d5-53d9235fcd8e": {
+                    "description": "Локшина бобова, овочі по-китайськи (перець болгарський, цукіні, квасоля стручкова, печериці, морква, цибуля, кунжут), соус на вибір.",
+                    "imageUrl": "",
+                    "price": 8900,
+                    "title": "Wok бобова локшина зі свининою",
+                    "uuid": "5a89fc28-7972-460e-90d5-53d9235fcd8e",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "67b47a7a-20ab-4808-a686-5aace7a34eb0": {
+                    "description": "",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/60dd5b15-78d7-4c30-9f2c-d4bedee7f5e7",
+                    "price": 2700,
+                    "title": "Картопля фрі",
+                    "uuid": "67b47a7a-20ab-4808-a686-5aace7a34eb0",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "467bf55d-57d3-4f15-8322-46db4ceaadaf": {
+                    "description": "Булка гриль, котлета яловича, тостовий сир, маринований огірок або помідор, цибуля маринована, салат айсберг, соус BBQ.",
+                    "imageUrl": "",
+                    "price": 6900,
+                    "title": "Бургер яловичий",
+                    "uuid": "467bf55d-57d3-4f15-8322-46db4ceaadaf",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "43b7a292-b807-476e-934f-3269c1c4a1e1": {
+                    "description": "",
+                    "imageUrl": "",
+                    "price": 3300,
+                    "title": "Фрі з сирним соусом та цибулею",
+                    "uuid": "43b7a292-b807-476e-934f-3269c1c4a1e1",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "e95ff099-9330-48b8-8c9e-ac915931e6de": {
+                    "description": "Локшина яєчна, овочі по-китайськи (перець болгарський, цукіні, квасоля стручкова, печериці, морква, цибуля, кунжут), соус на вибір (кисло-солодкий або пряний з імбирем).",
+                    "imageUrl": "",
+                    "price": 7900,
+                    "title": "Wok локшина з свининою і овочами",
+                    "uuid": "e95ff099-9330-48b8-8c9e-ac915931e6de",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "49f5be03-9697-4848-882a-625b89fd224d": {
+                    "description": "30 г.",
+                    "imageUrl": "",
+                    "price": 500,
+                    "title": "Соуси",
+                    "uuid": "49f5be03-9697-4848-882a-625b89fd224d",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "5a35c3b0-2dfd-4e84-a3f1-9f76cde8bf11": {
+                    "description": "Мисливська ковбаска, булка гриль, та соуси: BBQ, часниковий, гірчичний. ",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/630f4eb3-0c90-452a-a1ee-e6c7d130eee0",
+                    "price": 3100,
+                    "title": "Француз",
+                    "uuid": "5a35c3b0-2dfd-4e84-a3f1-9f76cde8bf11",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "519f4e62-3687-4577-8c81-3a6d0181dfc4": {
+                    "description": "Булочка гриль, котлета, помідор, тостовий сир, салат айсберг, маринована цибуля,  соус BBQ.",
+                    "imageUrl": "",
+                    "price": 6500,
+                    "title": "Бургер зі свининою класичний",
+                    "uuid": "519f4e62-3687-4577-8c81-3a6d0181dfc4",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "0e8bcd9a-552b-4c5f-9609-47fdceff45ad": {
+                    "description": "Булка гриль, 2 котлети яловичі, подвійний тостовий сир, маринований огірок або помідор, цибуля маринована, салат айсберг, соус BBQ. ",
+                    "imageUrl": "",
+                    "price": 10900,
+                    "title": "Подвійний бургер яловичий",
+                    "uuid": "0e8bcd9a-552b-4c5f-9609-47fdceff45ad",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "d7c1fe8f-3cba-417a-8da8-c8db89adc56f": {
+                    "description": "Хліб тостовий, сир тостовий, шинка, помідор, соус часниковий. ",
+                    "imageUrl": "",
+                    "price": 2700,
+                    "title": "Сендвіч з шинкою",
+                    "uuid": "d7c1fe8f-3cba-417a-8da8-c8db89adc56f",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "33f71b63-81bb-4adc-9b40-ccfcef9030f5": {
+                    "description": "Сосиска на вибір баварська с зеленню або баварська з сиром, з салатом із сезонних овочів: капуста, огірок (свіжі або мариновані в залежності від сезону), маринована цибуля (180 г). ",
+                    "imageUrl": "",
+                    "price": 2700,
+                    "title": "Сосиска гриль з салатом",
+                    "uuid": "33f71b63-81bb-4adc-9b40-ccfcef9030f5",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": "",
+                    "suspendUntil": 8640000000,
+                    "classifications": []
+                },
+                "a1269d8e-ac17-454e-9aea-e57ea95c35d2": {
+                    "description": "",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/cc7a6952-ee37-46ab-9f1e-23f6ce142d13",
+                    "price": 4400,
+                    "title": "Нагетси курячі",
+                    "uuid": "a1269d8e-ac17-454e-9aea-e57ea95c35d2",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "a3711748-df41-451b-aa82-381f252faf75": {
+                    "description": "Локшина яєчна, овочі по-китайськи (перець болгарський, цукіні, квасоля стручкова, печериці, морква, цибуля, кунжут), соус на вибір (кисло-солодкий або пряний з імбирем).",
+                    "imageUrl": "",
+                    "price": 5900,
+                    "title": "Wok локшина з овочами",
+                    "uuid": "a3711748-df41-451b-aa82-381f252faf75",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "endorsement": {
+                        "text": "Вегетаріанська страва",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png"
+                    },
+                    "classifications": []
+                },
+                "2b0e6841-9219-4d6b-8143-3a4cdf80cc05": {
+                    "description": "Мисливська ковбаска, булка гриль, та соуси: BBQ, часниковий, гірчичний. ",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/d6b36759-d1c7-40fd-865f-060306af4ac1",
+                    "price": 3100,
+                    "title": "Француз",
+                    "uuid": "2b0e6841-9219-4d6b-8143-3a4cdf80cc05",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "3d8639e8-3727-4a34-a465-de8fcea4b6f3": {
+                    "description": "Локшина бобова, овочі по-китайськи (перець болгарський, цукіні, квасоля стручкова, печериці, морква, цибуля, кунжут), соус на вибір.",
+                    "imageUrl": "",
+                    "price": 6900,
+                    "title": "Wok бобова локшина з овочами",
+                    "uuid": "3d8639e8-3727-4a34-a465-de8fcea4b6f3",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "198378c3-5efc-4e7d-808a-5d4b5f8e2fa1": {
+                    "description": "Молочна сосиска; булка гриль, сезонні овочі: капуста, огірок (свіжі або мариновані в залежності від сезону), маринована цибуля, соуси: BBQ, часниковий, гірчичний. ",
+                    "imageUrl": "",
+                    "price": 4100,
+                    "title": "Американець",
+                    "uuid": "198378c3-5efc-4e7d-808a-5d4b5f8e2fa1",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "c282a8c3-112a-48f6-b931-af3f6a190086": {
+                    "description": "Баварська сосиска з зеленню, булка гриль, сезонні овочі: капуста, огірок (свіжі або мариновані в залежності від сезону), маринована цибуля, та соуси: BBQ, часниковий, гірчичний. ",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/6314c488-e43f-450f-956e-14484f4ffa80",
+                    "price": 4100,
+                    "title": "Німець",
+                    "uuid": "c282a8c3-112a-48f6-b931-af3f6a190086",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "3fc9d3e1-c9bc-468e-aa48-431dcea82dd2": {
+                    "description": "Баварська сосиска з зеленню, булка гриль, сезонні овочі: капуста, огірок (свіжі або мариновані в залежності від сезону), маринована цибуля, та соуси: BBQ, часниковий, гірчичний. ",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/4aa6919e-e050-47cc-ba68-190dabfc8ead",
+                    "price": 4100,
+                    "title": "Німець",
+                    "uuid": "3fc9d3e1-c9bc-468e-aa48-431dcea82dd2",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                }
+            }
+        },
+        "sections": [
+            {
+                "subsectionUuids": [
+                    "9f923f3f-7eea-434e-a3dc-82ee6f7e737f",
+                    "619c6630-a427-4cb8-b23b-20288ad83839",
+                    "92310a6d-3838-4c52-8b4f-21bb1f922435",
+                    "f45de5ce-9b8f-44cc-bbcc-434b55317a25",
+                    "1c925cec-5a14-4fae-ae6c-ac2ec8ee0810",
+                    "0784beed-dfdf-4d3f-925f-f92c5d1d3c96"
+                ],
+                "title": "SWITCH LANGUAGE (UKR)",
+                "subtitle": "10:00 AM – 9:00 PM",
+                "uuid": "79015ebf-3c66-4664-8857-ed6c31f696b0",
+                "isTop": true,
+                "isOnSale": true
+            },
+            {
+                "subsectionUuids": [
+                    "ee0e91a0-8d45-41b7-a039-cc3d2c4aafab",
+                    "403d046f-a4a5-462b-b100-74240cc9df09",
+                    "e3fa3857-b63b-4b95-bd68-541259208753",
+                    "f5303498-263e-4f07-9e12-966f7557ffd8",
+                    "c6ee51cf-026e-4417-80b2-d5829384c03c"
+                ],
+                "title": "SWITCH LANGUAGE (ENG)",
+                "subtitle": "10:00 AM – 9:00 PM",
+                "uuid": "d3855908-5f2a-497e-b95d-49dcde176054",
+                "isTop": false,
+                "isOnSale": true
+            }
+        ],
+        "subsectionsMap": {
+            "e3fa3857-b63b-4b95-bd68-541259208753": {
+                "itemUuids": [
+                    "45b21d69-ca20-44d1-8223-37971397fabc",
+                    "fc408009-7a03-4e15-9383-d3486f6e0cb0",
+                    "a70a9269-7a51-4dd8-aec3-9c6928728797",
+                    "71a36a73-df32-408a-814d-ad664dfb1887",
+                    "34e376f2-9877-4e34-b013-7e3943bcfe19",
+                    "23fda23e-c779-4c50-be85-7597384fb19f",
+                    "b1d328a5-0a8c-45a3-86e0-388fe4ef7f5e",
+                    "51201072-bdb0-4314-9625-2d7831a1062b",
+                    "e3d4730b-3fa9-4792-a5d5-970c137db239",
+                    "5d1b6cef-5878-49b9-8c01-5c4f726790b1",
+                    "dd068048-c314-4a42-baca-9697f38d8e61"
+                ],
+                "subtitle": "",
+                "title": "WOK noodles",
+                "uuid": "e3fa3857-b63b-4b95-bd68-541259208753",
+                "displayType": null
+            },
+            "0784beed-dfdf-4d3f-925f-f92c5d1d3c96": {
+                "itemUuids": [
+                    "e7d6de8a-d818-4d22-956c-8f33efa41751",
+                    "54667126-02e7-425c-9827-4f0b5e5d37c5",
+                    "9dff9260-35e1-4f8f-9b87-4ef8b032b184"
+                ],
+                "subtitle": "",
+                "title": "Комбо меню",
+                "uuid": "0784beed-dfdf-4d3f-925f-f92c5d1d3c96",
+                "displayType": null
+            },
+            "c6ee51cf-026e-4417-80b2-d5829384c03c": {
+                "itemUuids": [
+                    "dcf736ce-c810-420f-ab41-c21df096e656",
+                    "1d959a25-6ce4-4b8a-bd5f-8f2b8c67353d",
+                    "dbfa7c19-23a3-4f6d-a863-0d6c59860254"
+                ],
+                "subtitle": "",
+                "title": "Combo menu",
+                "uuid": "c6ee51cf-026e-4417-80b2-d5829384c03c",
+                "displayType": null
+            },
+            "92310a6d-3838-4c52-8b4f-21bb1f922435": {
+                "itemUuids": [
+                    "2b0e6841-9219-4d6b-8143-3a4cdf80cc05",
+                    "c282a8c3-112a-48f6-b931-af3f6a190086",
+                    "33f71b63-81bb-4adc-9b40-ccfcef9030f5",
+                    "e6914304-b19e-4ac6-9537-4fcd02f41ac2",
+                    "198378c3-5efc-4e7d-808a-5d4b5f8e2fa1",
+                    "ad616c58-bd37-4362-8438-4fc13767805b",
+                    "5f3d0c3c-719a-4441-9f76-6b81c6bc6818",
+                    "4988fee8-44ca-4528-a379-8e4724e07ebd"
+                ],
+                "subtitle": "",
+                "title": "Хот-доги",
+                "uuid": "92310a6d-3838-4c52-8b4f-21bb1f922435",
+                "displayType": null
+            },
+            "403d046f-a4a5-462b-b100-74240cc9df09": {
+                "itemUuids": [
+                    "2a4a2451-ff79-43ab-9306-6268282009d7",
+                    "479db35a-9aeb-4fee-9a12-77bdf7659504",
+                    "f1e3d6db-c0bd-4dc0-aea7-336927233770",
+                    "4b988bab-d019-4129-9105-77ffbefcf4e9",
+                    "b2448c37-8792-48ae-81b8-3d55c8fe0a86",
+                    "775fdc09-29ba-498f-a0e0-481223869e6c",
+                    "fb0ccf7b-8e32-4252-bba4-4a3b433f7a72",
+                    "f3ff84a3-6dd3-4aa1-ad9f-546a410e340f",
+                    "1219e367-5d24-4ce8-a3eb-76fb8843187a"
+                ],
+                "subtitle": "",
+                "title": "Burgers and sandwiches",
+                "uuid": "403d046f-a4a5-462b-b100-74240cc9df09",
+                "displayType": null
+            },
+            "ee0e91a0-8d45-41b7-a039-cc3d2c4aafab": {
+                "itemUuids": [
+                    "5d030260-6c72-4f31-a55c-e6e58c99adf8",
+                    "48fce4ab-1a84-4e12-a6b5-b4b4fbc41eaf",
+                    "3c63107e-b4f9-4d4d-a326-2d63e6d600b4",
+                    "df801d08-6503-4f40-afc6-e14457eaa65d",
+                    "6c560eae-a780-474f-8a36-8450069e8d3a",
+                    "2960b965-b024-4f5e-8e4c-ead53b2a23c8",
+                    "5f3d0c3c-719a-4441-9f76-6b81c6bc6818",
+                    "8eef6dfa-9ecc-4ab0-9bcd-49cebcc4e61d"
+                ],
+                "subtitle": "",
+                "title": "Hot dogs",
+                "uuid": "ee0e91a0-8d45-41b7-a039-cc3d2c4aafab",
+                "displayType": null
+            },
+            "9f923f3f-7eea-434e-a3dc-82ee6f7e737f": {
+                "itemUuids": [
+                    "2e95c7a8-9b16-48d7-909f-ee5825857fee",
+                    "a3711748-df41-451b-aa82-381f252faf75",
+                    "e95ff099-9330-48b8-8c9e-ac915931e6de",
+                    "7d915595-ac8f-4ce2-b92e-18c8bc9e8413",
+                    "b5734fc3-8e43-4b0c-9fd4-6d938df41382",
+                    "06efb300-71c2-43ed-8a0e-21ad91c1a1c9",
+                    "3d8639e8-3727-4a34-a465-de8fcea4b6f3",
+                    "dfed95ca-524f-4802-a27b-5c5a90fec3d5",
+                    "7341484a-45b9-4689-aed0-22d3ec17f3a9",
+                    "4b146a71-14a3-451c-bc27-b9adb6b576f7",
+                    "5a89fc28-7972-460e-90d5-53d9235fcd8e"
+                ],
+                "subtitle": null,
+                "title": "ЛОКШИНА ДО 99",
+                "uuid": "9f923f3f-7eea-434e-a3dc-82ee6f7e737f",
+                "displayType": null
+            },
+            "f45de5ce-9b8f-44cc-bbcc-434b55317a25": {
+                "itemUuids": [
+                    "664299a1-c607-4c29-a8b2-08cb907494c4",
+                    "d7c1fe8f-3cba-417a-8da8-c8db89adc56f",
+                    "467bf55d-57d3-4f15-8322-46db4ceaadaf",
+                    "e9d7c9ec-d0ff-4e67-886c-11cb0b798b58",
+                    "0e8bcd9a-552b-4c5f-9609-47fdceff45ad",
+                    "519f4e62-3687-4577-8c81-3a6d0181dfc4",
+                    "6af48ec4-40d3-4dff-8d97-262a03289e93"
+                ],
+                "subtitle": "",
+                "title": "Бургери і сендвічі",
+                "uuid": "f45de5ce-9b8f-44cc-bbcc-434b55317a25",
+                "displayType": null
+            },
+            "f5303498-263e-4f07-9e12-966f7557ffd8": {
+                "itemUuids": [
+                    "58c0fe33-dc5c-4f5a-9424-e658a6f0d107",
+                    "619d2479-9c6f-4f09-95ab-7c46e09bbf41",
+                    "2c36a3bd-ee0d-4784-bab9-cf2ecafc04d4",
+                    "3b174547-1fd6-45b7-9ddd-c7be4c35daba"
+                ],
+                "subtitle": "",
+                "title": "Fries and sauces",
+                "uuid": "f5303498-263e-4f07-9e12-966f7557ffd8",
+                "displayType": null
+            },
+            "619c6630-a427-4cb8-b23b-20288ad83839": {
+                "itemUuids": [
+                    "5a35c3b0-2dfd-4e84-a3f1-9f76cde8bf11",
+                    "3fc9d3e1-c9bc-468e-aa48-431dcea82dd2",
+                    "664299a1-c607-4c29-a8b2-08cb907494c4",
+                    "67b47a7a-20ab-4808-a686-5aace7a34eb0"
+                ],
+                "subtitle": "",
+                "title": "Популярне",
+                "uuid": "619c6630-a427-4cb8-b23b-20288ad83839",
+                "displayType": null
+            },
+            "1c925cec-5a14-4fae-ae6c-ac2ec8ee0810": {
+                "itemUuids": [
+                    "67b47a7a-20ab-4808-a686-5aace7a34eb0",
+                    "a1269d8e-ac17-454e-9aea-e57ea95c35d2",
+                    "49f5be03-9697-4848-882a-625b89fd224d",
+                    "43b7a292-b807-476e-934f-3269c1c4a1e1"
+                ],
+                "subtitle": "",
+                "title": "Фрі та соуси",
+                "uuid": "1c925cec-5a14-4fae-ae6c-ac2ec8ee0810",
+                "displayType": null
+            }
+        },
+        "title": "Walker Food (вул. Антоновича)",
+        "uuid": "b3f84976-ef9c-428e-8652-4e1bb3cbe17c",
+        "categories": [
+            "₴",
+            "Фастфуд",
+            "Бургери",
+            "Азіатська"
+        ],
+        "cuisineList": [
+            "Фастфуд",
+            "Бургери",
+            "Азіатська"
+        ],
+        "priceBucket": "₴",
+        "etaRange": {
+            "text": "35–45 min",
+            "iconUrl": ""
+        },
+        "ratingBadge": {
+            "text": "<span><span style=\"font-family: inherit; color: #3a3a48;\">4.4 <img src=\"https://d1a3f4spazzrp4.cloudfront.net/static/images/Star_Black_Eats_3.png\" width=\"14\" height=\"14\" vertical-align=\"middle\"> </span><span style=\"font-family: inherit; color: #757575;\">(68)</span></span>"
+        },
+        "disclaimerBadge": null,
+        "fareBadge": null,
+        "fareInfo": {
+            "serviceFee": 30,
+            "serviceFeeCents": 3000
+        },
+        "promotion": null,
+        "shouldIndex": true,
+        "heroImageUrls": [
+            {
+                "url": "https://d1ralsognjng37.cloudfront.net/01b66b9f-20aa-4171-9060-d5eb841e2a74",
+                "width": 240
+            },
+            {
+                "url": "https://d1ralsognjng37.cloudfront.net/366ad9aa-7722-44fb-95bb-4c7c1c0f79ea",
+                "width": 550
+            },
+            {
+                "url": "https://d1ralsognjng37.cloudfront.net/19d4acad-cbbb-4051-aae7-5215430ff5f0",
+                "width": 640
+            },
+            {
+                "url": "https://d1ralsognjng37.cloudfront.net/00ec1836-4436-4ebf-aeea-3832bc56c26d",
+                "width": 750
+            },
+            {
+                "url": "https://d1ralsognjng37.cloudfront.net/835cd9f6-e216-4e89-9e8c-3328dad7bdb7",
+                "width": 1080
+            },
+            {
+                "url": "https://d1ralsognjng37.cloudfront.net/7f4d9667-a889-4226-b29d-e5f7fc18bf2d",
+                "width": 2880
+            }
+        ],
+        "isOpen": true,
+        "currencyCode": "UAH",
+        "closedMessage": "Currently unavailable",
+        "location": {
+            "address": "Laboratorna St, 19/93, Kyiv, 02000",
+            "streetAddress": "Laboratorna St, 19/93",
+            "city": "Kyiv",
+            "country": "UA",
+            "postalCode": "02000",
+            "region": "",
+            "latitude": 50.42437677282379,
+            "longitude": 30.515392700414406
+        },
+        "isDeliveryThirdParty": false,
+        "hours": [
+            {
+                "dayRange": "Sunday",
+                "sectionHours": [
+                    {
+                        "startTime": 600,
+                        "endTime": 1140,
+                        "sectionTitle": "SWITCH LANGUAGE (UKR)"
+                    },
+                    {
+                        "startTime": 600,
+                        "endTime": 1140,
+                        "sectionTitle": "SWITCH LANGUAGE (ENG)"
+                    }
+                ]
+            },
+            {
+                "dayRange": "Monday - Saturday",
+                "sectionHours": [
+                    {
+                        "startTime": 600,
+                        "endTime": 1260,
+                        "sectionTitle": "SWITCH LANGUAGE (UKR)"
+                    },
+                    {
+                        "startTime": 600,
+                        "endTime": 1260,
+                        "sectionTitle": "SWITCH LANGUAGE (ENG)"
+                    }
+                ]
+            }
+        ],
+        "disableOrderInstruction": false,
+        "disableCheckoutInstruction": false,
+        "nuggets": [],
+        "isWithinDeliveryRange": false,
+        "slug": "walker-food-вул-антоновича",
+        "citySlug": "kyiv",
+        "phoneNumber": "+380673528686",
+        "metaJson": "{\"@context\":\"http:\\u002F\\u002Fschema.org\",\"@type\":\"Restaurant\",\"@id\":\"https:\\u002F\\u002Fwww.ubereats.com\\u002Fen-UA\\u002Fkyiv\\u002Ffood-delivery\\u002Fwalker-food-%D0%B2%D1%83%D0%BB-%D0%B0%D0%BD%D1%82%D0%BE%D0%BD%D0%BE%D0%B2%D0%B8%D1%87%D0%B0\\u002Fs_hJdu-cQo6GUk4bs8vhfA\\u002F\",\"name\":\"Walker Food (вул. Антоновича)\",\"priceRange\":\"₴\",\"potentialAction\":{\"@type\":\"OrderAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\\u002F\\u002Fwww.ubereats.com\\u002Fen-UA\\u002Fkyiv\\u002Ffood-delivery\\u002Fwalker-food-%D0%B2%D1%83%D0%BB-%D0%B0%D0%BD%D1%82%D0%BE%D0%BD%D0%BE%D0%B2%D0%B8%D1%87%D0%B0\\u002Fs_hJdu-cQo6GUk4bs8vhfA\\u002F?utm_campaign=order-action&utm_medium=organic\",\"inLanguage\":\"English\",\"actionPlatform\":[\"http:\\u002F\\u002Fschema.org\\u002FDesktopWebPlatform\",\"http:\\u002F\\u002Fschema.org\\u002FMobileWebPlatform\"]},\"deliveryMethod\":[\"http:\\u002F\\u002Fpurl.org\\u002Fgoodrelations\\u002Fv1#DeliveryModeOwnFleet\"]},\"address\":{\"@type\":\"PostalAddress\",\"addressLocality\":\"Kyiv\",\"addressRegion\":\"\",\"postalCode\":\"02000\",\"addressCountry\":\"UA\",\"streetAddress\":\"Laboratorna St, 19\\u002F93\"},\"geo\":{\"@type\":\"GeoCoordinates\",\"latitude\":50.42437677282379,\"longitude\":30.515392700414406}}",
+        "promoTrackings": [],
+        "suggestedPromotion": {
+            "text": "",
+            "promotionUuid": ""
+        },
+        "supportedDiningModes": [
+            {
+                "mode": "DELIVERY",
+                "title": "Delivery",
+                "isSelected": true,
+                "isAvailable": true
+            }
+        ],
+        "isPreview": false,
+        "pinnedInfo": null
+    }
+}

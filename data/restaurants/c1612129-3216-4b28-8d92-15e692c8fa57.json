@@ -1,0 +1,3391 @@
+{
+    "status": "success",
+    "data": {
+        "sectionEntitiesMap": {
+            "bf2e590b-9c79-573f-be48-899cc5fcdf79": {
+                "adb547f1-5400-5ff9-bfba-90cb886b1501": {
+                    "description": "Ken & Jesse’s flourless chocolate chip cookie, freshly baked here in LEON throughout the day.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/99b323dc-a4c3-47c5-a084-3d98890de898.jpeg",
+                    "price": 210,
+                    "title": "Freshly Baked Chocolate Chip Cookie",
+                    "uuid": "adb547f1-5400-5ff9-bfba-90cb886b1501",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "a8134746-a2c6-5ab2-b72e-3430b3addee3": {
+                    "description": "Freshly roasted mushrooms, egg, spinach and LEON-made ketchup.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/f256b63f-69d7-45f2-8064-58b1b070fc3f.jpeg",
+                    "price": 445,
+                    "title": "Mushroom and Egg Muffin",
+                    "uuid": "a8134746-a2c6-5ab2-b72e-3430b3addee3",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "421699b7-db9b-5f4d-a448-d3f3d0619abc": {
+                    "description": "The cake we didn’t know we needed until we tried it: the lovechild of a cherry bakewell and a lemon drizzle.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/83b72354-16a3-4ca5-81af-d5f13eaa8c5a.jpeg",
+                    "price": 240,
+                    "title": "Cherry Marzipan Slice",
+                    "uuid": "421699b7-db9b-5f4d-a448-d3f3d0619abc",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "5f4354fe-55c2-5512-8231-06f9d0e6a812": {
+                    "description": "With all the juicy bits.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/c2b3d6a8-9c84-4d88-a56a-3114dd7f718c.jpeg",
+                    "price": 230,
+                    "title": "Freshly Squeezed Orange Juice",
+                    "uuid": "5f4354fe-55c2-5512-8231-06f9d0e6a812",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "825b10b2-1e45-5c43-a283-566015aa0ce5": {
+                    "description": "Have two breakfast boxes and two regular coffees.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/ad716d7d-c0dc-4dbc-a1a5-a938189fb935.jpeg",
+                    "price": 1250,
+                    "title": "Breakfast Box Bundle",
+                    "uuid": "825b10b2-1e45-5c43-a283-566015aa0ce5",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "bed8b204-07fe-595a-8929-55032af7ca57": {
+                    "description": "Hot infusion with fresh ginger",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/1e3b8987-faa5-4ed3-8bf7-e1a4456c6b27.jpeg",
+                    "price": 220,
+                    "title": "Fresh Ginger Steeper",
+                    "uuid": "bed8b204-07fe-595a-8929-55032af7ca57",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "09be3360-1b4e-5da3-921b-d0becab86ca4": {
+                    "description": "Hot infusion with fresh mint",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/098f17aa-4851-41f3-bf6f-7d6c042ac9c5.jpeg",
+                    "price": 220,
+                    "title": "Fresh Mint Steeper",
+                    "uuid": "09be3360-1b4e-5da3-921b-d0becab86ca4",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "2939dcb5-e333-5ad9-82cb-d2f8fdfc871c": {
+                    "description": "Our new Clean Green recipe. Avocado, spinach, and apples. Boosted with ginger and lemon juice. Blended to mend you, with pear juice.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/1e11885a-ad0d-49a0-8c43-ecb8a0c240bb.jpeg",
+                    "price": 345,
+                    "title": "Clean Green Shake",
+                    "uuid": "2939dcb5-e333-5ad9-82cb-d2f8fdfc871c",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "a67893b7-c66b-59ac-8de6-01ec1c596e90": {
+                    "description": "Cold pressed raw carrots with apple, ginger, and turmeric. Blended to mend you with anti-inflammatory goodness.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/67e4ab64-de2a-4ce0-b85e-bc154deabaf8.jpeg",
+                    "price": 345,
+                    "title": "Carrot, Apple, Ginger and Turmeric Juice",
+                    "uuid": "a67893b7-c66b-59ac-8de6-01ec1c596e90",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "2ba2fffb-2a06-5639-b754-7c4428fcd66e": {
+                    "description": "",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/a123e276-e2cd-4d98-9e27-8df1b9bf6697.jpeg",
+                    "price": 305,
+                    "title": "Hot Chocolate",
+                    "uuid": "2ba2fffb-2a06-5639-b754-7c4428fcd66e",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "67aea071-f990-5b8b-baff-87163a0cef69": {
+                    "description": "Bacon, egg, spinach & LEON-made ketchup.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/f5b4e2ec-a9d6-418e-b96b-d432f48f8f31.jpeg",
+                    "price": 445,
+                    "title": "Bacon and Egg Muffin",
+                    "uuid": "67aea071-f990-5b8b-baff-87163a0cef69",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "d0e6ea3a-e165-567c-8bc8-5c8c58bcce64": {
+                    "description": "Organic oat porridge with blueberries, toasted seeds, and raw, organic honey.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/1b43d366-5abd-48d2-8924-801688b48d09.jpeg",
+                    "price": 300,
+                    "title": "Porridge with Blueberries, Honey and Toasted Seeds",
+                    "uuid": "d0e6ea3a-e165-567c-8bc8-5c8c58bcce64",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "58d43aa6-0a7e-5aea-bdfd-1175f1015746": {
+                    "description": "",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/62a08524-a88c-4303-a2de-38c231637397.jpeg",
+                    "price": 180,
+                    "title": "Coke",
+                    "uuid": "58d43aa6-0a7e-5aea-bdfd-1175f1015746",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "62adcd63-c189-5c06-a8af-cad0fc7819d0": {
+                    "description": "Organic cashew milk porridge with banana, Montezuma 68.7% chocolate flakes and raw, organic honey. Dairy Free.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/6277eaf3-b058-4666-9367-80ce1b2e16b4.jpeg",
+                    "price": 300,
+                    "title": "Cashew Milk Porridge of the Gods",
+                    "uuid": "62adcd63-c189-5c06-a8af-cad0fc7819d0",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "1cb8cc2f-b4ec-5962-8490-ee601171a5e7": {
+                    "description": "",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/aa80ecce-052e-45e9-8556-0a8f280cf86e.jpeg",
+                    "price": 235,
+                    "title": "Large Earl Grey Tea",
+                    "uuid": "1cb8cc2f-b4ec-5962-8490-ee601171a5e7",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "1a9c0b90-8210-54a0-87ce-11f48077157d": {
+                    "description": "Proof that you can have your cake and eat it. Made with dark chocolate, coffee, almonds and orange.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/9fab2972-686e-47d4-9292-008c4afe2598.jpeg",
+                    "price": 240,
+                    "title": "Better Brownie",
+                    "uuid": "1a9c0b90-8210-54a0-87ce-11f48077157d",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "d535d2e1-c78e-5ef9-8775-e9387a237e4e": {
+                    "description": "For bubbly people.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/1ae5545b-7b10-40d0-86db-c659b1383ecd.jpeg",
+                    "price": 125,
+                    "title": "500ml Sparkling Water",
+                    "uuid": "d535d2e1-c78e-5ef9-8775-e9387a237e4e",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "a92d6a14-f417-5815-ac05-080bd6eae0bc": {
+                    "description": "Good for your gut and good for breakfast. Layers of live probiotic yoghurt and high fibre berry compote topped with dark chocolate, granola & strawberries.\n",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/ec0d8035-a86a-4d88-ae3c-5970cb79e25d.jpeg",
+                    "price": 280,
+                    "title": "Megan’s Yoghurt Sundae",
+                    "uuid": "a92d6a14-f417-5815-ac05-080bd6eae0bc",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "35d86438-ae2c-5177-90d6-3c49fb0e9b31": {
+                    "description": "",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/d2ba3979-2080-4da6-923b-9b3d87e29fb7.jpeg",
+                    "price": 220,
+                    "title": "English Breakfast Tea",
+                    "uuid": "35d86438-ae2c-5177-90d6-3c49fb0e9b31",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "8992471a-85a0-51f8-82aa-07c985f87d73": {
+                    "description": "Hot infusion with fresh mint",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/079d73af-6f71-43bc-a4dc-e125c2210192.jpeg",
+                    "price": 235,
+                    "title": "Large Fresh Mint Steeper",
+                    "uuid": "8992471a-85a0-51f8-82aa-07c985f87d73",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "8ff1db96-c759-57d9-8ebd-5ee426c82071": {
+                    "description": "Surprisingly, not too rich. Date and flaxseed shortbread with date caramel and dark chocolate.\n",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/560636bb-1be3-4624-8f91-907fc06329ff.jpeg",
+                    "price": 190,
+                    "title": "Billionaire's Shortbread (Vegan)",
+                    "uuid": "8ff1db96-c759-57d9-8ebd-5ee426c82071",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "7eb87aa7-6254-552b-88b3-c7cdb18cf806": {
+                    "description": "Organic cashew milk porridge topped with coconut almond butter and a high-fibre berry compote. \n",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/f3ebaffa-5a09-49c7-819e-0e36b0cb1eda.jpeg",
+                    "price": 340,
+                    "title": "The Ruby Berry Porridge (Vegan)",
+                    "uuid": "7eb87aa7-6254-552b-88b3-c7cdb18cf806",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "endorsement": {
+                        "text": "Vegan",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png"
+                    },
+                    "classifications": []
+                },
+                "f84c1ccd-0e47-5eb9-8ac3-6b71ce39cc75": {
+                    "description": "",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/2f5b860a-983e-480a-aa96-4c4326588dc5.jpeg",
+                    "price": 220,
+                    "title": "Earl Grey Tea",
+                    "uuid": "f84c1ccd-0e47-5eb9-8ac3-6b71ce39cc75",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "3378949f-530e-5bbf-b82c-3d902e41f4b5": {
+                    "description": "Gently sparkling apple, made with 100% natural juices.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/b43456a6-79ec-4351-9186-dc1caf63729a.jpeg",
+                    "price": 145,
+                    "title": "Apple Sparkly Can",
+                    "uuid": "3378949f-530e-5bbf-b82c-3d902e41f4b5",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "ca305e7d-31e3-5b8c-b8bf-aa918c40a7e1": {
+                    "description": "When life gives you strawberries, make lemonade.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/a2f524ba-82ed-4278-93c4-a7b435a1c97b.jpeg",
+                    "price": 260,
+                    "title": "Strawberry Lemonade",
+                    "uuid": "ca305e7d-31e3-5b8c-b8bf-aa918c40a7e1",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "474089a4-dc00-5d46-a7dd-588ee0c301a9": {
+                    "description": "A freshly poached free-range egg with saucy baked beans.\n",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/a0594864-c099-48c7-beb4-f3db5327f8dd.jpeg",
+                    "price": 235,
+                    "title": "Saucy Beans Pot",
+                    "uuid": "474089a4-dc00-5d46-a7dd-588ee0c301a9",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "339f057c-1810-5c29-8fd9-11dcbb8c6094": {
+                    "description": "",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/71aa85e8-e839-4b31-880b-3f1b47d88029.jpeg",
+                    "price": 295,
+                    "title": "Cappuccino",
+                    "uuid": "339f057c-1810-5c29-8fd9-11dcbb8c6094",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "2c3c7556-457a-5627-bdb8-3b9097b8417e": {
+                    "description": "",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/1e721ebc-1d2e-4f2e-977a-21f6e912a080.jpeg",
+                    "price": 305,
+                    "title": "Mocha",
+                    "uuid": "2c3c7556-457a-5627-bdb8-3b9097b8417e",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "fa36c178-dc08-5b8b-b567-c52e411fed7d": {
+                    "description": "Gently sparkling orange and mango, made with 100% natural juices.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/ad809910-131e-4409-8c76-2d21ca308017.jpeg",
+                    "price": 145,
+                    "title": "Orange and Mango Sparkly Can",
+                    "uuid": "fa36c178-dc08-5b8b-b567-c52e411fed7d",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "c0bc6eca-84ab-563d-9ef7-f7b89cfceeff": {
+                    "description": "Topped with pecans and banana chips. Use your loaf.\n",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/c848ee3a-6b14-4b31-90bd-0cb422380c2a.jpeg",
+                    "price": 295,
+                    "title": "Nutty Banana Bread",
+                    "uuid": "c0bc6eca-84ab-563d-9ef7-f7b89cfceeff",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "8abfe0bc-4b3a-5197-9fcb-8cebc53fa0cd": {
+                    "description": "Ethical bottled mineral water.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/40b99fe7-fb66-4eb8-afde-09e98a26a0b4.jpeg",
+                    "price": 125,
+                    "title": "500ml Still Water",
+                    "uuid": "8abfe0bc-4b3a-5197-9fcb-8cebc53fa0cd",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "389aeecc-81a6-59a7-90f8-9946a7d86fac": {
+                    "description": "Grilled mushrooms in a rich truffle sauce and two freshly poached eggs. Breakfast like a King or Queen.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/3930a080-83af-47bf-bd1c-d7e1bf643513.jpeg",
+                    "price": 340,
+                    "title": "Truffle Mushroom Pot",
+                    "uuid": "389aeecc-81a6-59a7-90f8-9946a7d86fac",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "5d31c9ef-b043-5201-bf65-6862af8ec488": {
+                    "description": "British Cumberland sausage, egg, and LEON-made ketchup.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/e21304f2-605a-4f03-8d41-c423d8803e56.jpeg",
+                    "price": 445,
+                    "title": "Sausage and Egg Muffin",
+                    "uuid": "5d31c9ef-b043-5201-bf65-6862af8ec488",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "e4858f33-895a-59ab-9ca7-f7844e723c23": {
+                    "description": "",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/4fc87540-ec75-4169-9f7c-1dd06cfcf30c.jpeg",
+                    "price": 235,
+                    "title": "Americano",
+                    "uuid": "e4858f33-895a-59ab-9ca7-f7844e723c23",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "572b86e9-db3b-543b-bb7b-d89c272ff4df": {
+                    "description": "This isn’t a lemon drizzle cake, it’s a lemon storm. An almond and lemon curd sponge on a ginger flaxseed base.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/e917ef6d-8b7c-44c5-ad6d-49f755a253c1.jpeg",
+                    "price": 240,
+                    "title": "Lemon Ginger Crunch",
+                    "uuid": "572b86e9-db3b-543b-bb7b-d89c272ff4df",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "bb30fb9d-a355-51ed-9e83-985c88dd7f65": {
+                    "description": "",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/506b0b3c-c927-45e1-bcce-f97e6a2364d4.jpeg",
+                    "price": 335,
+                    "title": "Large Cappuccino",
+                    "uuid": "bb30fb9d-a355-51ed-9e83-985c88dd7f65",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "ece01ca9-1dff-5aff-8d8f-6244afbeee32": {
+                    "description": "Raspberries, blueberries, blackcurrants and ‘a-sigh-ee’ berries.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/bee6f68d-c23f-4e57-9399-dcc55a4bca2f.jpeg",
+                    "price": 345,
+                    "title": "Berry and Acai Smoothie",
+                    "uuid": "ece01ca9-1dff-5aff-8d8f-6244afbeee32",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "2427f3c0-5d16-58b9-a457-27108b31102f": {
+                    "description": "",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/552a589b-11e1-4bca-a590-c3f87162e3f1.jpeg",
+                    "price": 180,
+                    "title": "Diet Coke",
+                    "uuid": "2427f3c0-5d16-58b9-a457-27108b31102f",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "3b54809e-604e-51d0-b7f6-c9bd0756f711": {
+                    "description": "A high fibre breakfast. Organic oat porridge topped with almond butter and a ruby berry compote.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/c63ce805-da89-4d95-a119-adc61658430a.jpeg",
+                    "price": 340,
+                    "title": "The Ruby Berry Porridge",
+                    "uuid": "3b54809e-604e-51d0-b7f6-c9bd0756f711",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "2bb9c7b1-15ae-55e9-8221-605bf3523e01": {
+                    "description": "Full of bursting citrus and berries with a hint of bergamot. For tea time and all the time.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/c0be821b-2087-4a31-853d-b703c08799ae.jpeg",
+                    "price": 330,
+                    "title": "Raspberry, Lime and Earl Grey Iced Tea",
+                    "uuid": "2bb9c7b1-15ae-55e9-8221-605bf3523e01",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "13ce57f2-3632-5dcb-902a-e762789a0107": {
+                    "description": "",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/e58efa01-6efe-4803-82ee-d4418f549b41.jpeg",
+                    "price": 280,
+                    "title": "Still Rosemary Water",
+                    "uuid": "13ce57f2-3632-5dcb-902a-e762789a0107",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "9e8c9c48-9432-5960-a45d-e625248116f0": {
+                    "description": "Two slices of grilled halloumi topped with mint and parsley.\n",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/843f861c-c8fb-482d-a1b8-591714eac188.jpeg",
+                    "price": 245,
+                    "title": "Halloumi Mezze",
+                    "uuid": "9e8c9c48-9432-5960-a45d-e625248116f0",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "3057a3ae-f582-533b-a278-235aea5066a4": {
+                    "description": "Organic cashew milk porridge with blueberries, toasted seeds, and raw, organic honey. Dairy Free.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/7d40ee78-9bac-4269-8501-e5a4f58ac31f.jpeg",
+                    "price": 300,
+                    "title": "Cashew Milk Porridge with Blueberries, Honey and Toasted Seeds",
+                    "uuid": "3057a3ae-f582-533b-a278-235aea5066a4",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "b28fd415-7aa0-521b-a277-97519b9da0b9": {
+                    "description": "For when you’re really thirsty.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/13b3876e-3f45-434e-af2f-08cbcc7e6232.jpeg",
+                    "price": 180,
+                    "title": "750ml Still Water",
+                    "uuid": "b28fd415-7aa0-521b-a277-97519b9da0b9",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "0a086ecb-3713-5a22-b545-b0d94b49f8df": {
+                    "description": "“There’s rosemary, that’s for remembrance,” said Hamlet. It’s also exceptionally good with peaches and oranges.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/783fde2f-3dcc-4c04-912b-f3c01179deac.jpeg",
+                    "price": 330,
+                    "title": "Peach, Orange and Rosemary Juicy Water",
+                    "uuid": "0a086ecb-3713-5a22-b545-b0d94b49f8df",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "ce6d489b-573d-5d03-9056-a69213f21f0c": {
+                    "description": "Hot infusion with fresh ginger",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/cea3390a-89ca-4af7-b291-563c2e991b1b.jpeg",
+                    "price": 235,
+                    "title": "Large Fresh Ginger Steeper",
+                    "uuid": "ce6d489b-573d-5d03-9056-a69213f21f0c",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "af4a56e4-4656-5543-a492-043233f26236": {
+                    "description": "",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/c3bd8fd0-cfc3-4b21-8b13-428da5b50714.jpeg",
+                    "price": 180,
+                    "title": "Coke Zero",
+                    "uuid": "af4a56e4-4656-5543-a492-043233f26236",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "515bee4b-6396-5506-ac42-d3a33bbe0cd6": {
+                    "description": "",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/bbc5b5c1-9a64-4f92-97fd-7842c745283f.jpeg",
+                    "price": 345,
+                    "title": "Large Hot Chocolate",
+                    "uuid": "515bee4b-6396-5506-ac42-d3a33bbe0cd6",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "a329e675-0383-52d4-b2b6-fbcb1689708c": {
+                    "description": "",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/c726f5f3-e57e-4a09-87f1-eb4f56824c83.jpeg",
+                    "price": 295,
+                    "title": "Latte",
+                    "uuid": "a329e675-0383-52d4-b2b6-fbcb1689708c",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "d3fe15ed-ab50-5e74-b30b-dbcebef5642b": {
+                    "description": "Organic oat porridge with banana and cinnamon. Naturally sweetened with dates.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/b63fbe38-6c02-44d1-a37c-6108cfdcfe54.jpeg",
+                    "price": 300,
+                    "title": "Porridge with Banana and Cinnamon",
+                    "uuid": "d3fe15ed-ab50-5e74-b30b-dbcebef5642b",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "848acd3c-7c16-579c-817e-b2c3beb19903": {
+                    "description": "Hand-reared smoked salmon and egg with fresh spinach and dill yoghurt.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/85c28c0b-8455-445d-960a-9b36f8fb0985.jpeg",
+                    "price": 445,
+                    "title": "Smoked Salmon and Egg Muffin",
+                    "uuid": "848acd3c-7c16-579c-817e-b2c3beb19903",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "0516cf32-807c-5c12-b0f8-311633bca335": {
+                    "description": "",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/02c78e9d-d906-42c8-b174-8ab67b60ca8f.jpeg",
+                    "price": 335,
+                    "title": "Large Latte",
+                    "uuid": "0516cf32-807c-5c12-b0f8-311633bca335",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "97db2bd5-1aba-52bd-bcb9-915a8ab62e9f": {
+                    "description": "",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/3e1b9548-41a3-4095-92cb-9c77aed3187b.jpeg",
+                    "price": 235,
+                    "title": "Large English Breakfast Tea",
+                    "uuid": "97db2bd5-1aba-52bd-bcb9-915a8ab62e9f",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "46fa2e1a-b13e-50e2-997d-e2144c3eba1c": {
+                    "description": "",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/817ad8c2-27e1-4e10-95ba-f61fb883b846.jpeg",
+                    "price": 345,
+                    "title": "Large Mocha",
+                    "uuid": "46fa2e1a-b13e-50e2-997d-e2144c3eba1c",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "9384fcd3-8b77-5885-b090-9243b92f7d28": {
+                    "description": "",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/5cb04298-3a09-46e8-8462-4b713c2962b8.jpeg",
+                    "price": 235,
+                    "title": "Large Green Tea",
+                    "uuid": "9384fcd3-8b77-5885-b090-9243b92f7d28",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "947e4ad2-62c9-5f4b-b271-638a7edd5c87": {
+                    "description": "",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/ee048909-94da-4c88-8b29-b7585c87edf5.jpeg",
+                    "price": 275,
+                    "title": "Large Americano",
+                    "uuid": "947e4ad2-62c9-5f4b-b271-638a7edd5c87",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "c0a5c257-f5e6-5647-b4ed-bf3a03900162": {
+                    "description": "A free-range poached egg with grilled halloumi, mushrooms, saucy beans & freshly chopped herbs.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/ec929a7d-8370-43b5-b7f2-83000cb52180.jpeg",
+                    "price": 425,
+                    "title": "Halloumi and Mushroom Pot",
+                    "uuid": "c0a5c257-f5e6-5647-b4ed-bf3a03900162",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "05b90db9-9ff0-5ec2-9045-7fa5a5ae426c": {
+                    "description": "A rose donut by any other name wouldn’t smell as sweet, and it probably wouldn’t be vegan either. Ours is.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/7a739508-9829-4fd5-9000-78b6007a59ff.jpeg",
+                    "price": 390,
+                    "title": "Raspberry and Rose Donut (Vegan)",
+                    "uuid": "05b90db9-9ff0-5ec2-9045-7fa5a5ae426c",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "endorsement": {
+                        "text": "Vegan",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png"
+                    },
+                    "classifications": []
+                },
+                "e6043709-9f02-51ee-b87b-2a3248308d55": {
+                    "description": "Can we fit back in For those who love both breakfast and England anywhere?\n",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/c29a30bb-b4b2-4b36-961e-0d1ef71f1648.jpeg",
+                    "price": 445,
+                    "title": "Full English Pot",
+                    "uuid": "e6043709-9f02-51ee-b87b-2a3248308d55",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "f190f7a3-e4a1-5896-b78c-fe5bea868de6": {
+                    "description": "We handle all allergens in our kitchen and cannot guarantee our dishes are allergen-free. For allergen information, please visit our website.",
+                    "imageUrl": "",
+                    "price": 0,
+                    "title": "Allergen Disclaimer",
+                    "uuid": "f190f7a3-e4a1-5896-b78c-fe5bea868de6",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "483b4066-32a3-5888-8e5c-e588910b6202": {
+                    "description": "A naturally fizzy, fermented tea drink filled with good bacteria.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/fe60706b-7f24-4786-bfbb-76d75c6b43bc.jpeg",
+                    "price": 390,
+                    "title": "Ginger Kombucha",
+                    "uuid": "483b4066-32a3-5888-8e5c-e588910b6202",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "8bc30edb-09d0-5416-8a6f-68bd2eded5e1": {
+                    "description": "Organic oat porridge with banana, Montezuma 68.7% chocolate flakes and raw, organic honey.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/e06c0a3b-c59e-4ae2-b8c4-48f54c66bdc9.jpeg",
+                    "price": 300,
+                    "title": "Porridge of the Gods",
+                    "uuid": "8bc30edb-09d0-5416-8a6f-68bd2eded5e1",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "9deb23c6-1a1b-5a2f-8af6-23d241ad19b7": {
+                    "description": "With freshly squeezed lemon juice, water and a little bit of sugar.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/65e4098c-72fe-48d4-97d3-5670550a51a6.jpeg",
+                    "price": 240,
+                    "title": "Leon Made Lemonade",
+                    "uuid": "9deb23c6-1a1b-5a2f-8af6-23d241ad19b7",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "04935548-d2a0-5e97-9012-2bf8015916ce": {
+                    "description": "",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/fa1f56e0-f418-4408-a8d6-36d2626c113c.jpeg",
+                    "price": 70,
+                    "title": "Banana",
+                    "uuid": "04935548-d2a0-5e97-9012-2bf8015916ce",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "cf520ea2-1c21-58c1-9bd6-4f1c8bc6e622": {
+                    "description": "",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/69fc12a2-a3a4-435a-9879-50972663e13c.jpeg",
+                    "price": 280,
+                    "title": "Sparkling Rosemary Water",
+                    "uuid": "cf520ea2-1c21-58c1-9bd6-4f1c8bc6e622",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "0ae8bdf4-f481-5186-9130-24bb15a7c4ea": {
+                    "description": "Organic cashew milk porridge with banana and cinnamon. Naturally sweetened with dates. Dairy Free.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/fb7f767b-23c0-41dc-94d9-77ec5f8b0672.jpeg",
+                    "price": 300,
+                    "title": "Cashew Milk Porridge with Banana and Cinnamon",
+                    "uuid": "0ae8bdf4-f481-5186-9130-24bb15a7c4ea",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "15db2626-8923-5f26-a90d-594ec3be2de9": {
+                    "description": "If you can’t escape the city to a meadow, you can at least refresh yourself with a blend of its finest summer flavours.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/743182ea-6786-4d34-909b-2465e3a6f6e2.jpeg",
+                    "price": 330,
+                    "title": "Apple, Honey and Lavender Juicy Water",
+                    "uuid": "15db2626-8923-5f26-a90d-594ec3be2de9",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "e1f296b6-6632-5d2f-bba2-bd11c5b34b73": {
+                    "description": "Fresh avocado, grilled halloumi and mushrooms with two freshly poached eggs, saucy beans, and roasted tomato. Breakfast of champs.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/855947d5-e1ba-4445-81e1-10c1bb3b96c0.jpeg",
+                    "price": 515,
+                    "title": "Veggie Breakfast Box",
+                    "uuid": "e1f296b6-6632-5d2f-bba2-bd11c5b34b73",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "84b33f31-6b3e-55fd-afa9-34f7b3ad8ccc": {
+                    "description": "Our grain-free flapjack made with fruits, seeds and nuts, a little coconut oil, and spiced with cardamom.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/8c35b913-626a-49cd-a2d6-addadc971aa2.jpeg",
+                    "price": 295,
+                    "title": "Cardamom and Cranberry Paleon Bar (Vegan)",
+                    "uuid": "84b33f31-6b3e-55fd-afa9-34f7b3ad8ccc",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "endorsement": {
+                        "text": "Vegan",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png"
+                    },
+                    "classifications": []
+                },
+                "5ca605ea-d353-5477-a308-8770a2d33973": {
+                    "description": "Bright, tart and citrus.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/bdbcbe80-545a-4999-8f67-593b434b2d4d.jpeg",
+                    "price": 330,
+                    "title": "Passionfruit and Lemon Iced Tea",
+                    "uuid": "5ca605ea-d353-5477-a308-8770a2d33973",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "f4d7dcda-764a-5c04-b698-2a8ceee1ca94": {
+                    "description": "",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/a4ef53c2-10cb-4aba-befb-254cc5203d7e.jpeg",
+                    "price": 70,
+                    "title": "Apple",
+                    "uuid": "f4d7dcda-764a-5c04-b698-2a8ceee1ca94",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "458c8410-4239-5430-907e-c6975729da7e": {
+                    "description": "British bacon, gluten-free sausage, two poached eggs, avocado, saucy beans, and freshly roasted mushrooms. Breakfast,fresh out the box.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/452eca32-2faa-418a-a364-0bff05581636.jpeg",
+                    "price": 575,
+                    "title": "The Big Breakfast Box",
+                    "uuid": "458c8410-4239-5430-907e-c6975729da7e",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "291aac3b-193e-58d1-983d-5cb2cc3fefcc": {
+                    "description": "",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/13bbba26-1ca1-4f05-9277-44edcb46367d.jpeg",
+                    "price": 220,
+                    "title": "Green Tea",
+                    "uuid": "291aac3b-193e-58d1-983d-5cb2cc3fefcc",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "8bb4bdb1-4256-53ff-aef8-7433af43c576": {
+                    "description": "A tropical shake full of good bacteria and great for your gut. Tastes good and does you good.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/a2723dfd-867b-4e16-a978-c6ea626474cc.jpeg",
+                    "price": 345,
+                    "title": "Mango and Passionfruit Kefir",
+                    "uuid": "8bb4bdb1-4256-53ff-aef8-7433af43c576",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                }
+            },
+            "ab6499e7-fb7e-523a-a7ab-b0b7e5cf0520": {
+                "f6555b4f-7ad8-5ced-8748-5c02d794ce1c": {
+                    "description": "Slices of British Red Tractor chicken in a wholemeal bun with tomato sauce. Served with LEON baked frie, baby plum tomatoes and fresh peas\n",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/97185160-3e9a-4715-922e-da3e151e7107.jpeg",
+                    "price": 425,
+                    "title": "Mini Chicken Burger and Fries",
+                    "uuid": "f6555b4f-7ad8-5ced-8748-5c02d794ce1c",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "ed186e61-75f5-5b42-94be-77d8a54c9381": {
+                    "description": "Red, savoy, and white shredded cabbage. With peas, fresh herbs, and creamy vinaigrette dressing.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/40fe2730-03ca-4f3c-b922-046177f282f6.jpeg",
+                    "price": 225,
+                    "title": "Slaw",
+                    "uuid": "ed186e61-75f5-5b42-94be-77d8a54c9381",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "endorsement": {
+                        "text": "Vegan",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png"
+                    },
+                    "classifications": []
+                },
+                "0516cf32-807c-5c12-b0f8-311633bca335": {
+                    "description": "",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/02c78e9d-d906-42c8-b174-8ab67b60ca8f.jpeg",
+                    "price": 335,
+                    "title": "Large Latte",
+                    "uuid": "0516cf32-807c-5c12-b0f8-311633bca335",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "84b33f31-6b3e-55fd-afa9-34f7b3ad8ccc": {
+                    "description": "Our grain-free flapjack made with fruits, seeds and nuts, a little coconut oil, and spiced with cardamom.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/8c35b913-626a-49cd-a2d6-addadc971aa2.jpeg",
+                    "price": 295,
+                    "title": "Cardamom and Cranberry Paleon Bar (Vegan)",
+                    "uuid": "84b33f31-6b3e-55fd-afa9-34f7b3ad8ccc",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "endorsement": {
+                        "text": "Vegan",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png"
+                    },
+                    "classifications": []
+                },
+                "bb30fb9d-a355-51ed-9e83-985c88dd7f65": {
+                    "description": "",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/506b0b3c-c927-45e1-bcce-f97e6a2364d4.jpeg",
+                    "price": 335,
+                    "title": "Large Cappuccino",
+                    "uuid": "bb30fb9d-a355-51ed-9e83-985c88dd7f65",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "ca305e7d-31e3-5b8c-b8bf-aa918c40a7e1": {
+                    "description": "When life gives you strawberries, make lemonade.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/a2f524ba-82ed-4278-93c4-a7b435a1c97b.jpeg",
+                    "price": 260,
+                    "title": "Strawberry Lemonade",
+                    "uuid": "ca305e7d-31e3-5b8c-b8bf-aa918c40a7e1",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "05b90db9-9ff0-5ec2-9045-7fa5a5ae426c": {
+                    "description": "A rose donut by any other name wouldn’t smell as sweet, and it probably wouldn’t be vegan either. Ours is.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/7a739508-9829-4fd5-9000-78b6007a59ff.jpeg",
+                    "price": 390,
+                    "title": "Raspberry and Rose Donut (Vegan)",
+                    "uuid": "05b90db9-9ff0-5ec2-9045-7fa5a5ae426c",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "endorsement": {
+                        "text": "Vegan",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png"
+                    },
+                    "classifications": []
+                },
+                "09be3360-1b4e-5da3-921b-d0becab86ca4": {
+                    "description": "Hot infusion with fresh mint",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/098f17aa-4851-41f3-bf6f-7d6c042ac9c5.jpeg",
+                    "price": 220,
+                    "title": "Fresh Mint Steeper",
+                    "uuid": "09be3360-1b4e-5da3-921b-d0becab86ca4",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "c0bc6eca-84ab-563d-9ef7-f7b89cfceeff": {
+                    "description": "Topped with pecans and banana chips. Use your loaf.\n",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/c848ee3a-6b14-4b31-90bd-0cb422380c2a.jpeg",
+                    "price": 295,
+                    "title": "Nutty Banana Bread",
+                    "uuid": "c0bc6eca-84ab-563d-9ef7-f7b89cfceeff",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "ece01ca9-1dff-5aff-8d8f-6244afbeee32": {
+                    "description": "Raspberries, blueberries, blackcurrants and ‘a-sigh-ee’ berries.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/bee6f68d-c23f-4e57-9399-dcc55a4bca2f.jpeg",
+                    "price": 345,
+                    "title": "Berry and Acai Smoothie",
+                    "uuid": "ece01ca9-1dff-5aff-8d8f-6244afbeee32",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "8abfe0bc-4b3a-5197-9fcb-8cebc53fa0cd": {
+                    "description": "Ethical bottled mineral water.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/40b99fe7-fb66-4eb8-afde-09e98a26a0b4.jpeg",
+                    "price": 125,
+                    "title": "500ml Still Water",
+                    "uuid": "8abfe0bc-4b3a-5197-9fcb-8cebc53fa0cd",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "5ca605ea-d353-5477-a308-8770a2d33973": {
+                    "description": "Bright, tart and citrus.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/bdbcbe80-545a-4999-8f67-593b434b2d4d.jpeg",
+                    "price": 330,
+                    "title": "Passionfruit and Lemon Iced Tea",
+                    "uuid": "5ca605ea-d353-5477-a308-8770a2d33973",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "577a2472-ca8d-52f3-8110-572fc5a7c864": {
+                    "description": "Chargrilled chicken thigh with a punchy peanut satay sauce.\n",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/efe52e40-f79f-4717-8700-087e117375c1.jpeg",
+                    "price": 795,
+                    "title": "Satay Chicken",
+                    "uuid": "577a2472-ca8d-52f3-8110-572fc5a7c864",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "endorsement": {
+                        "text": "Gluten Free",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_check@3x.png"
+                    },
+                    "classifications": []
+                },
+                "947e4ad2-62c9-5f4b-b271-638a7edd5c87": {
+                    "description": "",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/ee048909-94da-4c88-8b29-b7585c87edf5.jpeg",
+                    "price": 275,
+                    "title": "Large Americano",
+                    "uuid": "947e4ad2-62c9-5f4b-b271-638a7edd5c87",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "0ca2a7dc-0790-55c8-9fc5-0b05cc1381f9": {
+                    "description": "100% British chicken thigh nuggets.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/721d4617-4ead-44a8-a547-70768788ba52.jpeg",
+                    "price": 425,
+                    "title": "Childrens GFC and Fries",
+                    "uuid": "0ca2a7dc-0790-55c8-9fc5-0b05cc1381f9",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "db4486ab-ab31-52cd-979e-11cead62b93a": {
+                    "description": "A fresh take on the classic. Chargrilled chicken and avocado with rocket, basil & quinoa. Topped with garlic aioli and a sprinkling of toasted seeds.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/dcb4ba56-2584-4db1-b033-c7c079893584.jpeg",
+                    "price": 715,
+                    "title": "The Chicken Salad",
+                    "uuid": "db4486ab-ab31-52cd-979e-11cead62b93a",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "70a4c6cc-0638-5b4e-a9af-bb76f6dfcc83": {
+                    "description": "Fish from sustainable shoals with quinoa tartare sauce. *May contain traces of fish bone.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/22922b43-c6b3-46b4-99c1-ff7549be9eba.jpeg",
+                    "price": 575,
+                    "title": "The Fish Finger Wrap",
+                    "uuid": "70a4c6cc-0638-5b4e-a9af-bb76f6dfcc83",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "3b3fcb99-0d2d-5ea8-a29e-09fe72a11859": {
+                    "description": "",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/8b1fe73f-d76b-42cc-a51f-77a66cc8c151.jpeg",
+                    "price": 20,
+                    "title": "Extra Chilli Sauce",
+                    "uuid": "3b3fcb99-0d2d-5ea8-a29e-09fe72a11859",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "endorsement": {
+                        "text": "Vegan",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png"
+                    },
+                    "classifications": []
+                },
+                "edd7d456-f7cd-5773-b209-cdf08fd53aea": {
+                    "description": "Have two big hot boxes or salads with two drinks, plus three sides or treats",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/44429385-12f6-4ea7-a0d1-6f5fcd6cc731.jpeg",
+                    "price": 2500,
+                    "title": "Double Combo",
+                    "uuid": "edd7d456-f7cd-5773-b209-cdf08fd53aea",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "f2975e4d-79b8-5506-ac70-b07d7e282df8": {
+                    "description": "Chargrilled chicken thigh with freshly chopped herbs, toasted seeds, garlic aioli and our own-made chilli sauce.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/6125b50e-988d-4fc0-9fbc-a0cb4cf7b6eb.jpeg",
+                    "price": 795,
+                    "title": "Chilli Chicken",
+                    "uuid": "f2975e4d-79b8-5506-ac70-b07d7e282df8",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "endorsement": {
+                        "text": "Gluten Free",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_check@3x.png"
+                    },
+                    "classifications": []
+                },
+                "a329e675-0383-52d4-b2b6-fbcb1689708c": {
+                    "description": "",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/c726f5f3-e57e-4a09-87f1-eb4f56824c83.jpeg",
+                    "price": 295,
+                    "title": "Latte",
+                    "uuid": "a329e675-0383-52d4-b2b6-fbcb1689708c",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "d535d2e1-c78e-5ef9-8775-e9387a237e4e": {
+                    "description": "For bubbly people.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/1ae5545b-7b10-40d0-86db-c659b1383ecd.jpeg",
+                    "price": 125,
+                    "title": "500ml Sparkling Water",
+                    "uuid": "d535d2e1-c78e-5ef9-8775-e9387a237e4e",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "5a106d32-aa4f-5b92-aa31-2f2d5be31e5c": {
+                    "description": "Baked. Crispy. Criss-cut. We won’t waffle on.\n",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/ac533784-2ef4-45f6-bd16-ceba257b888c.jpeg",
+                    "price": 275,
+                    "title": "LEON Baked Fries",
+                    "uuid": "5a106d32-aa4f-5b92-aa31-2f2d5be31e5c",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "endorsement": {
+                        "text": "Vegan",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png"
+                    },
+                    "classifications": []
+                },
+                "1ed38883-92ce-5d51-8cd5-b06ec473cef4": {
+                    "description": "Chargrilled chicken thigh with fresh herbs and garlic aioli.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/bc334c8d-da37-4fb3-8054-c1a664b673bc.jpeg",
+                    "price": 575,
+                    "title": "Aioli Chicken Wrap",
+                    "uuid": "1ed38883-92ce-5d51-8cd5-b06ec473cef4",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "0a086ecb-3713-5a22-b545-b0d94b49f8df": {
+                    "description": "“There’s rosemary, that’s for remembrance,” said Hamlet. It’s also exceptionally good with peaches and oranges.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/783fde2f-3dcc-4c04-912b-f3c01179deac.jpeg",
+                    "price": 330,
+                    "title": "Peach, Orange and Rosemary Juicy Water",
+                    "uuid": "0a086ecb-3713-5a22-b545-b0d94b49f8df",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "3378949f-530e-5bbf-b82c-3d902e41f4b5": {
+                    "description": "Gently sparkling apple, made with 100% natural juices.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/b43456a6-79ec-4351-9186-dc1caf63729a.jpeg",
+                    "price": 145,
+                    "title": "Apple Sparkly Can",
+                    "uuid": "3378949f-530e-5bbf-b82c-3d902e41f4b5",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "f21c01dd-8081-53bc-90ff-c7fd65ee05bb": {
+                    "description": "100% British beef spiced with oregano, cumin & cinnamon. Served over Italian rice with fresh herbs, toasted seeds, garlic aioli, and fresh slaw on the side.\n",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/5693bc62-856f-4817-b1cd-38742b029b16.jpeg",
+                    "price": 795,
+                    "title": "Moroccan Meatballs",
+                    "uuid": "f21c01dd-8081-53bc-90ff-c7fd65ee05bb",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "endorsement": {
+                        "text": "Gluten Free",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_check@3x.png"
+                    },
+                    "classifications": []
+                },
+                "ef4b7da0-0636-5be6-af4e-02637ba14493": {
+                    "description": "A bold, fragrant green curry made with British chicken thigh, aubergine, baby sweetcorn and bamboo shoots. A recipe from one of our best friends, Kay Plunkett-Hogge.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/a112386a-60a0-4e62-a230-b611f068f928.jpeg",
+                    "price": 695,
+                    "title": "Home Style Thai Curry",
+                    "uuid": "ef4b7da0-0636-5be6-af4e-02637ba14493",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "endorsement": {
+                        "text": "Gluten Free",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_check@3x.png"
+                    },
+                    "classifications": []
+                },
+                "b3815dc5-632f-5967-8cb4-a5343e7894c9": {
+                    "description": "What the world needs now. A gluten-free poppy seed bun with a beetroot soya patty topped with our burger sauce, Carolina mustard mayo, tomatoes, pickles and a slice of smoked gouda-style vegan cheese.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/41a5263f-6999-4d9f-9824-ee6a7564e7e8.jpeg",
+                    "price": 755,
+                    "title": "Gluten Free Love Burger (Vegan)",
+                    "uuid": "b3815dc5-632f-5967-8cb4-a5343e7894c9",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "endorsement": {
+                        "text": "Vegan and Gluten Free",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png"
+                    },
+                    "classifications": []
+                },
+                "8992471a-85a0-51f8-82aa-07c985f87d73": {
+                    "description": "Hot infusion with fresh mint",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/079d73af-6f71-43bc-a4dc-e125c2210192.jpeg",
+                    "price": 235,
+                    "title": "Large Fresh Mint Steeper",
+                    "uuid": "8992471a-85a0-51f8-82aa-07c985f87d73",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "f4d7dcda-764a-5c04-b698-2a8ceee1ca94": {
+                    "description": "",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/a4ef53c2-10cb-4aba-befb-254cc5203d7e.jpeg",
+                    "price": 70,
+                    "title": "Apple",
+                    "uuid": "f4d7dcda-764a-5c04-b698-2a8ceee1ca94",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "1a9c0b90-8210-54a0-87ce-11f48077157d": {
+                    "description": "Proof that you can have your cake and eat it. Made with dark chocolate, coffee, almonds and orange.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/9fab2972-686e-47d4-9292-008c4afe2598.jpeg",
+                    "price": 240,
+                    "title": "Better Brownie",
+                    "uuid": "1a9c0b90-8210-54a0-87ce-11f48077157d",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "35d86438-ae2c-5177-90d6-3c49fb0e9b31": {
+                    "description": "",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/d2ba3979-2080-4da6-923b-9b3d87e29fb7.jpeg",
+                    "price": 220,
+                    "title": "English Breakfast Tea",
+                    "uuid": "35d86438-ae2c-5177-90d6-3c49fb0e9b31",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "a67893b7-c66b-59ac-8de6-01ec1c596e90": {
+                    "description": "Cold pressed raw carrots with apple, ginger, and turmeric. Blended to mend you with anti-inflammatory goodness.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/67e4ab64-de2a-4ce0-b85e-bc154deabaf8.jpeg",
+                    "price": 345,
+                    "title": "Carrot, Apple, Ginger and Turmeric Juice",
+                    "uuid": "a67893b7-c66b-59ac-8de6-01ec1c596e90",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "f190f7a3-e4a1-5896-b78c-fe5bea868de6": {
+                    "description": "We handle all allergens in our kitchen and cannot guarantee our dishes are allergen-free. For allergen information, please visit our website.",
+                    "imageUrl": "",
+                    "price": 0,
+                    "title": "Allergen Disclaimer",
+                    "uuid": "f190f7a3-e4a1-5896-b78c-fe5bea868de6",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "fddeadd2-f0b3-5e5a-abb0-d333e99d40ae": {
+                    "description": "Chargrilled chicken, Catalonian chorizo and sweet red peppers.\n",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/fd73ae9a-1355-4ec7-be6d-cab831f2936f.jpeg",
+                    "price": 795,
+                    "title": "Chicken and Chorizo Club",
+                    "uuid": "fddeadd2-f0b3-5e5a-abb0-d333e99d40ae",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "endorsement": {
+                        "text": "Gluten Free",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_check@3x.png"
+                    },
+                    "classifications": []
+                },
+                "715cec04-a6d9-5e80-8183-80eedc3abe14": {
+                    "description": "Grilled Cypriot halloumi with garlic aioli, tomato chilli sauce and fresh herbs. Now with even more halloumi.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/29fe4bd2-04db-48a8-9044-c12b6b3426d7.jpeg",
+                    "price": 575,
+                    "title": "Grilled Halloumi Wrap",
+                    "uuid": "715cec04-a6d9-5e80-8183-80eedc3abe14",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "2c3c7556-457a-5627-bdb8-3b9097b8417e": {
+                    "description": "",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/1e721ebc-1d2e-4f2e-977a-21f6e912a080.jpeg",
+                    "price": 305,
+                    "title": "Mocha",
+                    "uuid": "2c3c7556-457a-5627-bdb8-3b9097b8417e",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "9384fcd3-8b77-5885-b090-9243b92f7d28": {
+                    "description": "",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/5cb04298-3a09-46e8-8462-4b713c2962b8.jpeg",
+                    "price": 235,
+                    "title": "Large Green Tea",
+                    "uuid": "9384fcd3-8b77-5885-b090-9243b92f7d28",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "d0c4656e-11a4-56b3-8015-f27cd03930e7": {
+                    "description": "",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/20135a81-77d5-4755-befd-be9ae164caa1.jpeg",
+                    "price": 20,
+                    "title": "Extra Vegan Aioli",
+                    "uuid": "d0c4656e-11a4-56b3-8015-f27cd03930e7",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "endorsement": {
+                        "text": "Vegan",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png"
+                    },
+                    "classifications": []
+                },
+                "af4a56e4-4656-5543-a492-043233f26236": {
+                    "description": "",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/c3bd8fd0-cfc3-4b21-8b13-428da5b50714.jpeg",
+                    "price": 180,
+                    "title": "Coke Zero",
+                    "uuid": "af4a56e4-4656-5543-a492-043233f26236",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "e4858f33-895a-59ab-9ca7-f7844e723c23": {
+                    "description": "",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/4fc87540-ec75-4169-9f7c-1dd06cfcf30c.jpeg",
+                    "price": 235,
+                    "title": "Americano",
+                    "uuid": "e4858f33-895a-59ab-9ca7-f7844e723c23",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "f4e40131-02a5-5661-b1c2-16e43d6136b0": {
+                    "description": "Chargrilled chicken thigh with fresh herb olive oil mayonnaise. Served in our sourdough burger buns with lots of fresh rocket and tomato.\n",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/819de00b-b170-4578-9095-97d07b260c85.jpeg",
+                    "price": 675,
+                    "title": "Chargrilled Chicken Burger",
+                    "uuid": "f4e40131-02a5-5661-b1c2-16e43d6136b0",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "e9524572-458d-5ef2-a3d2-c548f62f9ea7": {
+                    "description": "",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/a2d40640-5427-4f42-a2f7-1bd5a010b3b8.jpeg",
+                    "price": 20,
+                    "title": "Extra Ketchup",
+                    "uuid": "e9524572-458d-5ef2-a3d2-c548f62f9ea7",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "endorsement": {
+                        "text": "Vegan",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png"
+                    },
+                    "classifications": []
+                },
+                "339f057c-1810-5c29-8fd9-11dcbb8c6094": {
+                    "description": "",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/71aa85e8-e839-4b31-880b-3f1b47d88029.jpeg",
+                    "price": 295,
+                    "title": "Cappuccino",
+                    "uuid": "339f057c-1810-5c29-8fd9-11dcbb8c6094",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "8ff1db96-c759-57d9-8ebd-5ee426c82071": {
+                    "description": "Surprisingly, not too rich. Date and flaxseed shortbread with date caramel and dark chocolate.\n",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/560636bb-1be3-4624-8f91-907fc06329ff.jpeg",
+                    "price": 190,
+                    "title": "Billionaire's Shortbread (Vegan)",
+                    "uuid": "8ff1db96-c759-57d9-8ebd-5ee426c82071",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "cf520ea2-1c21-58c1-9bd6-4f1c8bc6e622": {
+                    "description": "",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/69fc12a2-a3a4-435a-9879-50972663e13c.jpeg",
+                    "price": 280,
+                    "title": "Sparkling Rosemary Water",
+                    "uuid": "cf520ea2-1c21-58c1-9bd6-4f1c8bc6e622",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "4c061b96-7949-54b7-8c2b-315981fc861f": {
+                    "description": "LEON's classic grilled meatballs cooked down in a tomato sauce.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/f3c06bda-0789-4489-ba34-e78c7e92856d.jpeg",
+                    "price": 425,
+                    "title": "Childrens Meatballs Rice Box",
+                    "uuid": "4c061b96-7949-54b7-8c2b-315981fc861f",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "572b86e9-db3b-543b-bb7b-d89c272ff4df": {
+                    "description": "This isn’t a lemon drizzle cake, it’s a lemon storm. An almond and lemon curd sponge on a ginger flaxseed base.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/e917ef6d-8b7c-44c5-ad6d-49f755a253c1.jpeg",
+                    "price": 240,
+                    "title": "Lemon Ginger Crunch",
+                    "uuid": "572b86e9-db3b-543b-bb7b-d89c272ff4df",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "67906f0f-97e0-5344-84c6-5a20c8d5d355": {
+                    "description": "With our basil, tomato and cashew pesto.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/f531e770-fc92-46db-a98f-977c4344a924.jpeg",
+                    "price": 655,
+                    "title": "Sicilian Chicken Meatballs",
+                    "uuid": "67906f0f-97e0-5344-84c6-5a20c8d5d355",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "endorsement": {
+                        "text": "Gluten Free",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_check@3x.png"
+                    },
+                    "classifications": []
+                },
+                "2939dcb5-e333-5ad9-82cb-d2f8fdfc871c": {
+                    "description": "Our new Clean Green recipe. Avocado, spinach, and apples. Boosted with ginger and lemon juice. Blended to mend you, with pear juice.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/1e11885a-ad0d-49a0-8c43-ecb8a0c240bb.jpeg",
+                    "price": 345,
+                    "title": "Clean Green Shake",
+                    "uuid": "2939dcb5-e333-5ad9-82cb-d2f8fdfc871c",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "9b863aab-4b07-58b8-89ef-843944851e78": {
+                    "description": "Cheesy vegan jackfruit nuggets in a gluten-free crumb. On the wings of love.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/e926a075-d992-4ea6-8078-5fb6831b338f.jpeg",
+                    "price": 475,
+                    "title": "Jack Wings",
+                    "uuid": "9b863aab-4b07-58b8-89ef-843944851e78",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "endorsement": {
+                        "text": "Vegan",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png"
+                    },
+                    "classifications": []
+                },
+                "9deb23c6-1a1b-5a2f-8af6-23d241ad19b7": {
+                    "description": "With freshly squeezed lemon juice, water and a little bit of sugar.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/65e4098c-72fe-48d4-97d3-5670550a51a6.jpeg",
+                    "price": 240,
+                    "title": "Leon Made Lemonade",
+                    "uuid": "9deb23c6-1a1b-5a2f-8af6-23d241ad19b7",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "f84c1ccd-0e47-5eb9-8ac3-6b71ce39cc75": {
+                    "description": "",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/2f5b860a-983e-480a-aa96-4c4326588dc5.jpeg",
+                    "price": 220,
+                    "title": "Earl Grey Tea",
+                    "uuid": "f84c1ccd-0e47-5eb9-8ac3-6b71ce39cc75",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "327ba065-da96-5713-b430-8c979f6d3943": {
+                    "description": "A gluten-free poppy seed bun, with chargrilled chicken thigh with Gochujang chilli mayo slaw.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/e37b329d-eadc-4a6d-a3a7-8eb7e2ab46db.jpeg",
+                    "price": 775,
+                    "title": "Gluten Free Korean Chicken Burger",
+                    "uuid": "327ba065-da96-5713-b430-8c979f6d3943",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "endorsement": {
+                        "text": "Gluten Free",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_check@3x.png"
+                    },
+                    "classifications": []
+                },
+                "bed8b204-07fe-595a-8929-55032af7ca57": {
+                    "description": "Hot infusion with fresh ginger",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/1e3b8987-faa5-4ed3-8bf7-e1a4456c6b27.jpeg",
+                    "price": 220,
+                    "title": "Fresh Ginger Steeper",
+                    "uuid": "bed8b204-07fe-595a-8929-55032af7ca57",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "8bb4bdb1-4256-53ff-aef8-7433af43c576": {
+                    "description": "A tropical shake full of good bacteria and great for your gut. Tastes good and does you good.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/a2723dfd-867b-4e16-a978-c6ea626474cc.jpeg",
+                    "price": 345,
+                    "title": "Mango and Passionfruit Kefir",
+                    "uuid": "8bb4bdb1-4256-53ff-aef8-7433af43c576",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "97ba57e3-3faf-506e-aff9-142ea6ecaaa6": {
+                    "description": "",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/c853df7b-a25a-4ba6-88a8-874202dcfbdf.jpeg",
+                    "price": 20,
+                    "title": "Thom's BBQ sauce",
+                    "uuid": "97ba57e3-3faf-506e-aff9-142ea6ecaaa6",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "endorsement": {
+                        "text": "Vegan",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png"
+                    },
+                    "classifications": []
+                },
+                "9e8c9c48-9432-5960-a45d-e625248116f0": {
+                    "description": "Two slices of grilled halloumi topped with mint and parsley.\n",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/843f861c-c8fb-482d-a1b8-591714eac188.jpeg",
+                    "price": 245,
+                    "title": "Halloumi Mezze",
+                    "uuid": "9e8c9c48-9432-5960-a45d-e625248116f0",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "79fdd600-92d2-5255-9465-6f7807653684": {
+                    "description": "For scooping, dipping and mopping.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/a49131f5-ccdd-4ba4-98d1-c20b088c3970.jpeg",
+                    "price": 100,
+                    "title": "Khobez Flatbread",
+                    "uuid": "79fdd600-92d2-5255-9465-6f7807653684",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "endorsement": {
+                        "text": "Vegan",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png"
+                    },
+                    "classifications": []
+                },
+                "1c245412-3392-5e2f-887f-2f1a123788e0": {
+                    "description": "Chargrilled chicken thigh on a base of kale and green lentils, with a honey mustard dressing, Italian cheese and fresh herbs.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/c0d638c5-0f39-4b4f-a7ef-abc15769bb3d.jpeg",
+                    "price": 715,
+                    "title": "Chicken Kale Caesar",
+                    "uuid": "1c245412-3392-5e2f-887f-2f1a123788e0",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "d9a1b7d4-d3df-54a3-beaf-e2bf80447ce6": {
+                    "description": "Gluten-free chicken nuggets in a punchy, aromatic curry sauce, served over our Italian brown rice and fresh slaw.\n",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/ecf9c976-2581-4723-b671-0140d182e1de.jpeg",
+                    "price": 845,
+                    "title": "Katsu Chicken Curry Rice Box",
+                    "uuid": "d9a1b7d4-d3df-54a3-beaf-e2bf80447ce6",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "endorsement": {
+                        "text": "Gluten Free",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_check@3x.png"
+                    },
+                    "classifications": []
+                },
+                "fa36c178-dc08-5b8b-b567-c52e411fed7d": {
+                    "description": "Gently sparkling orange and mango, made with 100% natural juices.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/ad809910-131e-4409-8c76-2d21ca308017.jpeg",
+                    "price": 145,
+                    "title": "Orange and Mango Sparkly Can",
+                    "uuid": "fa36c178-dc08-5b8b-b567-c52e411fed7d",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "2b2cf36d-4964-5325-b60b-7db27f98fad4": {
+                    "description": "Chargrilled chicken thigh with lots of spiced chilli mayo slaw. We use Gochujang in our Korean mayo, a fermented Korean chilli paste with a deep, savoury flavour and a touch of heat.\n",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/99abc006-2f09-46cb-9a4d-7741e8a3cbf9.jpeg",
+                    "price": 675,
+                    "title": "Korean Chicken Burger",
+                    "uuid": "2b2cf36d-4964-5325-b60b-7db27f98fad4",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "b69d70a1-7234-50d4-befd-95e21185743b": {
+                    "description": "Finally, we’ve found the golden nugget. 100% British chicken thigh nuggets with your choice of sauce.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/9af7e455-7ab9-4b10-83e2-882c32d4ac97.jpeg",
+                    "price": 495,
+                    "title": "Gluten Free Chicken Nuggets",
+                    "uuid": "b69d70a1-7234-50d4-befd-95e21185743b",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "endorsement": {
+                        "text": "Gluten Free",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_check@3x.png"
+                    },
+                    "classifications": []
+                },
+                "65835f31-3bc9-5766-9ddb-7b7bdea30b67": {
+                    "description": "The classic chickpea and tahini dip with a swirl of olive oil.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/cc0ea0d6-7630-49f2-b0b9-1885464223fc.jpeg",
+                    "price": 225,
+                    "title": "Original Hummus",
+                    "uuid": "65835f31-3bc9-5766-9ddb-7b7bdea30b67",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "endorsement": {
+                        "text": "Vegan",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png"
+                    },
+                    "classifications": []
+                },
+                "5f4354fe-55c2-5512-8231-06f9d0e6a812": {
+                    "description": "With all the juicy bits.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/c2b3d6a8-9c84-4d88-a56a-3114dd7f718c.jpeg",
+                    "price": 230,
+                    "title": "Freshly Squeezed Orange Juice",
+                    "uuid": "5f4354fe-55c2-5512-8231-06f9d0e6a812",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "e47e107c-59dc-5eaa-8427-e35416e3fcae": {
+                    "description": "An instant classic. Black beans slowly cooked in a Feijoada-inspired stew with lots of sweet and smoked paprika.\n",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/b77a1e78-2b87-4955-bb04-a2bc09b9f878.jpeg",
+                    "price": 475,
+                    "title": "Brazilian Black Bean (Vegan)",
+                    "uuid": "e47e107c-59dc-5eaa-8427-e35416e3fcae",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "endorsement": {
+                        "text": "Vegan, Gluten Free",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png"
+                    },
+                    "classifications": []
+                },
+                "13ce57f2-3632-5dcb-902a-e762789a0107": {
+                    "description": "",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/e58efa01-6efe-4803-82ee-d4418f549b41.jpeg",
+                    "price": 280,
+                    "title": "Still Rosemary Water",
+                    "uuid": "13ce57f2-3632-5dcb-902a-e762789a0107",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "71c5f847-25ee-5694-854e-253d484c3195": {
+                    "description": "Hand-crushed peas with fresh mint, toasted seeds and a lemon wedge.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/f9dfc56d-5f83-4a2e-93d5-b741279ea6e2.jpeg",
+                    "price": 225,
+                    "title": "Crushed Pea Salad",
+                    "uuid": "71c5f847-25ee-5694-854e-253d484c3195",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "endorsement": {
+                        "text": "Vegan",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png"
+                    },
+                    "classifications": []
+                },
+                "2ba2fffb-2a06-5639-b754-7c4428fcd66e": {
+                    "description": "",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/a123e276-e2cd-4d98-9e27-8df1b9bf6697.jpeg",
+                    "price": 305,
+                    "title": "Hot Chocolate",
+                    "uuid": "2ba2fffb-2a06-5639-b754-7c4428fcd66e",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "03252bbd-9ae9-58de-aa9b-bdf793a9c6ee": {
+                    "description": "A rich coconut curry spiced with cumin, ginger & mustard seeds. The LEON dahling.\n",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/54897b6e-5321-42ad-82e6-a03d51192d30.jpeg",
+                    "price": 575,
+                    "title": "Lentil Masala (Vegan)",
+                    "uuid": "03252bbd-9ae9-58de-aa9b-bdf793a9c6ee",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "endorsement": {
+                        "text": "Vegan, Gluten Free",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png"
+                    },
+                    "classifications": []
+                },
+                "1cb8cc2f-b4ec-5962-8490-ee601171a5e7": {
+                    "description": "",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/aa80ecce-052e-45e9-8556-0a8f280cf86e.jpeg",
+                    "price": 235,
+                    "title": "Large Earl Grey Tea",
+                    "uuid": "1cb8cc2f-b4ec-5962-8490-ee601171a5e7",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "4d71b98c-b58a-5467-8453-31b40f09e9f1": {
+                    "description": "Invented by LEON and the inspiration for others. Crumbled cream cheese, avocado and broccoli with a  fresh basil leaf mix, quinoa, toasted seeds and lots of fresh herbs. Making vegetables taste good since 2004.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/098e9723-749d-45c1-bce9-0f99c143dd87.jpeg",
+                    "price": 595,
+                    "title": "The New Original Salad",
+                    "uuid": "4d71b98c-b58a-5467-8453-31b40f09e9f1",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "04935548-d2a0-5e97-9012-2bf8015916ce": {
+                    "description": "",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/fa1f56e0-f418-4408-a8d6-36d2626c113c.jpeg",
+                    "price": 70,
+                    "title": "Banana",
+                    "uuid": "04935548-d2a0-5e97-9012-2bf8015916ce",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "483b4066-32a3-5888-8e5c-e588910b6202": {
+                    "description": "A naturally fizzy, fermented tea drink filled with good bacteria.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/fe60706b-7f24-4786-bfbb-76d75c6b43bc.jpeg",
+                    "price": 390,
+                    "title": "Ginger Kombucha",
+                    "uuid": "483b4066-32a3-5888-8e5c-e588910b6202",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "488e0acd-679b-5020-9a99-960d896a67a2": {
+                    "description": "A gluten-free poppy seed bun, with chargrilled chicken thigh with fresh herb olive oil mayonnaise.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/b56f9a4a-1418-4e50-b42f-93ca1e4dba39.jpeg",
+                    "price": 775,
+                    "title": "Gluten Free Chargrilled Chicken Burger",
+                    "uuid": "488e0acd-679b-5020-9a99-960d896a67a2",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "endorsement": {
+                        "text": "Gluten Free",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_check@3x.png"
+                    },
+                    "classifications": []
+                },
+                "cdab8b7b-50ab-585c-9bb9-cbe3b568a2ab": {
+                    "description": "Chargrilled chicken thigh with mint and parsley.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/923b526d-1cbe-4fed-b2d3-393393c2e385.jpeg",
+                    "price": 395,
+                    "title": "Chargrilled Chicken Mezze",
+                    "uuid": "cdab8b7b-50ab-585c-9bb9-cbe3b568a2ab",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "b28fd415-7aa0-521b-a277-97519b9da0b9": {
+                    "description": "For when you’re really thirsty.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/13b3876e-3f45-434e-af2f-08cbcc7e6232.jpeg",
+                    "price": 180,
+                    "title": "750ml Still Water",
+                    "uuid": "b28fd415-7aa0-521b-a277-97519b9da0b9",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "15db2626-8923-5f26-a90d-594ec3be2de9": {
+                    "description": "If you can’t escape the city to a meadow, you can at least refresh yourself with a blend of its finest summer flavours.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/743182ea-6786-4d34-909b-2465e3a6f6e2.jpeg",
+                    "price": 330,
+                    "title": "Apple, Honey and Lavender Juicy Water",
+                    "uuid": "15db2626-8923-5f26-a90d-594ec3be2de9",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "97db2bd5-1aba-52bd-bcb9-915a8ab62e9f": {
+                    "description": "",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/3e1b9548-41a3-4095-92cb-9c77aed3187b.jpeg",
+                    "price": 235,
+                    "title": "Large English Breakfast Tea",
+                    "uuid": "97db2bd5-1aba-52bd-bcb9-915a8ab62e9f",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "58d43aa6-0a7e-5aea-bdfd-1175f1015746": {
+                    "description": "",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/62a08524-a88c-4303-a2de-38c231637397.jpeg",
+                    "price": 180,
+                    "title": "Coke",
+                    "uuid": "58d43aa6-0a7e-5aea-bdfd-1175f1015746",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "46fa2e1a-b13e-50e2-997d-e2144c3eba1c": {
+                    "description": "",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/817ad8c2-27e1-4e10-95ba-f61fb883b846.jpeg",
+                    "price": 345,
+                    "title": "Large Mocha",
+                    "uuid": "46fa2e1a-b13e-50e2-997d-e2144c3eba1c",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "515bee4b-6396-5506-ac42-d3a33bbe0cd6": {
+                    "description": "",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/bbc5b5c1-9a64-4f92-97fd-7842c745283f.jpeg",
+                    "price": 345,
+                    "title": "Large Hot Chocolate",
+                    "uuid": "515bee4b-6396-5506-ac42-d3a33bbe0cd6",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "2427f3c0-5d16-58b9-a457-27108b31102f": {
+                    "description": "",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/552a589b-11e1-4bca-a590-c3f87162e3f1.jpeg",
+                    "price": 180,
+                    "title": "Diet Coke",
+                    "uuid": "2427f3c0-5d16-58b9-a457-27108b31102f",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "421699b7-db9b-5f4d-a448-d3f3d0619abc": {
+                    "description": "The cake we didn’t know we needed until we tried it: the lovechild of a cherry bakewell and a lemon drizzle.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/83b72354-16a3-4ca5-81af-d5f13eaa8c5a.jpeg",
+                    "price": 240,
+                    "title": "Cherry Marzipan Slice",
+                    "uuid": "421699b7-db9b-5f4d-a448-d3f3d0619abc",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "6e62692e-6171-54bf-a6e0-d4b500324a24": {
+                    "description": "What the world needs now. A beetroot soya patty topped with our burger sauce, Carolina mustard mayo, tomatoes, pickles and a slice of smoked gouda-style vegan cheese.\n",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/a12a4edb-b2c4-4d24-883d-78f51c930e8a.jpeg",
+                    "price": 665,
+                    "title": "The LoVe Burger (Vegan)",
+                    "uuid": "6e62692e-6171-54bf-a6e0-d4b500324a24",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "endorsement": {
+                        "text": "Vegan",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png"
+                    },
+                    "classifications": []
+                },
+                "863af7ef-9c05-5444-ab99-38d075e82d09": {
+                    "description": "",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/f37b9341-e7de-4a90-af11-3d79ea615f16.jpeg",
+                    "price": 20,
+                    "title": "Extra Korean Mayo",
+                    "uuid": "863af7ef-9c05-5444-ab99-38d075e82d09",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "291aac3b-193e-58d1-983d-5cb2cc3fefcc": {
+                    "description": "",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/13bbba26-1ca1-4f05-9277-44edcb46367d.jpeg",
+                    "price": 220,
+                    "title": "Green Tea",
+                    "uuid": "291aac3b-193e-58d1-983d-5cb2cc3fefcc",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "c38876a8-d11a-5e06-9695-779f28129dac": {
+                    "description": "Chargrilled chicken thigh with a handful of freshly chopped herbs, toasted seeds and garlic aioli.\n",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/7e8494d9-3e1f-4be7-b0ec-76463471ac53.jpeg",
+                    "price": 795,
+                    "title": "Aioli Chicken",
+                    "uuid": "c38876a8-d11a-5e06-9695-779f28129dac",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "endorsement": {
+                        "text": "Gluten Free",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_check@3x.png"
+                    },
+                    "classifications": []
+                },
+                "444c7e9b-43e7-58ee-b125-2638b02b9246": {
+                    "description": "",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/26789a58-5a1d-4689-95fd-aa1801f9038f.jpeg",
+                    "price": 55,
+                    "title": "Satay Sauce Pot",
+                    "uuid": "444c7e9b-43e7-58ee-b125-2638b02b9246",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "643eb5d0-9fa4-5106-97ed-1557fcb2e840": {
+                    "description": "Served in our sourdough muffin, with baked fries, baby plum tomatoes and fresh peas. Yes please.\n",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/b0a990a8-b3d0-4f0e-a7c0-e1556d3ad62d.jpeg",
+                    "price": 425,
+                    "title": "Mini Halloumi Avocado Burger and Fries",
+                    "uuid": "643eb5d0-9fa4-5106-97ed-1557fcb2e840",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "endorsement": {
+                        "text": "Vegetarian",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png"
+                    },
+                    "classifications": []
+                },
+                "2bb9c7b1-15ae-55e9-8221-605bf3523e01": {
+                    "description": "Full of bursting citrus and berries with a hint of bergamot. For tea time and all the time.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/c0be821b-2087-4a31-853d-b703c08799ae.jpeg",
+                    "price": 330,
+                    "title": "Raspberry, Lime and Earl Grey Iced Tea",
+                    "uuid": "2bb9c7b1-15ae-55e9-8221-605bf3523e01",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "26c99be4-2d10-5d6a-b772-0263f7ec3d0e": {
+                    "description": "Have four hotboxes or salads with four drinks, plus four sides or treats",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/3a4e7200-d20a-4351-b429-e6c4f6cf6252.jpeg",
+                    "price": 4000,
+                    "title": "Special Double Double Combo",
+                    "uuid": "26c99be4-2d10-5d6a-b772-0263f7ec3d0e",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "ce6d489b-573d-5d03-9056-a69213f21f0c": {
+                    "description": "Hot infusion with fresh ginger",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/cea3390a-89ca-4af7-b291-563c2e991b1b.jpeg",
+                    "price": 235,
+                    "title": "Large Fresh Ginger Steeper",
+                    "uuid": "ce6d489b-573d-5d03-9056-a69213f21f0c",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "adb547f1-5400-5ff9-bfba-90cb886b1501": {
+                    "description": "Ken & Jesse’s flourless chocolate chip cookie, freshly baked here in LEON throughout the day.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/99b323dc-a4c3-47c5-a084-3d98890de898.jpeg",
+                    "price": 210,
+                    "title": "Freshly Baked Chocolate Chip Cookie",
+                    "uuid": "adb547f1-5400-5ff9-bfba-90cb886b1501",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "e5420644-3db4-5d42-9d02-a102308ac07e": {
+                    "description": "Grilled meatballs cooked in a plum tomato sauce with fresh herbs and spices. Topped with toasted seeds.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/e3bb7c79-1833-4bab-ad68-32ae86e89988.jpeg",
+                    "price": 395,
+                    "title": "Moroccan Meatballs Mezze",
+                    "uuid": "e5420644-3db4-5d42-9d02-a102308ac07e",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "92cf8565-6524-59ce-bcbe-0651da30702f": {
+                    "description": "Flame-grilled chicken with a pot of our own tomato sauce.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/8034c3e5-c957-46ab-ae88-fb77dc93244f.jpeg",
+                    "price": 425,
+                    "title": "Childrens Chicken Rice Box",
+                    "uuid": "92cf8565-6524-59ce-bcbe-0651da30702f",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                }
+            }
+        },
+        "sections": [
+            {
+                "subsectionUuids": [
+                    "6606d73e-fa9c-5a77-81d2-32caf651ef98",
+                    "13ff2e96-e3f4-5c6d-9aa3-59f9ab3bb639",
+                    "c8c030d1-41c9-5571-ab04-55feee49edbb",
+                    "70854735-9b03-5e92-bcb4-a3dc61628902",
+                    "78ab6772-7780-5e33-983e-57148794019d",
+                    "9bc9b6bd-16c7-5c0d-bbe7-60ef249c66ba",
+                    "389f80fa-2ea0-5c7a-9004-407f776282bf",
+                    "7e487c73-62aa-5bc5-a03c-11f86c07a2df",
+                    "133eaab0-9295-5737-ad4d-28e3aa681f8c",
+                    "1aac2fe8-3295-5c7c-8fe2-13ca11bb52dc",
+                    "8b9bfc7f-6315-581f-9686-a9dc5564bf46"
+                ],
+                "title": "Breakfast Menu",
+                "subtitle": "Fri 7:00 AM – 11:00 AM",
+                "uuid": "bf2e590b-9c79-573f-be48-899cc5fcdf79",
+                "isTop": false,
+                "isOnSale": false
+            },
+            {
+                "subsectionUuids": [
+                    "8b9bfc7f-6315-581f-9686-a9dc5564bf46",
+                    "b89fc581-6033-5397-9f64-6ed45713308c",
+                    "0e98735f-0fc4-5e78-8e0b-ffd487d3f627",
+                    "6fce5302-0885-5038-85e2-684132df214d",
+                    "f33ab9c5-43e2-5228-be4e-751df9db898a",
+                    "819e66d6-ff7e-5fa3-9f76-d48a5e7e38c1",
+                    "1f0bc326-7f57-5a11-bed8-f3a30da07ea6",
+                    "bba6e03f-2a5e-5c8d-8466-e8e086bff608",
+                    "1e240904-b409-54ed-9126-cb4da09d2dee",
+                    "97afa664-88f2-52fa-a413-e023ba3d2bc8",
+                    "a2af33cf-f02e-5f57-8ba8-667ea7c7ef57",
+                    "133eaab0-9295-5737-ad4d-28e3aa681f8c",
+                    "ea37ba57-07df-51d7-a678-7452dfb43b83"
+                ],
+                "title": "All Day Menu",
+                "subtitle": "11:00 AM – 10:00 PM",
+                "uuid": "ab6499e7-fb7e-523a-a7ab-b0b7e5cf0520",
+                "isTop": true,
+                "isOnSale": true
+            }
+        ],
+        "subsectionsMap": {
+            "c8c030d1-41c9-5571-ab04-55feee49edbb": {
+                "itemUuids": [
+                    "5d31c9ef-b043-5201-bf65-6862af8ec488",
+                    "a8134746-a2c6-5ab2-b72e-3430b3addee3",
+                    "67aea071-f990-5b8b-baff-87163a0cef69",
+                    "848acd3c-7c16-579c-817e-b2c3beb19903"
+                ],
+                "subtitle": "",
+                "title": "Sourdough Muffins",
+                "uuid": "c8c030d1-41c9-5571-ab04-55feee49edbb",
+                "displayType": null
+            },
+            "70854735-9b03-5e92-bcb4-a3dc61628902": {
+                "itemUuids": [
+                    "3b54809e-604e-51d0-b7f6-c9bd0756f711",
+                    "d0e6ea3a-e165-567c-8bc8-5c8c58bcce64",
+                    "d3fe15ed-ab50-5e74-b30b-dbcebef5642b",
+                    "8bc30edb-09d0-5416-8a6f-68bd2eded5e1"
+                ],
+                "subtitle": "",
+                "title": "Magic Porridge Pots (with Organic Cow's milk)",
+                "uuid": "70854735-9b03-5e92-bcb4-a3dc61628902",
+                "displayType": null
+            },
+            "a2af33cf-f02e-5f57-8ba8-667ea7c7ef57": {
+                "itemUuids": [
+                    "05b90db9-9ff0-5ec2-9045-7fa5a5ae426c",
+                    "c0bc6eca-84ab-563d-9ef7-f7b89cfceeff",
+                    "1a9c0b90-8210-54a0-87ce-11f48077157d",
+                    "572b86e9-db3b-543b-bb7b-d89c272ff4df",
+                    "421699b7-db9b-5f4d-a448-d3f3d0619abc",
+                    "adb547f1-5400-5ff9-bfba-90cb886b1501",
+                    "84b33f31-6b3e-55fd-afa9-34f7b3ad8ccc",
+                    "8ff1db96-c759-57d9-8ebd-5ee426c82071",
+                    "f4d7dcda-764a-5c04-b698-2a8ceee1ca94",
+                    "04935548-d2a0-5e97-9012-2bf8015916ce"
+                ],
+                "subtitle": "",
+                "title": "Bits in Between",
+                "uuid": "a2af33cf-f02e-5f57-8ba8-667ea7c7ef57",
+                "displayType": null
+            },
+            "1f0bc326-7f57-5a11-bed8-f3a30da07ea6": {
+                "itemUuids": [
+                    "67906f0f-97e0-5344-84c6-5a20c8d5d355",
+                    "ef4b7da0-0636-5be6-af4e-02637ba14493",
+                    "e47e107c-59dc-5eaa-8427-e35416e3fcae",
+                    "03252bbd-9ae9-58de-aa9b-bdf793a9c6ee"
+                ],
+                "subtitle": "",
+                "title": "Little Hot Boxes, Served With Brown Rice",
+                "uuid": "1f0bc326-7f57-5a11-bed8-f3a30da07ea6",
+                "displayType": null
+            },
+            "819e66d6-ff7e-5fa3-9f76-d48a5e7e38c1": {
+                "itemUuids": [
+                    "c38876a8-d11a-5e06-9695-779f28129dac",
+                    "f2975e4d-79b8-5506-ac70-b07d7e282df8",
+                    "f21c01dd-8081-53bc-90ff-c7fd65ee05bb",
+                    "fddeadd2-f0b3-5e5a-abb0-d333e99d40ae",
+                    "577a2472-ca8d-52f3-8110-572fc5a7c864",
+                    "d9a1b7d4-d3df-54a3-beaf-e2bf80447ce6"
+                ],
+                "subtitle": "",
+                "title": "Big Hot Boxes, Served With Brown Rice And Fresh Slaw",
+                "uuid": "819e66d6-ff7e-5fa3-9f76-d48a5e7e38c1",
+                "displayType": null
+            },
+            "8b9bfc7f-6315-581f-9686-a9dc5564bf46": {
+                "itemUuids": [
+                    "f190f7a3-e4a1-5896-b78c-fe5bea868de6"
+                ],
+                "subtitle": "",
+                "title": "Allergen Disclaimer",
+                "uuid": "8b9bfc7f-6315-581f-9686-a9dc5564bf46",
+                "displayType": null
+            },
+            "b89fc581-6033-5397-9f64-6ed45713308c": {
+                "itemUuids": [
+                    "edd7d456-f7cd-5773-b209-cdf08fd53aea",
+                    "26c99be4-2d10-5d6a-b772-0263f7ec3d0e"
+                ],
+                "subtitle": "",
+                "title": "Group Meal Deal",
+                "uuid": "b89fc581-6033-5397-9f64-6ed45713308c",
+                "displayType": null
+            },
+            "7e487c73-62aa-5bc5-a03c-11f86c07a2df": {
+                "itemUuids": [
+                    "05b90db9-9ff0-5ec2-9045-7fa5a5ae426c",
+                    "1a9c0b90-8210-54a0-87ce-11f48077157d",
+                    "572b86e9-db3b-543b-bb7b-d89c272ff4df",
+                    "421699b7-db9b-5f4d-a448-d3f3d0619abc",
+                    "adb547f1-5400-5ff9-bfba-90cb886b1501",
+                    "8ff1db96-c759-57d9-8ebd-5ee426c82071",
+                    "f4d7dcda-764a-5c04-b698-2a8ceee1ca94",
+                    "04935548-d2a0-5e97-9012-2bf8015916ce"
+                ],
+                "subtitle": "",
+                "title": "Bits in Between",
+                "uuid": "7e487c73-62aa-5bc5-a03c-11f86c07a2df",
+                "displayType": null
+            },
+            "0e98735f-0fc4-5e78-8e0b-ffd487d3f627": {
+                "itemUuids": [
+                    "b69d70a1-7234-50d4-befd-95e21185743b",
+                    "9b863aab-4b07-58b8-89ef-843944851e78"
+                ],
+                "subtitle": "",
+                "title": "Nuggets",
+                "uuid": "0e98735f-0fc4-5e78-8e0b-ffd487d3f627",
+                "displayType": null
+            },
+            "133eaab0-9295-5737-ad4d-28e3aa681f8c": {
+                "itemUuids": [
+                    "a329e675-0383-52d4-b2b6-fbcb1689708c",
+                    "0516cf32-807c-5c12-b0f8-311633bca335",
+                    "339f057c-1810-5c29-8fd9-11dcbb8c6094",
+                    "bb30fb9d-a355-51ed-9e83-985c88dd7f65",
+                    "e4858f33-895a-59ab-9ca7-f7844e723c23",
+                    "947e4ad2-62c9-5f4b-b271-638a7edd5c87",
+                    "2c3c7556-457a-5627-bdb8-3b9097b8417e",
+                    "46fa2e1a-b13e-50e2-997d-e2144c3eba1c",
+                    "2ba2fffb-2a06-5639-b754-7c4428fcd66e",
+                    "515bee4b-6396-5506-ac42-d3a33bbe0cd6",
+                    "35d86438-ae2c-5177-90d6-3c49fb0e9b31",
+                    "97db2bd5-1aba-52bd-bcb9-915a8ab62e9f",
+                    "f84c1ccd-0e47-5eb9-8ac3-6b71ce39cc75",
+                    "1cb8cc2f-b4ec-5962-8490-ee601171a5e7",
+                    "291aac3b-193e-58d1-983d-5cb2cc3fefcc",
+                    "9384fcd3-8b77-5885-b090-9243b92f7d28",
+                    "bed8b204-07fe-595a-8929-55032af7ca57",
+                    "ce6d489b-573d-5d03-9056-a69213f21f0c",
+                    "09be3360-1b4e-5da3-921b-d0becab86ca4",
+                    "8992471a-85a0-51f8-82aa-07c985f87d73"
+                ],
+                "subtitle": "",
+                "title": "Coffee with Organic Cow's Milk, Oat Milk, or Coconut Milk",
+                "uuid": "133eaab0-9295-5737-ad4d-28e3aa681f8c",
+                "displayType": null
+            },
+            "78ab6772-7780-5e33-983e-57148794019d": {
+                "itemUuids": [
+                    "7eb87aa7-6254-552b-88b3-c7cdb18cf806",
+                    "3057a3ae-f582-533b-a278-235aea5066a4",
+                    "0ae8bdf4-f481-5186-9130-24bb15a7c4ea",
+                    "62adcd63-c189-5c06-a8af-cad0fc7819d0"
+                ],
+                "subtitle": "",
+                "title": "Magic Porridge Pots (with Cashew Milk)",
+                "uuid": "78ab6772-7780-5e33-983e-57148794019d",
+                "displayType": null
+            },
+            "f33ab9c5-43e2-5228-be4e-751df9db898a": {
+                "itemUuids": [
+                    "488e0acd-679b-5020-9a99-960d896a67a2",
+                    "327ba065-da96-5713-b430-8c979f6d3943",
+                    "b3815dc5-632f-5967-8cb4-a5343e7894c9"
+                ],
+                "subtitle": "",
+                "title": "Gluten Free Burgers",
+                "uuid": "f33ab9c5-43e2-5228-be4e-751df9db898a",
+                "displayType": null
+            },
+            "389f80fa-2ea0-5c7a-9004-407f776282bf": {
+                "itemUuids": [
+                    "84b33f31-6b3e-55fd-afa9-34f7b3ad8ccc",
+                    "c0bc6eca-84ab-563d-9ef7-f7b89cfceeff",
+                    "a92d6a14-f417-5815-ac05-080bd6eae0bc",
+                    "9e8c9c48-9432-5960-a45d-e625248116f0"
+                ],
+                "subtitle": "",
+                "title": "Lighter Mornings",
+                "uuid": "389f80fa-2ea0-5c7a-9004-407f776282bf",
+                "displayType": null
+            },
+            "9bc9b6bd-16c7-5c0d-bbe7-60ef249c66ba": {
+                "itemUuids": [
+                    "e6043709-9f02-51ee-b87b-2a3248308d55",
+                    "c0a5c257-f5e6-5647-b4ed-bf3a03900162",
+                    "389aeecc-81a6-59a7-90f8-9946a7d86fac",
+                    "474089a4-dc00-5d46-a7dd-588ee0c301a9"
+                ],
+                "subtitle": "",
+                "title": "Egg Pots",
+                "uuid": "9bc9b6bd-16c7-5c0d-bbe7-60ef249c66ba",
+                "displayType": null
+            },
+            "1aac2fe8-3295-5c7c-8fe2-13ca11bb52dc": {
+                "itemUuids": [
+                    "483b4066-32a3-5888-8e5c-e588910b6202",
+                    "ece01ca9-1dff-5aff-8d8f-6244afbeee32",
+                    "2939dcb5-e333-5ad9-82cb-d2f8fdfc871c",
+                    "8bb4bdb1-4256-53ff-aef8-7433af43c576",
+                    "a67893b7-c66b-59ac-8de6-01ec1c596e90",
+                    "2bb9c7b1-15ae-55e9-8221-605bf3523e01",
+                    "5ca605ea-d353-5477-a308-8770a2d33973",
+                    "15db2626-8923-5f26-a90d-594ec3be2de9",
+                    "0a086ecb-3713-5a22-b545-b0d94b49f8df",
+                    "13ce57f2-3632-5dcb-902a-e762789a0107",
+                    "cf520ea2-1c21-58c1-9bd6-4f1c8bc6e622",
+                    "5f4354fe-55c2-5512-8231-06f9d0e6a812",
+                    "ca305e7d-31e3-5b8c-b8bf-aa918c40a7e1",
+                    "9deb23c6-1a1b-5a2f-8af6-23d241ad19b7",
+                    "58d43aa6-0a7e-5aea-bdfd-1175f1015746",
+                    "2427f3c0-5d16-58b9-a457-27108b31102f",
+                    "af4a56e4-4656-5543-a492-043233f26236",
+                    "3378949f-530e-5bbf-b82c-3d902e41f4b5",
+                    "fa36c178-dc08-5b8b-b567-c52e411fed7d",
+                    "8abfe0bc-4b3a-5197-9fcb-8cebc53fa0cd",
+                    "d535d2e1-c78e-5ef9-8775-e9387a237e4e",
+                    "b28fd415-7aa0-521b-a277-97519b9da0b9"
+                ],
+                "subtitle": "",
+                "title": "Drinks",
+                "uuid": "1aac2fe8-3295-5c7c-8fe2-13ca11bb52dc",
+                "displayType": null
+            },
+            "6606d73e-fa9c-5a77-81d2-32caf651ef98": {
+                "itemUuids": [
+                    "825b10b2-1e45-5c43-a283-566015aa0ce5"
+                ],
+                "subtitle": "",
+                "title": "Breakfast Box Bundle",
+                "uuid": "6606d73e-fa9c-5a77-81d2-32caf651ef98",
+                "displayType": null
+            },
+            "13ff2e96-e3f4-5c6d-9aa3-59f9ab3bb639": {
+                "itemUuids": [
+                    "458c8410-4239-5430-907e-c6975729da7e",
+                    "e1f296b6-6632-5d2f-bba2-bd11c5b34b73"
+                ],
+                "subtitle": "",
+                "title": "Breakfast Boxes",
+                "uuid": "13ff2e96-e3f4-5c6d-9aa3-59f9ab3bb639",
+                "displayType": null
+            },
+            "1e240904-b409-54ed-9126-cb4da09d2dee": {
+                "itemUuids": [
+                    "5a106d32-aa4f-5b92-aa31-2f2d5be31e5c",
+                    "65835f31-3bc9-5766-9ddb-7b7bdea30b67",
+                    "79fdd600-92d2-5255-9465-6f7807653684",
+                    "71c5f847-25ee-5694-854e-253d484c3195",
+                    "ed186e61-75f5-5b42-94be-77d8a54c9381",
+                    "cdab8b7b-50ab-585c-9bb9-cbe3b568a2ab",
+                    "e5420644-3db4-5d42-9d02-a102308ac07e",
+                    "9e8c9c48-9432-5960-a45d-e625248116f0",
+                    "d0c4656e-11a4-56b3-8015-f27cd03930e7",
+                    "3b3fcb99-0d2d-5ea8-a29e-09fe72a11859",
+                    "e9524572-458d-5ef2-a3d2-c548f62f9ea7",
+                    "863af7ef-9c05-5444-ab99-38d075e82d09",
+                    "97ba57e3-3faf-506e-aff9-142ea6ecaaa6",
+                    "444c7e9b-43e7-58ee-b125-2638b02b9246"
+                ],
+                "subtitle": "",
+                "title": "Sides and Sharers",
+                "uuid": "1e240904-b409-54ed-9126-cb4da09d2dee",
+                "displayType": null
+            },
+            "bba6e03f-2a5e-5c8d-8466-e8e086bff608": {
+                "itemUuids": [
+                    "1c245412-3392-5e2f-887f-2f1a123788e0",
+                    "4d71b98c-b58a-5467-8453-31b40f09e9f1",
+                    "db4486ab-ab31-52cd-979e-11cead62b93a"
+                ],
+                "subtitle": "",
+                "title": "Salads",
+                "uuid": "bba6e03f-2a5e-5c8d-8466-e8e086bff608",
+                "displayType": null
+            },
+            "97afa664-88f2-52fa-a413-e023ba3d2bc8": {
+                "itemUuids": [
+                    "4c061b96-7949-54b7-8c2b-315981fc861f",
+                    "0ca2a7dc-0790-55c8-9fc5-0b05cc1381f9",
+                    "f6555b4f-7ad8-5ced-8748-5c02d794ce1c",
+                    "643eb5d0-9fa4-5106-97ed-1557fcb2e840",
+                    "92cf8565-6524-59ce-bcbe-0651da30702f"
+                ],
+                "subtitle": "",
+                "title": "Childrens Menu",
+                "uuid": "97afa664-88f2-52fa-a413-e023ba3d2bc8",
+                "displayType": null
+            },
+            "ea37ba57-07df-51d7-a678-7452dfb43b83": {
+                "itemUuids": [
+                    "483b4066-32a3-5888-8e5c-e588910b6202",
+                    "ece01ca9-1dff-5aff-8d8f-6244afbeee32",
+                    "2939dcb5-e333-5ad9-82cb-d2f8fdfc871c",
+                    "8bb4bdb1-4256-53ff-aef8-7433af43c576",
+                    "a67893b7-c66b-59ac-8de6-01ec1c596e90",
+                    "2bb9c7b1-15ae-55e9-8221-605bf3523e01",
+                    "5ca605ea-d353-5477-a308-8770a2d33973",
+                    "15db2626-8923-5f26-a90d-594ec3be2de9",
+                    "0a086ecb-3713-5a22-b545-b0d94b49f8df",
+                    "13ce57f2-3632-5dcb-902a-e762789a0107",
+                    "cf520ea2-1c21-58c1-9bd6-4f1c8bc6e622",
+                    "ca305e7d-31e3-5b8c-b8bf-aa918c40a7e1",
+                    "5f4354fe-55c2-5512-8231-06f9d0e6a812",
+                    "9deb23c6-1a1b-5a2f-8af6-23d241ad19b7",
+                    "58d43aa6-0a7e-5aea-bdfd-1175f1015746",
+                    "2427f3c0-5d16-58b9-a457-27108b31102f",
+                    "af4a56e4-4656-5543-a492-043233f26236",
+                    "3378949f-530e-5bbf-b82c-3d902e41f4b5",
+                    "fa36c178-dc08-5b8b-b567-c52e411fed7d",
+                    "8abfe0bc-4b3a-5197-9fcb-8cebc53fa0cd",
+                    "d535d2e1-c78e-5ef9-8775-e9387a237e4e",
+                    "b28fd415-7aa0-521b-a277-97519b9da0b9"
+                ],
+                "subtitle": "",
+                "title": "Drinks",
+                "uuid": "ea37ba57-07df-51d7-a678-7452dfb43b83",
+                "displayType": null
+            },
+            "6fce5302-0885-5038-85e2-684132df214d": {
+                "itemUuids": [
+                    "f4e40131-02a5-5661-b1c2-16e43d6136b0",
+                    "2b2cf36d-4964-5325-b60b-7db27f98fad4",
+                    "6e62692e-6171-54bf-a6e0-d4b500324a24",
+                    "1ed38883-92ce-5d51-8cd5-b06ec473cef4",
+                    "70a4c6cc-0638-5b4e-a9af-bb76f6dfcc83",
+                    "715cec04-a6d9-5e80-8183-80eedc3abe14"
+                ],
+                "subtitle": "",
+                "title": "Grilled Wraps and Sourdough Burgers",
+                "uuid": "6fce5302-0885-5038-85e2-684132df214d",
+                "displayType": null
+            }
+        },
+        "title": "Leon (Victoria Street)",
+        "uuid": "c1612129-3216-4b28-8d92-15e692c8fa57",
+        "categories": [
+            "₴",
+            "Здорова їжа",
+            "Фастфуд",
+            "Бургери",
+            "Салати",
+            "Для вегетаріанців"
+        ],
+        "cuisineList": [
+            "Здорова їжа",
+            "Фастфуд",
+            "Бургери",
+            "Салати",
+            "Для вегетаріанців"
+        ],
+        "priceBucket": "₴",
+        "etaRange": {
+            "text": "25–35 min",
+            "iconUrl": ""
+        },
+        "ratingBadge": {
+            "text": "<span><span style=\"font-family: inherit; color: #3a3a48;\">4.2 <img src=\"https://d1a3f4spazzrp4.cloudfront.net/static/images/Star_Black_Eats_3.png\" width=\"14\" height=\"14\" vertical-align=\"middle\"> </span><span style=\"font-family: inherit; color: #757575;\">(109)</span></span>"
+        },
+        "disclaimerBadge": {
+            "text": "<span style=\"font-family: inherit;\">We handle all allergens in our kitchen and cannot guarantee our dishes are allergen-free. For allergen information, please visit our website. To find the latest Food Hygiene Rating for your chosen restaurant visit the <a href=\"http://ratings.food.gov.uk/\" style=\"color:#61ad5f;\">Food Standards Agency</a>.</span>"
+        },
+        "fareBadge": null,
+        "fareInfo": {
+            "serviceFee": 30,
+            "serviceFeeCents": 3000
+        },
+        "promotion": null,
+        "shouldIndex": false,
+        "heroImageUrls": [
+            {
+                "url": "https://d1ralsognjng37.cloudfront.net/456ff78a-d699-46bf-99f3-095476eb18bb",
+                "width": 240
+            },
+            {
+                "url": "https://d1ralsognjng37.cloudfront.net/c967054a-e1d5-432e-9e5e-c62419a73643",
+                "width": 550
+            },
+            {
+                "url": "https://d1ralsognjng37.cloudfront.net/073ff217-df05-40dd-b16e-72d4ee444a6f",
+                "width": 640
+            },
+            {
+                "url": "https://d1ralsognjng37.cloudfront.net/d3cd225a-c982-4f57-9144-eeafadc8d51a",
+                "width": 750
+            },
+            {
+                "url": "https://d1ralsognjng37.cloudfront.net/d2246156-d1df-4c71-9cfa-3d16e4891127",
+                "width": 1080
+            },
+            {
+                "url": "https://d1ralsognjng37.cloudfront.net/e0965a3c-6318-42bf-9b92-b7d65be26c61",
+                "width": 2880
+            }
+        ],
+        "isOpen": true,
+        "currencyCode": "GBP",
+        "closedMessage": "Currently unavailable",
+        "location": {
+            "address": "Sw1e 6qw, London, SW1E 6QW",
+            "streetAddress": "SW1E 6QW",
+            "city": "London",
+            "country": "GB",
+            "postalCode": "SW1E 6QW",
+            "region": "",
+            "latitude": 51.49762,
+            "longitude": -0.136311
+        },
+        "isDeliveryThirdParty": false,
+        "hours": [
+            {
+                "dayRange": "Sunday",
+                "sectionHours": [
+                    {
+                        "startTime": 660,
+                        "endTime": 1260,
+                        "sectionTitle": "All Day Menu"
+                    }
+                ]
+            },
+            {
+                "dayRange": "Monday - Friday",
+                "sectionHours": [
+                    {
+                        "startTime": 420,
+                        "endTime": 660,
+                        "sectionTitle": "Breakfast Menu"
+                    },
+                    {
+                        "startTime": 660,
+                        "endTime": 1320,
+                        "sectionTitle": "All Day Menu"
+                    }
+                ]
+            },
+            {
+                "dayRange": "Saturday",
+                "sectionHours": [
+                    {
+                        "startTime": 660,
+                        "endTime": 1260,
+                        "sectionTitle": "All Day Menu"
+                    }
+                ]
+            }
+        ],
+        "disableOrderInstruction": true,
+        "disableCheckoutInstruction": false,
+        "nuggets": [],
+        "isWithinDeliveryRange": false,
+        "slug": "leon-victoria-street",
+        "citySlug": "london",
+        "phoneNumber": "+442078346065",
+        "metaJson": "{\"@context\":\"http:\\u002F\\u002Fschema.org\",\"@type\":\"Restaurant\",\"@id\":\"https:\\u002F\\u002Fwww.ubereats.com\\u002Fen-UA\\u002Flondon\\u002Ffood-delivery\\u002Fleon-victoria-street\\u002FwWEhKTIWSyiNkhXmksj6Vw\\u002F\",\"name\":\"Leon (Victoria Street)\",\"priceRange\":\"₴\",\"potentialAction\":{\"@type\":\"OrderAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\\u002F\\u002Fwww.ubereats.com\\u002Fen-UA\\u002Flondon\\u002Ffood-delivery\\u002Fleon-victoria-street\\u002FwWEhKTIWSyiNkhXmksj6Vw\\u002F?utm_campaign=order-action&utm_medium=organic\",\"inLanguage\":\"English\",\"actionPlatform\":[\"http:\\u002F\\u002Fschema.org\\u002FDesktopWebPlatform\",\"http:\\u002F\\u002Fschema.org\\u002FMobileWebPlatform\"]},\"deliveryMethod\":[\"http:\\u002F\\u002Fpurl.org\\u002Fgoodrelations\\u002Fv1#DeliveryModeOwnFleet\"]},\"address\":{\"@type\":\"PostalAddress\",\"addressLocality\":\"London\",\"addressRegion\":\"\",\"postalCode\":\"SW1E 6QW\",\"addressCountry\":\"GB\",\"streetAddress\":\"SW1E 6QW\"},\"geo\":{\"@type\":\"GeoCoordinates\",\"latitude\":51.49762,\"longitude\":-0.136311}}",
+        "promoTrackings": [],
+        "suggestedPromotion": {
+            "text": "",
+            "promotionUuid": ""
+        },
+        "supportedDiningModes": [
+            {
+                "mode": "DELIVERY",
+                "title": "Delivery",
+                "isSelected": true,
+                "isAvailable": true
+            }
+        ],
+        "isPreview": false,
+        "pinnedInfo": null
+    }
+}

@@ -1,0 +1,1336 @@
+{
+    "status": "success",
+    "data": {
+        "sectionEntitiesMap": {
+            "5555a734-37eb-484f-9354-e62748ae2f31": {
+                "db8b82b4-210a-4906-a30f-4a45018c3948": {
+                    "description": "Toasted Lebanese bread filled with cheese, tomato, and cucumber. Served in freshly baked Lebanese khobez. Contains milk.",
+                    "imageUrl": null,
+                    "price": 500,
+                    "title": "Toasted Cheese Sandwich (Vegetarian)",
+                    "uuid": "db8b82b4-210a-4906-a30f-4a45018c3948",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "40570f0e-5e41-477b-9ddd-bd0a195c431f": {
+                    "description": "",
+                    "imageUrl": null,
+                    "price": 250,
+                    "title": "Juice",
+                    "uuid": "40570f0e-5e41-477b-9ddd-bd0a195c431f",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 8640000000,
+                    "classifications": []
+                },
+                "2850b837-736c-483d-a700-e239f25ddad7": {
+                    "description": "Grilled aubergine puree mixed with sesame paste (tahine) and lemon juice. Contains sesame.and yogurt",
+                    "imageUrl": null,
+                    "price": 550,
+                    "title": "Moutabal Baba Ghanouj (Vegetarian)",
+                    "uuid": "2850b837-736c-483d-a700-e239f25ddad7",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "158594be-0d49-4b56-8309-9087849b4c0b": {
+                    "description": "Minced lamb mixed with spices and cracked wheat. Filled with sauteed minced meat, pine kernels, and onion. Served with a yogurt and cucumber salad. Contains wheat, gluten, milk, and nuts.",
+                    "imageUrl": null,
+                    "price": 1295,
+                    "title": "Kibbeh Saynieh",
+                    "uuid": "158594be-0d49-4b56-8309-9087849b4c0b",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "587890fa-9e4b-4fbb-8980-6620fa21a2cc": {
+                    "description": "Grilled skewer of chicken cubes, garlic sauce, pickles, and tomato. Served in freshly baked Lebanese khobez.",
+                    "imageUrl": null,
+                    "price": 500,
+                    "title": "Shish Taouk",
+                    "uuid": "587890fa-9e4b-4fbb-8980-6620fa21a2cc",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "e5df11e5-f355-4b06-9dad-ffe6e7be82d5": {
+                    "description": "Baked pastry topped with thyme, sesame seeds, and olive oil. Contains sesame, wheat, and gluten.",
+                    "imageUrl": null,
+                    "price": 350,
+                    "title": "Manakeesh (Vegetarian)",
+                    "uuid": "e5df11e5-f355-4b06-9dad-ffe6e7be82d5",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "71ce475a-c475-4ba8-a618-a801cf832207": {
+                    "description": "Vine leaves filled with rice, tomato, parsley, mint, onion cooked in lemon juice, and olive oil.",
+                    "imageUrl": null,
+                    "price": 500,
+                    "title": "Wark Inab Bzeit (Vegetarian)",
+                    "uuid": "71ce475a-c475-4ba8-a618-a801cf832207",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "60f2df0c-58c7-44e1-8c4b-e90d25ded190": {
+                    "description": "Mixed Mediterranean pickles.",
+                    "imageUrl": null,
+                    "price": 395,
+                    "title": "Kabis (Vegetarian)",
+                    "uuid": "60f2df0c-58c7-44e1-8c4b-e90d25ded190",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "2b6f5b95-8e8d-4905-8792-c095c00ed607": {
+                    "description": "Marinated lamb cutlets and charcoal grilled, served with French fries. Served with rice.",
+                    "imageUrl": null,
+                    "price": 1450,
+                    "title": "Kastaleta Lamb",
+                    "uuid": "2b6f5b95-8e8d-4905-8792-c095c00ed607",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "657a9438-a537-4d15-b57a-8e86c39e2aef": {
+                    "description": "",
+                    "imageUrl": null,
+                    "price": 250,
+                    "title": "Fresh Lemonade",
+                    "uuid": "657a9438-a537-4d15-b57a-8e86c39e2aef",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "4d6663f0-3b44-444a-b394-0f8c6cccaa7e": {
+                    "description": "Cubes of potato sauteed with garlic, coriander, sweet pepper, and chili. Served in freshly baked Lebanese khobez.",
+                    "imageUrl": null,
+                    "price": 500,
+                    "title": "Batata Harra wrap",
+                    "uuid": "4d6663f0-3b44-444a-b394-0f8c6cccaa7e",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "1492fd5a-acd4-4aed-a034-0bfb03a541ac": {
+                    "description": "Yogurt with finely cut cucumber and dried mint. Contains milk.",
+                    "imageUrl": null,
+                    "price": 500,
+                    "title": "Cucumber Salad with Yogurt (Vegetarian)",
+                    "uuid": "1492fd5a-acd4-4aed-a034-0bfb03a541ac",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "fb5ac151-479c-436a-ad1c-7542d4656424": {
+                    "description": "Chickpea puree with hot pepper, parsley, sesame paste (tahine), and lemon juice. Contains sesame.",
+                    "imageUrl": "",
+                    "price": 550,
+                    "title": "Hommos Beiruty (Vegetarian)",
+                    "uuid": "fb5ac151-479c-436a-ad1c-7542d4656424",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "5e2fb498-27d5-490e-afbf-a56ff309e5c1": {
+                    "description": "Grilled tender cubes of lamb, hommos, onion, parsley, sweet pepper, pickles, and tomato. Served in freshly baked Lebanese khobez. Contains sesame.",
+                    "imageUrl": null,
+                    "price": 500,
+                    "title": "Lahem Meshwi",
+                    "uuid": "5e2fb498-27d5-490e-afbf-a56ff309e5c1",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "5be61e09-6c56-4fe6-85df-0f9dfc054d2c": {
+                    "description": "A cocktail of blended melon, pineapple, banana, mango pulp, and beetroot.",
+                    "imageUrl": null,
+                    "price": 300,
+                    "title": "Fruit Cocktail",
+                    "uuid": "5be61e09-6c56-4fe6-85df-0f9dfc054d2c",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "b604a1aa-c7c5-474f-899e-5a9e5fcef984": {
+                    "description": "Lettuce, tomato, cucumber, mint, onion, radish, sumac, toasted Lebanese bread with lemon juice, olive oil dressing, and grenadine molasses. Contains wheat, gluten, and sesame.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/13cb3a1c-1603-44d0-ae66-b059cf7c5596",
+                    "price": 500,
+                    "title": "Fattoush Salad (Vegetarian)",
+                    "uuid": "b604a1aa-c7c5-474f-899e-5a9e5fcef984",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "09a04a17-4265-4dc0-b042-0c078148eca0": {
+                    "description": "",
+                    "imageUrl": null,
+                    "price": 150,
+                    "title": "Soda",
+                    "uuid": "09a04a17-4265-4dc0-b042-0c078148eca0",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "61616678-5a1a-49df-a205-ecfac03c32e8": {
+                    "description": "Charcoal grilled tender cubes of specially prepared lamb. Served with rice.",
+                    "imageUrl": null,
+                    "price": 1295,
+                    "title": "Lahem Meshwi",
+                    "uuid": "61616678-5a1a-49df-a205-ecfac03c32e8",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "ecf4048f-025c-4d6e-b705-cb74fdd54da3": {
+                    "description": "Fried aubergines baked with tomato, onion, chickpeas, and sweet peppers.",
+                    "imageUrl": null,
+                    "price": 550,
+                    "title": "Moussaka (Vegetarian)",
+                    "uuid": "ecf4048f-025c-4d6e-b705-cb74fdd54da3",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "4fd4a073-dd5d-4d01-854b-4bceca10b82d": {
+                    "description": "",
+                    "imageUrl": null,
+                    "price": 300,
+                    "title": "French Fries",
+                    "uuid": "4fd4a073-dd5d-4d01-854b-4bceca10b82d",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "761eab4a-d344-4ea3-8c2f-42762d8665d3": {
+                    "description": "Boiled broad beans seasoned with garlic, lemon juice, and olive oil.",
+                    "imageUrl": null,
+                    "price": 500,
+                    "title": "Foul Moudamas(Vegetarian)",
+                    "uuid": "761eab4a-d344-4ea3-8c2f-42762d8665d3",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "2ba6fc55-7e78-41b4-887e-a667c391646c": {
+                    "description": "Serves two people. Hommos, moutabal, tabbouleh, falafel, soujok, batata harra, jawaeh with mixed grill or shawarma and Lebanese sweets.",
+                    "imageUrl": null,
+                    "price": 4700,
+                    "title": "Set Menu",
+                    "uuid": "2ba6fc55-7e78-41b4-887e-a667c391646c",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "043a6951-7733-4200-864e-b54356421025": {
+                    "description": "Roasted thin slices of marinated prime lamb and chicken, sesame oil sauce, garlic sauce, onion, parsley, tomato, and pickles. Served in freshly baked Lebanese khobez. Contains sesame.",
+                    "imageUrl": null,
+                    "price": 550,
+                    "title": "Mixed Shawarma",
+                    "uuid": "043a6951-7733-4200-864e-b54356421025",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "f728ae4e-b9fa-41e8-8233-901f1d3a4b8e": {
+                    "description": "Charcoal grilled skewers of marinated chicken cubes. Serve with rice.",
+                    "imageUrl": null,
+                    "price": 1295,
+                    "title": "Shish Taouk",
+                    "uuid": "f728ae4e-b9fa-41e8-8233-901f1d3a4b8e",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "512b8e90-f1d8-41f7-ada6-1a16eee1e097": {
+                    "description": "Lentils cooked in cumin and olive oil. Served with toasted lebanese bread. Contains gluten from wheat.",
+                    "imageUrl": null,
+                    "price": 350,
+                    "title": "Lentil Soup (Vegetarian)",
+                    "uuid": "512b8e90-f1d8-41f7-ada6-1a16eee1e097",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "9dffba17-6b0e-4346-9ee4-25e7e28af0dd": {
+                    "description": "Parsley salad with tomato, fresh mint, onion, cracked wheat, lemon juice, and an olive oil dressing. Contains gluten from wheat.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/3c75ce35-f979-47b2-801f-6ce7f40677f6",
+                    "price": 550,
+                    "title": "Tabbouleh (Vegetarian)",
+                    "uuid": "9dffba17-6b0e-4346-9ee4-25e7e28af0dd",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "9fb271ae-5ea7-4974-a533-5f58f90b6f18": {
+                    "description": "Spicy sausages flambeed with butter and lemon, garlic sauce, tomato, and pickles. Served in freshly baked Lebanese khobez.",
+                    "imageUrl": null,
+                    "price": 500,
+                    "title": "Soujok",
+                    "uuid": "9fb271ae-5ea7-4974-a533-5f58f90b6f18",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "e6fe5c7d-f52d-46b0-a0c9-6712096eb2da": {
+                    "description": "Lettuce, tomato, cucumber, parsley, mint, onion, chopped green chilies, fine Lebanese spices with a lemon, and olive oil dressing. Contains sesame.",
+                    "imageUrl": null,
+                    "price": 500,
+                    "title": "Spicy Lebanese Salad (Vegetarian)",
+                    "uuid": "e6fe5c7d-f52d-46b0-a0c9-6712096eb2da",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "9dcda212-868a-4af2-bda7-a3f5c0c0ab33": {
+                    "description": "Deep fried bean and fine herb croquettes. Served with tahine sauce. Contains celery and sesame.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/6cf2d8c2-9904-4a71-ad3b-6908ef5fa795",
+                    "price": 550,
+                    "title": "Falafel (Vegetarian)",
+                    "uuid": "9dcda212-868a-4af2-bda7-a3f5c0c0ab33",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "7de35204-3c30-481f-9f4b-6cbd8e2a37b5": {
+                    "description": "Selection of miniature traditional Lebanese pastries filled with nuts and syrup. Contains wheat, gluten, and nuts.",
+                    "imageUrl": null,
+                    "price": 300,
+                    "title": "Baklawa",
+                    "uuid": "7de35204-3c30-481f-9f4b-6cbd8e2a37b5",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "fc22e6e4-3dc4-4e56-bc0d-aa6aa3fa0d9b": {
+                    "description": "Roasted thin slices of marinated prime lamb, sesame oil sauce, onion, parsley, tomato, and pickles. Served in freshly baked Lebanese khobez. Contains sesame.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/e30fd850-65ee-4490-9d19-b50c7b85063d",
+                    "price": 500,
+                    "title": "Lamb Shawarma",
+                    "uuid": "fc22e6e4-3dc4-4e56-bc0d-aa6aa3fa0d9b",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "2e7ee7eb-73aa-4b56-97df-93323b57c06b": {
+                    "description": "Strained yogurt served with olive oil and dried thyme. Contains milk.",
+                    "imageUrl": null,
+                    "price": 500,
+                    "title": "Labneh (Vegetarian)",
+                    "uuid": "2e7ee7eb-73aa-4b56-97df-93323b57c06b",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "263ea29a-4628-43b2-b0b5-8c78ebc8156a": {
+                    "description": "Baked Lebanese pastry filled with spinach, onions, lemon, olive oil, pine kernels, and sumac. Contains wheat and gluten.",
+                    "imageUrl": null,
+                    "price": 550,
+                    "title": "Fatayer Bsabanekh (Vegetarian)",
+                    "uuid": "263ea29a-4628-43b2-b0b5-8c78ebc8156a",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "cc6b5897-9b18-4b07-a378-84a775fe162b": {
+                    "description": "Lettuce, tomato, cucumber, parsley, mint, onion, radish, fine Lebanese spices with a lemon, and olive oil dressing. Contains sesame.",
+                    "imageUrl": null,
+                    "price": 500,
+                    "title": "Qasioun Salad (Vegetarian)",
+                    "uuid": "cc6b5897-9b18-4b07-a378-84a775fe162b",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "496d3aee-a72e-4b7f-b5a2-5238ee9dd5e6": {
+                    "description": "Chickpea puree with sesame paste (tahine) and lemon juice. Contains sesame.",
+                    "imageUrl": null,
+                    "price": 500,
+                    "title": "Hommos (Vegetarian)",
+                    "uuid": "496d3aee-a72e-4b7f-b5a2-5238ee9dd5e6",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "b0e273ad-de12-4f3d-87d0-fd4ff0a49198": {
+                    "description": "Braised lamb shanks marinated in special herbs and spices,served with rice or couscous and Tomato sauce . Contains wheat, egg and milk.",
+                    "imageUrl": null,
+                    "price": 1250,
+                    "title": "Roast Lamb",
+                    "uuid": "b0e273ad-de12-4f3d-87d0-fd4ff0a49198",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "0b4d7f5e-cdcf-429e-88ec-97bb0b642c94": {
+                    "description": "Fresh tomato with finely chopped parsley, onion, and dried mint.",
+                    "imageUrl": null,
+                    "price": 500,
+                    "title": "Tomato and Onion Salad (Vegetarian)",
+                    "uuid": "0b4d7f5e-cdcf-429e-88ec-97bb0b642c94",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "f83a5c5b-c78b-4322-a70d-ce3ae99384ce": {
+                    "description": "Deep fried lamb meatballs mixed with cracked wheat and onions. Filled with sauteed minced meat and onions. Contains wheat, gluten, and walnuts.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/7b6aa0cb-16e6-4e66-85ce-124dfa31ced5",
+                    "price": 650,
+                    "title": "Kibbeh",
+                    "uuid": "f83a5c5b-c78b-4322-a70d-ce3ae99384ce",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "c0efb64d-3d8a-4757-b47a-80bb2e96fc97": {
+                    "description": "Charcoal grilled skewers of seasoned minced lamb with onion and parsley. Served with rice.",
+                    "imageUrl": null,
+                    "price": 1195,
+                    "title": "Kafta Meshwi",
+                    "uuid": "c0efb64d-3d8a-4757-b47a-80bb2e96fc97",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "9cf5e0ed-cd9d-4bdf-b342-e7b725e6336e": {
+                    "description": "Deep fried Lebanese pastry filled with minced lamb. Contains wheat and gluten.",
+                    "imageUrl": null,
+                    "price": 550,
+                    "title": "Sambousek Lamb",
+                    "uuid": "9cf5e0ed-cd9d-4bdf-b342-e7b725e6336e",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": "",
+                    "suspendUntil": 8640000000,
+                    "classifications": []
+                },
+                "a20114b0-42d8-4db1-b873-4798ab65422b": {
+                    "description": "Roasted thin slices of marinated prime lamb. Served with sesame oil sauce, onion, parsley, and tomato. Contains sesame.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/26a7fb90-b329-445b-9ee8-7a31c6a5563d",
+                    "price": 1295,
+                    "title": "Lamb Shawarma",
+                    "uuid": "a20114b0-42d8-4db1-b873-4798ab65422b",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "ad0f2293-b219-4cee-a32e-6ce6206e3c9b": {
+                    "description": "Cubes of potato sauteed with garlic, coriander, sweet pepper, and a touch of chili.",
+                    "imageUrl": null,
+                    "price": 550,
+                    "title": "Batata Harra  (Vegetarian)",
+                    "uuid": "ad0f2293-b219-4cee-a32e-6ce6206e3c9b",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "6df7d19b-a87e-4b82-92d6-d750d0778dfe": {
+                    "description": "Bottle.",
+                    "imageUrl": null,
+                    "price": 150,
+                    "title": "Sparkling Water",
+                    "uuid": "6df7d19b-a87e-4b82-92d6-d750d0778dfe",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "289e9e5e-5e86-4770-a153-97d1461fa04f": {
+                    "description": "Bottle.",
+                    "imageUrl": null,
+                    "price": 150,
+                    "title": "Still Water",
+                    "uuid": "289e9e5e-5e86-4770-a153-97d1461fa04f",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "d109acac-f5e9-42c6-a101-a1b72c051ea0": {
+                    "description": "Baked Lebanese pastry filled with seasoned minced lamb. Contains wheat, gluten, and sesame.",
+                    "imageUrl": null,
+                    "price": 500,
+                    "title": "Qasioun Arayes",
+                    "uuid": "d109acac-f5e9-42c6-a101-a1b72c051ea0",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "ee84866b-f99f-4fe7-b78c-d92b9ed995d8": {
+                    "description": "Baked Lebanese pastry topped with halloumi cheese and basil sauce. Contains wheat, gluten, milk, and sesame.",
+                    "imageUrl": null,
+                    "price": 500,
+                    "title": "Qasioun Kalaj (Vegetarian)",
+                    "uuid": "ee84866b-f99f-4fe7-b78c-d92b9ed995d8",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "3387ef5d-5b0e-467a-9b07-ba15f68a66b7": {
+                    "description": "Home made Lebanese spicy sausages, fresh tomatoes, and sauteed in lemon. (Spicy)",
+                    "imageUrl": null,
+                    "price": 550,
+                    "title": "Soujok",
+                    "uuid": "3387ef5d-5b0e-467a-9b07-ba15f68a66b7",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "521c76b5-c0d9-410a-984a-3abb840189a9": {
+                    "description": "Lettuce, tomato, cucumber, mint, onion, radish, sumac, toasted Lebanese bread with lemon juice, olive oil dressing, and grenadine molasses. Contains wheat, gluten, and sesame.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/72deeb05-71c1-42af-8edf-b4920bb9c31a",
+                    "price": 550,
+                    "title": "Fattoush Salad (Vegetarian)",
+                    "uuid": "521c76b5-c0d9-410a-984a-3abb840189a9",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "248d3e0a-8464-4f90-9620-2652813ec2c3": {
+                    "description": "Charcoal grilled boneless baby chicken. Served with rice. Contains sesame.",
+                    "imageUrl": null,
+                    "price": 1295,
+                    "title": "Farrouj Meshwi",
+                    "uuid": "248d3e0a-8464-4f90-9620-2652813ec2c3",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "08641bf6-1e89-46b4-b6c3-2a5245c4a7ef": {
+                    "description": "Marinated chicken liver sauteed with lemon, butter, and pomegranate sauce.",
+                    "imageUrl": null,
+                    "price": 600,
+                    "title": "Chicken Liver",
+                    "uuid": "08641bf6-1e89-46b4-b6c3-2a5245c4a7ef",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "8e867abe-3d65-48f3-ad16-29ee108a386e": {
+                    "description": "Grilled or fried halloumi cheese. Contains milk.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/44394f57-2d49-452a-9f7e-e939d1ce2877",
+                    "price": 675,
+                    "title": "Halloum Meshwi (Vegetarian)",
+                    "uuid": "8e867abe-3d65-48f3-ad16-29ee108a386e",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "88bfcd95-eed1-47ab-b356-be08d8fb2a53": {
+                    "description": "Roasted thin slices of marinated chicken breast. Served with garlic sauce and tomato.",
+                    "imageUrl": null,
+                    "price": 1250,
+                    "title": "Chicken Shawarma",
+                    "uuid": "88bfcd95-eed1-47ab-b356-be08d8fb2a53",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "9ed76359-b9c2-40a0-b8cd-3a3648a07bb1": {
+                    "description": "Deep fried Lebanese pastry filled with feta cheese. Contains milk, wheat and gluten.",
+                    "imageUrl": null,
+                    "price": 550,
+                    "title": "Roll Cheese (Vegetarian)",
+                    "uuid": "9ed76359-b9c2-40a0-b8cd-3a3648a07bb1",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "3d3a0afb-0c9f-4fdc-bcab-9896b0b87516": {
+                    "description": "Contains wheat, gluten, and egg.",
+                    "imageUrl": null,
+                    "price": 1295,
+                    "title": "Aubergine Stew (Vegetarian)",
+                    "uuid": "3d3a0afb-0c9f-4fdc-bcab-9896b0b87516",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "5de13417-6775-45f9-9923-b65be36beae3": {
+                    "description": "",
+                    "imageUrl": null,
+                    "price": 350,
+                    "title": "Couscous",
+                    "uuid": "5de13417-6775-45f9-9923-b65be36beae3",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "3462a007-14ed-4b1d-905c-99bae0f5d78c": {
+                    "description": "Deep fried bean and fine herb croquettes. Served with tahine sauce, parsley, tomato, and pickles. Served in freshly baked Lebanese khobez.",
+                    "imageUrl": null,
+                    "price": 500,
+                    "title": "Falafel Wrap (Vegetarian)",
+                    "uuid": "3462a007-14ed-4b1d-905c-99bae0f5d78c",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "5c7b3110-a1d0-41e7-b255-f22e3917b368": {
+                    "description": "Deep fried Lebanese pastry filled with feta cheese. Contains wheat and gluten.",
+                    "imageUrl": null,
+                    "price": 550,
+                    "title": "Sambousek Cheese (Vegetarian)",
+                    "uuid": "5c7b3110-a1d0-41e7-b255-f22e3917b368",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "4d0e23c5-63da-4492-853b-eca113d774a2": {
+                    "description": "Lettuce, tomato, and cucumber.",
+                    "imageUrl": null,
+                    "price": 500,
+                    "title": "Seasonal Salad (Vegetarian)",
+                    "uuid": "4d0e23c5-63da-4492-853b-eca113d774a2",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "8e0282b0-7357-43d4-b1d9-ab6d94b5b240": {
+                    "description": "Roasted thin slices of marinated lamb and chicken.",
+                    "imageUrl": null,
+                    "price": 1350,
+                    "title": "Mix Shawarma",
+                    "uuid": "8e0282b0-7357-43d4-b1d9-ab6d94b5b240",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "f934059d-36b1-4df4-b4ec-647b016520e3": {
+                    "description": "Minced chicken, onion, garlic, pomegranate sauce, lemon, and sumac.",
+                    "imageUrl": null,
+                    "price": 550,
+                    "title": "Sambousek Chicken",
+                    "uuid": "f934059d-36b1-4df4-b4ec-647b016520e3",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "b34a66e4-0d34-4b73-af23-c7d452dc4c80": {
+                    "description": "Chickpea puree with sesame paste, lemon juice, and olive oil dressing. Topped with roasted thin slices of marinated prime. With your choice of protein.",
+                    "imageUrl": null,
+                    "price": 650,
+                    "title": "Hommos Shawarma",
+                    "uuid": "b34a66e4-0d34-4b73-af23-c7d452dc4c80",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "b33eb1cb-f045-4282-aef2-051785b390b9": {
+                    "description": "Marinated chicken livers sauteed with lemon, butter, garlic, tomato, pomegranate sauce, and pickles. Served in freshly baked Lebanese khobez.",
+                    "imageUrl": null,
+                    "price": 500,
+                    "title": "Chicken Liver",
+                    "uuid": "b33eb1cb-f045-4282-aef2-051785b390b9",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "3f37edbd-faeb-4eaa-9192-4a8d9f995d27": {
+                    "description": "Charcoal grilled skewers of minced lamb. Served on a bed of spicy sauce. Served with rice.",
+                    "imageUrl": null,
+                    "price": 1250,
+                    "title": "Kafta Khosh Khash",
+                    "uuid": "3f37edbd-faeb-4eaa-9192-4a8d9f995d27",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "de110285-0afe-4440-acb7-4ad5bafa2d24": {
+                    "description": "Fresh seasoned sea bass, served with butter fried spinach and tahina sauce (tarator). Contains fish and sesame.",
+                    "imageUrl": null,
+                    "price": 1300,
+                    "title": "Sea Bass",
+                    "uuid": "de110285-0afe-4440-acb7-4ad5bafa2d24",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "f5112544-6980-4114-b0c4-ac47dd1b76c4": {
+                    "description": "Contains milk.",
+                    "imageUrl": null,
+                    "price": 150,
+                    "title": "Laban Ayran",
+                    "uuid": "f5112544-6980-4114-b0c4-ac47dd1b76c4",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "1c0cb470-4970-41a2-aec3-5abd4ebd05b1": {
+                    "description": "Grilled skewer of mixed ground lamb, hommos, onion, parsley, sweet pepper, tomato, and pickles. Served in freshly baked Lebanese khobez. Contains sesame.",
+                    "imageUrl": null,
+                    "price": 500,
+                    "title": "Kafta Meshwi",
+                    "uuid": "1c0cb470-4970-41a2-aec3-5abd4ebd05b1",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "9d3ba7db-32c8-49cb-9917-6efa58beb509": {
+                    "description": "Contains wheat, gluten, and eggs.",
+                    "imageUrl": null,
+                    "price": 350,
+                    "title": "Lebanese Vermicelli Rice",
+                    "uuid": "9d3ba7db-32c8-49cb-9917-6efa58beb509",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "b5c280c5-c393-4ce4-af84-19f4179bad75": {
+                    "description": "Charcoal grilled marinated chicken wings. Served with garlic sauce.",
+                    "imageUrl": null,
+                    "price": 550,
+                    "title": "Jawaneh",
+                    "uuid": "b5c280c5-c393-4ce4-af84-19f4179bad75",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "d18de253-aad8-4497-9f1e-6ef06eabca92": {
+                    "description": "Boiled broad beans seasoned with garlic, lemon juice, and olive oil.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/b87ac777-3070-4cb3-bb87-3ff906b6b9ab",
+                    "price": 595,
+                    "title": "Foul Moudamas (Vegetarian)",
+                    "uuid": "d18de253-aad8-4497-9f1e-6ef06eabca92",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "fe3faff5-40d5-43d8-8d4e-bcf7250c6099": {
+                    "description": "Roasted thin slices of marinated chicken breast, garlic sauce, tomato, and pickles. Served in freshly baked Lebanese khobez. Contains sesame.",
+                    "imageUrl": null,
+                    "price": 500,
+                    "title": "Chicken Shawarma",
+                    "uuid": "fe3faff5-40d5-43d8-8d4e-bcf7250c6099",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "a10b2ffa-f299-4487-8429-279a44f5cfb8": {
+                    "description": "Deep fried bean and fine herb croquettes. Served with tahine sauce. Contains celery and sesame.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/fb5a8d71-501e-43a0-a439-021733ec7b78",
+                    "price": 550,
+                    "title": "Falafel (Vegetarian)",
+                    "uuid": "a10b2ffa-f299-4487-8429-279a44f5cfb8",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "54465bff-0f75-4c62-b2aa-090e74f88253": {
+                    "description": "Charcoal grilled skewers of seasoned minced lamb, marinated lamb, and chicken cubes. Served with rice. Contains wheat and gluten.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/2ddbe7c4-9c1f-4b17-bb21-543eca87ab27",
+                    "price": 1450,
+                    "title": "Mixed Grills",
+                    "uuid": "54465bff-0f75-4c62-b2aa-090e74f88253",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                }
+            }
+        },
+        "sections": [
+            {
+                "subsectionUuids": [
+                    "95366618-e297-4628-926d-ade20e2e69cb",
+                    "e7e12853-7adc-4bca-9c1d-5964f0144eda",
+                    "991c9042-fbba-40b6-b512-ea9ab26ee961",
+                    "3ee77458-6149-44f4-8da8-af44bffc2441",
+                    "9e5bf33d-9be4-4622-bb6f-6bce40deafd9",
+                    "5b66ed8d-4d47-4012-9fd8-cc12bbee492c",
+                    "525abb0b-5bd8-499c-b2d1-a7a61b2c4257",
+                    "8bcb1369-a77d-4c50-9a30-5863bb45f385",
+                    "853f5bc3-dde5-43cc-9ec7-ab6347ed1cfa",
+                    "48aeb873-8bfd-4510-a98e-dc412a287a2b",
+                    "c875172d-11ab-4811-895e-295c2b821c01",
+                    "66a20e3d-c686-488d-9a05-e6d5fffdca5d",
+                    "8de52e2a-53d9-46b4-911c-2dfc9201fe9c",
+                    "0a6f7174-bcb1-4f92-942d-a4cc4377faf2"
+                ],
+                "title": "Menu",
+                "subtitle": "11:00 AM – 12:00 AM",
+                "uuid": "5555a734-37eb-484f-9354-e62748ae2f31",
+                "isTop": true,
+                "isOnSale": true
+            }
+        ],
+        "subsectionsMap": {
+            "853f5bc3-dde5-43cc-9ec7-ab6347ed1cfa": {
+                "itemUuids": [
+                    "043a6951-7733-4200-864e-b54356421025",
+                    "fc22e6e4-3dc4-4e56-bc0d-aa6aa3fa0d9b",
+                    "fe3faff5-40d5-43d8-8d4e-bcf7250c6099",
+                    "587890fa-9e4b-4fbb-8980-6620fa21a2cc",
+                    "5e2fb498-27d5-490e-afbf-a56ff309e5c1",
+                    "1c0cb470-4970-41a2-aec3-5abd4ebd05b1",
+                    "9fb271ae-5ea7-4974-a533-5f58f90b6f18",
+                    "b33eb1cb-f045-4282-aef2-051785b390b9",
+                    "3462a007-14ed-4b1d-905c-99bae0f5d78c",
+                    "4d6663f0-3b44-444a-b394-0f8c6cccaa7e",
+                    "db8b82b4-210a-4906-a30f-4a45018c3948"
+                ],
+                "subtitle": null,
+                "title": "Sandwiches and Wraps",
+                "uuid": "853f5bc3-dde5-43cc-9ec7-ab6347ed1cfa",
+                "displayType": null
+            },
+            "991c9042-fbba-40b6-b512-ea9ab26ee961": {
+                "itemUuids": [
+                    "b34a66e4-0d34-4b73-af23-c7d452dc4c80",
+                    "f83a5c5b-c78b-4322-a70d-ce3ae99384ce",
+                    "a10b2ffa-f299-4487-8429-279a44f5cfb8",
+                    "761eab4a-d344-4ea3-8c2f-42762d8665d3",
+                    "ad0f2293-b219-4cee-a32e-6ce6206e3c9b",
+                    "8e867abe-3d65-48f3-ad16-29ee108a386e",
+                    "b5c280c5-c393-4ce4-af84-19f4179bad75",
+                    "3387ef5d-5b0e-467a-9b07-ba15f68a66b7",
+                    "08641bf6-1e89-46b4-b6c3-2a5245c4a7ef"
+                ],
+                "subtitle": null,
+                "title": "Hot Mezza",
+                "uuid": "991c9042-fbba-40b6-b512-ea9ab26ee961",
+                "displayType": null
+            },
+            "48aeb873-8bfd-4510-a98e-dc412a287a2b": {
+                "itemUuids": [
+                    "9d3ba7db-32c8-49cb-9917-6efa58beb509",
+                    "4fd4a073-dd5d-4d01-854b-4bceca10b82d",
+                    "5de13417-6775-45f9-9923-b65be36beae3"
+                ],
+                "subtitle": null,
+                "title": "Side Orders",
+                "uuid": "48aeb873-8bfd-4510-a98e-dc412a287a2b",
+                "displayType": null
+            },
+            "525abb0b-5bd8-499c-b2d1-a7a61b2c4257": {
+                "itemUuids": [
+                    "2ba6fc55-7e78-41b4-887e-a667c391646c"
+                ],
+                "subtitle": null,
+                "title": "Qasioun Specials",
+                "uuid": "525abb0b-5bd8-499c-b2d1-a7a61b2c4257",
+                "displayType": null
+            },
+            "8bcb1369-a77d-4c50-9a30-5863bb45f385": {
+                "itemUuids": [
+                    "de110285-0afe-4440-acb7-4ad5bafa2d24"
+                ],
+                "subtitle": null,
+                "title": "Fish and Seafood",
+                "uuid": "8bcb1369-a77d-4c50-9a30-5863bb45f385",
+                "displayType": null
+            },
+            "3ee77458-6149-44f4-8da8-af44bffc2441": {
+                "itemUuids": [
+                    "512b8e90-f1d8-41f7-ada6-1a16eee1e097",
+                    "e6fe5c7d-f52d-46b0-a0c9-6712096eb2da",
+                    "cc6b5897-9b18-4b07-a378-84a775fe162b",
+                    "b604a1aa-c7c5-474f-899e-5a9e5fcef984",
+                    "1492fd5a-acd4-4aed-a034-0bfb03a541ac",
+                    "0b4d7f5e-cdcf-429e-88ec-97bb0b642c94",
+                    "4d0e23c5-63da-4492-853b-eca113d774a2"
+                ],
+                "subtitle": null,
+                "title": "Soups and Salads",
+                "uuid": "3ee77458-6149-44f4-8da8-af44bffc2441",
+                "displayType": null
+            },
+            "8de52e2a-53d9-46b4-911c-2dfc9201fe9c": {
+                "itemUuids": [
+                    "09a04a17-4265-4dc0-b042-0c078148eca0",
+                    "289e9e5e-5e86-4770-a153-97d1461fa04f",
+                    "f5112544-6980-4114-b0c4-ac47dd1b76c4",
+                    "6df7d19b-a87e-4b82-92d6-d750d0778dfe"
+                ],
+                "subtitle": null,
+                "title": "Drinks",
+                "uuid": "8de52e2a-53d9-46b4-911c-2dfc9201fe9c",
+                "displayType": null
+            },
+            "66a20e3d-c686-488d-9a05-e6d5fffdca5d": {
+                "itemUuids": [
+                    "7de35204-3c30-481f-9f4b-6cbd8e2a37b5"
+                ],
+                "subtitle": null,
+                "title": "Desserts",
+                "uuid": "66a20e3d-c686-488d-9a05-e6d5fffdca5d",
+                "displayType": null
+            },
+            "c875172d-11ab-4811-895e-295c2b821c01": {
+                "itemUuids": [
+                    "5c7b3110-a1d0-41e7-b255-f22e3917b368",
+                    "9cf5e0ed-cd9d-4bdf-b342-e7b725e6336e",
+                    "f934059d-36b1-4df4-b4ec-647b016520e3",
+                    "9ed76359-b9c2-40a0-b8cd-3a3648a07bb1",
+                    "263ea29a-4628-43b2-b0b5-8c78ebc8156a",
+                    "d109acac-f5e9-42c6-a101-a1b72c051ea0",
+                    "ee84866b-f99f-4fe7-b78c-d92b9ed995d8",
+                    "e5df11e5-f355-4b06-9dad-ffe6e7be82d5"
+                ],
+                "subtitle": null,
+                "title": "Bakery and Pastry",
+                "uuid": "c875172d-11ab-4811-895e-295c2b821c01",
+                "displayType": null
+            },
+            "5b66ed8d-4d47-4012-9fd8-cc12bbee492c": {
+                "itemUuids": [
+                    "54465bff-0f75-4c62-b2aa-090e74f88253",
+                    "61616678-5a1a-49df-a205-ecfac03c32e8",
+                    "f728ae4e-b9fa-41e8-8233-901f1d3a4b8e",
+                    "c0efb64d-3d8a-4757-b47a-80bb2e96fc97",
+                    "3f37edbd-faeb-4eaa-9192-4a8d9f995d27",
+                    "2b6f5b95-8e8d-4905-8792-c095c00ed607",
+                    "248d3e0a-8464-4f90-9620-2652813ec2c3"
+                ],
+                "subtitle": null,
+                "title": "Charcoal Grilled Main Courses",
+                "uuid": "5b66ed8d-4d47-4012-9fd8-cc12bbee492c",
+                "displayType": null
+            },
+            "0a6f7174-bcb1-4f92-942d-a4cc4377faf2": {
+                "itemUuids": [
+                    "40570f0e-5e41-477b-9ddd-bd0a195c431f",
+                    "5be61e09-6c56-4fe6-85df-0f9dfc054d2c",
+                    "657a9438-a537-4d15-b57a-8e86c39e2aef"
+                ],
+                "subtitle": null,
+                "title": "Juices",
+                "uuid": "0a6f7174-bcb1-4f92-942d-a4cc4377faf2",
+                "displayType": null
+            },
+            "9e5bf33d-9be4-4622-bb6f-6bce40deafd9": {
+                "itemUuids": [
+                    "3d3a0afb-0c9f-4fdc-bcab-9896b0b87516",
+                    "158594be-0d49-4b56-8309-9087849b4c0b",
+                    "b0e273ad-de12-4f3d-87d0-fd4ff0a49198",
+                    "88bfcd95-eed1-47ab-b356-be08d8fb2a53",
+                    "a20114b0-42d8-4db1-b873-4798ab65422b",
+                    "8e0282b0-7357-43d4-b1d9-ab6d94b5b240"
+                ],
+                "subtitle": null,
+                "title": "Main Courses",
+                "uuid": "9e5bf33d-9be4-4622-bb6f-6bce40deafd9",
+                "displayType": null
+            },
+            "e7e12853-7adc-4bca-9c1d-5964f0144eda": {
+                "itemUuids": [
+                    "496d3aee-a72e-4b7f-b5a2-5238ee9dd5e6",
+                    "fb5ac151-479c-436a-ad1c-7542d4656424",
+                    "2850b837-736c-483d-a700-e239f25ddad7",
+                    "9dffba17-6b0e-4346-9ee4-25e7e28af0dd",
+                    "71ce475a-c475-4ba8-a618-a801cf832207",
+                    "2e7ee7eb-73aa-4b56-97df-93323b57c06b",
+                    "60f2df0c-58c7-44e1-8c4b-e90d25ded190",
+                    "ecf4048f-025c-4d6e-b705-cb74fdd54da3"
+                ],
+                "subtitle": null,
+                "title": "Cold Mezza",
+                "uuid": "e7e12853-7adc-4bca-9c1d-5964f0144eda",
+                "displayType": null
+            },
+            "95366618-e297-4628-926d-ade20e2e69cb": {
+                "itemUuids": [
+                    "9dffba17-6b0e-4346-9ee4-25e7e28af0dd",
+                    "f83a5c5b-c78b-4322-a70d-ce3ae99384ce",
+                    "9dcda212-868a-4af2-bda7-a3f5c0c0ab33",
+                    "d18de253-aad8-4497-9f1e-6ef06eabca92",
+                    "8e867abe-3d65-48f3-ad16-29ee108a386e",
+                    "54465bff-0f75-4c62-b2aa-090e74f88253",
+                    "521c76b5-c0d9-410a-984a-3abb840189a9"
+                ],
+                "subtitle": null,
+                "title": "Most Popular",
+                "uuid": "95366618-e297-4628-926d-ade20e2e69cb",
+                "displayType": null
+            }
+        },
+        "title": "Qasioun",
+        "uuid": "315b931c-1e26-4cdd-913b-3220092df6fd",
+        "categories": [
+            "₴₴",
+            "Ліванська",
+            "Близькосхідна"
+        ],
+        "cuisineList": [
+            "Ліванська",
+            "Близькосхідна"
+        ],
+        "priceBucket": "₴₴",
+        "etaRange": {
+            "text": "30–40 min",
+            "iconUrl": ""
+        },
+        "ratingBadge": {
+            "text": "<span><span style=\"font-family: inherit; color: #3a3a48;\">4.4 <img src=\"https://d1a3f4spazzrp4.cloudfront.net/static/images/Star_Black_Eats_3.png\" width=\"14\" height=\"14\" vertical-align=\"middle\"> </span><span style=\"font-family: inherit; color: #757575;\">(200+)</span></span>"
+        },
+        "disclaimerBadge": {
+            "text": "<span style=\"font-family: inherit;\">Allergies, intolerances and dietary requirements: before ordering, please contact the restaurant directly and ask to speak to a member of staff who can assist if you require information about ingredients and help cater for your needs. For more information on food safety and hygiene, please visit the <a href=\"http://ratings.food.gov.uk/\" style=\"color:#61ad5f;\">Food Standards Agency</a></span>"
+        },
+        "fareBadge": null,
+        "fareInfo": {
+            "serviceFee": 30,
+            "serviceFeeCents": 3000
+        },
+        "promotion": null,
+        "shouldIndex": false,
+        "heroImageUrls": [
+            {
+                "url": "https://duyt4h9nfnj50.cloudfront.net/resized/68b99355a28121c7cf3b12f13ef80910-w240-a9.jpg",
+                "width": 240
+            },
+            {
+                "url": "https://duyt4h9nfnj50.cloudfront.net/resized/68b99355a28121c7cf3b12f13ef80910-w550-f5.jpg",
+                "width": 550
+            },
+            {
+                "url": "https://duyt4h9nfnj50.cloudfront.net/resized/68b99355a28121c7cf3b12f13ef80910-w640-bd.jpg",
+                "width": 640
+            },
+            {
+                "url": "https://duyt4h9nfnj50.cloudfront.net/resized/68b99355a28121c7cf3b12f13ef80910-w750-d1.jpg",
+                "width": 750
+            },
+            {
+                "url": "https://duyt4h9nfnj50.cloudfront.net/resized/68b99355a28121c7cf3b12f13ef80910-w1080-15.jpg",
+                "width": 1080
+            },
+            {
+                "url": "https://duyt4h9nfnj50.cloudfront.net/resized/68b99355a28121c7cf3b12f13ef80910-w2880-96.jpg",
+                "width": 2880
+            }
+        ],
+        "isOpen": true,
+        "currencyCode": "GBP",
+        "closedMessage": "Currently unavailable",
+        "location": {
+            "address": "Se1 3aa, London, England SE1 3AA",
+            "streetAddress": "SE1 3AA",
+            "city": "London",
+            "country": "GB",
+            "postalCode": "SE1 3AA",
+            "region": "England",
+            "latitude": 51.496299,
+            "longitude": -0.079772
+        },
+        "isDeliveryThirdParty": false,
+        "hours": [
+            {
+                "dayRange": "Every Day",
+                "sectionHours": [
+                    {
+                        "startTime": 660,
+                        "endTime": 0,
+                        "sectionTitle": ""
+                    }
+                ]
+            }
+        ],
+        "disableOrderInstruction": false,
+        "disableCheckoutInstruction": false,
+        "nuggets": [],
+        "isWithinDeliveryRange": false,
+        "slug": "qasioun",
+        "citySlug": "london",
+        "phoneNumber": "+442073940939",
+        "metaJson": "{\"@context\":\"http:\\u002F\\u002Fschema.org\",\"@type\":\"Restaurant\",\"@id\":\"https:\\u002F\\u002Fwww.ubereats.com\\u002Fen-UA\\u002Flondon\\u002Ffood-delivery\\u002Fqasioun\\u002FMVuTHB4mTN2ROzIgCS32_Q\\u002F\",\"name\":\"Qasioun\",\"priceRange\":\"₴₴\",\"potentialAction\":{\"@type\":\"OrderAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\\u002F\\u002Fwww.ubereats.com\\u002Fen-UA\\u002Flondon\\u002Ffood-delivery\\u002Fqasioun\\u002FMVuTHB4mTN2ROzIgCS32_Q\\u002F?utm_campaign=order-action&utm_medium=organic\",\"inLanguage\":\"English\",\"actionPlatform\":[\"http:\\u002F\\u002Fschema.org\\u002FDesktopWebPlatform\",\"http:\\u002F\\u002Fschema.org\\u002FMobileWebPlatform\"]},\"deliveryMethod\":[\"http:\\u002F\\u002Fpurl.org\\u002Fgoodrelations\\u002Fv1#DeliveryModeOwnFleet\"]},\"address\":{\"@type\":\"PostalAddress\",\"addressLocality\":\"London\",\"addressRegion\":\"England\",\"postalCode\":\"SE1 3AA\",\"addressCountry\":\"GB\",\"streetAddress\":\"SE1 3AA\"},\"geo\":{\"@type\":\"GeoCoordinates\",\"latitude\":51.496299,\"longitude\":-0.079772}}",
+        "promoTrackings": [],
+        "suggestedPromotion": {
+            "text": "",
+            "promotionUuid": ""
+        },
+        "supportedDiningModes": [
+            {
+                "mode": "DELIVERY",
+                "title": "Delivery",
+                "isSelected": true,
+                "isAvailable": true
+            }
+        ],
+        "isPreview": false,
+        "pinnedInfo": null
+    }
+}

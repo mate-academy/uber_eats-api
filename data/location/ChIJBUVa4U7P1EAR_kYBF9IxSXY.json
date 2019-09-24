@@ -85,10 +85,6 @@
       },
       {
         "type": "STORE",
-        "uuid": "efa18c29-427b-4854-b86e-0999b25b6a3e"
-      },
-      {
-        "type": "STORE",
         "uuid": "b318911f-1c17-4d57-b0ef-3c0fcbd7f17e"
       },
       {
@@ -106,10 +102,6 @@
       {
         "type": "STORE",
         "uuid": "1968d261-1052-409b-95b1-a3003fa00948"
-      },
-      {
-        "type": "STORE",
-        "uuid": "4e0349d3-b2bf-4ae9-acf8-63cd118b096e"
       },
       {
         "type": "STORE",
@@ -186,10 +178,6 @@
       {
         "type": "STORE",
         "uuid": "691c9c4f-52c1-42e8-96a9-d9d371ab0507"
-      },
-      {
-        "type": "STORE",
-        "uuid": "0768f9ba-a36c-4b2d-a151-efa6f9d0b448"
       },
       {
         "type": "STORE",
@@ -325,28 +313,6 @@
       }
     ],
     "storesMap": {
-      "0768f9ba-a36c-4b2d-a151-efa6f9d0b448": {
-        "heroImageUrl": "https://d1ralsognjng37.cloudfront.net/2a42e38a-c398-4a4d-a040-bace5007dae2",
-        "citySlug": "kyiv",
-        "slug": "marios-trattoria-вул-верхніи-вал",
-        "title": "Mario's Trattoria (вул. Верхній Вал)",
-        "uuid": "0768f9ba-a36c-4b2d-a151-efa6f9d0b448",
-        "categories": [
-          "₴₴",
-          "Італійська",
-          "Піца",
-          "Європейська"
-        ],
-        "feedback": null,
-        "etaRange": null,
-        "fareBadge": null,
-        "promotion": null,
-        "isOpen": false,
-        "closedMessage": "Opens at 10:00 AM",
-        "isDeliveryThirdParty": false,
-        "endorsement": null,
-        "promoTrackings": []
-      },
       "5f58cde3-eb43-466c-a5ef-5711d71910f1": {
         "heroImageUrl": "https://d1ralsognjng37.cloudfront.net/f464db39-01b7-48cc-8d1b-47b571801f25",
         "citySlug": "kyiv",
@@ -901,31 +867,6 @@
         "endorsement": null,
         "promoTrackings": []
       },
-      "4e0349d3-b2bf-4ae9-acf8-63cd118b096e": {
-        "heroImageUrl": "https://d1ralsognjng37.cloudfront.net/1711a809-ad4e-44d9-ac91-30618ccafff9",
-        "citySlug": "kyiv",
-        "slug": "freshline-вул-шота-руставелі",
-        "title": "FreshLine (вул. Шота Руставелі)",
-        "uuid": "4e0349d3-b2bf-4ae9-acf8-63cd118b096e",
-        "categories": [
-          "₴",
-          "Салати",
-          "Фастфуд",
-          "Сандвічі"
-        ],
-        "feedback": {
-          "rating": 4.3,
-          "ratingCount": "71"
-        },
-        "etaRange": null,
-        "fareBadge": null,
-        "promotion": null,
-        "isOpen": false,
-        "closedMessage": "Opens at 10:00 AM",
-        "isDeliveryThirdParty": false,
-        "endorsement": null,
-        "promoTrackings": []
-      },
       "abd909f9-9917-4952-9bae-f701f422321e": {
         "heroImageUrl": "https://d1ralsognjng37.cloudfront.net/32642c43-8a73-4db7-a242-3d0c698543a8",
         "citySlug": "kyiv",
@@ -1279,31 +1220,6 @@
         "feedback": {
           "rating": 4.7,
           "ratingCount": "150"
-        },
-        "etaRange": null,
-        "fareBadge": null,
-        "promotion": null,
-        "isOpen": false,
-        "closedMessage": "Opens at 10:00 AM",
-        "isDeliveryThirdParty": false,
-        "endorsement": null,
-        "promoTrackings": []
-      },
-      "efa18c29-427b-4854-b86e-0999b25b6a3e": {
-        "heroImageUrl": "https://d1ralsognjng37.cloudfront.net/a9c46c3b-952e-4df3-a514-fbb4cdf3617e",
-        "citySlug": "kyiv",
-        "slug": "fitness-food-cafe",
-        "title": "Fitness Food Cafe",
-        "uuid": "efa18c29-427b-4854-b86e-0999b25b6a3e",
-        "categories": [
-          "₴₴",
-          "Здорова їжа",
-          "Салати",
-          "Для вегетаріанців"
-        ],
-        "feedback": {
-          "rating": 4.2,
-          "ratingCount": "85"
         },
         "etaRange": null,
         "fareBadge": null,

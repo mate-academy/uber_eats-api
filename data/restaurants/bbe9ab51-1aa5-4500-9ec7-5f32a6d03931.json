@@ -1,0 +1,1612 @@
+{
+    "status": "success",
+    "data": {
+        "sectionEntitiesMap": {
+            "b69ee37a-1519-5d54-8bc6-e1dbd62992eb": {
+                "e9e9b0e4-5fe2-513c-b17d-f4772f758bda": {
+                    "description": "roasted edamame beans, coated in top quality chocolate. the perfect sweet treat and a great source of fibre and protein. 100% natural and suitable for vegetarians. 152 kcal\n(v)",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/e3c0fed2-bc68-4ef9-92f0-0ffdbb9ced94.jpeg",
+                    "price": 179,
+                    "title": "chocolate edamame",
+                    "uuid": "e9e9b0e4-5fe2-513c-b17d-f4772f758bda",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "endorsement": {
+                        "text": "(v)",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png"
+                    },
+                    "classifications": []
+                },
+                "77a95f68-d806-5cd9-a267-8fb449e088f4": {
+                    "description": "2 organic quinoa burgers, wholegrain brown rice, seasonal greens, ginger'greens, herbs, velvety thai’spiced coconut sauce. 826 kcal\n(df) (v) (ve)",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/561a63b4-1215-4ff5-bf28-3e61061e2e24.jpeg",
+                    "price": 799,
+                    "title": "veggie rice'bowl & quinoa burger",
+                    "uuid": "77a95f68-d806-5cd9-a267-8fb449e088f4",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "endorsement": {
+                        "text": "(df) (v) (ve)",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png"
+                    },
+                    "classifications": []
+                },
+                "a6426024-78ca-52f4-8ef3-9c305d4f8a26": {
+                    "description": "velvety mousse mad with top quality belgian chocolate. 225 kcal\n(gf) (v)",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/ef9d5653-fcc2-4a23-963f-8bb491b64caf.jpeg",
+                    "price": 299,
+                    "title": "belgian chocolate mousse",
+                    "uuid": "a6426024-78ca-52f4-8ef3-9c305d4f8a26",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "endorsement": {
+                        "text": "(gf) (v)",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png"
+                    },
+                    "classifications": []
+                },
+                "fa92e30f-958f-5495-ad24-640a5c8bc6ad": {
+                    "description": "steamed, low calorie, low fat chicken & spring onion dumplings with teriyaki sauce. 251 kcal",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/2bf640fb-93ec-44e4-952c-0172bed78523.jpeg",
+                    "price": 499,
+                    "title": "chicken & spring onion gyoza",
+                    "uuid": "fa92e30f-958f-5495-ad24-640a5c8bc6ad",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "endorsement": {
+                        "text": "",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png"
+                    },
+                    "classifications": []
+                },
+                "adeecb4c-9a38-51fa-8a4d-f648b918ca35": {
+                    "description": "",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/600b7c02-1c29-4e10-a6a4-87840e466095.jpeg",
+                    "price": 299,
+                    "title": "coconut water (235 ml)",
+                    "uuid": "adeecb4c-9a38-51fa-8a4d-f648b918ca35",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "9a3b91b7-91e6-5dd8-9f5c-e25659c5f330": {
+                    "description": "miso marinated [british] chicken, wholegrain brown rice, ginger'greens, herbs, teriyaki sauce, sesame seed mix. 589 kcal\n(df)",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/d4265a6b-d123-4ff9-b835-d2ce9d933340.jpeg",
+                    "price": 799,
+                    "title": "teriyaki chicken rice bowl",
+                    "uuid": "9a3b91b7-91e6-5dd8-9f5c-e25659c5f330",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "endorsement": {
+                        "text": "(df)",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_check@3x.png"
+                    },
+                    "classifications": []
+                },
+                "1d23f898-a263-5b3c-aa6e-74be3d2151aa": {
+                    "description": "steamed, low calorie, low fat vegetable dumplings with teriyaki sauce\n(ve) (v) (df)",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/3d1df4b8-d41f-4f1f-9302-810d130e0a51.jpeg",
+                    "price": 479,
+                    "title": "vegetable fusion gyoza",
+                    "uuid": "1d23f898-a263-5b3c-aa6e-74be3d2151aa",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "endorsement": {
+                        "text": "(ve) (v) (df)",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png"
+                    },
+                    "classifications": []
+                },
+                "e4db975a-94b2-5f7f-af48-dc8e0a5ada64": {
+                    "description": "cold pressed nutrient rich apple, cucumber, kale, fennel, spinach, avocado, broccoli & lime",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/e5d37ebc-21a0-421c-a616-5a07d219cc19.jpeg",
+                    "price": 329,
+                    "title": "veg press",
+                    "uuid": "e4db975a-94b2-5f7f-af48-dc8e0a5ada64",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "8c8b47d8-49a6-5cb7-8923-2a1e431a6a0d": {
+                    "description": "(df) (v) (ve)",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/adf7ded0-a89c-40fe-9528-15356dabbb84.jpeg",
+                    "price": 20,
+                    "title": "large soy bottle",
+                    "uuid": "8c8b47d8-49a6-5cb7-8923-2a1e431a6a0d",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "endorsement": {
+                        "text": "(df) (v) (ve)",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png"
+                    },
+                    "classifications": []
+                },
+                "872c395c-4c62-55ce-966f-e23d16df469e": {
+                    "description": "lean grilled british chicken with nutrient rich vegetable salad, sushi rice and teriyaki. 449 kcal\n(df)",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/f51752df-a306-4275-bd46-060cb59a2529.jpeg",
+                    "price": 599,
+                    "title": "chicken teriyaki on a bed",
+                    "uuid": "872c395c-4c62-55ce-966f-e23d16df469e",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "endorsement": {
+                        "text": "(df)",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_check@3x.png"
+                    },
+                    "classifications": []
+                },
+                "f59e859a-d485-54eb-ac2c-fccf61366e86": {
+                    "description": "miso marinated [british] chicken, wholegrain brown rice, seasonal greens, ginger'greens, herbs, velvety thai’spiced coconut sauce. 758 kcal\n(df)",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/f3f80313-878d-48c6-a565-7808976cac66.jpeg",
+                    "price": 799,
+                    "title": "thai chicken rice'bowl",
+                    "uuid": "f59e859a-d485-54eb-ac2c-fccf61366e86",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "endorsement": {
+                        "text": "(df)",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_check@3x.png"
+                    },
+                    "classifications": []
+                },
+                "13bb9dc7-ce7b-5448-9c1e-20cdc74b7c9f": {
+                    "description": "miso marinated [british] chicken, crystal noodles, ginger’greens, chicken broth & dash of coconut. 293 kcal\n(df)",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/2f4fa4c0-9c70-481c-b6cb-5374713ce741.jpeg",
+                    "price": 499,
+                    "title": "chicken noodle soup",
+                    "uuid": "13bb9dc7-ce7b-5448-9c1e-20cdc74b7c9f",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "endorsement": {
+                        "text": "(df)",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_check@3x.png"
+                    },
+                    "classifications": []
+                },
+                "8e4f9563-6b27-5190-9e53-ec09391be3f6": {
+                    "description": "a stellar line up of 17 sushi pieces - salmon baby maki, avocado baby maki and headlined by the almighty salmon nigiri. 527 kcal\n(df)",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/99019397-a889-487b-826e-085b9a940f51.jpeg",
+                    "price": 769,
+                    "title": "sushi festival",
+                    "uuid": "8e4f9563-6b27-5190-9e53-ec09391be3f6",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "endorsement": {
+                        "text": "(df)",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_check@3x.png"
+                    },
+                    "classifications": []
+                },
+                "bf0b9c28-23e0-5371-b085-ee2e63fe670f": {
+                    "description": "omega 3 rich line caught yellowfin tuna & red ginger maki, crispy shallots , 'no mayo' spicy & teriyaki sauces & chives. 283 kcal\n(df)",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/b398d3c5-0321-4db8-8b14-157f281735ff.jpeg",
+                    "price": 659,
+                    "title": "spicy tuna dragon rolls",
+                    "uuid": "bf0b9c28-23e0-5371-b085-ee2e63fe670f",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "endorsement": {
+                        "text": "(df)",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_check@3x.png"
+                    },
+                    "classifications": []
+                },
+                "e7499ce8-e391-598f-8c9a-e7c05ae434b2": {
+                    "description": "a gf dairy free and soya free raw chocolate bar that contains no refined sugar\n(gf) (df) (v) (ve)",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/7e02e67d-8f51-494f-b8de-51dc8a359233.jpeg",
+                    "price": 199,
+                    "title": "raw chocolate pie",
+                    "uuid": "e7499ce8-e391-598f-8c9a-e7c05ae434b2",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "endorsement": {
+                        "text": "(gf) (df) (v) (ve)",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png"
+                    },
+                    "classifications": []
+                },
+                "c94b8c70-f893-50e6-995d-0fe0d072c9e2": {
+                    "description": "Omega 3 rich sashimi grade atlantic salmon nigiri, maki & sashimi on magnesium packed wakame. 585 kcal\n(df)",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/a0bb4c12-f53c-4075-94ca-380b41055ff7.jpeg",
+                    "price": 999,
+                    "title": "super salmon 3 ways",
+                    "uuid": "c94b8c70-f893-50e6-995d-0fe0d072c9e2",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "endorsement": {
+                        "text": "(df)",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_check@3x.png"
+                    },
+                    "classifications": []
+                },
+                "40661293-0520-5dd6-ab8f-57d873eb66c7": {
+                    "description": "5 steamed veg gyoza, noodles, seasonal greens, thai’spiced veggie broth. 455 kcal\n(df) (v) (ve)",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/e592b32e-fd03-46fd-b923-0b83f1477ae0.jpeg",
+                    "price": 799,
+                    "title": "veggie'gyoza udon",
+                    "uuid": "40661293-0520-5dd6-ab8f-57d873eb66c7",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "endorsement": {
+                        "text": "(df) (v) (ve)",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png"
+                    },
+                    "classifications": []
+                },
+                "2a18a9a4-daeb-583c-a1c2-8bacaf85dca9": {
+                    "description": "the original, quality prawn cracker: beautifully seasoned. Gluten free. Flash fried in high oleic sunflower oil (low in saturated fat) 100% natural (no artificial flavours, colours or MSG). Enjoy on the go, at your desk, with a dip or as an accompaniment to any meal. aavailable in 3 flavours - Wasabi (95 kcal), Sea Salt & Vinegar (98 kcal), Sweet Chilli (97 kcal)\n(gf) (df)",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/21d3e90a-85d8-47d7-80fc-5069e8ae21de.jpeg",
+                    "price": 119,
+                    "title": "prawn crackers",
+                    "uuid": "2a18a9a4-daeb-583c-a1c2-8bacaf85dca9",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "endorsement": {
+                        "text": "(gf) (df)",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_check@3x.png"
+                    },
+                    "classifications": []
+                },
+                "635a2f49-5e55-5118-aea3-9fb40e879d51": {
+                    "description": "the new butterfly light vegetable crisp. itsu crispy seaweed thins are naturally packed with nutrients, zinc, iron, B vitamins & iodine, a nutrient missing from most foods, vital for wellbeing and effective metabolism. \navailable in 3 flavours - Sea Salt (24 kcal), Wasabi (22 kcal), Sweet Soy (22 kcal)\n(gf) (df) (ve)",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/400fdd31-4c16-4abd-8959-36c73f828481.jpeg",
+                    "price": 149,
+                    "title": "seaweed thins",
+                    "uuid": "635a2f49-5e55-5118-aea3-9fb40e879d51",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "endorsement": {
+                        "text": "(gf) (df) (ve)",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png"
+                    },
+                    "classifications": []
+                },
+                "4aabd15c-4eae-596c-b42d-05f2be56efa7": {
+                    "description": "nagano valley miso soup, wakame, tofu. 47 kcal\n(v)",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/e0e4dfba-2d95-4d9e-a302-0f7add5e3f61.jpeg",
+                    "price": 269,
+                    "title": "miso soup",
+                    "uuid": "4aabd15c-4eae-596c-b42d-05f2be56efa7",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "endorsement": {
+                        "text": "v",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png"
+                    },
+                    "classifications": []
+                },
+                "7f3e223a-8e37-5abf-b898-b02a0c467417": {
+                    "description": "beechwood smoked organic tofu with a teriyaki glaze, sushi rice, broccoli, avocado, edamame, pickled red cabbage, mixed leaves, shredded carrot and seeds with a satay dressing. 546 kcal\n(df) (ve) (v)",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/777ce413-c817-487a-8633-8c748fae882c.jpeg",
+                    "price": 799,
+                    "title": "no meat mondays",
+                    "uuid": "7f3e223a-8e37-5abf-b898-b02a0c467417",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "endorsement": {
+                        "text": "(df) (ve) (v)",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png"
+                    },
+                    "classifications": []
+                },
+                "0ffc7449-61f5-59bf-9e5c-647605a959d0": {
+                    "description": "miso marinated [british] chicken, noodles, seasonal greens, ginger'greens, chicken ramen broth. 507 kcal\n(df)",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/b285fcb7-5530-4027-9fdf-efa4eeab246a.jpeg",
+                    "price": 799,
+                    "title": "chargrilled chicken udon",
+                    "uuid": "0ffc7449-61f5-59bf-9e5c-647605a959d0",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "endorsement": {
+                        "text": "(df)",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_check@3x.png"
+                    },
+                    "classifications": []
+                },
+                "6e1c2ec1-5de6-5724-86a6-de30c6f8b29e": {
+                    "description": "refreshing and iconic japanese beer. sorry we are only permitted to sell alcohol in accordance with our licensing regulations",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/139fae3d-e1df-4440-993f-68899fb5bc06.jpeg",
+                    "price": 399,
+                    "title": "asahi beer",
+                    "uuid": "6e1c2ec1-5de6-5724-86a6-de30c6f8b29e",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "db1d26f6-df5d-5390-a04b-aba99fb39b13": {
+                    "description": "a perfect sharing selection for 3+ people. For calories and dietary please see individual products.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/b007e1a7-e293-4b5b-ac25-23b7e4152c13.jpeg",
+                    "price": 2999,
+                    "title": "friends sharing selection",
+                    "uuid": "db1d26f6-df5d-5390-a04b-aba99fb39b13",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "6a8a5dde-84b5-5d0b-a1c1-6fdac89421b9": {
+                    "description": "omega 3 rich line caught yellowfin tuna, sashimi grade atlantic salmon & protein packed prawn nigiri. salmon & avo, crab maki [with wasabi] & veggie maki rolls. 514 kcal",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/9f3cb4e4-5452-4b40-a668-eb060102821a.jpeg",
+                    "price": 999,
+                    "title": "best of itsu",
+                    "uuid": "6a8a5dde-84b5-5d0b-a1c1-6fdac89421b9",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "a001099c-5038-5f10-9130-45cc22b5218d": {
+                    "description": "*uber exclusive* lean, poached British chicken, avocado, shredded carrot, fresh mint, mixed leaves, cucumber, muki beans, spicy sesame dressing, toasted sesame seeds & chili flakes. 443 kcal\n(df)",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/a67aeefe-d11b-4dbb-afac-8b553c915338.jpeg",
+                    "price": 799,
+                    "title": "perfect chicken bento - uber exclusive",
+                    "uuid": "a001099c-5038-5f10-9130-45cc22b5218d",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "endorsement": {
+                        "text": "(df)",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_check@3x.png"
+                    },
+                    "classifications": []
+                },
+                "5975c5f8-f14e-5f19-b6f8-d0469b2a2bfc": {
+                    "description": "white chocolate and salted caramel dessert topped with milk chocolate shards\n(v)",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/1c8c0582-89d8-439f-821e-3086ff87f0a8.jpeg",
+                    "price": 299,
+                    "title": "white chocolate dream",
+                    "uuid": "5975c5f8-f14e-5f19-b6f8-d0469b2a2bfc",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "endorsement": {
+                        "text": "(v)",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png"
+                    },
+                    "classifications": []
+                },
+                "ee8ca5a9-0cd1-5bdb-be7d-13a12fa217e5": {
+                    "description": "choose one of itsu’s best vegan boxes served with passionfruit kombucha and a coconut collaborative little salted caramel pot. our favourite and most delicious vegan products! For calories and dietary please see individual products.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/45d12dc5-7268-4513-95a2-d1cbc3e5b9af.jpeg",
+                    "price": 1199,
+                    "title": "vegan bundle for 1",
+                    "uuid": "ee8ca5a9-0cd1-5bdb-be7d-13a12fa217e5",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "8ca66ec6-6157-5f70-84e1-217c9c8c7c72": {
+                    "description": "steamed udon, velvety thai’spiced coconut sauce, chilled ginger'greens topping, crispy shallots add chicken, quinoa burger. 669 kcal\n(df) (v) (ve)",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/f0eb0253-3b25-4d19-a647-91924161437b.jpeg",
+                    "price": 719,
+                    "title": "i'thai udon (stir-fry style)",
+                    "uuid": "8ca66ec6-6157-5f70-84e1-217c9c8c7c72",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "endorsement": {
+                        "text": "(df) (v) (ve)",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png"
+                    },
+                    "classifications": []
+                },
+                "4e256d1d-43fb-55da-ac45-1a010133a034": {
+                    "description": "(gf) (df) (v) (ve)",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/f30659f4-6777-43d3-9355-3993ca4b37e0.jpeg",
+                    "price": 10,
+                    "title": "pickled ginger sachet",
+                    "uuid": "4e256d1d-43fb-55da-ac45-1a010133a034",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "endorsement": {
+                        "text": "(gf) (df) (v) (ve)",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png"
+                    },
+                    "classifications": []
+                },
+                "12f9070c-90c0-54a9-b212-92001fc704a1": {
+                    "description": "available in 3 flavours - crushed coconut & chocolate (293 kcal), glazed pecan, cashew & dates (184 kcal) , cocoa butter brownie (185 kcal)\n(gf)",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/beedad9f-d1ed-4897-b642-280354341065.jpeg",
+                    "price": 199,
+                    "title": "oishi bar",
+                    "uuid": "12f9070c-90c0-54a9-b212-92001fc704a1",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "endorsement": {
+                        "text": "(gf)",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png"
+                    },
+                    "classifications": []
+                },
+                "32e9d01b-55ed-5053-b5a9-fc84cf1b4744": {
+                    "description": "miso marinated [british] chicken, wholegrain brown rice, ginger'greens, herbs, teriyaki sauce, sesame seed mix. 589 kcal\n(df)",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/15c3d18d-8fe0-4e72-b666-c2a699f759dd.jpeg",
+                    "price": 799,
+                    "title": "teriyaki chicken rice bowl",
+                    "uuid": "32e9d01b-55ed-5053-b5a9-fc84cf1b4744",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "endorsement": {
+                        "text": "(df)",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_check@3x.png"
+                    },
+                    "classifications": []
+                },
+                "6716bf91-3ae4-57d5-a27e-6087df5be818": {
+                    "description": "chocolate rice cakes made from perfect balance of wholegrain and white rice for a light crips crunch, coated with top quality chocolate. Gluten free and lighter than biscuits, bars & brownies. \navailable in milk chocolate (83 kcal) and dark chocolate (85 kcal).\n(gf)",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/17edebf3-5ea5-4a25-baad-7cdb2defaec0.jpeg",
+                    "price": 179,
+                    "title": "rice cake",
+                    "uuid": "6716bf91-3ae4-57d5-a27e-6087df5be818",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "endorsement": {
+                        "text": "(gf)",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_check@3x.png"
+                    },
+                    "classifications": []
+                },
+                "9153557b-b322-53e7-a64e-e031fa9b2329": {
+                    "description": "omega 3 rich line caught yellowfin tuna & sashimi grade atlantic salmon sashimi on magnesium packed wakame, low calorie edamame & pickled ginger. 355 kcal\n(df)",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/3aef5e6a-0e52-47f9-825d-1fd336c3deb0.jpeg",
+                    "price": 1199,
+                    "title": "mixed sashimi",
+                    "uuid": "9153557b-b322-53e7-a64e-e031fa9b2329",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "endorsement": {
+                        "text": "(df)",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_check@3x.png"
+                    },
+                    "classifications": []
+                },
+                "c4ef7c5e-9ae5-537d-af97-3dbb84220a5a": {
+                    "description": "omega 3 rich sashimi grade atlantic salmon & avocado rolled in vitamin b packed nori. 309 kcal\n(df)",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/4bd01c21-f966-4869-ab3f-df6889ce0599.jpeg",
+                    "price": 499,
+                    "title": "salmon and avocado rolls",
+                    "uuid": "c4ef7c5e-9ae5-537d-af97-3dbb84220a5a",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "endorsement": {
+                        "text": "(df)",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_check@3x.png"
+                    },
+                    "classifications": []
+                },
+                "ffb80aa7-659f-5629-9774-383ac1b1fd0e": {
+                    "description": "omega 3 rich sashimi grade salmon & avocado maki, crispy shallots, 'no mayo' spicy & teriyaki sauces & sesame seeds. 453 kcal\n(df)",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/295a5c32-c584-4d66-97b6-425785cbd194.jpeg",
+                    "price": 619,
+                    "title": "dragon rolls salmon & avo",
+                    "uuid": "ffb80aa7-659f-5629-9774-383ac1b1fd0e",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "endorsement": {
+                        "text": "(df)",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_check@3x.png"
+                    },
+                    "classifications": []
+                },
+                "3ef9269d-7db1-5e97-9c94-9589b0112d17": {
+                    "description": "",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/61cc5ecf-dc12-45c8-ab57-944df319e738.jpeg",
+                    "price": 149,
+                    "title": "itsu still water",
+                    "uuid": "3ef9269d-7db1-5e97-9c94-9589b0112d17",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "4005bb62-e01b-5ed3-80b8-7a5ad9f41dca": {
+                    "description": "miso marinated (British) chicken, wholegrain brown rice, gingers'greens,  teriyaki, korean spiced sauce. 556 kcal (df)",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/11558f71-85f0-40a6-b006-b54d53974060.jpeg",
+                    "price": 799,
+                    "title": "korean chicken rice bowl",
+                    "uuid": "4005bb62-e01b-5ed3-80b8-7a5ad9f41dca",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "endorsement": {
+                        "text": "(df)",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_check@3x.png"
+                    },
+                    "classifications": []
+                },
+                "ad8c1e53-3bde-5ebd-85d6-82ceb7106350": {
+                    "description": "omega 3 rich line caught yellowfin tuna and sashimi grade atlantic salmon nigiri, salmon maki, crab maki [with wasabi] and salmon sashimi on magnesium packed wakame. 571 kcal",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/ce76e5ad-0657-4870-af4b-ca77ce065777.jpeg",
+                    "price": 999,
+                    "title": "health & happiness",
+                    "uuid": "ad8c1e53-3bde-5ebd-85d6-82ceb7106350",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "0d17a66c-85e1-5785-b850-86166586d902": {
+                    "description": "salted Caramel coconut ganache - coconut salted caramel chocolate ganache made from coconut cream, suitable for vegans, dairy and gluten free. Luxurious and the perfect treat.\n(gf) (df) (v) (ve)",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/617f8031-6ad9-48ee-a136-152c061365f7.jpeg",
+                    "price": 199,
+                    "title": "little salted caramel pot",
+                    "uuid": "0d17a66c-85e1-5785-b850-86166586d902",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "endorsement": {
+                        "text": "(gf) (df) (v) (ve)",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png"
+                    },
+                    "classifications": []
+                },
+                "152b0617-6862-5aa3-a7a7-8fa5f741f89e": {
+                    "description": "miso marinated [british] chicken, noodles, seasonal greens, ginger'greens, chilli’chicken ramen broth. 559 kcal\n(df)",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/b1cf7c02-f246-4047-845a-50e190a14dab.jpeg",
+                    "price": 799,
+                    "title": "chilli'chicken udon",
+                    "uuid": "152b0617-6862-5aa3-a7a7-8fa5f741f89e",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "endorsement": {
+                        "text": "(df)",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_check@3x.png"
+                    },
+                    "classifications": []
+                },
+                "cba9f265-e7e5-5753-90b0-14c45d019f50": {
+                    "description": "3 veg gyoza, crystal noodles, miso. 176 kcal\n(df) (v) (ve)",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/eaea60d0-45fa-42de-a930-16eae5f1830b.jpeg",
+                    "price": 399,
+                    "title": "detox miso'noodle soup",
+                    "uuid": "cba9f265-e7e5-5753-90b0-14c45d019f50",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "endorsement": {
+                        "text": "(df) (v) (ve)",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png"
+                    },
+                    "classifications": []
+                },
+                "84004315-5885-5e1f-8b5d-e36750d002b7": {
+                    "description": "choose one of Itsu's finest Sushi box served with edamame and miso soup.  For calories and dietary please see individual products.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/0e27045b-42cc-4eed-a01b-e0d2ce281dda.jpeg",
+                    "price": 1499,
+                    "title": "itsu's sushi bundle for 1",
+                    "uuid": "84004315-5885-5e1f-8b5d-e36750d002b7",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "d1556b4c-67ce-5607-aaa9-f81e42dcd9db": {
+                    "description": "salmon & line caught yellowfin tuna sushi, omega rich sashimi, salmon baby maki, salmon and tuna rolls, wakame. 961 kcal\n(df)",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/454761a7-6281-42ec-96f4-c3110808a518.jpeg",
+                    "price": 2499,
+                    "title": "salmon 'tuna sharing platter",
+                    "uuid": "d1556b4c-67ce-5607-aaa9-f81e42dcd9db",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "endorsement": {
+                        "text": "(df)",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_check@3x.png"
+                    },
+                    "classifications": []
+                },
+                "1c443577-02ba-5e04-a0ed-a2eb610cd897": {
+                    "description": "combination of 5 delicious fruit - pineapple, mango, melon, blueberries and pomegranate\n(gf) (df)",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/086cb567-70c2-44aa-9b90-ba4d426a2cf0.jpeg",
+                    "price": 359,
+                    "title": "hawaii 5-o",
+                    "uuid": "1c443577-02ba-5e04-a0ed-a2eb610cd897",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "endorsement": {
+                        "text": "(gf) (df)",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_check@3x.png"
+                    },
+                    "classifications": []
+                },
+                "aa3d298e-8935-5755-8a22-68feb0f91d64": {
+                    "description": "omega 3 rich sashimi grade atlantic salmon nigiri, salmon maki, salmon baby rolls. 395 kcal\n(df)",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/cb822d2f-8d22-4c0f-9dc7-0a65bb4ea3ee.jpeg",
+                    "price": 619,
+                    "title": "super salmon light",
+                    "uuid": "aa3d298e-8935-5755-8a22-68feb0f91d64",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "endorsement": {
+                        "text": "(df)",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_check@3x.png"
+                    },
+                    "classifications": []
+                },
+                "8be3e544-087c-591e-8802-24197e370e34": {
+                    "description": "",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/57b83b9d-8aa7-4b95-8465-fa570a8e55af.jpeg",
+                    "price": 149,
+                    "title": "itsu sparkling water",
+                    "uuid": "8be3e544-087c-591e-8802-24197e370e34",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "57fc7aea-322b-5e35-a921-10a8c204a21c": {
+                    "description": "line caught yellowfin tuna sushi, & omega rich sashimi grade nigiri, salmon, & veggie maki, crab maki [with wasabi], avocado baby rolls, ginger, wakame and muki beans. 1025 kcal",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/57ba08ab-77e2-45c7-8fde-a72580ca6c77.jpeg",
+                    "price": 1899,
+                    "title": "sushi sharing platter",
+                    "uuid": "57fc7aea-322b-5e35-a921-10a8c204a21c",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "f9d893d6-ef78-5542-b694-041077e3c999": {
+                    "description": "lean, high protein california crab [with wasabi] & avocado rolled in vitamin b packed nori. 353 kcal",
+                    "imageUrl": "",
+                    "price": 499,
+                    "title": "crab california rolls",
+                    "uuid": "f9d893d6-ef78-5542-b694-041077e3c999",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "ae9921fd-2e20-5465-9b45-f835905cf72c": {
+                    "description": "",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/c38f70b1-e19d-4e87-9e68-123383844ae4.jpeg",
+                    "price": 149,
+                    "title": "coke",
+                    "uuid": "ae9921fd-2e20-5465-9b45-f835905cf72c",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "beb838bd-5267-5702-9bf9-8972dbfe9ec1": {
+                    "description": "dried, lean, teriyaki beef jerky made from premium silverside beef, marinated and gently smoked over applewood. the perfect high protein. 97 kcal\n(gf) (df)",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/6a95c68c-45c5-4e63-a037-b25f997c8c0b.jpeg",
+                    "price": 299,
+                    "title": "beef twerky",
+                    "uuid": "beb838bd-5267-5702-9bf9-8972dbfe9ec1",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "endorsement": {
+                        "text": "(gf) (df)",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_check@3x.png"
+                    },
+                    "classifications": []
+                },
+                "eaeff432-8c9c-5987-bf7e-fc85b812f0b4": {
+                    "description": "soft steamed buns filled with aromatic duck, hoisin sauce & vegetables. 382 kcal\n(df)",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/5753a188-8341-4e45-9f33-983d2728bc70.jpeg",
+                    "price": 539,
+                    "title": "hoisin duck bao buns 3pc",
+                    "uuid": "eaeff432-8c9c-5987-bf7e-fc85b812f0b4",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "endorsement": {
+                        "text": "(df)",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_check@3x.png"
+                    },
+                    "classifications": []
+                },
+                "4eb290cc-a4b8-5746-bc2f-19ab10cc8caf": {
+                    "description": "high protein, low calorie edamame. 157 kcal\n(gf) (df) (v) (ve)",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/d853ad18-c4ff-47bf-8987-a0533c930c66.jpeg",
+                    "price": 249,
+                    "title": "edamame",
+                    "uuid": "4eb290cc-a4b8-5746-bc2f-19ab10cc8caf",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "endorsement": {
+                        "text": "(gf) (df) (v) (ve)",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png"
+                    },
+                    "classifications": []
+                },
+                "130da085-123d-594e-b987-06bd60f5e8e9": {
+                    "description": "choose one of Itsu's finest hot rice or udon bowl served with edamame and miso soup. For calories and dietary please see individual products.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/fe7d5b97-944e-4827-ba9a-1e09a650a382.jpeg",
+                    "price": 1299,
+                    "title": "hot meal for 1",
+                    "uuid": "130da085-123d-594e-b987-06bd60f5e8e9",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "925b22fb-0140-5169-8163-466a3e377db9": {
+                    "description": "nutrient packed veggie maki, avocado baby rolls, carrot & cabbage, vegetable salad, biona burger (crumbled), veggie dumplings with sesame seeds. 809 kcal\n(df) (ve) (v)",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/230d0075-4bd3-4e5c-a330-fd33ba452628.jpeg",
+                    "price": 1599,
+                    "title": "veggie sharing platter",
+                    "uuid": "925b22fb-0140-5169-8163-466a3e377db9",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "endorsement": {
+                        "text": "(df) (ve) (v)",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_check@3x.png"
+                    },
+                    "classifications": []
+                },
+                "9e6fe132-b648-51ca-a2e0-1005e8c10037": {
+                    "description": "omega 3 rich sashimi grade atlantic salmon nigiri. 227 kcal\n(df)",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/55221839-a208-4a6c-81f8-b0264f2ced11.jpeg",
+                    "price": 499,
+                    "title": "salmon sushi",
+                    "uuid": "9e6fe132-b648-51ca-a2e0-1005e8c10037",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "endorsement": {
+                        "text": "(df)",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_check@3x.png"
+                    },
+                    "classifications": []
+                },
+                "f27f3406-6539-5716-b953-bf44790ac35f": {
+                    "description": "(df) (v) (ve)",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/a924aedd-2e1f-4b07-943b-4f1594473224.jpeg",
+                    "price": 10,
+                    "title": "teriyaki sauce sachet",
+                    "uuid": "f27f3406-6539-5716-b953-bf44790ac35f",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "endorsement": {
+                        "text": "(df) (v) (ve)",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png"
+                    },
+                    "classifications": []
+                },
+                "d0756bf9-1474-5057-b4b3-f63fd7e96470": {
+                    "description": "",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/d41ee08f-8ebe-48f5-8abf-b59c3186cee0.jpeg",
+                    "price": 10,
+                    "title": "wasabi sachet",
+                    "uuid": "d0756bf9-1474-5057-b4b3-f63fd7e96470",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "6a831a39-4914-5e92-849d-ae39cc112c27": {
+                    "description": "nutrient packed veggie maki, baby avocado rolls, veggie dumplings on muki bean salad. 527 kcal\n(df) (ve) (v)",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/3bb0c5c9-65fa-4b2d-b07c-aaacdafbcde4.jpeg",
+                    "price": 699,
+                    "title": "veggie sushi collection",
+                    "uuid": "6a831a39-4914-5e92-849d-ae39cc112c27",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "endorsement": {
+                        "text": "(df) (ve) (v)",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png"
+                    },
+                    "classifications": []
+                },
+                "e11a86b5-9bfe-5fd5-b409-0f5df5c8c961": {
+                    "description": "a refreshing sparkling soft drink, Lo Bros Organic Kombucha is slow brewed to create a vibrant and uplifting elixir with more than 100 Million gut lovin' bio cultures. So delicious it’s hard to believe it’s good for you!",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/6c222a5a-f391-46d9-988c-36b2b8d89c8d.jpeg",
+                    "price": 299,
+                    "title": "kombucha",
+                    "uuid": "e11a86b5-9bfe-5fd5-b409-0f5df5c8c961",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "897c0993-5739-5e8e-b623-bea60326fc25": {
+                    "description": "cold pressed orange juice packed with immune system strengthening vitamin c",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/250c613b-ea52-4ee2-beda-0a7c3e68967d.jpeg",
+                    "price": 299,
+                    "title": "orange press",
+                    "uuid": "897c0993-5739-5e8e-b623-bea60326fc25",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "87f56793-75a3-5956-9f8b-ace03a606ae2": {
+                    "description": "",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/268dabeb-2f3f-4ae6-bc36-a379b11043d1.jpeg",
+                    "price": 129,
+                    "title": "diet coke",
+                    "uuid": "87f56793-75a3-5956-9f8b-ace03a606ae2",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "9ab99a32-9b6a-5dc6-b6b4-20cf438d7894": {
+                    "description": "vitamin c & e rich avocado rolled in vitamin b packed nori. 266 kcal\n(df) (ve) (v)",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/2cd71fe0-7138-4aed-8b9e-865cb4ea51e5.jpeg",
+                    "price": 499,
+                    "title": "avo baby rolls",
+                    "uuid": "9ab99a32-9b6a-5dc6-b6b4-20cf438d7894",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "endorsement": {
+                        "text": "(df) (ve) (v)",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png"
+                    },
+                    "classifications": []
+                },
+                "e2ebdc91-605b-5fa2-9ea7-f578fe2b8af1": {
+                    "description": "omega 3 rich poached salmon & protein packed muki beans on seasoned sushi rice with teriyaki. 453 kcal\n(df)",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/3130e898-22a0-4845-a4f4-a7833fe407d2.jpeg",
+                    "price": 619,
+                    "title": "salmon teriyaki on a bed",
+                    "uuid": "e2ebdc91-605b-5fa2-9ea7-f578fe2b8af1",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "endorsement": {
+                        "text": "(df)",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_check@3x.png"
+                    },
+                    "classifications": []
+                },
+                "c006f5d2-1281-54d9-bcb6-865f117f4c32": {
+                    "description": "zingy lemon and passion fruit dessert topped with a sprinkle of chilli\n(gf)",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/b07115b7-4d99-471a-8d27-a2f53f957ccb.jpeg",
+                    "price": 299,
+                    "title": "lemon zinger",
+                    "uuid": "c006f5d2-1281-54d9-bcb6-865f117f4c32",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "endorsement": {
+                        "text": "(gf)",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_check@3x.png"
+                    },
+                    "classifications": []
+                },
+                "fcff4afe-f98f-5ffc-b638-0f370a503452": {
+                    "description": "coconut chocolate ganache made with coconut cream. Suitable for vegans, dairy and gf enjoy our delicious mini choc pots.\n(gf) (df) (v) (ve)",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/aaded929-51e5-4153-88c6-7cbc14e9e352.jpeg",
+                    "price": 199,
+                    "title": "little choc pot",
+                    "uuid": "fcff4afe-f98f-5ffc-b638-0f370a503452",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "endorsement": {
+                        "text": "(gf) (df) (v) (ve)",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png"
+                    },
+                    "classifications": []
+                },
+                "4e70b78b-46d5-5102-a531-bf3149504de0": {
+                    "description": "steamed, low calorie, low fat king prawn dumplings with teriyaki sauce. 174 kcal\n(df)",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/0f1799c1-5ccd-4c55-b942-2f4d46180463.jpeg",
+                    "price": 529,
+                    "title": "king prawn gyoza",
+                    "uuid": "4e70b78b-46d5-5102-a531-bf3149504de0",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "endorsement": {
+                        "text": "(df)",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_check@3x.png"
+                    },
+                    "classifications": []
+                }
+            }
+        },
+        "sections": [
+            {
+                "subsectionUuids": [
+                    "7ce17a8e-3721-5055-9a9a-e37e7d8a8359",
+                    "86e4be96-a802-5f98-8fc4-53170116c12e",
+                    "4eb48355-544b-5f11-9522-e642b4ffe23f",
+                    "be736114-49ed-5ec9-a7fb-e3ce9cc83e05",
+                    "0223f245-0216-52d8-a803-7fbfaa54a02d",
+                    "f63b400b-91a2-5506-906d-ff5d20b4d695",
+                    "3017b23a-1961-5336-9de5-e4d5f2de6cbb",
+                    "31f716b9-e782-5906-a8cc-611db0c3b4dd",
+                    "9428bfa3-25f4-5835-9002-fea347f11c09",
+                    "de417cff-6148-52ff-b920-ca10cc7d4aed",
+                    "e70becb8-8dbe-5c5c-b8a9-757a80517a35",
+                    "7ef94241-7735-52bc-ba29-21de9d95020a",
+                    "938c21b3-7596-5608-832c-63d88ba76fe4",
+                    "946ea68e-fa86-544a-b0bb-a7128afcf671"
+                ],
+                "title": "Itsu  Menu",
+                "subtitle": "10:00 AM – 9:30 PM",
+                "uuid": "b69ee37a-1519-5d54-8bc6-e1dbd62992eb",
+                "isTop": true,
+                "isOnSale": true
+            }
+        ],
+        "subsectionsMap": {
+            "7ef94241-7735-52bc-ba29-21de9d95020a": {
+                "itemUuids": [
+                    "a6426024-78ca-52f4-8ef3-9c305d4f8a26",
+                    "5975c5f8-f14e-5f19-b6f8-d0469b2a2bfc",
+                    "c006f5d2-1281-54d9-bcb6-865f117f4c32",
+                    "1c443577-02ba-5e04-a0ed-a2eb610cd897",
+                    "fcff4afe-f98f-5ffc-b638-0f370a503452",
+                    "0d17a66c-85e1-5785-b850-86166586d902",
+                    "e7499ce8-e391-598f-8c9a-e7c05ae434b2"
+                ],
+                "subtitle": "",
+                "title": "desserts",
+                "uuid": "7ef94241-7735-52bc-ba29-21de9d95020a",
+                "displayType": null
+            },
+            "4eb48355-544b-5f11-9522-e642b4ffe23f": {
+                "itemUuids": [
+                    "ad8c1e53-3bde-5ebd-85d6-82ceb7106350",
+                    "c94b8c70-f893-50e6-995d-0fe0d072c9e2",
+                    "6a8a5dde-84b5-5d0b-a1c1-6fdac89421b9",
+                    "6a831a39-4914-5e92-849d-ae39cc112c27",
+                    "aa3d298e-8935-5755-8a22-68feb0f91d64",
+                    "8e4f9563-6b27-5190-9e53-ec09391be3f6",
+                    "9153557b-b322-53e7-a64e-e031fa9b2329"
+                ],
+                "subtitle": "",
+                "title": "sushi boxes",
+                "uuid": "4eb48355-544b-5f11-9522-e642b4ffe23f",
+                "displayType": null
+            },
+            "946ea68e-fa86-544a-b0bb-a7128afcf671": {
+                "itemUuids": [
+                    "87f56793-75a3-5956-9f8b-ace03a606ae2",
+                    "ae9921fd-2e20-5465-9b45-f835905cf72c",
+                    "e11a86b5-9bfe-5fd5-b409-0f5df5c8c961",
+                    "6e1c2ec1-5de6-5724-86a6-de30c6f8b29e",
+                    "adeecb4c-9a38-51fa-8a4d-f648b918ca35",
+                    "3ef9269d-7db1-5e97-9c94-9589b0112d17",
+                    "8be3e544-087c-591e-8802-24197e370e34",
+                    "e4db975a-94b2-5f7f-af48-dc8e0a5ada64",
+                    "897c0993-5739-5e8e-b623-bea60326fc25"
+                ],
+                "subtitle": "",
+                "title": "drinks",
+                "uuid": "946ea68e-fa86-544a-b0bb-a7128afcf671",
+                "displayType": null
+            },
+            "e70becb8-8dbe-5c5c-b8a9-757a80517a35": {
+                "itemUuids": [
+                    "d0756bf9-1474-5057-b4b3-f63fd7e96470",
+                    "8c8b47d8-49a6-5cb7-8923-2a1e431a6a0d",
+                    "4e256d1d-43fb-55da-ac45-1a010133a034",
+                    "f27f3406-6539-5716-b953-bf44790ac35f"
+                ],
+                "subtitle": "",
+                "title": "sauces",
+                "uuid": "e70becb8-8dbe-5c5c-b8a9-757a80517a35",
+                "displayType": null
+            },
+            "7ce17a8e-3721-5055-9a9a-e37e7d8a8359": {
+                "itemUuids": [
+                    "32e9d01b-55ed-5053-b5a9-fc84cf1b4744",
+                    "ad8c1e53-3bde-5ebd-85d6-82ceb7106350",
+                    "e11a86b5-9bfe-5fd5-b409-0f5df5c8c961",
+                    "a001099c-5038-5f10-9130-45cc22b5218d"
+                ],
+                "subtitle": "",
+                "title": "favourites - uber eats",
+                "uuid": "7ce17a8e-3721-5055-9a9a-e37e7d8a8359",
+                "displayType": null
+            },
+            "9428bfa3-25f4-5835-9002-fea347f11c09": {
+                "itemUuids": [
+                    "13bb9dc7-ce7b-5448-9c1e-20cdc74b7c9f",
+                    "4aabd15c-4eae-596c-b42d-05f2be56efa7",
+                    "cba9f265-e7e5-5753-90b0-14c45d019f50"
+                ],
+                "subtitle": "",
+                "title": "[hot] soups",
+                "uuid": "9428bfa3-25f4-5835-9002-fea347f11c09",
+                "displayType": null
+            },
+            "0223f245-0216-52d8-a803-7fbfaa54a02d": {
+                "itemUuids": [
+                    "bf0b9c28-23e0-5371-b085-ee2e63fe670f",
+                    "ffb80aa7-659f-5629-9774-383ac1b1fd0e",
+                    "9ab99a32-9b6a-5dc6-b6b4-20cf438d7894",
+                    "9e6fe132-b648-51ca-a2e0-1005e8c10037",
+                    "f9d893d6-ef78-5542-b694-041077e3c999",
+                    "c4ef7c5e-9ae5-537d-af97-3dbb84220a5a",
+                    "4eb290cc-a4b8-5746-bc2f-19ab10cc8caf"
+                ],
+                "subtitle": "",
+                "title": "sushi side order",
+                "uuid": "0223f245-0216-52d8-a803-7fbfaa54a02d",
+                "displayType": null
+            },
+            "31f716b9-e782-5906-a8cc-611db0c3b4dd": {
+                "itemUuids": [
+                    "eaeff432-8c9c-5987-bf7e-fc85b812f0b4",
+                    "fa92e30f-958f-5495-ad24-640a5c8bc6ad",
+                    "1d23f898-a263-5b3c-aa6e-74be3d2151aa",
+                    "4e70b78b-46d5-5102-a531-bf3149504de0"
+                ],
+                "subtitle": "",
+                "title": "[hot] gyoza's & bao's",
+                "uuid": "31f716b9-e782-5906-a8cc-611db0c3b4dd",
+                "displayType": null
+            },
+            "86e4be96-a802-5f98-8fc4-53170116c12e": {
+                "itemUuids": [
+                    "84004315-5885-5e1f-8b5d-e36750d002b7",
+                    "ee8ca5a9-0cd1-5bdb-be7d-13a12fa217e5",
+                    "130da085-123d-594e-b987-06bd60f5e8e9",
+                    "db1d26f6-df5d-5390-a04b-aba99fb39b13"
+                ],
+                "subtitle": "",
+                "title": "meal deals",
+                "uuid": "86e4be96-a802-5f98-8fc4-53170116c12e",
+                "displayType": null
+            },
+            "938c21b3-7596-5608-832c-63d88ba76fe4": {
+                "itemUuids": [
+                    "635a2f49-5e55-5118-aea3-9fb40e879d51",
+                    "12f9070c-90c0-54a9-b212-92001fc704a1",
+                    "e9e9b0e4-5fe2-513c-b17d-f4772f758bda",
+                    "beb838bd-5267-5702-9bf9-8972dbfe9ec1",
+                    "6716bf91-3ae4-57d5-a27e-6087df5be818",
+                    "2a18a9a4-daeb-583c-a1c2-8bacaf85dca9"
+                ],
+                "subtitle": "",
+                "title": "snacks",
+                "uuid": "938c21b3-7596-5608-832c-63d88ba76fe4",
+                "displayType": null
+            },
+            "f63b400b-91a2-5506-906d-ff5d20b4d695": {
+                "itemUuids": [
+                    "9a3b91b7-91e6-5dd8-9f5c-e25659c5f330",
+                    "4005bb62-e01b-5ed3-80b8-7a5ad9f41dca",
+                    "f59e859a-d485-54eb-ac2c-fccf61366e86",
+                    "77a95f68-d806-5cd9-a267-8fb449e088f4"
+                ],
+                "subtitle": "",
+                "title": "[hot] rice bowls",
+                "uuid": "f63b400b-91a2-5506-906d-ff5d20b4d695",
+                "displayType": null
+            },
+            "3017b23a-1961-5336-9de5-e4d5f2de6cbb": {
+                "itemUuids": [
+                    "152b0617-6862-5aa3-a7a7-8fa5f741f89e",
+                    "0ffc7449-61f5-59bf-9e5c-647605a959d0",
+                    "40661293-0520-5dd6-ab8f-57d873eb66c7",
+                    "8ca66ec6-6157-5f70-84e1-217c9c8c7c72"
+                ],
+                "subtitle": "",
+                "title": "[hot] udon bowls",
+                "uuid": "3017b23a-1961-5336-9de5-e4d5f2de6cbb",
+                "displayType": null
+            },
+            "de417cff-6148-52ff-b920-ca10cc7d4aed": {
+                "itemUuids": [
+                    "a001099c-5038-5f10-9130-45cc22b5218d",
+                    "7f3e223a-8e37-5abf-b898-b02a0c467417",
+                    "e2ebdc91-605b-5fa2-9ea7-f578fe2b8af1",
+                    "872c395c-4c62-55ce-966f-e23d16df469e"
+                ],
+                "subtitle": "",
+                "title": "salads",
+                "uuid": "de417cff-6148-52ff-b920-ca10cc7d4aed",
+                "displayType": null
+            },
+            "be736114-49ed-5ec9-a7fb-e3ce9cc83e05": {
+                "itemUuids": [
+                    "57fc7aea-322b-5e35-a921-10a8c204a21c",
+                    "d1556b4c-67ce-5607-aaa9-f81e42dcd9db",
+                    "925b22fb-0140-5169-8163-466a3e377db9"
+                ],
+                "subtitle": "",
+                "title": "sharing platters",
+                "uuid": "be736114-49ed-5ec9-a7fb-e3ce9cc83e05",
+                "displayType": null
+            }
+        },
+        "title": "Itsu (Victoria)",
+        "uuid": "bbe9ab51-1aa5-4500-9ec7-5f32a6d03931",
+        "categories": [
+            "₴",
+            "Суші",
+            "Японська",
+            "Здорова їжа"
+        ],
+        "cuisineList": [
+            "Суші",
+            "Японська",
+            "Здорова їжа"
+        ],
+        "priceBucket": "₴",
+        "etaRange": {
+            "text": "20–30 min",
+            "iconUrl": ""
+        },
+        "ratingBadge": {
+            "text": "<span><span style=\"font-family: inherit; color: #3a3a48;\">4.1 <img src=\"https://d1a3f4spazzrp4.cloudfront.net/static/images/Star_Black_Eats_3.png\" width=\"14\" height=\"14\" vertical-align=\"middle\"> </span><span style=\"font-family: inherit; color: #757575;\">(69)</span></span>"
+        },
+        "disclaimerBadge": {
+            "text": "<span style=\"font-family: inherit;\">for full details on itsu allergens, please visit itsu.com/menu or call 0207 5845529</span>"
+        },
+        "fareBadge": null,
+        "fareInfo": {
+            "serviceFee": 30,
+            "serviceFeeCents": 3000
+        },
+        "promotion": null,
+        "shouldIndex": false,
+        "heroImageUrls": [
+            {
+                "url": "https://d1ralsognjng37.cloudfront.net/2259cee0-1692-4d33-965a-76fc00559019",
+                "width": 240
+            },
+            {
+                "url": "https://d1ralsognjng37.cloudfront.net/41a83da8-b990-43e8-896e-382117bc7e7b",
+                "width": 550
+            },
+            {
+                "url": "https://d1ralsognjng37.cloudfront.net/ff692e2b-a72c-4dac-8403-51e62cf518c0",
+                "width": 640
+            },
+            {
+                "url": "https://d1ralsognjng37.cloudfront.net/9e833863-10cc-4d8d-b87f-c4bfdd388212",
+                "width": 750
+            },
+            {
+                "url": "https://d1ralsognjng37.cloudfront.net/3fa8475c-5489-43ed-a938-63390511c8e8",
+                "width": 1080
+            },
+            {
+                "url": "https://d1ralsognjng37.cloudfront.net/00eafd3e-324c-4584-9e83-57acaf4a5d72",
+                "width": 2880
+            }
+        ],
+        "isOpen": true,
+        "currencyCode": "GBP",
+        "closedMessage": "Currently unavailable",
+        "location": {
+            "address": "Itsu, London, England SW1E 5NA",
+            "streetAddress": "itsu",
+            "city": "London",
+            "country": "GB",
+            "postalCode": "SW1E 5NA",
+            "region": "England",
+            "latitude": 51.4966,
+            "longitude": -0.140805
+        },
+        "isDeliveryThirdParty": false,
+        "hours": [
+            {
+                "dayRange": "Sunday",
+                "sectionHours": [
+                    {
+                        "startTime": 660,
+                        "endTime": 1110,
+                        "sectionTitle": ""
+                    }
+                ]
+            },
+            {
+                "dayRange": "Monday - Friday",
+                "sectionHours": [
+                    {
+                        "startTime": 600,
+                        "endTime": 1290,
+                        "sectionTitle": ""
+                    }
+                ]
+            },
+            {
+                "dayRange": "Saturday",
+                "sectionHours": [
+                    {
+                        "startTime": 660,
+                        "endTime": 1230,
+                        "sectionTitle": ""
+                    }
+                ]
+            }
+        ],
+        "disableOrderInstruction": true,
+        "disableCheckoutInstruction": true,
+        "nuggets": [],
+        "isWithinDeliveryRange": false,
+        "slug": "itsu-victoria",
+        "citySlug": "london",
+        "phoneNumber": "+442076307641",
+        "metaJson": "{\"@context\":\"http:\\u002F\\u002Fschema.org\",\"@type\":\"Restaurant\",\"@id\":\"https:\\u002F\\u002Fwww.ubereats.com\\u002Fen-UA\\u002Flondon\\u002Ffood-delivery\\u002Fitsu-victoria\\u002Fu-mrURqlRQCex18yptA5MQ\\u002F\",\"name\":\"Itsu (Victoria)\",\"priceRange\":\"₴\",\"potentialAction\":{\"@type\":\"OrderAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\\u002F\\u002Fwww.ubereats.com\\u002Fen-UA\\u002Flondon\\u002Ffood-delivery\\u002Fitsu-victoria\\u002Fu-mrURqlRQCex18yptA5MQ\\u002F?utm_campaign=order-action&utm_medium=organic\",\"inLanguage\":\"English\",\"actionPlatform\":[\"http:\\u002F\\u002Fschema.org\\u002FDesktopWebPlatform\",\"http:\\u002F\\u002Fschema.org\\u002FMobileWebPlatform\"]},\"deliveryMethod\":[\"http:\\u002F\\u002Fpurl.org\\u002Fgoodrelations\\u002Fv1#DeliveryModeOwnFleet\"]},\"address\":{\"@type\":\"PostalAddress\",\"addressLocality\":\"London\",\"addressRegion\":\"England\",\"postalCode\":\"SW1E 5NA\",\"addressCountry\":\"GB\",\"streetAddress\":\"itsu\"},\"geo\":{\"@type\":\"GeoCoordinates\",\"latitude\":51.4966,\"longitude\":-0.140805}}",
+        "promoTrackings": [],
+        "suggestedPromotion": {
+            "text": "",
+            "promotionUuid": ""
+        },
+        "supportedDiningModes": [
+            {
+                "mode": "DELIVERY",
+                "title": "Delivery",
+                "isSelected": true,
+                "isAvailable": true
+            }
+        ],
+        "isPreview": false,
+        "pinnedInfo": null
+    }
+}

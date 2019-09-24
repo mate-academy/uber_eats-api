@@ -1,0 +1,1481 @@
+{
+    "status": "success",
+    "data": {
+        "sectionEntitiesMap": {
+            "fa8cf2ef-b878-4e41-9a2a-b4dc93a0abdd": {
+                "13d7844e-128d-4e6e-bbaf-809b97129aaf": {
+                    "description": "",
+                    "imageUrl": null,
+                    "price": 350,
+                    "title": "Egg Fried Rice",
+                    "uuid": "13d7844e-128d-4e6e-bbaf-809b97129aaf",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "19253e76-6c4e-49ff-bcb7-14bd4c59ecad": {
+                    "description": "medium spicy. Crab, spicy sweet egg gravy with 6pcs of fried mantou",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/8a01eba3-d4dc-49ba-bd10-c3136bc3ab86",
+                    "price": 2290,
+                    "title": "Singapore Chilli Crab with Mantou",
+                    "uuid": "19253e76-6c4e-49ff-bcb7-14bd4c59ecad",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "endorsement": {
+                        "text": "Medium Spicy",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_check@3x.png"
+                    },
+                    "classifications": []
+                },
+                "ab0af6ae-6522-4d57-9f60-a68c18ea99d9": {
+                    "description": "Slow cooked spiced beef. Served with jasmine rice.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/49db9b98-e642-4e01-b8d9-3f7cba709f9a",
+                    "price": 950,
+                    "title": "Beef Rendang",
+                    "uuid": "ab0af6ae-6522-4d57-9f60-a68c18ea99d9",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "endorsement": {
+                        "text": "Very Spicy",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_check@3x.png"
+                    },
+                    "classifications": []
+                },
+                "fdfff5af-600d-4afe-b7f5-05dd9df79c73": {
+                    "description": "",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/39dc0e92-3d01-443f-bf6e-c2874cd1e015",
+                    "price": 420,
+                    "title": "Apple Fresh Juice",
+                    "uuid": "fdfff5af-600d-4afe-b7f5-05dd9df79c73",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "f61463b5-772e-4efd-8393-3d0e13686bc6": {
+                    "description": "Slow cooked spiced chicken. Served with jasmine rice.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/dafc1748-d6e8-488e-80a0-a7613c3ce62f",
+                    "price": 920,
+                    "title": "Chicken Rendang",
+                    "uuid": "f61463b5-772e-4efd-8393-3d0e13686bc6",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "endorsement": {
+                        "text": "Medium Spicy",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_check@3x.png"
+                    },
+                    "classifications": []
+                },
+                "408b8352-e7b5-4f31-a1b5-733a27115d2c": {
+                    "description": "Five skewers. medium spicy. Served with spicy peanut sauce.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/9808b13e-e42c-40d3-908e-6e798c1258b5",
+                    "price": 750,
+                    "title": "Grilled Chicken Satay",
+                    "uuid": "408b8352-e7b5-4f31-a1b5-733a27115d2c",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "endorsement": {
+                        "text": "Medium Spicy",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_check@3x.png"
+                    },
+                    "classifications": []
+                },
+                "13628282-b775-4dda-b1ef-ee8719f9af1d": {
+                    "description": "Chicken and prawn wonton, chicken broth, and spring onions.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/adf713fe-dab5-426c-a485-b24655b6fa46",
+                    "price": 650,
+                    "title": "Wonton Soup",
+                    "uuid": "13628282-b775-4dda-b1ef-ee8719f9af1d",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "585d03c3-24cf-4ebe-952b-8e11f9a31440": {
+                    "description": "Sago tapioca pudding, caramel palm sugar, coconut milk, and evaporated milk.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/fa75ca56-e097-4a9d-97b1-390cf8d36238",
+                    "price": 450,
+                    "title": "Sago Gula Melaka",
+                    "uuid": "585d03c3-24cf-4ebe-952b-8e11f9a31440",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "818f907f-b5fe-4111-9793-4b86916ff66e": {
+                    "description": "mild spicy. spicy shrimp fried rice, fried chicken wings, keropok, cucumber. choice of fried egg : sunny side-up / over easy.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/398b7ff7-77f3-4a7a-86d4-87ecb988479b",
+                    "price": 950,
+                    "title": "Nasi Goreng Istimewa",
+                    "uuid": "818f907f-b5fe-4111-9793-4b86916ff66e",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "endorsement": {
+                        "text": "Medium Spicy",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_check@3x.png"
+                    },
+                    "classifications": []
+                },
+                "f5eae652-460e-43fe-80c2-37cc796faea8": {
+                    "description": "mild spicy. spicy shrimp fried rice, fried chicken wings, keropok, cucumber. choice of fried egg : sunny side-up / over easy.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/45d8d03b-6bbc-45c9-93e0-4d273e951d9e",
+                    "price": 950,
+                    "title": "Nasi Goreng Istimewa",
+                    "uuid": "f5eae652-460e-43fe-80c2-37cc796faea8",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "endorsement": {
+                        "text": "Medium Spicy",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_check@3x.png"
+                    },
+                    "classifications": []
+                },
+                "370d3356-f657-4891-abb8-b7a2e684b0b9": {
+                    "description": "",
+                    "imageUrl": null,
+                    "price": 350,
+                    "title": "Coconut Rice",
+                    "uuid": "370d3356-f657-4891-abb8-b7a2e684b0b9",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "00308244-76fb-4185-aed2-3dc02fcd4b09": {
+                    "description": "mild spicy",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/b3cd83b5-d7a9-4c35-bd31-880d4e6eafb8",
+                    "price": 920,
+                    "title": "Roti Canai with Lamb Curry",
+                    "uuid": "00308244-76fb-4185-aed2-3dc02fcd4b09",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "endorsement": {
+                        "text": "Medium Spicy",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_check@3x.png"
+                    },
+                    "classifications": []
+                },
+                "903ee987-b317-4861-a300-530bb80e4f59": {
+                    "description": "rice vermicelli, choy sum, poached chicken, bean sprouts, coriander, spring onion, and fried shallots.",
+                    "imageUrl": null,
+                    "price": 950,
+                    "title": "Kon Loh Bee Hoon with Hainanese Chicken",
+                    "uuid": "903ee987-b317-4861-a300-530bb80e4f59",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "3b73fcd0-498a-471a-ba0a-9b446902df7f": {
+                    "description": "",
+                    "imageUrl": null,
+                    "price": 220,
+                    "title": "Coke",
+                    "uuid": "3b73fcd0-498a-471a-ba0a-9b446902df7f",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "63c95cd1-4f33-4067-97d4-79ab98d7e1e9": {
+                    "description": "",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/ec955816-5a41-4d04-9c0c-da854a3d7955",
+                    "price": 460,
+                    "title": "Apple and Orange Fresh Juice",
+                    "uuid": "63c95cd1-4f33-4067-97d4-79ab98d7e1e9",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "c0d59b74-35e2-4215-9a2b-75029b377e9b": {
+                    "description": "Shaved ice, cendol (pandan jelly), red beans, palm sugar, coconut milk",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/b2f8de2d-97a6-4f65-a4a3-17cfbfba856c",
+                    "price": 520,
+                    "title": "Cendol Ice",
+                    "uuid": "c0d59b74-35e2-4215-9a2b-75029b377e9b",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "20657811-7485-400a-8abc-f3801440433f": {
+                    "description": "fried crispy chicken marinated with prawn paste, lettuce, cucumber, served with sweet chilli sauce",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/250840c2-02ca-48e0-99ba-7ac0144a9206",
+                    "price": 890,
+                    "title": "Prawn Paste Chicken ",
+                    "uuid": "20657811-7485-400a-8abc-f3801440433f",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "e8392018-8094-400f-9248-272eea48fa5b": {
+                    "description": "",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/fe5a3853-2a20-4cd0-984d-67f037af3241",
+                    "price": 460,
+                    "title": "Lime and Ginger Fresh Juice",
+                    "uuid": "e8392018-8094-400f-9248-272eea48fa5b",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": "",
+                    "suspendUntil": 8640000000,
+                    "classifications": []
+                },
+                "989818bb-8da0-462b-b9a5-dc82e1dfd9e7": {
+                    "description": "daikon, eggs, radish, bean sprouts, and lettuce.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/4d52750f-484b-4733-b7ca-f9af47f34f40",
+                    "price": 890,
+                    "title": "Pan Fried Carrot Cake",
+                    "uuid": "989818bb-8da0-462b-b9a5-dc82e1dfd9e7",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "82a3db85-fd31-4efd-a2dc-d343d0c64755": {
+                    "description": "medium spicy. whole sea bass (with bone), okra, onion, dried shrimp, chilli, sambal, lemon",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/2f598a6b-c8c7-4acc-bd60-c03de10511da",
+                    "price": 1290,
+                    "title": "Deep-fried Sambal Fish",
+                    "uuid": "82a3db85-fd31-4efd-a2dc-d343d0c64755",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "endorsement": {
+                        "text": "Medium Spicy",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_check@3x.png"
+                    },
+                    "classifications": []
+                },
+                "bca9f361-5bb7-4137-a559-ccbf035e9bdc": {
+                    "description": "mild spicy. thick rice vermicelli, prawns, fish cakes slices, tofu puff, hard-boiled egg, bean sprouts, cucumber, laksa leaves in a wonderful shrimp and coconut broth",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/ed5dd358-60c5-4744-b2c1-79b63df6555a",
+                    "price": 1190,
+                    "title": "Raffles Singapore Laksa ",
+                    "uuid": "bca9f361-5bb7-4137-a559-ccbf035e9bdc",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "45c623c1-abf2-4314-ab92-efb7b23817c0": {
+                    "description": "medium spicy. Okra, onion, chilli, dried shrimp and sambal.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/3bd0f348-227f-4dab-8e86-344d732fd227",
+                    "price": 890,
+                    "title": "Sambal Okra",
+                    "uuid": "45c623c1-abf2-4314-ab92-efb7b23817c0",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "endorsement": {
+                        "text": "Medium Spicy",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_check@3x.png"
+                    },
+                    "classifications": []
+                },
+                "001209fa-8ec3-485f-881b-60ca9a277d63": {
+                    "description": "medium spicy. rice vermicelli, prawns, squids, fish balls, fish cakes, hard-boiled egg, kangkong, bean sprouts, spring onions,  fried shallots, in spicy prawn broth",
+                    "imageUrl": null,
+                    "price": 920,
+                    "title": "Prawn Bee Hoon",
+                    "uuid": "001209fa-8ec3-485f-881b-60ca9a277d63",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "endorsement": {
+                        "text": "Medium Spicy",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_check@3x.png"
+                    },
+                    "classifications": []
+                },
+                "ece3a2df-7102-426b-8646-4d8a35ddfbdf": {
+                    "description": "Thick flat rice noodles, prawn, squid, fish cakes, fish balls, choy sum, egg gravy, and fried shallots.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/199ca151-dbe2-43dc-bc2a-798d0234bb7d",
+                    "price": 920,
+                    "title": "Seafood Hor Fun",
+                    "uuid": "ece3a2df-7102-426b-8646-4d8a35ddfbdf",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "bb73943d-a3be-4ea6-8fc4-0a365de4d46f": {
+                    "description": "Five pieces. Served with sweet chilli sauce.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/157ad94d-9406-4174-9614-1886c9217720",
+                    "price": 450,
+                    "title": "Fried Chicken Wonton",
+                    "uuid": "bb73943d-a3be-4ea6-8fc4-0a365de4d46f",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "7fbbf9cc-4a85-4fd8-9165-e267e762cca0": {
+                    "description": "",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/1a73f7e1-5a45-405d-b099-5dc96d75e3b9",
+                    "price": 460,
+                    "title": "Apple and Cucumber Fresh Juice",
+                    "uuid": "7fbbf9cc-4a85-4fd8-9165-e267e762cca0",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "29fc0dbd-3601-416d-ac7b-d74d03c4ca10": {
+                    "description": "",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/673372b4-3974-4706-909e-78dfa9f2df15",
+                    "price": 460,
+                    "title": "Apple and Ginger Fresh Juice",
+                    "uuid": "29fc0dbd-3601-416d-ac7b-d74d03c4ca10",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "7cddba67-3124-4180-8a43-dcb5f2205a21": {
+                    "description": "Creamy black glutinous rice pudding and coconut milk.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/00517419-5ff8-47f0-acc8-62b12010101a",
+                    "price": 450,
+                    "title": "Bubur Pulut Hitam",
+                    "uuid": "7cddba67-3124-4180-8a43-dcb5f2205a21",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "4305bd81-48a2-4278-ac2b-ac7d325c1efc": {
+                    "description": "",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/bc5cf747-fa01-441d-9215-0bbb62aed382",
+                    "price": 350,
+                    "title": "Ice Honey Lemon",
+                    "uuid": "4305bd81-48a2-4278-ac2b-ac7d325c1efc",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "b3173de0-4171-43ed-abc8-b136830df764": {
+                    "description": "medium spicy. thick rice noodles, prawn, squid, fish fillet, hard boiled egg, kangkong, bean sprouts, spring onions, fried shallots in spicy prawn broth.",
+                    "imageUrl": null,
+                    "price": 920,
+                    "title": "Prawn Hor Fun",
+                    "uuid": "b3173de0-4171-43ed-abc8-b136830df764",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "endorsement": {
+                        "text": "Medium Spicy",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_check@3x.png"
+                    },
+                    "classifications": []
+                },
+                "99ae8c8d-ee65-4961-bdfa-36f4fe20ffb8": {
+                    "description": "medium spicy. egg noodles, prawns, squids, fish balls, fish cakes, hard-boiled egg, kangkong, bean sprouts, spring onions,  fried shallots, in spicy prawn broth",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/eb445d82-ff78-4424-82f4-546cc03433c5",
+                    "price": 920,
+                    "title": "Prawn Mee",
+                    "uuid": "99ae8c8d-ee65-4961-bdfa-36f4fe20ffb8",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "endorsement": {
+                        "text": "Medium Spicy",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_check@3x.png"
+                    },
+                    "classifications": []
+                },
+                "4f9f8d61-ab6a-4a96-99bd-b8ae690559b5": {
+                    "description": "",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/26e4a379-630f-4481-aa61-7bbc32c34902",
+                    "price": 320,
+                    "title": "Soya Milk",
+                    "uuid": "4f9f8d61-ab6a-4a96-99bd-b8ae690559b5",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "be843c1b-efd4-4829-be8b-3cdd4ea889b2": {
+                    "description": "",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/5510c07f-b525-4fc9-afe8-9a6721f2af58",
+                    "price": 320,
+                    "title": "Ice Lemon Tea",
+                    "uuid": "be843c1b-efd4-4829-be8b-3cdd4ea889b2",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "69fd14ef-494d-4ee9-bcb1-c95af20053c1": {
+                    "description": "",
+                    "imageUrl": null,
+                    "price": 220,
+                    "title": "Diet Coke",
+                    "uuid": "69fd14ef-494d-4ee9-bcb1-c95af20053c1",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "ab1df155-8393-4148-bac2-9291ff138f15": {
+                    "description": "Chicken & potato (3pcs) (mild spicy)\n\n                ",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/a5e1f929-aa4f-4d23-b549-c6c1b89c5b0b",
+                    "price": 420,
+                    "title": "Curry spring rolls",
+                    "uuid": "ab1df155-8393-4148-bac2-9291ff138f15",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": "",
+                    "suspendUntil": 8640000000,
+                    "classifications": []
+                },
+                "711fe4c2-6468-45b1-9ba4-26ddd307be53": {
+                    "description": "",
+                    "imageUrl": null,
+                    "price": 250,
+                    "title": "Jasmine Rice",
+                    "uuid": "711fe4c2-6468-45b1-9ba4-26ddd307be53",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "e2269fd7-6366-4cf7-bdbc-277418022aa3": {
+                    "description": "ice rose syrup drink",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/bf2dc073-76bb-4ea2-b0f7-8dbbcf4925ca",
+                    "price": 320,
+                    "title": "Bandung",
+                    "uuid": "e2269fd7-6366-4cf7-bdbc-277418022aa3",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "411ce8bc-c676-4d91-a1bb-9e15071b275c": {
+                    "description": "rice vermicelli, shredded chicken, prawn, bean sprouts, chive, spring onions, fried shallots in chicken broth.",
+                    "imageUrl": null,
+                    "price": 890,
+                    "title": "Ipoh Bee Hoon",
+                    "uuid": "411ce8bc-c676-4d91-a1bb-9e15071b275c",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "031f74cb-f070-489d-92dc-fded1e55881b": {
+                    "description": "",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/f6b6a22e-8246-43fc-896f-c025a9a7c3e8",
+                    "price": 420,
+                    "title": "Cucumber Fresh Juice",
+                    "uuid": "031f74cb-f070-489d-92dc-fded1e55881b",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "9a3703ea-32ba-4364-b90d-e2cbbce13dbb": {
+                    "description": "soya mlik with grass jelly",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/5abd1bd7-1a3a-42b0-b15d-b8af497d6eb4",
+                    "price": 370,
+                    "title": "Soya Cincau",
+                    "uuid": "9a3703ea-32ba-4364-b90d-e2cbbce13dbb",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "159540bd-30e4-4646-b0f0-2cfbbffb0879": {
+                    "description": "",
+                    "imageUrl": null,
+                    "price": 460,
+                    "title": "Roti Canai with Dhal (v)",
+                    "uuid": "159540bd-30e4-4646-b0f0-2cfbbffb0879",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "3bafbc18-38a5-4ff4-aa2b-b7576783da44": {
+                    "description": "braised egg noodles, five-spiced powder fried chicken, hard-boiled egg, bean sprouts, spring onions, garlic puree, in thick prawn gravy",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/473887a2-471d-4094-bafa-72b67dbe20f1",
+                    "price": 950,
+                    "title": "Lor Mee",
+                    "uuid": "3bafbc18-38a5-4ff4-aa2b-b7576783da44",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "endorsement": {
+                        "text": "Medium Spicy",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_check@3x.png"
+                    },
+                    "classifications": []
+                },
+                "f6f34646-53ea-46e2-a5f7-fa6f35c73542": {
+                    "description": "rose syrup with grass jelly",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/f2789f9e-c67a-43bc-9f65-a6e1a58fa85f",
+                    "price": 370,
+                    "title": "Bandung Cincau",
+                    "uuid": "f6f34646-53ea-46e2-a5f7-fa6f35c73542",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "40330c6c-c560-4642-bc4e-bcac452ff05b": {
+                    "description": "mild spicy",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/2fea8007-875b-4cdd-bb5c-0ec5c3d4b106",
+                    "price": 890,
+                    "title": "Roti Canai with Chicken Curry",
+                    "uuid": "40330c6c-c560-4642-bc4e-bcac452ff05b",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "endorsement": {
+                        "text": "Medium spicy",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_check@3x.png"
+                    },
+                    "classifications": []
+                },
+                "bfec70b2-fe78-45ae-bd9b-7c252b01bc85": {
+                    "description": "Bean curd, bean sprouts, cucumber, hard boiled egg, and peanut sauce.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/7052f106-f914-4cb1-82f9-840de4a334a6",
+                    "price": 520,
+                    "title": "Gado Gado",
+                    "uuid": "bfec70b2-fe78-45ae-bd9b-7c252b01bc85",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "endorsement": {
+                        "text": "Medium Spicy",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_check@3x.png"
+                    },
+                    "classifications": []
+                },
+                "bcf4c6a8-f7d6-4a32-993f-3740724dc500": {
+                    "description": "mild spicy. Pickled pineapple, carrot, cucumber, sesame seeds, and peanuts.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/f74fbc55-63c3-40ab-8fad-5a083d11cbc8",
+                    "price": 420,
+                    "title": "Achar (V)",
+                    "uuid": "bcf4c6a8-f7d6-4a32-993f-3740724dc500",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "endorsement": {
+                        "text": "Slightly Spicy",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_check@3x.png"
+                    },
+                    "classifications": []
+                },
+                "210da707-c98a-403c-9da7-24358bc8cd89": {
+                    "description": "wok-fried rice vermicelli, eggs, prawns, squid, fish balls, fish cakes, bean sprouts, chive",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/b29d344c-03db-4181-81db-14ef71db0bf7",
+                    "price": 920,
+                    "title": "Singapore Char Bee Hoon",
+                    "uuid": "210da707-c98a-403c-9da7-24358bc8cd89",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "c367641e-de96-46aa-a570-98de45c69969": {
+                    "description": "medium spicy. coconut rice, curry chicken, hard-boiled egg, achar, cucumber, sambal, anchovies, peanuts",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/03132d57-2d26-484e-98ad-f4e09b1f1494",
+                    "price": 950,
+                    "title": "Nasi Lemak",
+                    "uuid": "c367641e-de96-46aa-a570-98de45c69969",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "endorsement": {
+                        "text": "Very Spicy",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_check@3x.png"
+                    },
+                    "classifications": []
+                },
+                "c6954a4d-88f4-4e48-b244-3d56f1af0e24": {
+                    "description": "Malaysian Coffee",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/8b2bca82-3cc4-4036-87ef-0d1b1ce7cda4",
+                    "price": 370,
+                    "title": "Kopi Peng",
+                    "uuid": "c6954a4d-88f4-4e48-b244-3d56f1af0e24",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "c2762a41-c157-4e8c-a3ed-8b64fad0560d": {
+                    "description": "(Sweet Ice Black Tea)",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/132b7459-e509-41d3-b91e-76b5e3a80a14",
+                    "price": 350,
+                    "title": "Teh O Peng",
+                    "uuid": "c2762a41-c157-4e8c-a3ed-8b64fad0560d",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "408d6d04-4fc4-4d92-aefc-d5b51311a3ea": {
+                    "description": "",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/ca0e896a-784a-4ff6-b327-2d3d2790cb16",
+                    "price": 460,
+                    "title": "Lime and Mint Fresh Juice",
+                    "uuid": "408d6d04-4fc4-4d92-aefc-d5b51311a3ea",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "66e4d1ae-56d0-4bd4-bbb5-0185caf4c311": {
+                    "description": "medium spicy. Prawn, okra, onion, dried shrimp, chilli, and sambal.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/11c64e96-6b92-46d5-9e8b-b29284bbb8a0",
+                    "price": 1090,
+                    "title": "Sambal Prawn",
+                    "uuid": "66e4d1ae-56d0-4bd4-bbb5-0185caf4c311",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "endorsement": {
+                        "text": "Medium Spicy",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_check@3x.png"
+                    },
+                    "classifications": []
+                },
+                "2c07bd13-1e40-4b0b-9a06-ef2ada2fde7c": {
+                    "description": "poached chicken, rice cooked in chicken broth, bean sprouts, tomatoes, cucumber, coriander,  homemade ginger and garlic chilli sauce",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/d8d36f47-ae42-46dd-8883-44f42043cf43",
+                    "price": 950,
+                    "title": "Hainanese Chicken Rice",
+                    "uuid": "2c07bd13-1e40-4b0b-9a06-ef2ada2fde7c",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "229e373d-c6c3-45af-837b-ccab6b894474": {
+                    "description": "medium spicy. okra, petai (bitter beans), aubergine, long beans, onion, dried shrimp, chilli, sambal",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/21a6e632-641f-4dca-b7b6-1426d2c773b1",
+                    "price": 990,
+                    "title": "4 Fiery Kings",
+                    "uuid": "229e373d-c6c3-45af-837b-ccab6b894474",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "endorsement": {
+                        "text": "Medium Spicy",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_check@3x.png"
+                    },
+                    "classifications": []
+                },
+                "160e7c90-da69-4ee5-af98-e9752f5fed10": {
+                    "description": "",
+                    "imageUrl": null,
+                    "price": 200,
+                    "title": "Still Water",
+                    "uuid": "160e7c90-da69-4ee5-af98-e9752f5fed10",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "f864d6f0-58b4-4689-98e3-dedec634cf7b": {
+                    "description": "Egg noodles, prawn, squid, fish cakes, fish balls, choy sum, egg, bean sprouts, fried shallots, and lemon.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/785bacf4-99be-4201-a3db-418a52445c2e",
+                    "price": 920,
+                    "title": "Mee Goreng",
+                    "uuid": "f864d6f0-58b4-4689-98e3-dedec634cf7b",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "endorsement": {
+                        "text": "Slightly Spicy",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_check@3x.png"
+                    },
+                    "classifications": []
+                },
+                "845f77f3-1c93-44e7-9a5e-ba9625a8e83a": {
+                    "description": "mild spicy.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/8961c4d2-360d-4249-ae3c-cb3c9f119d74",
+                    "price": 460,
+                    "title": "Roti Canai with Chicken Curry Sauce ",
+                    "uuid": "845f77f3-1c93-44e7-9a5e-ba9625a8e83a",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "endorsement": {
+                        "text": "Very Spicy",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_check@3x.png"
+                    },
+                    "classifications": []
+                },
+                "7e658b60-718c-49c0-9ae1-cf27fe9155cc": {
+                    "description": "ice chocolate and malt drink",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/4a2fd472-3cd3-4eba-af87-1ab5ff7130a7",
+                    "price": 400,
+                    "title": "Milo Peng",
+                    "uuid": "7e658b60-718c-49c0-9ae1-cf27fe9155cc",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "5ecba685-78cd-47ea-aa21-4f5c8b26bdf4": {
+                    "description": "",
+                    "imageUrl": null,
+                    "price": 220,
+                    "title": "Lemonade",
+                    "uuid": "5ecba685-78cd-47ea-aa21-4f5c8b26bdf4",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "bbca079c-cf0b-4c69-84be-b85eac469132": {
+                    "description": "ice chocolate and malt drink topped with rich milo powder",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/cec6426f-92cd-47ee-8874-638e96e7cd18",
+                    "price": 450,
+                    "title": "Milo Dinosaur",
+                    "uuid": "bbca079c-cf0b-4c69-84be-b85eac469132",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "c989448b-4530-42b6-a050-d2f5fef6bcbe": {
+                    "description": "Rice only.",
+                    "imageUrl": null,
+                    "price": 350,
+                    "title": "Chicken Rice",
+                    "uuid": "c989448b-4530-42b6-a050-d2f5fef6bcbe",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "318d04a6-e1b8-4401-9dbf-b6add321c591": {
+                    "description": "",
+                    "imageUrl": null,
+                    "price": 200,
+                    "title": "Sparkling Water",
+                    "uuid": "318d04a6-e1b8-4401-9dbf-b6add321c591",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "7f88854e-cc52-4087-910a-f916d3f9bb9a": {
+                    "description": "Grass jelly.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/f3f4b6ab-1067-4500-9747-1494d49ebe74",
+                    "price": 270,
+                    "title": "Cincau",
+                    "uuid": "7f88854e-cc52-4087-910a-f916d3f9bb9a",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "bbe654d5-2c1c-4eba-b50f-1e4cb620c7ac": {
+                    "description": "",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/f78c8c31-9ca5-477e-9e09-5b2b64756af5",
+                    "price": 420,
+                    "title": "Orange Fresh Juice",
+                    "uuid": "bbe654d5-2c1c-4eba-b50f-1e4cb620c7ac",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "3bb37e2f-47ed-454f-84be-21ae9108338d": {
+                    "description": "Two pieces. Pandan pancake, shredded coconut, and caramel palm sugar.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/ed9e6e7b-6e1b-4834-97a0-6759d17f9ec1",
+                    "price": 390,
+                    "title": "Kueh Dadar",
+                    "uuid": "3bb37e2f-47ed-454f-84be-21ae9108338d",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "95a12043-48c0-4ba6-8dac-2267ef7a64d5": {
+                    "description": "Thin flat rice noodles, shredded chicken, prawn, bean sprouts, chive, spring onions, fried shallots, in chicken broth.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/0d0254a5-aee2-469a-a557-77483ac8f560",
+                    "price": 890,
+                    "title": "Ipoh Hor Fun",
+                    "uuid": "95a12043-48c0-4ba6-8dac-2267ef7a64d5",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "4c9eb076-b473-441a-9187-3a18a6486a62": {
+                    "description": "Malaysian milk tea",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/5090ec9d-61ee-4183-b025-2196e7728637",
+                    "price": 370,
+                    "title": "Teh Peng",
+                    "uuid": "4c9eb076-b473-441a-9187-3a18a6486a62",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "cdf73daf-35c2-44d3-aebc-3afdd53acb74": {
+                    "description": "Egg noodles, choy sum, poached chicken, bean sprouts, coriander, spring onion, and fried shallots.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/85bbea78-54e1-4244-af77-7e99b8ea5b5f",
+                    "price": 950,
+                    "title": "Kon Loh Mee Hainanese Chicken",
+                    "uuid": "cdf73daf-35c2-44d3-aebc-3afdd53acb74",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "720f73eb-0ed1-468f-a3dc-45a6778fbe67": {
+                    "description": "marinated in sweet marmite sauce and deep fried, topped with sesame seeds",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/891bd298-9c4d-4842-9235-140a0c63ffd7",
+                    "price": 850,
+                    "title": "Marmite Chicken Wings",
+                    "uuid": "720f73eb-0ed1-468f-a3dc-45a6778fbe67",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "e8ead4ac-9f5e-48bc-a639-9abd7c29371c": {
+                    "description": "mild spicy. Chicken and potato stewed in rich coconut curry.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/33dcb3c4-0a6d-42d2-82e8-6bf97713fbf6",
+                    "price": 950,
+                    "title": "Curry Chicken",
+                    "uuid": "e8ead4ac-9f5e-48bc-a639-9abd7c29371c",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "endorsement": {
+                        "text": "Very Spicy",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_check@3x.png"
+                    },
+                    "classifications": []
+                },
+                "2f3b7d61-0dae-4923-8759-2f128ecbc236": {
+                    "description": "Thick Flat rice noodles, choy sum, poached chicken, bean sprouts, coriander, spring onion, and fried shallots.",
+                    "imageUrl": null,
+                    "price": 950,
+                    "title": "Kon Loh Hor Fun with Hainanese Chicken",
+                    "uuid": "2f3b7d61-0dae-4923-8759-2f128ecbc236",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "d5ca18a8-1e52-4d88-b8bc-0ae73e7d977f": {
+                    "description": "mild spicy. Morning glory, garlic, chilli, dried shrimp, and belacan shrimp paste.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/a83ede73-5055-4862-915e-6a4624d8c885",
+                    "price": 890,
+                    "title": "Kangkong Belacan",
+                    "uuid": "d5ca18a8-1e52-4d88-b8bc-0ae73e7d977f",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "endorsement": {
+                        "text": "Medium Spicy",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_check@3x.png"
+                    },
+                    "classifications": []
+                },
+                "ffb6419e-aa44-4749-808b-d00dc9e4929c": {
+                    "description": "egg noodles, shredded chicken, prawn, bean sprouts, chive, spring onions, fried shallots in chicken broth.",
+                    "imageUrl": null,
+                    "price": 890,
+                    "title": "Ipoh Mee",
+                    "uuid": "ffb6419e-aa44-4749-808b-d00dc9e4929c",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "8eec716f-cf1c-4064-add9-7743cb88fdc4": {
+                    "description": "Thick flat rice noodles, egg, prawn, squid, fish cakes, fish balls, bean sprouts, and chive.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/d2af6e33-ab67-4868-ac40-49c46f6dc738",
+                    "price": 920,
+                    "title": "Char Kway Teow",
+                    "uuid": "8eec716f-cf1c-4064-add9-7743cb88fdc4",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "endorsement": {
+                        "text": "Slightly Spicy",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_check@3x.png"
+                    },
+                    "classifications": []
+                },
+                "0abc9ba2-73f8-49ec-8508-49f867eb357e": {
+                    "description": "medium spicy. Fish fillets, okra, aubergine, tomato, onion, chilli, and curry leaf.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/bb871fa0-ac3d-46df-a5b7-c8c8cebb1563",
+                    "price": 1390,
+                    "title": "Curry Assam Fish",
+                    "uuid": "0abc9ba2-73f8-49ec-8508-49f867eb357e",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "endorsement": {
+                        "text": "Very Spicy",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_check@3x.png"
+                    },
+                    "classifications": []
+                },
+                "3fc225ae-dacf-4673-90b1-512bbc6b7afd": {
+                    "description": "medium spicy. Vegetables in coconut curry, glass noodle, aubergine, tofu puff, cabbage, cauliflower, long bean, and carrot.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/c1cfab8e-1d52-483a-a214-b277cbd4593e",
+                    "price": 890,
+                    "title": "Sayur Lodeh (v)",
+                    "uuid": "3fc225ae-dacf-4673-90b1-512bbc6b7afd",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "endorsement": {
+                        "text": "Very Spicy",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_check@3x.png"
+                    },
+                    "classifications": []
+                }
+            }
+        },
+        "sections": [
+            {
+                "subsectionUuids": [
+                    "2005c289-13a5-46a8-a3b9-57748c5cc863",
+                    "b9d80045-55a1-44cf-ad04-2d558236f7a9",
+                    "687d796c-0ec5-4db6-9dcb-508ad3184c72",
+                    "248b5a98-9420-4343-9f15-78f2e21d7547",
+                    "dcf5651f-5c47-4b72-b642-1f147ace6d87",
+                    "47f3d99e-3b33-49e8-96f4-6e90af078930",
+                    "fcaa6799-6723-43d9-825a-a6937ad2d302",
+                    "0bba5aa5-8362-4a1b-a70c-458c49ecb9d0",
+                    "7f3b5a1d-7b59-4a45-9a11-f5a14869e260",
+                    "6270eeb0-2af1-4e8d-a5c3-d4d913c179fd",
+                    "d93e730e-fa3b-4521-80cd-5440f8ff39fe"
+                ],
+                "title": "Menu",
+                "subtitle": "12:00 PM – 10:30 PM",
+                "uuid": "fa8cf2ef-b878-4e41-9a2a-b4dc93a0abdd",
+                "isTop": true,
+                "isOnSale": true
+            }
+        ],
+        "subsectionsMap": {
+            "248b5a98-9420-4343-9f15-78f2e21d7547": {
+                "itemUuids": [
+                    "8eec716f-cf1c-4064-add9-7743cb88fdc4",
+                    "ece3a2df-7102-426b-8646-4d8a35ddfbdf",
+                    "f864d6f0-58b4-4689-98e3-dedec634cf7b",
+                    "cdf73daf-35c2-44d3-aebc-3afdd53acb74",
+                    "2f3b7d61-0dae-4923-8759-2f128ecbc236",
+                    "903ee987-b317-4861-a300-530bb80e4f59",
+                    "210da707-c98a-403c-9da7-24358bc8cd89",
+                    "989818bb-8da0-462b-b9a5-dc82e1dfd9e7"
+                ],
+                "subtitle": null,
+                "title": "Wok Noodles",
+                "uuid": "248b5a98-9420-4343-9f15-78f2e21d7547",
+                "displayType": null
+            },
+            "47f3d99e-3b33-49e8-96f4-6e90af078930": {
+                "itemUuids": [
+                    "711fe4c2-6468-45b1-9ba4-26ddd307be53",
+                    "c989448b-4530-42b6-a050-d2f5fef6bcbe",
+                    "370d3356-f657-4891-abb8-b7a2e684b0b9",
+                    "13d7844e-128d-4e6e-bbaf-809b97129aaf"
+                ],
+                "subtitle": null,
+                "title": "Sides",
+                "uuid": "47f3d99e-3b33-49e8-96f4-6e90af078930",
+                "displayType": null
+            },
+            "fcaa6799-6723-43d9-825a-a6937ad2d302": {
+                "itemUuids": [
+                    "40330c6c-c560-4642-bc4e-bcac452ff05b",
+                    "00308244-76fb-4185-aed2-3dc02fcd4b09",
+                    "19253e76-6c4e-49ff-bcb7-14bd4c59ecad",
+                    "0abc9ba2-73f8-49ec-8508-49f867eb357e",
+                    "e8ead4ac-9f5e-48bc-a639-9abd7c29371c",
+                    "3fc225ae-dacf-4673-90b1-512bbc6b7afd",
+                    "d5ca18a8-1e52-4d88-b8bc-0ae73e7d977f"
+                ],
+                "subtitle": null,
+                "title": "Heat Zone",
+                "uuid": "fcaa6799-6723-43d9-825a-a6937ad2d302",
+                "displayType": null
+            },
+            "7f3b5a1d-7b59-4a45-9a11-f5a14869e260": {
+                "itemUuids": [
+                    "3bb37e2f-47ed-454f-84be-21ae9108338d",
+                    "7cddba67-3124-4180-8a43-dcb5f2205a21"
+                ],
+                "subtitle": null,
+                "title": "Hot Dessert",
+                "uuid": "7f3b5a1d-7b59-4a45-9a11-f5a14869e260",
+                "displayType": null
+            },
+            "2005c289-13a5-46a8-a3b9-57748c5cc863": {
+                "itemUuids": [
+                    "ab0af6ae-6522-4d57-9f60-a68c18ea99d9",
+                    "8eec716f-cf1c-4064-add9-7743cb88fdc4",
+                    "2c07bd13-1e40-4b0b-9a06-ef2ada2fde7c",
+                    "818f907f-b5fe-4111-9793-4b86916ff66e",
+                    "c367641e-de96-46aa-a570-98de45c69969"
+                ],
+                "subtitle": null,
+                "title": "Most Popular",
+                "uuid": "2005c289-13a5-46a8-a3b9-57748c5cc863",
+                "displayType": null
+            },
+            "0bba5aa5-8362-4a1b-a70c-458c49ecb9d0": {
+                "itemUuids": [
+                    "82a3db85-fd31-4efd-a2dc-d343d0c64755",
+                    "66e4d1ae-56d0-4bd4-bbb5-0185caf4c311",
+                    "229e373d-c6c3-45af-837b-ccab6b894474",
+                    "45c623c1-abf2-4314-ab92-efb7b23817c0"
+                ],
+                "subtitle": null,
+                "title": "Samba Sambal",
+                "uuid": "0bba5aa5-8362-4a1b-a70c-458c49ecb9d0",
+                "displayType": null
+            },
+            "b9d80045-55a1-44cf-ad04-2d558236f7a9": {
+                "itemUuids": [
+                    "845f77f3-1c93-44e7-9a5e-ba9625a8e83a",
+                    "159540bd-30e4-4646-b0f0-2cfbbffb0879",
+                    "720f73eb-0ed1-468f-a3dc-45a6778fbe67",
+                    "bfec70b2-fe78-45ae-bd9b-7c252b01bc85",
+                    "408b8352-e7b5-4f31-a1b5-733a27115d2c",
+                    "bb73943d-a3be-4ea6-8fc4-0a365de4d46f",
+                    "13628282-b775-4dda-b1ef-ee8719f9af1d",
+                    "bcf4c6a8-f7d6-4a32-993f-3740724dc500",
+                    "20657811-7485-400a-8abc-f3801440433f",
+                    "ab1df155-8393-4148-bac2-9291ff138f15"
+                ],
+                "subtitle": null,
+                "title": "The Nibbles",
+                "uuid": "b9d80045-55a1-44cf-ad04-2d558236f7a9",
+                "displayType": null
+            },
+            "d93e730e-fa3b-4521-80cd-5440f8ff39fe": {
+                "itemUuids": [
+                    "bbe654d5-2c1c-4eba-b50f-1e4cb620c7ac",
+                    "fdfff5af-600d-4afe-b7f5-05dd9df79c73",
+                    "031f74cb-f070-489d-92dc-fded1e55881b",
+                    "63c95cd1-4f33-4067-97d4-79ab98d7e1e9",
+                    "7fbbf9cc-4a85-4fd8-9165-e267e762cca0",
+                    "29fc0dbd-3601-416d-ac7b-d74d03c4ca10",
+                    "408d6d04-4fc4-4d92-aefc-d5b51311a3ea",
+                    "e8392018-8094-400f-9248-272eea48fa5b",
+                    "5ecba685-78cd-47ea-aa21-4f5c8b26bdf4",
+                    "7f88854e-cc52-4087-910a-f916d3f9bb9a",
+                    "4f9f8d61-ab6a-4a96-99bd-b8ae690559b5",
+                    "9a3703ea-32ba-4364-b90d-e2cbbce13dbb",
+                    "be843c1b-efd4-4829-be8b-3cdd4ea889b2",
+                    "4305bd81-48a2-4278-ac2b-ac7d325c1efc",
+                    "7e658b60-718c-49c0-9ae1-cf27fe9155cc",
+                    "bbca079c-cf0b-4c69-84be-b85eac469132",
+                    "c2762a41-c157-4e8c-a3ed-8b64fad0560d",
+                    "4c9eb076-b473-441a-9187-3a18a6486a62",
+                    "e2269fd7-6366-4cf7-bdbc-277418022aa3",
+                    "f6f34646-53ea-46e2-a5f7-fa6f35c73542",
+                    "c6954a4d-88f4-4e48-b244-3d56f1af0e24",
+                    "69fd14ef-494d-4ee9-bcb1-c95af20053c1",
+                    "3b73fcd0-498a-471a-ba0a-9b446902df7f",
+                    "318d04a6-e1b8-4401-9dbf-b6add321c591",
+                    "160e7c90-da69-4ee5-af98-e9752f5fed10"
+                ],
+                "subtitle": null,
+                "title": "Cold Drinks",
+                "uuid": "d93e730e-fa3b-4521-80cd-5440f8ff39fe",
+                "displayType": null
+            },
+            "687d796c-0ec5-4db6-9dcb-508ad3184c72": {
+                "itemUuids": [
+                    "c367641e-de96-46aa-a570-98de45c69969",
+                    "f5eae652-460e-43fe-80c2-37cc796faea8",
+                    "ab0af6ae-6522-4d57-9f60-a68c18ea99d9",
+                    "f61463b5-772e-4efd-8393-3d0e13686bc6",
+                    "2c07bd13-1e40-4b0b-9a06-ef2ada2fde7c"
+                ],
+                "subtitle": null,
+                "title": "Nasi",
+                "uuid": "687d796c-0ec5-4db6-9dcb-508ad3184c72",
+                "displayType": null
+            },
+            "6270eeb0-2af1-4e8d-a5c3-d4d913c179fd": {
+                "itemUuids": [
+                    "585d03c3-24cf-4ebe-952b-8e11f9a31440",
+                    "c0d59b74-35e2-4215-9a2b-75029b377e9b"
+                ],
+                "subtitle": null,
+                "title": "Cold Dessert",
+                "uuid": "6270eeb0-2af1-4e8d-a5c3-d4d913c179fd",
+                "displayType": null
+            },
+            "dcf5651f-5c47-4b72-b642-1f147ace6d87": {
+                "itemUuids": [
+                    "95a12043-48c0-4ba6-8dac-2267ef7a64d5",
+                    "ffb6419e-aa44-4749-808b-d00dc9e4929c",
+                    "411ce8bc-c676-4d91-a1bb-9e15071b275c",
+                    "bca9f361-5bb7-4137-a559-ccbf035e9bdc",
+                    "99ae8c8d-ee65-4961-bdfa-36f4fe20ffb8",
+                    "001209fa-8ec3-485f-881b-60ca9a277d63",
+                    "b3173de0-4171-43ed-abc8-b136830df764",
+                    "3bafbc18-38a5-4ff4-aa2b-b7576783da44"
+                ],
+                "subtitle": null,
+                "title": "Soup Noodles",
+                "uuid": "dcf5651f-5c47-4b72-b642-1f147ace6d87",
+                "displayType": null
+            }
+        },
+        "title": "Rasa Sayang",
+        "uuid": "964280fd-4739-4c7a-91ab-aedf4633c369",
+        "categories": [
+            "₴",
+            "Азіатська",
+            "Малайзійська",
+            "Сінгапурська"
+        ],
+        "cuisineList": [
+            "Азіатська",
+            "Малайзійська",
+            "Сінгапурська"
+        ],
+        "priceBucket": "₴",
+        "etaRange": null,
+        "ratingBadge": {
+            "text": "<span><span style=\"font-family: inherit; color: #3a3a48;\">4.6 <img src=\"https://d1a3f4spazzrp4.cloudfront.net/static/images/Star_Yellow_Eats_3.png\" width=\"14\" height=\"14\" vertical-align=\"middle\"> </span><span style=\"font-family: inherit; color: #757575;\">(169)</span></span>"
+        },
+        "disclaimerBadge": {
+            "text": "<span style=\"font-family: inherit;\">Allergies, intolerances and dietary requirements: before ordering, please contact the restaurant directly and ask to speak to a member of staff who can assist if you require information about ingredients and help cater for your needs. For more information on food safety and hygiene, please visit the <a href=\"http://ratings.food.gov.uk/\" style=\"color:#61ad5f;\">Food Standards Agency</a></span>"
+        },
+        "fareBadge": null,
+        "fareInfo": {
+            "serviceFeeCents": null
+        },
+        "promotion": null,
+        "shouldIndex": false,
+        "heroImageUrls": [
+            {
+                "url": "https://duyt4h9nfnj50.cloudfront.net/resized/c01019f2aed6d0998633bd1af5df6082-w240-97.jpg",
+                "width": 240
+            },
+            {
+                "url": "https://duyt4h9nfnj50.cloudfront.net/resized/c01019f2aed6d0998633bd1af5df6082-w550-b2.jpg",
+                "width": 550
+            },
+            {
+                "url": "https://duyt4h9nfnj50.cloudfront.net/resized/c01019f2aed6d0998633bd1af5df6082-w640-1b.jpg",
+                "width": 640
+            },
+            {
+                "url": "https://duyt4h9nfnj50.cloudfront.net/resized/c01019f2aed6d0998633bd1af5df6082-w750-39.jpg",
+                "width": 750
+            },
+            {
+                "url": "https://duyt4h9nfnj50.cloudfront.net/resized/c01019f2aed6d0998633bd1af5df6082-w1080-d6.jpg",
+                "width": 1080
+            },
+            {
+                "url": "https://duyt4h9nfnj50.cloudfront.net/resized/c01019f2aed6d0998633bd1af5df6082-w2880-f8.jpg",
+                "width": 2880
+            }
+        ],
+        "isOpen": false,
+        "currencyCode": "GBP",
+        "closedMessage": "Currently unavailable",
+        "location": {
+            "address": "5 Macclesfield St, London W1d 6ay, Uk, England W1D 6AY",
+            "streetAddress": "5 Macclesfield St",
+            "city": "London",
+            "country": "GB",
+            "postalCode": "W1D 6AY",
+            "region": "England",
+            "latitude": 51.511959,
+            "longitude": -0.131473
+        },
+        "isDeliveryThirdParty": false,
+        "hours": [
+            {
+                "dayRange": "Sunday",
+                "sectionHours": [
+                    {
+                        "startTime": 690,
+                        "endTime": 1260,
+                        "sectionTitle": ""
+                    }
+                ]
+            },
+            {
+                "dayRange": "Monday - Saturday",
+                "sectionHours": [
+                    {
+                        "startTime": 720,
+                        "endTime": 1350,
+                        "sectionTitle": ""
+                    }
+                ]
+            }
+        ],
+        "disableOrderInstruction": false,
+        "disableCheckoutInstruction": false,
+        "nuggets": [],
+        "isWithinDeliveryRange": false,
+        "slug": "rasa-sayang",
+        "citySlug": "london",
+        "phoneNumber": "+442077341382",
+        "metaJson": "{\"@context\":\"http:\\u002F\\u002Fschema.org\",\"@type\":\"Restaurant\",\"@id\":\"https:\\u002F\\u002Fwww.ubereats.com\\u002Fen-UA\\u002Flondon\\u002Ffood-delivery\\u002Frasa-sayang\\u002FlkKA_Uc5THqRq67fRjPDaQ\\u002F\",\"name\":\"Rasa Sayang\",\"priceRange\":\"₴\",\"potentialAction\":{\"@type\":\"OrderAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\\u002F\\u002Fwww.ubereats.com\\u002Fen-UA\\u002Flondon\\u002Ffood-delivery\\u002Frasa-sayang\\u002FlkKA_Uc5THqRq67fRjPDaQ\\u002F?utm_campaign=order-action&utm_medium=organic\",\"inLanguage\":\"English\",\"actionPlatform\":[\"http:\\u002F\\u002Fschema.org\\u002FDesktopWebPlatform\",\"http:\\u002F\\u002Fschema.org\\u002FMobileWebPlatform\"]},\"deliveryMethod\":[\"http:\\u002F\\u002Fpurl.org\\u002Fgoodrelations\\u002Fv1#DeliveryModeOwnFleet\"]},\"address\":{\"@type\":\"PostalAddress\",\"addressLocality\":\"London\",\"addressRegion\":\"England\",\"postalCode\":\"W1D 6AY\",\"addressCountry\":\"GB\",\"streetAddress\":\"5 Macclesfield St\"},\"geo\":{\"@type\":\"GeoCoordinates\",\"latitude\":51.511959,\"longitude\":-0.131473}}",
+        "promoTrackings": [],
+        "suggestedPromotion": {
+            "text": "",
+            "promotionUuid": ""
+        },
+        "supportedDiningModes": [
+            {
+                "mode": "DELIVERY",
+                "title": "Delivery",
+                "isSelected": true,
+                "isAvailable": true
+            }
+        ],
+        "isPreview": false,
+        "pinnedInfo": null
+    }
+}

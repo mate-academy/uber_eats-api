@@ -1,0 +1,1192 @@
+{
+    "status": "success",
+    "data": {
+        "sectionEntitiesMap": {
+            "a8c175d3-ea78-51c1-b867-1d5df1a7c6aa": {
+                "f9b5a169-519a-5a6b-85cb-02c345d5fe7f": {
+                    "description": "",
+                    "imageUrl": "",
+                    "price": 220,
+                    "title": "Just Chips ",
+                    "uuid": "f9b5a169-519a-5a6b-85cb-02c345d5fe7f",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "04d4abbd-c9e4-583f-8a90-562c7ff11acb": {
+                    "description": "A soft, warm flour tortilla filled with coriander lime rice, lettuce, pinto or blackbeans and grilled steak. Prepared with your choice of salsa\n",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/76c986bd-9a62-421e-8ed9-1509c5c96266.jpeg",
+                    "price": 1295,
+                    "title": "Steak Burrito",
+                    "uuid": "04d4abbd-c9e4-583f-8a90-562c7ff11acb",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "75d7c86a-a668-52a4-aaa5-99459c886229": {
+                    "description": "All the flavour of a burrito but without the tortilla! Coriander lime rice, beans or peppers, your choice of meat or vegetarian, fresh salsa, cheese and sour cream.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/10649373-a889-4070-8d3f-fa847cf48bc4.jpeg",
+                    "price": 995,
+                    "title": "Hotbox",
+                    "uuid": "75d7c86a-a668-52a4-aaa5-99459c886229",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "69153a2a-b279-521a-8515-9583fd47f22c": {
+                    "description": "Chargrilled fajita-style peppers and onions with our fresh tomato Pico de Gallo salsa (mild), a double portion of chicken, topped with roasted tomato Asada salsa",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/137d7599-8239-48c5-a920-54e530b05195.jpeg",
+                    "price": 1245,
+                    "title": "Protein Box",
+                    "uuid": "69153a2a-b279-521a-8515-9583fd47f22c",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "c8330231-1384-50b9-b68f-028bb2cbc902": {
+                    "description": "Guacamole, grilled peppers & onions, black beans, pico de gallo salsa, coriander lime rice & lettucev",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/a49ae6d6-495d-4d5a-acdd-37a4b176b5f1.jpeg",
+                    "price": 795,
+                    "title": "Vegan Box",
+                    "uuid": "c8330231-1384-50b9-b68f-028bb2cbc902",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "1e119478-5ac1-5140-bb05-b35454830409": {
+                    "description": "Nacho chips with a pot of Sour Creamed BBQ Beans – seriously: TRY THIS!",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/6646b40c-c5db-4a93-a725-b0b8b2a27405.jpeg",
+                    "price": 375,
+                    "title": "BBQ Nacho Dip with Chips",
+                    "uuid": "1e119478-5ac1-5140-bb05-b35454830409",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "421c1e91-cdd2-5321-a138-f9b5be8635ce": {
+                    "description": "Ovenbaked, tossed in Chilango spices and with our BBQ salsa for dunking\n",
+                    "imageUrl": "",
+                    "price": 395,
+                    "title": "Sweet Potato Waffle Fries",
+                    "uuid": "421c1e91-cdd2-5321-a138-f9b5be8635ce",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "3e99c7bc-564b-5194-88f4-f8fab72576ec": {
+                    "description": "A soft, warm flour tortilla filled with grilled chorizo in a maple syrup and BBQ salsa, coriander lime rice, beans or peppers, fresh salsa, cheese and sour cream.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/0ba7a3b9-b5c6-447e-bcfb-7a6e9a2d5171.jpeg",
+                    "price": 1295,
+                    "title": "Chorizo Burrito ",
+                    "uuid": "3e99c7bc-564b-5194-88f4-f8fab72576ec",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "9a89d45c-95ca-5625-8a5c-6f421f08bbfb": {
+                    "description": "THIS™ Isn’t Chicken pieces, lightly spiced with piquin, paprika and cumin, chargrilled and glazed with BBQ Maple salsa and a squeeze of lime. Served with coriander lime rice, black beans, Pico de Gallo salsa - all inside a soft flour tortilla",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/0079f54e-35a1-4ff4-ade7-f865b7a5288d.jpeg",
+                    "price": 1155,
+                    "title": "THIS™ Isn't a Chicken Burrito (100% Plant-based)",
+                    "uuid": "9a89d45c-95ca-5625-8a5c-6f421f08bbfb",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": "",
+                    "suspendUntil": 8640000000,
+                    "classifications": []
+                },
+                "7f4ef9f8-1880-548d-a9b0-d18838f02b59": {
+                    "description": "",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/b96826b3-325e-4848-919f-2d1dbb4d0097.jpeg",
+                    "price": 195,
+                    "title": "Harrogate Spring Still Water (500ml)",
+                    "uuid": "7f4ef9f8-1880-548d-a9b0-d18838f02b59",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "65e1f061-2a58-5791-ba97-253854c0ed8a": {
+                    "description": "A soft, warm flour tortilla filled with coriander lime rice, lettuce, pinto or blackbeans, chargrilled peppers and guacamole. Prepared with your choice of salsa\n\n",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/03dd521f-e715-4fde-b24d-cbb02f8aab31.jpeg",
+                    "price": 995,
+                    "title": "Veggie Burrito",
+                    "uuid": "65e1f061-2a58-5791-ba97-253854c0ed8a",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "dcd32c4d-5f81-51b9-ae10-f884cab3b11c": {
+                    "description": "Made fresh in our restaurants, every morning\n",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/f5e4c0b2-5e27-4620-bae2-4dc3d92d8a69.jpeg",
+                    "price": 230,
+                    "title": "Homemade Classic Lemonade",
+                    "uuid": "dcd32c4d-5f81-51b9-ae10-f884cab3b11c",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "57c463dd-7833-593a-8625-42994d116619": {
+                    "description": "\"Coca-Cola Classic is the world's favourite soft drink and has been enjoyed since 1886.\n \n Great Coke taste\n Only natural flavours\n No added preservatives\n Gluten-free, dairy-free and nut-free\n \n Serve ice cold for maximum refreshment.\"",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/b663dd31-a826-4016-9805-8f323dc0909b.jpeg",
+                    "price": 235,
+                    "title": "Coca-Cola Original Taste 330ml",
+                    "uuid": "57c463dd-7833-593a-8625-42994d116619",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "ed64f973-9a13-5685-8497-9b7c5f9816eb": {
+                    "description": "Cooked-to-order chargrilled steak, coriander lime rice, your choice of beans , salsa and toppings \n",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/bff2d3b4-7bcf-491f-a96e-618ecb20b75f.jpeg",
+                    "price": 995,
+                    "title": "Veggie Hotbox",
+                    "uuid": "ed64f973-9a13-5685-8497-9b7c5f9816eb",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "0edb4a19-db17-5b21-bab7-a808aa75b9b3": {
+                    "description": "Hand-mashed guacamole with Hass avocados, citrus, onion, salt",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/5c067ffe-1329-441d-8c4c-1b66131c87ea.jpeg",
+                    "price": 215,
+                    "title": "Guacamole Pot",
+                    "uuid": "0edb4a19-db17-5b21-bab7-a808aa75b9b3",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "f8406beb-5ed3-52ea-92d1-f39c1a7c6838": {
+                    "description": "Half Land/Half Sea. Chargrilled steak and marinated prawns, coriander lime rice, salsa, sour cream and cheese on mixed baby leaves\n",
+                    "imageUrl": null,
+                    "price": 1395,
+                    "title": "Surf & Turf Salad",
+                    "uuid": "f8406beb-5ed3-52ea-92d1-f39c1a7c6838",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "befda7a4-1219-5f0b-a139-9e4a8ae53f30": {
+                    "description": "Chorizo in a Maple Syrup & BBQ Salsa, with black beans, cheese and sour cream.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/dad0df6d-f1b4-44b5-a3db-498a802d85f5.jpeg",
+                    "price": 495,
+                    "title": "Chorizo Pot",
+                    "uuid": "befda7a4-1219-5f0b-a139-9e4a8ae53f30",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "cd6d600f-13d0-5bba-803d-b1102cb3ba03": {
+                    "description": "",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/39de4978-aee8-4a57-b832-ff9b7eb6588a.jpeg",
+                    "price": 395,
+                    "title": "Jarritos Guava",
+                    "uuid": "cd6d600f-13d0-5bba-803d-b1102cb3ba03",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "d4932e7a-a3d7-5c45-bc0c-c8a0d34c2754": {
+                    "description": "Mixed greens topped with beans or peppers, your choice of meat or vegetarian, fresh salsa, cheese and sour cream.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/183c2541-b2b2-4b48-926a-b876641896ca.jpeg",
+                    "price": 1295,
+                    "title": "Chorizo Salad",
+                    "uuid": "d4932e7a-a3d7-5c45-bc0c-c8a0d34c2754",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "fbb919b2-5ed6-5216-9ef4-8210c1ac112b": {
+                    "description": "Crisp and refreshing (4.5%)\n",
+                    "imageUrl": "",
+                    "price": 0,
+                    "title": "Modelo Especial",
+                    "uuid": "fbb919b2-5ed6-5216-9ef4-8210c1ac112b",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 8640000000,
+                    "classifications": []
+                },
+                "d213b07e-c94c-54fd-8a6f-8208c26ea533": {
+                    "description": "\"Love it light? Add some sparkle to your day, minus the calories with Diet Coke\n \n Diet Coke is a sugar free, low calorie soft drink.\n No Sugar\n No Calories\n Gluten-free, dairy-free and nut-free\n Contains vegetables extracts and sweeteners\n \n Serve over ice with a slice of lime.\"",
+                    "imageUrl": null,
+                    "price": 215,
+                    "title": "Diet Coke 330ml",
+                    "uuid": "d213b07e-c94c-54fd-8a6f-8208c26ea533",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "8fccb0bd-46a8-5b2f-83eb-9ecf4b0866ae": {
+                    "description": "2 x \"The Chilango\" Burritos, 2 x Homemade Classic Lemonades, a large bag of chips and 2 pots of salsa for dunking \n",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/3479df3d-fca9-429e-bc0a-00c8aa68fc33.jpeg",
+                    "price": 2695,
+                    "title": "Chilango for Two",
+                    "uuid": "8fccb0bd-46a8-5b2f-83eb-9ecf4b0866ae",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "b371a19a-5b58-50bd-a90c-fff48b415257": {
+                    "description": "",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/d6d7b3bf-a7f1-4530-b20d-613a54d7456b.jpeg",
+                    "price": 395,
+                    "title": "Jarritos Lime",
+                    "uuid": "b371a19a-5b58-50bd-a90c-fff48b415257",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "86ee5f0e-23ed-5758-9559-95f3e42db092": {
+                    "description": "",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/8983b618-9b8a-454c-b4d4-83fcd3bce544.jpeg",
+                    "price": 195,
+                    "title": "Dalstons Cherryade ",
+                    "uuid": "86ee5f0e-23ed-5758-9559-95f3e42db092",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "d8a86e63-6006-5850-8080-775a966ec1bf": {
+                    "description": "Chargrilled chicken, grilled peppers and onions, Pico de Gallo salsa and sour cream\n",
+                    "imageUrl": null,
+                    "price": 995,
+                    "title": "Chicken Salad",
+                    "uuid": "d8a86e63-6006-5850-8080-775a966ec1bf",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "8e2ad4b0-d0cf-5d95-8325-0fe37ac182f3": {
+                    "description": "All the flavour of a burrito but without the tortilla! Coriander lime rice, beans or peppers, your choice of meat or vegetarian, fresh salsa, cheese and sour cream.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/0d9f167a-4afa-4438-ba5d-8d3ab9e6ddfa.jpeg",
+                    "price": 1295,
+                    "title": "Chorizo Hotbox",
+                    "uuid": "8e2ad4b0-d0cf-5d95-8325-0fe37ac182f3",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "b3cdb122-9800-5550-8eea-7bfea14b1063": {
+                    "description": "Crispy chunks of slow-roasted pork, coriander lime rice, blackbeans, fiery Salsa Verde (hot), sour cream and cheese. Available as a burrito, hotbox or salad.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/938f93ae-99b9-4203-be49-eea040fa8e13.jpeg",
+                    "price": 1295,
+                    "title": "The Blondie",
+                    "uuid": "b3cdb122-9800-5550-8eea-7bfea14b1063",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "90e18365-2ab6-523e-a499-d9d3f2b89911": {
+                    "description": "Tomatillos, habeneros with a secret blend of spices\n",
+                    "imageUrl": "",
+                    "price": 100,
+                    "title": "Fiery Salsa Verde (Hot)",
+                    "uuid": "90e18365-2ab6-523e-a499-d9d3f2b89911",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "6cb13e87-f40d-50cb-9b30-8ac053cce159": {
+                    "description": "Mixed greens topped with beans or peppers, your choice of meat or vegetarian, fresh salsa, cheese and sour cream.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/2ed8e3ac-0fc2-43c9-833e-87c8f8ee2686.jpeg",
+                    "price": 995,
+                    "title": "Salad",
+                    "uuid": "6cb13e87-f40d-50cb-9b30-8ac053cce159",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "cb9d71fd-0996-5fc5-b00f-c524e7a5007c": {
+                    "description": "A soft, warm flour tortilla filled with coriander lime rice, beans or peppers, your choice of meat or vegetarian, fresh salsa, cheese and sour cream. Our vegetarian Burrito is served with Guacamole\n",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/7b057113-16c4-4107-90a0-9a21d1d2c360.jpeg",
+                    "price": 995,
+                    "title": "Burrito",
+                    "uuid": "cb9d71fd-0996-5fc5-b00f-c524e7a5007c",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "5325d61c-c213-5522-8faa-d3e713b70f09": {
+                    "description": "Chopped fresh tomatoes, coriander, lime, onion\n",
+                    "imageUrl": "",
+                    "price": 100,
+                    "title": "Pico de Gallo Salsa (Mild)",
+                    "uuid": "5325d61c-c213-5522-8faa-d3e713b70f09",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "85a1429e-8181-5818-839b-6afdad8e578b": {
+                    "description": "Vegan burrito prepared with freshly roasted and spice sweet potato wedges is served with our BBQ Salsa",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/3370ba4f-9a64-4f84-9efd-6526e5941eb4.jpeg",
+                    "price": 1095,
+                    "title": "Sweet Potato Burrito",
+                    "uuid": "85a1429e-8181-5818-839b-6afdad8e578b",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "e3024c31-8d64-5c9c-bb05-119e24dbd9f5": {
+                    "description": "A modern classic.\n",
+                    "imageUrl": "",
+                    "price": 0,
+                    "title": "BrewDog Punk IPA",
+                    "uuid": "e3024c31-8d64-5c9c-bb05-119e24dbd9f5",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 8640000000,
+                    "classifications": []
+                },
+                "ac21fb5d-56e9-5923-82d6-09c5dcff5588": {
+                    "description": "Made fresh in our restaurants, every morning\n",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/6e5ea8e4-39d1-45ee-87ec-ae5d01e14ec4.jpeg",
+                    "price": 230,
+                    "title": "Homemade Raspberry",
+                    "uuid": "ac21fb5d-56e9-5923-82d6-09c5dcff5588",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": "",
+                    "suspendUntil": 8640000000,
+                    "classifications": []
+                },
+                "731c21b5-949a-5deb-a240-9b048398e948": {
+                    "description": "A soft, warm flour tortilla filled with coriander lime rice, lettuce, pinto or blackbeans and roasted pork belly. Prepared with your choice of salsa\n",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/26fc5e62-fc14-4274-b31b-a3ca4ee70408.jpeg",
+                    "price": 1295,
+                    "title": "Pork Burrito",
+                    "uuid": "731c21b5-949a-5deb-a240-9b048398e948",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "2204a478-b2d2-51d2-9708-e5bfdf3062d4": {
+                    "description": "Half Land/Half Sea. Chargrilled steak and marinated prawns, coriander lime rice, blackbeans, Asada (medium) and BBQ salsas, sour cream and cheese. Available as a burrito, hotbox or salad.\n",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/66b13acb-9167-4f8e-83d2-c59b8c9c7ab4.jpeg",
+                    "price": 1395,
+                    "title": "BBQ Surf & Turf Burrito",
+                    "uuid": "2204a478-b2d2-51d2-9708-e5bfdf3062d4",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "01c60fd6-be4a-5fd9-a1bc-a7fba6d3e6df": {
+                    "description": "Super sessionable at just 3.8%\n",
+                    "imageUrl": "",
+                    "price": 0,
+                    "title": "BrewDog Dead Pony Club ",
+                    "uuid": "01c60fd6-be4a-5fd9-a1bc-a7fba6d3e6df",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 8640000000,
+                    "classifications": []
+                },
+                "69d3c971-2ec7-5e18-9cab-a777d235b83c": {
+                    "description": "THIS™ Isn’t Chicken pieces, lightly spiced with piquin, paprika and cumin, chargrilled and glazed with BBQ Maple salsa and a squeeze of lime. Served with coriander lime rice, black beans and Pico de Gallo salsa",
+                    "imageUrl": "",
+                    "price": 1155,
+                    "title": "THIS™ Isn't a Chicken Hotbox (100% Plant-based)",
+                    "uuid": "69d3c971-2ec7-5e18-9cab-a777d235b83c",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": "",
+                    "suspendUntil": 8640000000,
+                    "classifications": []
+                },
+                "777e4fa5-42d0-5636-9bfd-4572d4ee972e": {
+                    "description": "Made fresh in our restaurants, every morning\n",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/54aa1d91-6262-4079-8175-b4e31d1e744b.jpeg",
+                    "price": 230,
+                    "title": "Homemade Mango & Passionfruit ",
+                    "uuid": "777e4fa5-42d0-5636-9bfd-4572d4ee972e",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": "",
+                    "suspendUntil": 8640000000,
+                    "classifications": []
+                },
+                "68d77d8a-1338-596f-a3ed-6c49eb22d7fe": {
+                    "description": "Roasted tomatoes with a secret blend of dried chillies and spices\n",
+                    "imageUrl": "",
+                    "price": 100,
+                    "title": "Asada Salsa (Medium)",
+                    "uuid": "68d77d8a-1338-596f-a3ed-6c49eb22d7fe",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "8c11b873-1cc8-5b37-8ec4-24f8c33d157d": {
+                    "description": "Cooked-to-order chargrilled steak, coriander lime rice, your choice of beans , salsa and toppings \n",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/e69d5f51-1fd7-4701-8a6d-5716a2b73781.jpeg",
+                    "price": 1295,
+                    "title": "Steak Hotbox",
+                    "uuid": "8c11b873-1cc8-5b37-8ec4-24f8c33d157d",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "b344b5d2-636a-5891-b028-f978ec88f6c2": {
+                    "description": "",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/f06f336d-c03d-49db-beb8-d0e8223a3e6d.jpeg",
+                    "price": 195,
+                    "title": "Harrogate Spring Sparkling Water (500ml)",
+                    "uuid": "b344b5d2-636a-5891-b028-f978ec88f6c2",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "081efb93-db50-5aaf-864e-eb40547dc50e": {
+                    "description": "Crispy tortilla chips with our delicious roasted tomato medium salsa.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/eb111503-5dd8-4127-9269-153237ef1995.jpeg",
+                    "price": 295,
+                    "title": "Tortilla Chips and Salsa",
+                    "uuid": "081efb93-db50-5aaf-864e-eb40547dc50e",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "6b4a0e17-a90c-5a6f-9799-6222b4cb87d3": {
+                    "description": "Guac 8oz pot and large tortilla chips",
+                    "imageUrl": "",
+                    "price": 495,
+                    "title": "Guac n Chips",
+                    "uuid": "6b4a0e17-a90c-5a6f-9799-6222b4cb87d3",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "af3fadd1-d0ed-5907-a20d-268ec5ec6e87": {
+                    "description": "Chargrilled, marinated prawns, grilled peppers and onions, Pico de Gallo salsa and sour cream\n",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/3c90e3a7-7a8b-40fe-9e97-dde6648d3c6a.jpeg",
+                    "price": 1395,
+                    "title": "Prawn Again Salad ",
+                    "uuid": "af3fadd1-d0ed-5907-a20d-268ec5ec6e87",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "0343a295-e3b1-52d9-8dec-d235c4362edc": {
+                    "description": "THIS™ Isn’t Chicken pieces, lightly spiced with piquin, paprika and cumin, chargrilled and glazed with BBQ Maple salsa and a squeeze of lime. Served on a bed of mixed baby leaves with Pico de Gallo salsa",
+                    "imageUrl": "",
+                    "price": 1155,
+                    "title": "THIS™ Isn't a Chicken Salad (100% Plant-based)",
+                    "uuid": "0343a295-e3b1-52d9-8dec-d235c4362edc",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "3a5bd7b2-77e6-5440-9f00-f51558b5298c": {
+                    "description": "1 x \"The Chilango\" Burrito, 1 x Homemade Classic Lemonade and a small tortilla chips and salsa ",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/a81235ac-067d-4064-8edb-821f2950c859.jpeg",
+                    "price": 1495,
+                    "title": "Chilango for One",
+                    "uuid": "3a5bd7b2-77e6-5440-9f00-f51558b5298c",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "445dc4d4-c1f7-5d75-9165-37882bb60e10": {
+                    "description": "",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/0ffdd21a-b1c2-4f9e-b9ed-796c610558c1.jpeg",
+                    "price": 495,
+                    "title": "Corona",
+                    "uuid": "445dc4d4-c1f7-5d75-9165-37882bb60e10",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "5d2936f1-7d04-5374-afc5-8d8ac67c063c": {
+                    "description": "",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/9b64d4a3-c34b-44a0-9249-c1179135809f.jpeg",
+                    "price": 195,
+                    "title": "Dalston Lemonade",
+                    "uuid": "5d2936f1-7d04-5374-afc5-8d8ac67c063c",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "7f606d50-5caa-5e8c-b27b-e3edea3c2386": {
+                    "description": "A soft, warm flour tortilla filled with coriander lime rice, lettuce, pinto or blackbeans and chargrilled chicken. Prepared with your choice of salsa\n",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/7c923ced-6148-4ae2-a31d-828c5927b6c1.jpeg",
+                    "price": 1045,
+                    "title": "Chicken Burrito ",
+                    "uuid": "7f606d50-5caa-5e8c-b27b-e3edea3c2386",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "398ade6d-11dc-590c-9710-e11ffe3abde3": {
+                    "description": "",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/42fc635a-f6d3-4eb5-b698-ea3f42e54e2a.jpeg",
+                    "price": 195,
+                    "title": "Dalston Orangeade",
+                    "uuid": "398ade6d-11dc-590c-9710-e11ffe3abde3",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "5de62a8c-2767-57d5-871e-e704541ccae1": {
+                    "description": "Low carb box and large tortilla chips",
+                    "imageUrl": "",
+                    "price": 550,
+                    "title": "Chilango Dipper Taster",
+                    "uuid": "5de62a8c-2767-57d5-871e-e704541ccae1",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "987ae629-15a8-5bdf-b2b8-1a3c5516c796": {
+                    "description": "A Mexican pilsner-style beer (4.5%)\n",
+                    "imageUrl": "",
+                    "price": 0,
+                    "title": "Pacifico Clara",
+                    "uuid": "987ae629-15a8-5bdf-b2b8-1a3c5516c796",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 8640000000,
+                    "classifications": []
+                },
+                "4ffb5ace-39be-5b93-8da1-c05e585f0b0e": {
+                    "description": "Chargrilled chicken, lettuce, Pico de Gallo salsa and a generous helping of fresh-smashed guacamole\n",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/4069f329-05ca-47fa-ae64-bea7a84376d3.jpeg",
+                    "price": 795,
+                    "title": "Low Carb Box",
+                    "uuid": "4ffb5ace-39be-5b93-8da1-c05e585f0b0e",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "763da890-3f99-5014-862a-87d603548723": {
+                    "description": "Our all-time bestseller. Chargrilled chicken with coriander lime rice, blackbeans, Asada (medium) salsa, sour cream and cheese. Available as a burrito, hotbox or salad.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/7fe5e88d-ab69-46a0-92cc-a216c6b0f22b.jpeg",
+                    "price": 1045,
+                    "title": "The Chilango",
+                    "uuid": "763da890-3f99-5014-862a-87d603548723",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "f28691ab-3d4a-5b85-888c-9708ff4f1dec": {
+                    "description": "Coriander lime rice, chargrilled chicken, pinto or blackbeans, cheese and sour cream. Prepared with your choice of salsa\n",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/fc7b8712-e8d5-4069-89fa-947592486ab4.jpeg",
+                    "price": 1045,
+                    "title": "Chicken Hotbox",
+                    "uuid": "f28691ab-3d4a-5b85-888c-9708ff4f1dec",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                }
+            }
+        },
+        "sections": [
+            {
+                "subsectionUuids": [
+                    "7813a2a9-e20f-5371-9eb2-de730b4e4fda",
+                    "c8f1ce74-4aca-5bce-aeec-c2680426127e",
+                    "c0939277-5817-589d-be01-9cdeeedae77d",
+                    "8b3745e3-bcb5-5b9e-ad43-639d7dec9a37",
+                    "c673ec0b-7afa-5454-93d3-22bafe725ef0",
+                    "5f70cb1e-a348-5058-878f-fad30ed59085",
+                    "a007a252-e1aa-54a5-bdae-50a911935525",
+                    "9ec16613-4aa5-5366-a5c5-3c1f8cbd1d4e",
+                    "9f24e671-8b5c-587d-9c5b-c70a4ce1ddaa",
+                    "25f259b2-fbfd-5052-a5b7-4ee9b6012d28"
+                ],
+                "title": "Menu",
+                "subtitle": "11:00 AM – 11:00 PM",
+                "uuid": "a8c175d3-ea78-51c1-b867-1d5df1a7c6aa",
+                "isTop": true,
+                "isOnSale": true
+            }
+        ],
+        "subsectionsMap": {
+            "c673ec0b-7afa-5454-93d3-22bafe725ef0": {
+                "itemUuids": [
+                    "69d3c971-2ec7-5e18-9cab-a777d235b83c",
+                    "8e2ad4b0-d0cf-5d95-8325-0fe37ac182f3",
+                    "f28691ab-3d4a-5b85-888c-9708ff4f1dec",
+                    "ed64f973-9a13-5685-8497-9b7c5f9816eb",
+                    "8c11b873-1cc8-5b37-8ec4-24f8c33d157d"
+                ],
+                "subtitle": "",
+                "title": "Hotboxes",
+                "uuid": "c673ec0b-7afa-5454-93d3-22bafe725ef0",
+                "displayType": null
+            },
+            "7813a2a9-e20f-5371-9eb2-de730b4e4fda": {
+                "itemUuids": [
+                    "3a5bd7b2-77e6-5440-9f00-f51558b5298c",
+                    "8fccb0bd-46a8-5b2f-83eb-9ecf4b0866ae"
+                ],
+                "subtitle": "",
+                "title": "Chilango Bundles",
+                "uuid": "7813a2a9-e20f-5371-9eb2-de730b4e4fda",
+                "displayType": null
+            },
+            "c8f1ce74-4aca-5bce-aeec-c2680426127e": {
+                "itemUuids": [
+                    "763da890-3f99-5014-862a-87d603548723",
+                    "b3cdb122-9800-5550-8eea-7bfea14b1063",
+                    "69153a2a-b279-521a-8515-9583fd47f22c",
+                    "4ffb5ace-39be-5b93-8da1-c05e585f0b0e",
+                    "2204a478-b2d2-51d2-9708-e5bfdf3062d4"
+                ],
+                "subtitle": "",
+                "title": "Chilango Favourites",
+                "uuid": "c8f1ce74-4aca-5bce-aeec-c2680426127e",
+                "displayType": null
+            },
+            "a007a252-e1aa-54a5-bdae-50a911935525": {
+                "itemUuids": [
+                    "0343a295-e3b1-52d9-8dec-d235c4362edc",
+                    "d4932e7a-a3d7-5c45-bc0c-c8a0d34c2754",
+                    "d8a86e63-6006-5850-8080-775a966ec1bf",
+                    "af3fadd1-d0ed-5907-a20d-268ec5ec6e87",
+                    "f8406beb-5ed3-52ea-92d1-f39c1a7c6838"
+                ],
+                "subtitle": "",
+                "title": "Salads",
+                "uuid": "a007a252-e1aa-54a5-bdae-50a911935525",
+                "displayType": null
+            },
+            "9f24e671-8b5c-587d-9c5b-c70a4ce1ddaa": {
+                "itemUuids": [
+                    "dcd32c4d-5f81-51b9-ae10-f884cab3b11c",
+                    "777e4fa5-42d0-5636-9bfd-4572d4ee972e",
+                    "ac21fb5d-56e9-5923-82d6-09c5dcff5588",
+                    "57c463dd-7833-593a-8625-42994d116619",
+                    "d213b07e-c94c-54fd-8a6f-8208c26ea533",
+                    "b371a19a-5b58-50bd-a90c-fff48b415257",
+                    "cd6d600f-13d0-5bba-803d-b1102cb3ba03",
+                    "5d2936f1-7d04-5374-afc5-8d8ac67c063c",
+                    "398ade6d-11dc-590c-9710-e11ffe3abde3",
+                    "86ee5f0e-23ed-5758-9559-95f3e42db092",
+                    "7f4ef9f8-1880-548d-a9b0-d18838f02b59",
+                    "b344b5d2-636a-5891-b028-f978ec88f6c2"
+                ],
+                "subtitle": "",
+                "title": "Drinks",
+                "uuid": "9f24e671-8b5c-587d-9c5b-c70a4ce1ddaa",
+                "displayType": null
+            },
+            "c0939277-5817-589d-be01-9cdeeedae77d": {
+                "itemUuids": [
+                    "cb9d71fd-0996-5fc5-b00f-c524e7a5007c",
+                    "75d7c86a-a668-52a4-aaa5-99459c886229",
+                    "6cb13e87-f40d-50cb-9b30-8ac053cce159"
+                ],
+                "subtitle": "",
+                "title": "Build Your Own",
+                "uuid": "c0939277-5817-589d-be01-9cdeeedae77d",
+                "displayType": null
+            },
+            "25f259b2-fbfd-5052-a5b7-4ee9b6012d28": {
+                "itemUuids": [
+                    "445dc4d4-c1f7-5d75-9165-37882bb60e10",
+                    "987ae629-15a8-5bdf-b2b8-1a3c5516c796",
+                    "fbb919b2-5ed6-5216-9ef4-8210c1ac112b",
+                    "e3024c31-8d64-5c9c-bb05-119e24dbd9f5",
+                    "01c60fd6-be4a-5fd9-a1bc-a7fba6d3e6df"
+                ],
+                "subtitle": "",
+                "title": "Beers",
+                "uuid": "25f259b2-fbfd-5052-a5b7-4ee9b6012d28",
+                "displayType": null
+            },
+            "9ec16613-4aa5-5366-a5c5-3c1f8cbd1d4e": {
+                "itemUuids": [
+                    "6b4a0e17-a90c-5a6f-9799-6222b4cb87d3",
+                    "081efb93-db50-5aaf-864e-eb40547dc50e",
+                    "f9b5a169-519a-5a6b-85cb-02c345d5fe7f",
+                    "0edb4a19-db17-5b21-bab7-a808aa75b9b3",
+                    "1e119478-5ac1-5140-bb05-b35454830409",
+                    "befda7a4-1219-5f0b-a139-9e4a8ae53f30",
+                    "421c1e91-cdd2-5321-a138-f9b5be8635ce",
+                    "5de62a8c-2767-57d5-871e-e704541ccae1",
+                    "5325d61c-c213-5522-8faa-d3e713b70f09",
+                    "68d77d8a-1338-596f-a3ed-6c49eb22d7fe",
+                    "90e18365-2ab6-523e-a499-d9d3f2b89911"
+                ],
+                "subtitle": "",
+                "title": "Sides & Sharers",
+                "uuid": "9ec16613-4aa5-5366-a5c5-3c1f8cbd1d4e",
+                "displayType": null
+            },
+            "8b3745e3-bcb5-5b9e-ad43-639d7dec9a37": {
+                "itemUuids": [
+                    "9a89d45c-95ca-5625-8a5c-6f421f08bbfb",
+                    "3e99c7bc-564b-5194-88f4-f8fab72576ec",
+                    "763da890-3f99-5014-862a-87d603548723",
+                    "7f606d50-5caa-5e8c-b27b-e3edea3c2386",
+                    "65e1f061-2a58-5791-ba97-253854c0ed8a",
+                    "04d4abbd-c9e4-583f-8a90-562c7ff11acb",
+                    "731c21b5-949a-5deb-a240-9b048398e948"
+                ],
+                "subtitle": "",
+                "title": "Burritos",
+                "uuid": "8b3745e3-bcb5-5b9e-ad43-639d7dec9a37",
+                "displayType": null
+            },
+            "5f70cb1e-a348-5058-878f-fad30ed59085": {
+                "itemUuids": [
+                    "c8330231-1384-50b9-b68f-028bb2cbc902",
+                    "85a1429e-8181-5818-839b-6afdad8e578b",
+                    "65e1f061-2a58-5791-ba97-253854c0ed8a"
+                ],
+                "subtitle": "",
+                "title": "Veggie & Vegan",
+                "uuid": "5f70cb1e-a348-5058-878f-fad30ed59085",
+                "displayType": null
+            }
+        },
+        "title": "Chilango (London Bridge)",
+        "uuid": "ae32dc0b-50fc-4d91-b087-7e6212613ef5",
+        "categories": [
+            "₴₴",
+            "Мексиканська",
+            "Фастфуд",
+            "Здорова їжа"
+        ],
+        "cuisineList": [
+            "Мексиканська",
+            "Фастфуд",
+            "Здорова їжа"
+        ],
+        "priceBucket": "₴₴",
+        "etaRange": {
+            "text": "25–35 min",
+            "iconUrl": ""
+        },
+        "ratingBadge": {
+            "text": "<span><span style=\"font-family: inherit; color: #3a3a48;\">4.1 <img src=\"https://d1a3f4spazzrp4.cloudfront.net/static/images/Star_Black_Eats_3.png\" width=\"14\" height=\"14\" vertical-align=\"middle\"> </span><span style=\"font-family: inherit; color: #757575;\">(200+)</span></span>"
+        },
+        "disclaimerBadge": {
+            "text": "<span style=\"font-family: inherit;\">Allergies, intolerances and dietary requirements: before ordering, please contact the restaurant directly and ask to speak to a member of staff who can assist if you require information about ingredients and help cater for your needs. For more information on food safety and hygiene, please visit the <a href=\"https://www.food.gov.uk/\" style=\"color:#61ad5f;\">Food Standards Agency</a></span>"
+        },
+        "fareBadge": null,
+        "fareInfo": {
+            "serviceFee": 30,
+            "serviceFeeCents": 3000
+        },
+        "promotion": null,
+        "shouldIndex": false,
+        "heroImageUrls": [
+            {
+                "url": "https://duyt4h9nfnj50.cloudfront.net/resized/1541067314284-w240-bd.jpg",
+                "width": 240
+            },
+            {
+                "url": "https://duyt4h9nfnj50.cloudfront.net/resized/1541067314284-w550-ea.jpg",
+                "width": 550
+            },
+            {
+                "url": "https://duyt4h9nfnj50.cloudfront.net/resized/1541067314284-w640-ad.jpg",
+                "width": 640
+            },
+            {
+                "url": "https://duyt4h9nfnj50.cloudfront.net/resized/1541067314284-w750-ec.jpg",
+                "width": 750
+            },
+            {
+                "url": "https://duyt4h9nfnj50.cloudfront.net/resized/1541067314284-w1080-28.jpg",
+                "width": 1080
+            },
+            {
+                "url": "https://duyt4h9nfnj50.cloudfront.net/resized/1541067314284-w2880-22.jpg",
+                "width": 2880
+            }
+        ],
+        "isOpen": true,
+        "currencyCode": "GBP",
+        "closedMessage": "Currently unavailable",
+        "location": {
+            "address": "Chilango London Bridge, England SE1 2TH",
+            "streetAddress": "Chilango",
+            "city": "London",
+            "country": "GB",
+            "postalCode": "SE1 2TH",
+            "region": "England",
+            "latitude": 51.504612,
+            "longitude": -0.083341
+        },
+        "isDeliveryThirdParty": false,
+        "hours": [
+            {
+                "dayRange": "Sunday",
+                "sectionHours": [
+                    {
+                        "startTime": 720,
+                        "endTime": 1320,
+                        "sectionTitle": ""
+                    }
+                ]
+            },
+            {
+                "dayRange": "Monday - Wednesday",
+                "sectionHours": [
+                    {
+                        "startTime": 660,
+                        "endTime": 1320,
+                        "sectionTitle": ""
+                    }
+                ]
+            },
+            {
+                "dayRange": "Thursday - Saturday",
+                "sectionHours": [
+                    {
+                        "startTime": 660,
+                        "endTime": 1380,
+                        "sectionTitle": ""
+                    }
+                ]
+            }
+        ],
+        "disableOrderInstruction": false,
+        "disableCheckoutInstruction": false,
+        "nuggets": [],
+        "isWithinDeliveryRange": false,
+        "slug": "chilango-london-bridge",
+        "citySlug": "london",
+        "phoneNumber": "+442074077015",
+        "metaJson": "{\"@context\":\"http:\\u002F\\u002Fschema.org\",\"@type\":\"Restaurant\",\"@id\":\"https:\\u002F\\u002Fwww.ubereats.com\\u002Fen-UA\\u002Flondon\\u002Ffood-delivery\\u002Fchilango-london-bridge\\u002FrjLcC1D8TZGwh35iEmE-9Q\\u002F\",\"name\":\"Chilango (London Bridge)\",\"priceRange\":\"₴₴\",\"potentialAction\":{\"@type\":\"OrderAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\\u002F\\u002Fwww.ubereats.com\\u002Fen-UA\\u002Flondon\\u002Ffood-delivery\\u002Fchilango-london-bridge\\u002FrjLcC1D8TZGwh35iEmE-9Q\\u002F?utm_campaign=order-action&utm_medium=organic\",\"inLanguage\":\"English\",\"actionPlatform\":[\"http:\\u002F\\u002Fschema.org\\u002FDesktopWebPlatform\",\"http:\\u002F\\u002Fschema.org\\u002FMobileWebPlatform\"]},\"deliveryMethod\":[\"http:\\u002F\\u002Fpurl.org\\u002Fgoodrelations\\u002Fv1#DeliveryModeOwnFleet\"]},\"address\":{\"@type\":\"PostalAddress\",\"addressLocality\":\"London\",\"addressRegion\":\"England\",\"postalCode\":\"SE1 2TH\",\"addressCountry\":\"GB\",\"streetAddress\":\"Chilango\"},\"geo\":{\"@type\":\"GeoCoordinates\",\"latitude\":51.504612,\"longitude\":-0.083341}}",
+        "promoTrackings": [],
+        "suggestedPromotion": {
+            "text": "",
+            "promotionUuid": ""
+        },
+        "supportedDiningModes": [
+            {
+                "mode": "DELIVERY",
+                "title": "Delivery",
+                "isSelected": true,
+                "isAvailable": true
+            }
+        ],
+        "isPreview": false,
+        "pinnedInfo": null
+    }
+}

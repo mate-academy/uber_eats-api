@@ -1,0 +1,1320 @@
+{
+    "status": "success",
+    "data": {
+        "sectionEntitiesMap": {
+            "6e7dbde5-ad73-472e-86c8-757dbbc0d1f7": {
+                "7b4b3936-5ddb-420e-8b27-6ca4ccd85015": {
+                    "description": "Spicy beef sausage, onions, tomatoes, and green bell peppers. Lebanese flatbread made with classic white dough and baked to order in our traditional brick oven topped with farm fresh products from the Levant.",
+                    "imageUrl": null,
+                    "price": 745,
+                    "title": "Sujuk Bi Ajin Manousheh",
+                    "uuid": "7b4b3936-5ddb-420e-8b27-6ca4ccd85015",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "313eb86f-e55c-45b5-aa28-1500fb7c14e1": {
+                    "description": "Zaatar, Hummus & Beetroot",
+                    "imageUrl": null,
+                    "price": 5000,
+                    "title": "Any 10 Manousheh 'From the Garden'",
+                    "uuid": "313eb86f-e55c-45b5-aa28-1500fb7c14e1",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "8874bb46-bcca-4172-8514-553d943a0845": {
+                    "description": null,
+                    "imageUrl": null,
+                    "price": 550,
+                    "title": "Strawberry & Rose Petal Jam",
+                    "uuid": "8874bb46-bcca-4172-8514-553d943a0845",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "bdf0eaf1-ddfe-4bbe-bb2e-59e6b9a53d0f": {
+                    "description": "Bulgur croquettes, beef mince, and pine nuts. Lebanese bite sized bakes.",
+                    "imageUrl": null,
+                    "price": 150,
+                    "title": "Kebbeh Mouajjanet",
+                    "uuid": "bdf0eaf1-ddfe-4bbe-bb2e-59e6b9a53d0f",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "a49dd183-cddc-4776-a202-e6391be661bc": {
+                    "description": null,
+                    "imageUrl": null,
+                    "price": 1450,
+                    "title": "Cup",
+                    "uuid": "a49dd183-cddc-4776-a202-e6391be661bc",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "62fa605e-dba2-4bea-a180-f031ad06ad44": {
+                    "description": "Soft cow’s milk cheese. Traditional Lebanese street bread with sesame seeds.",
+                    "imageUrl": null,
+                    "price": 625,
+                    "title": "Akkawi Kaak Bread",
+                    "uuid": "62fa605e-dba2-4bea-a180-f031ad06ad44",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "c5913e0f-b226-4be1-87c2-e5688639e3ad": {
+                    "description": "Spinach, onions, and sumac. Lebanese bite sized bakes.",
+                    "imageUrl": null,
+                    "price": 150,
+                    "title": "Sbenikh Mouajjanet",
+                    "uuid": "c5913e0f-b226-4be1-87c2-e5688639e3ad",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": "",
+                    "suspendUntil": 8640000000,
+                    "classifications": []
+                },
+                "f0db7d5d-db99-4e6a-95d9-27e9b01b0648": {
+                    "description": "Sirene cheese and thyme flower. Lebanese bite sized bakes.",
+                    "imageUrl": null,
+                    "price": 150,
+                    "title": "Bulghareh Mouajjanet",
+                    "uuid": "f0db7d5d-db99-4e6a-95d9-27e9b01b0648",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "9eb67a8a-ea1e-41bd-80ca-226d769c46b5": {
+                    "description": "",
+                    "imageUrl": null,
+                    "price": 315,
+                    "title": "Homemade Lemonade",
+                    "uuid": "9eb67a8a-ea1e-41bd-80ca-226d769c46b5",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": "",
+                    "suspendUntil": 8640000000,
+                    "classifications": []
+                },
+                "d7b99f2e-da6b-452d-895a-6734d4593be8": {
+                    "description": "Spiced roasted red pepper mix, walnuts, pomegranate seeds, whole wheat zaatar cracker",
+                    "imageUrl": null,
+                    "price": 450,
+                    "title": "Muhammara",
+                    "uuid": "d7b99f2e-da6b-452d-895a-6734d4593be8",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "8368a18d-131f-4db3-8820-3eb84900947f": {
+                    "description": "Lahmeh Bi Ajin, Lahmeh Bi Ajin & Pomegranate Molasses, Sujuk Bi Ajin, Kafta, Awarma & Labneh, Ras Afour, Chicken Djej",
+                    "imageUrl": null,
+                    "price": 7200,
+                    "title": "Any 10 Manousheh 'Meat'",
+                    "uuid": "8368a18d-131f-4db3-8820-3eb84900947f",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "244afed3-0dee-4720-94db-68e923944a3c": {
+                    "description": "Diced beef sirloin, pomegranate, wild rocket, and toasted pine nuts. Lebanese flatbread made with classic white dough and baked to order in our traditional brick oven topped with farm fresh products from the Levant.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/3b620389-660d-4684-94fc-bb7f0c143194",
+                    "price": 995,
+                    "title": "Ras Asfour Manousheh",
+                    "uuid": "244afed3-0dee-4720-94db-68e923944a3c",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "023e8e57-beb1-4f6d-ada2-f0b32a69fd8e": {
+                    "description": "Spiced ground beef and lamb, cherry tomatoes, pickles, and parsley. Lebanese flatbread made with classic white dough and baked to order in our traditional brick oven topped with farm fresh products from the Levant.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/c9edc26c-56fa-4e80-ac2f-759523fad434.jpeg",
+                    "price": 745,
+                    "title": "Kafta Manousheh",
+                    "uuid": "023e8e57-beb1-4f6d-ada2-f0b32a69fd8e",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "e2b64ecf-6225-4997-91a7-ea33577155d7": {
+                    "description": "Halloumi cheese, fresh basil, and pine nuts spread. Lebanese flatbread made with classic white dough and baked to order in our traditional brick oven topped with farm fresh products from the Levant.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/671b010e-9412-4cc9-a2da-0edfaceaeac2",
+                    "price": 675,
+                    "title": "Halloum and Basil Manousheh",
+                    "uuid": "e2b64ecf-6225-4997-91a7-ea33577155d7",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": "",
+                    "suspendUntil": 1568933999,
+                    "classifications": []
+                },
+                "19212c68-6d0c-47c5-adc2-34530ebe0733": {
+                    "description": "Marinated chicken breast, lettuce, pickles, and garlic spread. Lebanese flatbread made with classic white dough and baked to order in our traditional brick oven topped with farm fresh products from the Levant.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/d5fd83a4-a68b-48ec-aaf5-222dd74f09b4",
+                    "price": 750,
+                    "title": "Chicken Djej Manousheh",
+                    "uuid": "19212c68-6d0c-47c5-adc2-34530ebe0733",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "d2fec64f-89b2-4fe9-8b34-3016d6fb7331": {
+                    "description": null,
+                    "imageUrl": null,
+                    "price": 425,
+                    "title": "Sumac",
+                    "uuid": "d2fec64f-89b2-4fe9-8b34-3016d6fb7331",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "34301dfb-6409-4802-be57-c4c278e8e0f5": {
+                    "description": "Halva and pistachios. Lebanese bite sized bakes.",
+                    "imageUrl": null,
+                    "price": 150,
+                    "title": "Haleweh Mouajjanet",
+                    "uuid": "34301dfb-6409-4802-be57-c4c278e8e0f5",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "06324be8-8983-468b-aafa-e3fa32ee3756": {
+                    "description": "",
+                    "imageUrl": null,
+                    "price": 395,
+                    "title": "Pomegranate Juice",
+                    "uuid": "06324be8-8983-468b-aafa-e3fa32ee3756",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": "",
+                    "suspendUntil": 8640000000,
+                    "classifications": []
+                },
+                "1117b28a-76a3-4c0d-aa80-5ead8d0c61bd": {
+                    "description": "Sweet flat bread. Nutella and toasted hazelnuts.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/ecdb517f-79c3-480e-afa5-5c5c1fa7aa52.jpeg",
+                    "price": 525,
+                    "title": "Nutella Sweet Manousheh",
+                    "uuid": "1117b28a-76a3-4c0d-aa80-5ead8d0c61bd",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "ded31fea-24f7-4caa-9740-ec84772d9f32": {
+                    "description": "String cheese, wild rocket, and Lebanese olive oil. Lebanese flatbread made with classic white dough and baked to order in our traditional brick oven topped with farm fresh products from the Levant.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/cd4cd312-804a-45c6-843d-3be92c3c4cfa.jpeg",
+                    "price": 625,
+                    "title": "Mshalaleh and Rocca Manousheh",
+                    "uuid": "ded31fea-24f7-4caa-9740-ec84772d9f32",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "c2ef703b-9e4d-472c-bb7e-58c9a2d54eb5": {
+                    "description": "Sweet pastry filled with Walnuts",
+                    "imageUrl": null,
+                    "price": 150,
+                    "title": "Ma'amoul - Walnuts",
+                    "uuid": "c2ef703b-9e4d-472c-bb7e-58c9a2d54eb5",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": "",
+                    "suspendUntil": 8640000000,
+                    "classifications": []
+                },
+                "babd59ae-a98f-45d8-9f86-4b8635b8dbd4": {
+                    "description": "Sweet pastry filled with Pistachio",
+                    "imageUrl": null,
+                    "price": 150,
+                    "title": "Ma'amoul - Pistachio",
+                    "uuid": "babd59ae-a98f-45d8-9f86-4b8635b8dbd4",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": "",
+                    "suspendUntil": 8640000000,
+                    "classifications": []
+                },
+                "2f42993e-2a34-4db7-aa93-b25e0785fbae": {
+                    "description": "Akkawi, Kashkawan, Bulghareh & Spinach, Mshalaleh & Rocca, Labneh & Vegetables, Halloum & Basil, Muhammara & Labneh",
+                    "imageUrl": null,
+                    "price": 6000,
+                    "title": "Any 10 Manousheh 'Cheese'",
+                    "uuid": "2f42993e-2a34-4db7-aa93-b25e0785fbae",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "19214432-71e8-435a-9aa5-a3af135840c2": {
+                    "description": "Nutella and hazelnuts. Lebanese bite sized bakes.",
+                    "imageUrl": null,
+                    "price": 150,
+                    "title": "Nutella Mouajjanet",
+                    "uuid": "19214432-71e8-435a-9aa5-a3af135840c2",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "39103047-95f4-4110-84b4-262b08f93252": {
+                    "description": "",
+                    "imageUrl": null,
+                    "price": 175,
+                    "title": "Soft Drink",
+                    "uuid": "39103047-95f4-4110-84b4-262b08f93252",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "80baa49b-2a3e-48d2-8ebc-d2c51f735edb": {
+                    "description": null,
+                    "imageUrl": null,
+                    "price": 2250,
+                    "title": " Lebanese Zaatar mix big bag",
+                    "uuid": "80baa49b-2a3e-48d2-8ebc-d2c51f735edb",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "f94e0668-9561-45a7-8997-ed081ebdcf86": {
+                    "description": "",
+                    "imageUrl": null,
+                    "price": 315,
+                    "title": "Fresh Orange Juice",
+                    "uuid": "f94e0668-9561-45a7-8997-ed081ebdcf86",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "7d2b2f62-12d9-4405-879c-aca688eb0540": {
+                    "description": "",
+                    "imageUrl": null,
+                    "price": 200,
+                    "title": "Mineral Sparkling Water",
+                    "uuid": "7d2b2f62-12d9-4405-879c-aca688eb0540",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "64cafbc7-6e4b-48d3-9923-2471b39b400a": {
+                    "description": null,
+                    "imageUrl": null,
+                    "price": 750,
+                    "title": "Rose Water",
+                    "uuid": "64cafbc7-6e4b-48d3-9923-2471b39b400a",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "149cb4ed-b7ef-4fe6-87bb-625cc1a00ab5": {
+                    "description": "Chickpea & tahini spread,freshly baked bread.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/9603ab81-131f-4d4a-ad77-e954437624b6",
+                    "price": 425,
+                    "title": "Hummus",
+                    "uuid": "149cb4ed-b7ef-4fe6-87bb-625cc1a00ab5",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "b61ed9ff-a5a2-43b4-a195-d14a70cf0472": {
+                    "description": "Beef mince, pine nuts, and pomegranate molasses. Lebanese bite sized bakes.",
+                    "imageUrl": null,
+                    "price": 150,
+                    "title": "Sambousek Mouajjanet",
+                    "uuid": "b61ed9ff-a5a2-43b4-a195-d14a70cf0472",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "1c30b3a6-9fad-47d1-9be4-0b998d4f7874": {
+                    "description": "Sbenikh, Bakleh, Zaytun, Halloum, Bulghareh, Kebbeh,\nSambousek, Haleweh, Nutella",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/c6f3be36-aab2-4429-b6a1-f65157649e19",
+                    "price": 2500,
+                    "title": "Any 20 Mouajjanet",
+                    "uuid": "1c30b3a6-9fad-47d1-9be4-0b998d4f7874",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "d709a36f-3e5e-4e13-8cae-2e7f064151c4": {
+                    "description": null,
+                    "imageUrl": null,
+                    "price": 550,
+                    "title": "Sundried figs extra jam",
+                    "uuid": "d709a36f-3e5e-4e13-8cae-2e7f064151c4",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "a1c2790d-5874-4c7b-b75d-e6cc01a27653": {
+                    "description": null,
+                    "imageUrl": null,
+                    "price": 650,
+                    "title": "Dates Stuffed with Almonds",
+                    "uuid": "a1c2790d-5874-4c7b-b75d-e6cc01a27653",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "76a47321-68cb-42f8-8341-e385bd8b8f18": {
+                    "description": "Watercress, onions, and pomegranate molasses. Lebanese bite sized bakes.",
+                    "imageUrl": null,
+                    "price": 150,
+                    "title": "Bakleh Mouajjanet",
+                    "uuid": "76a47321-68cb-42f8-8341-e385bd8b8f18",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": "",
+                    "suspendUntil": 8640000000,
+                    "classifications": []
+                },
+                "38c0c061-0141-4a0c-9cbf-687161ae61c7": {
+                    "description": null,
+                    "imageUrl": null,
+                    "price": 750,
+                    "title": "Lebanese Sumac",
+                    "uuid": "38c0c061-0141-4a0c-9cbf-687161ae61c7",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": "",
+                    "suspendUntil": 8640000000,
+                    "classifications": []
+                },
+                "24b97524-9965-4b1f-b579-865c14524cab": {
+                    "description": null,
+                    "imageUrl": null,
+                    "price": 650,
+                    "title": "Cream of Dates with Almond Jam",
+                    "uuid": "24b97524-9965-4b1f-b579-865c14524cab",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "da8a7f82-6c83-40b3-9867-873f1527aa1b": {
+                    "description": "Eggs sunny side up. Free range farmhouse eggs cracked and baked on manousheh bread.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/a7e3e502-76e6-434a-8168-8c72ac1fbab3",
+                    "price": 625,
+                    "title": "Baked Eggs",
+                    "uuid": "da8a7f82-6c83-40b3-9867-873f1527aa1b",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "be603512-b3c6-4ecf-8445-60d4093aabac": {
+                    "description": "Minced beef, lamb, onions, tomatoes, and green bell peppers. Lebanese flatbread made with classic white dough and baked to order in our traditional brick oven topped with farm fresh products from the Levant.",
+                    "imageUrl": null,
+                    "price": 795,
+                    "title": "Lahmeh Bi Ajin Manousheh",
+                    "uuid": "be603512-b3c6-4ecf-8445-60d4093aabac",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "6a6c9061-fe85-443c-98a0-b7b47707137e": {
+                    "description": "Strained goat’s yogurt, spiced roasted red peppers, walnut, pomegranate molasses, and cucumber. Lebanese flatbread made with classic white dough and baked to order in our traditional brick oven topped with farm fresh products from the Levant.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/2f4bd23e-f603-4133-82db-61f35e384b1d.jpeg",
+                    "price": 695,
+                    "title": "Muhammara and Labneh Manousheh",
+                    "uuid": "6a6c9061-fe85-443c-98a0-b7b47707137e",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "eb842e07-3205-4343-bb5c-e69e9ad1f9c3": {
+                    "description": null,
+                    "imageUrl": null,
+                    "price": 550,
+                    "title": "Sundried Figs with Walnuts",
+                    "uuid": "eb842e07-3205-4343-bb5c-e69e9ad1f9c3",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "01b854b1-727b-46cb-bd0d-a1e9527fb157": {
+                    "description": "Semi hard sheep’s milk cheese. Traditional Lebanese street bread with sesame seeds.",
+                    "imageUrl": null,
+                    "price": 650,
+                    "title": "Kashkawan Kaak Bread",
+                    "uuid": "01b854b1-727b-46cb-bd0d-a1e9527fb157",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "35bc3829-0742-4aa9-90ed-98f6c81f5791": {
+                    "description": "Sweet flat bread. Banana, wild honey, and toasted almonds.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/377e3175-7f70-4da1-a37e-7ad34b832b75.jpeg",
+                    "price": 525,
+                    "title": "Banana and Honey Sweet Manousheh",
+                    "uuid": "35bc3829-0742-4aa9-90ed-98f6c81f5791",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "dfcb5fcc-fd58-4057-acb4-9bb1049d580d": {
+                    "description": "Sweet flat bread. Carob molasses, tahini, and salted caramelized almonds.",
+                    "imageUrl": null,
+                    "price": 525,
+                    "title": "Debess and Tahini Sweet Manousheh",
+                    "uuid": "dfcb5fcc-fd58-4057-acb4-9bb1049d580d",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "b9df8970-31f4-43d7-a112-1d5f524c9246": {
+                    "description": null,
+                    "imageUrl": null,
+                    "price": 425,
+                    "title": "3 Citrus Marmalade",
+                    "uuid": "b9df8970-31f4-43d7-a112-1d5f524c9246",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "d181633e-d73a-4c70-8f92-db8bd49f02a0": {
+                    "description": "Minced beef, lamb, onions, and pomegranate molasses. Lebanese flatbread made with classic white dough and baked to order in our traditional brick oven topped with farm fresh products from the Levant.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/c1cad914-939a-45cd-825d-b09ced68383c",
+                    "price": 825,
+                    "title": "Lahmeh Bi Ajin and Pomegranate Molasses Manousheh",
+                    "uuid": "d181633e-d73a-4c70-8f92-db8bd49f02a0",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "8a3a2a23-eb7e-4dcb-87fd-37aaf2585144": {
+                    "description": "Eggs lamb confit. Free range farmhouse eggs cracked and baked on manousheh bread.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/8500780d-1e43-4a3f-ae1f-c21399117731",
+                    "price": 695,
+                    "title": "Baked Eggs and Awarma",
+                    "uuid": "8a3a2a23-eb7e-4dcb-87fd-37aaf2585144",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "d3308e3b-1142-423c-8633-df3ff1247506": {
+                    "description": "Eggs and spicy beef sausage. Free range farmhouse eggs cracked and baked on manousheh bread.",
+                    "imageUrl": null,
+                    "price": 775,
+                    "title": "Baked Eggs and Sujuk",
+                    "uuid": "d3308e3b-1142-423c-8633-df3ff1247506",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "ce42a312-a949-472b-aa77-940995a23c4e": {
+                    "description": "Sweet flat bread. Halva, strawberry, and green pistachios.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/db439cc2-6089-4573-bcac-f5021cc056e8",
+                    "price": 595,
+                    "title": "Haleweh and Strawberry Sweet Manousheh",
+                    "uuid": "ce42a312-a949-472b-aa77-940995a23c4e",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "3a3a4dc0-4390-4260-ad0b-ecf6a32059e2": {
+                    "description": "",
+                    "imageUrl": null,
+                    "price": 315,
+                    "title": "Mint Lemonade",
+                    "uuid": "3a3a4dc0-4390-4260-ad0b-ecf6a32059e2",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": "",
+                    "suspendUntil": 8640000000,
+                    "classifications": []
+                },
+                "54253318-2555-43a4-b94b-3e513873b5dd": {
+                    "description": "Tomatoes, cucumber, mint, fresh thyme, and olives.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/5d401eca-017f-4487-af65-4a5fd3d34fa3",
+                    "price": 350,
+                    "title": "Vegetables",
+                    "uuid": "54253318-2555-43a4-b94b-3e513873b5dd",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "6dd1f546-616d-4f83-bb5c-6aa692f0dd4f": {
+                    "description": "Thyme, sumac, sesame, and Lebanese olive oil. Lebanese flatbread made with classic white dough and baked to order in our traditional brick oven topped with farm fresh products from the Levant.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/ffd8aaa4-3bb2-49f4-9f90-9da21e772bc5",
+                    "price": 520,
+                    "title": "Zaatar",
+                    "uuid": "6dd1f546-616d-4f83-bb5c-6aa692f0dd4f",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "dae0afe1-0f1c-4ac5-9b6d-85b3f33684d3": {
+                    "description": "Semi hard sheep’s milk cheese. Lebanese flatbread made with classic white dough and baked to order in our traditional brick oven topped with farm fresh products from the Levant.",
+                    "imageUrl": null,
+                    "price": 595,
+                    "title": "Kashkawan Manousheh",
+                    "uuid": "dae0afe1-0f1c-4ac5-9b6d-85b3f33684d3",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "39420c5c-3b4d-4d14-b6e7-74f397e2a780": {
+                    "description": "Sirene cheese and fresh spinach. Lebanese flatbread made with classic white dough and baked to order in our traditional brick oven topped with farm fresh products from the Levant.",
+                    "imageUrl": null,
+                    "price": 650,
+                    "title": "Bulghareh and Spinach Manousheh",
+                    "uuid": "39420c5c-3b4d-4d14-b6e7-74f397e2a780",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "5c998da1-64d5-4b85-977a-13aeebf48754": {
+                    "description": "Lamb confit, strained cow’s yogurt, and Lebanese olive oil. Lebanese flatbread made with classic white dough and baked to order in our traditional brick oven topped with farm fresh products from the Levant.",
+                    "imageUrl": null,
+                    "price": 700,
+                    "title": "Awarma and Labneh Manousheh",
+                    "uuid": "5c998da1-64d5-4b85-977a-13aeebf48754",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "ffeab6fc-c25c-4de6-89c8-5de4d0c525fb": {
+                    "description": "",
+                    "imageUrl": null,
+                    "price": 295,
+                    "title": "Homemade Yogurt Ayran",
+                    "uuid": "ffeab6fc-c25c-4de6-89c8-5de4d0c525fb",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": "",
+                    "suspendUntil": 8640000000,
+                    "classifications": []
+                },
+                "0681d063-f7a5-426d-a6f1-8b41b41ef937": {
+                    "description": "Chickpea and tahini spread, roasted beetroot, wild rocket, fresh thyme, and toasted pine nuts. Lebanese flatbread made with classic white dough and baked to order in our traditional brick oven topped with farm fresh products from the Levant.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/fc8ea200-853a-486f-9924-97716b273066",
+                    "price": 645,
+                    "title": "Hummus and Beetroot Manousheh",
+                    "uuid": "0681d063-f7a5-426d-a6f1-8b41b41ef937",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "e4e7c6ce-36af-4e30-9a3d-8f37029d1e9a": {
+                    "description": null,
+                    "imageUrl": null,
+                    "price": 750,
+                    "title": "Pomegranate Molasses",
+                    "uuid": "e4e7c6ce-36af-4e30-9a3d-8f37029d1e9a",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "d8fce081-09ba-469a-acc3-a739b4ed0f2f": {
+                    "description": null,
+                    "imageUrl": null,
+                    "price": 550,
+                    "title": "Rose Petal Jam",
+                    "uuid": "d8fce081-09ba-469a-acc3-a739b4ed0f2f",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "97511242-1c26-4020-93d3-36fd25fbec1d": {
+                    "description": null,
+                    "imageUrl": null,
+                    "price": 450,
+                    "title": "Labneh goat cheese",
+                    "uuid": "97511242-1c26-4020-93d3-36fd25fbec1d",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "d1d31401-02a0-4435-93b7-b335b0a78127": {
+                    "description": "Sweet pastry filled with dates",
+                    "imageUrl": null,
+                    "price": 150,
+                    "title": "Ma'amoul - Dates",
+                    "uuid": "d1d31401-02a0-4435-93b7-b335b0a78127",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": "",
+                    "suspendUntil": 8640000000,
+                    "classifications": []
+                },
+                "bd425121-6f02-45b4-8dff-893d55aa7afc": {
+                    "description": "Sbenikh, Bakleh, Zaytun, Halloum, Bulghareh, Kebbeh,\nSambousek, Haleweh, Nutella",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/7c036814-edd9-4b54-8bb9-e5e0361854a2",
+                    "price": 1800,
+                    "title": "Any 15 Mouajjanet",
+                    "uuid": "bd425121-6f02-45b4-8dff-893d55aa7afc",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "c138a926-121c-466b-94ad-08e4c8aeb7e9": {
+                    "description": "Lemon pomegranate dressing.",
+                    "imageUrl": null,
+                    "price": 350,
+                    "title": "Seasonal Salad",
+                    "uuid": "c138a926-121c-466b-94ad-08e4c8aeb7e9",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "d07cecb5-ca8c-4151-beea-d490067296a6": {
+                    "description": "Thyme, sumac, sesame, and Lebanese olive oil. Traditional Lebanese street bread with sesame seeds.",
+                    "imageUrl": null,
+                    "price": 600,
+                    "title": "Zaatar Kaak Bread",
+                    "uuid": "d07cecb5-ca8c-4151-beea-d490067296a6",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "158ad53c-511a-46df-bec5-e8a519c099ef": {
+                    "description": null,
+                    "imageUrl": null,
+                    "price": 595,
+                    "title": "Half Half Zaatar",
+                    "uuid": "158ad53c-511a-46df-bec5-e8a519c099ef",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "f64a1532-92a8-4f1a-81c3-3cf958972ac5": {
+                    "description": "",
+                    "imageUrl": null,
+                    "price": 200,
+                    "title": "Mineral Still Water",
+                    "uuid": "f64a1532-92a8-4f1a-81c3-3cf958972ac5",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "9f95bfc2-02e7-4ccd-b83d-6917567dab26": {
+                    "description": null,
+                    "imageUrl": null,
+                    "price": 650,
+                    "title": "Pickled Cucumbers",
+                    "uuid": "9f95bfc2-02e7-4ccd-b83d-6917567dab26",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "ffbc15a5-1e9c-4902-a2e7-12876e56332a": {
+                    "description": "Sbenikh, Bakleh, Zaytun, Halloum, Bulghareh, Kebbeh,\nSambousek, Haleweh, Nutella",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/3e5c6e42-70db-4eae-bb73-495dc4509394",
+                    "price": 1200,
+                    "title": "Any 10 Mouajjanet",
+                    "uuid": "ffbc15a5-1e9c-4902-a2e7-12876e56332a",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "36a423d6-865b-43d6-b360-c766ddb54a07": {
+                    "description": "Soft cow’s milk cheese. Lebanese flatbread made with classic white dough and baked to order in our traditional brick oven topped with farm fresh products from the Levant.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/49410148-56b9-463e-99a8-e4ea60e907fc",
+                    "price": 645,
+                    "title": "Akkawi Manousheh",
+                    "uuid": "36a423d6-865b-43d6-b360-c766ddb54a07",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "3e881d1f-4ed5-4c67-ae61-2f90bb98e130": {
+                    "description": "Strained cow’s yogurt, tomatoes, fresh thyme, mint, and black olives. Lebanese flatbread, made with classic white dough and baked to order in our traditional brick oven topped with farm fresh products from the Levant.",
+                    "imageUrl": null,
+                    "price": 650,
+                    "title": "Labneh and Vegetables Manousheh",
+                    "uuid": "3e881d1f-4ed5-4c67-ae61-2f90bb98e130",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "cf723eca-0bc3-4a13-a74d-a46eb16d39c1": {
+                    "description": "Strained cow’s yoghurt, freshly baked bread, and vegetables.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/fc2e4804-66a3-4005-931e-3c7182b44f6d",
+                    "price": 400,
+                    "title": "Labneh",
+                    "uuid": "cf723eca-0bc3-4a13-a74d-a46eb16d39c1",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                }
+            }
+        },
+        "sections": [
+            {
+                "subsectionUuids": [
+                    "640f765e-2bb5-4437-9c92-546ce0830734",
+                    "c9a0812f-a87e-48b0-bdaa-bfa85a0648b3",
+                    "73d0ab5f-2804-4ff0-b8bb-7d86dc9ca739",
+                    "4b5bffa6-b637-43c7-9430-c27e84f48f15",
+                    "e7c0375a-06f6-4631-a4b6-501d253be42d",
+                    "69f805c1-5658-4ee1-a88f-fffae2406f83",
+                    "f9115046-06ce-4710-a662-c7d208ee298f",
+                    "6fe4f728-e780-44d8-bdd9-02fa0a7d66a4",
+                    "59803900-49f0-4120-bcef-ecb5b875eef5",
+                    "bd1bdf1a-2d00-4903-9fe6-e0591fdec880",
+                    "3441a427-392f-4c9f-a799-5d4e4e9a3f51",
+                    "be3f10de-d22c-42e0-a857-fb0f6879089e",
+                    "751fbb18-f16a-4b29-999c-2559c8d14a44"
+                ],
+                "title": "Menu",
+                "subtitle": "9:00 AM – 10:00 PM",
+                "uuid": "6e7dbde5-ad73-472e-86c8-757dbbc0d1f7",
+                "isTop": true,
+                "isOnSale": true
+            }
+        ],
+        "subsectionsMap": {
+            "640f765e-2bb5-4437-9c92-546ce0830734": {
+                "itemUuids": [
+                    "cf723eca-0bc3-4a13-a74d-a46eb16d39c1",
+                    "c138a926-121c-466b-94ad-08e4c8aeb7e9",
+                    "54253318-2555-43a4-b94b-3e513873b5dd",
+                    "149cb4ed-b7ef-4fe6-87bb-625cc1a00ab5",
+                    "d7b99f2e-da6b-452d-895a-6734d4593be8"
+                ],
+                "subtitle": null,
+                "title": "On The Side",
+                "uuid": "640f765e-2bb5-4437-9c92-546ce0830734",
+                "displayType": null
+            },
+            "c9a0812f-a87e-48b0-bdaa-bfa85a0648b3": {
+                "itemUuids": [
+                    "0681d063-f7a5-426d-a6f1-8b41b41ef937",
+                    "6dd1f546-616d-4f83-bb5c-6aa692f0dd4f",
+                    "313eb86f-e55c-45b5-aa28-1500fb7c14e1"
+                ],
+                "subtitle": null,
+                "title": "From the Garden Manousheh",
+                "uuid": "c9a0812f-a87e-48b0-bdaa-bfa85a0648b3",
+                "displayType": null
+            },
+            "bd1bdf1a-2d00-4903-9fe6-e0591fdec880": {
+                "itemUuids": [
+                    "d1d31401-02a0-4435-93b7-b335b0a78127",
+                    "c2ef703b-9e4d-472c-bb7e-58c9a2d54eb5",
+                    "babd59ae-a98f-45d8-9f86-4b8635b8dbd4"
+                ],
+                "subtitle": null,
+                "title": "Ma'amoul",
+                "uuid": "bd1bdf1a-2d00-4903-9fe6-e0591fdec880",
+                "displayType": null
+            },
+            "f9115046-06ce-4710-a662-c7d208ee298f": {
+                "itemUuids": [
+                    "62fa605e-dba2-4bea-a180-f031ad06ad44",
+                    "01b854b1-727b-46cb-bd0d-a1e9527fb157",
+                    "d07cecb5-ca8c-4151-beea-d490067296a6"
+                ],
+                "subtitle": null,
+                "title": "Kaak Bread",
+                "uuid": "f9115046-06ce-4710-a662-c7d208ee298f",
+                "displayType": null
+            },
+            "69f805c1-5658-4ee1-a88f-fffae2406f83": {
+                "itemUuids": [
+                    "c5913e0f-b226-4be1-87c2-e5688639e3ad",
+                    "76a47321-68cb-42f8-8341-e385bd8b8f18",
+                    "f0db7d5d-db99-4e6a-95d9-27e9b01b0648",
+                    "bdf0eaf1-ddfe-4bbe-bb2e-59e6b9a53d0f",
+                    "b61ed9ff-a5a2-43b4-a195-d14a70cf0472",
+                    "34301dfb-6409-4802-be57-c4c278e8e0f5",
+                    "19214432-71e8-435a-9aa5-a3af135840c2",
+                    "ffbc15a5-1e9c-4902-a2e7-12876e56332a",
+                    "bd425121-6f02-45b4-8dff-893d55aa7afc",
+                    "1c30b3a6-9fad-47d1-9be4-0b998d4f7874"
+                ],
+                "subtitle": null,
+                "title": "Mouajjanet",
+                "uuid": "69f805c1-5658-4ee1-a88f-fffae2406f83",
+                "displayType": null
+            },
+            "59803900-49f0-4120-bcef-ecb5b875eef5": {
+                "itemUuids": [
+                    "dfcb5fcc-fd58-4057-acb4-9bb1049d580d",
+                    "1117b28a-76a3-4c0d-aa80-5ead8d0c61bd",
+                    "ce42a312-a949-472b-aa77-940995a23c4e",
+                    "35bc3829-0742-4aa9-90ed-98f6c81f5791"
+                ],
+                "subtitle": null,
+                "title": "Sweet Manousheh",
+                "uuid": "59803900-49f0-4120-bcef-ecb5b875eef5",
+                "displayType": null
+            },
+            "751fbb18-f16a-4b29-999c-2559c8d14a44": {
+                "itemUuids": [
+                    "a49dd183-cddc-4776-a202-e6391be661bc"
+                ],
+                "subtitle": null,
+                "title": "Keep Cup",
+                "uuid": "751fbb18-f16a-4b29-999c-2559c8d14a44",
+                "displayType": null
+            },
+            "4b5bffa6-b637-43c7-9430-c27e84f48f15": {
+                "itemUuids": [
+                    "244afed3-0dee-4720-94db-68e923944a3c",
+                    "be603512-b3c6-4ecf-8445-60d4093aabac",
+                    "d181633e-d73a-4c70-8f92-db8bd49f02a0",
+                    "19212c68-6d0c-47c5-adc2-34530ebe0733",
+                    "7b4b3936-5ddb-420e-8b27-6ca4ccd85015",
+                    "023e8e57-beb1-4f6d-ada2-f0b32a69fd8e",
+                    "5c998da1-64d5-4b85-977a-13aeebf48754",
+                    "8368a18d-131f-4db3-8820-3eb84900947f"
+                ],
+                "subtitle": null,
+                "title": "Meat Manousheh",
+                "uuid": "4b5bffa6-b637-43c7-9430-c27e84f48f15",
+                "displayType": null
+            },
+            "6fe4f728-e780-44d8-bdd9-02fa0a7d66a4": {
+                "itemUuids": [
+                    "f94e0668-9561-45a7-8997-ed081ebdcf86",
+                    "9eb67a8a-ea1e-41bd-80ca-226d769c46b5",
+                    "f64a1532-92a8-4f1a-81c3-3cf958972ac5",
+                    "7d2b2f62-12d9-4405-879c-aca688eb0540",
+                    "ffeab6fc-c25c-4de6-89c8-5de4d0c525fb",
+                    "39103047-95f4-4110-84b4-262b08f93252",
+                    "3a3a4dc0-4390-4260-ad0b-ecf6a32059e2",
+                    "06324be8-8983-468b-aafa-e3fa32ee3756"
+                ],
+                "subtitle": null,
+                "title": "Cold Drinks",
+                "uuid": "6fe4f728-e780-44d8-bdd9-02fa0a7d66a4",
+                "displayType": null
+            },
+            "3441a427-392f-4c9f-a799-5d4e4e9a3f51": {
+                "itemUuids": [
+                    "d2fec64f-89b2-4fe9-8b34-3016d6fb7331",
+                    "b9df8970-31f4-43d7-a112-1d5f524c9246",
+                    "e4e7c6ce-36af-4e30-9a3d-8f37029d1e9a",
+                    "d8fce081-09ba-469a-acc3-a739b4ed0f2f",
+                    "24b97524-9965-4b1f-b579-865c14524cab",
+                    "8874bb46-bcca-4172-8514-553d943a0845",
+                    "a1c2790d-5874-4c7b-b75d-e6cc01a27653",
+                    "eb842e07-3205-4343-bb5c-e69e9ad1f9c3",
+                    "d709a36f-3e5e-4e13-8cae-2e7f064151c4",
+                    "9f95bfc2-02e7-4ccd-b83d-6917567dab26",
+                    "64cafbc7-6e4b-48d3-9923-2471b39b400a",
+                    "97511242-1c26-4020-93d3-36fd25fbec1d"
+                ],
+                "subtitle": null,
+                "title": "Maymouna",
+                "uuid": "3441a427-392f-4c9f-a799-5d4e4e9a3f51",
+                "displayType": null
+            },
+            "be3f10de-d22c-42e0-a857-fb0f6879089e": {
+                "itemUuids": [
+                    "80baa49b-2a3e-48d2-8ebc-d2c51f735edb",
+                    "38c0c061-0141-4a0c-9cbf-687161ae61c7"
+                ],
+                "subtitle": null,
+                "title": "From Lebanon",
+                "uuid": "be3f10de-d22c-42e0-a857-fb0f6879089e",
+                "displayType": null
+            },
+            "e7c0375a-06f6-4631-a4b6-501d253be42d": {
+                "itemUuids": [
+                    "d3308e3b-1142-423c-8633-df3ff1247506",
+                    "8a3a2a23-eb7e-4dcb-87fd-37aaf2585144",
+                    "da8a7f82-6c83-40b3-9867-873f1527aa1b"
+                ],
+                "subtitle": null,
+                "title": "All Day Beakfast",
+                "uuid": "e7c0375a-06f6-4631-a4b6-501d253be42d",
+                "displayType": null
+            },
+            "73d0ab5f-2804-4ff0-b8bb-7d86dc9ca739": {
+                "itemUuids": [
+                    "39420c5c-3b4d-4d14-b6e7-74f397e2a780",
+                    "ded31fea-24f7-4caa-9740-ec84772d9f32",
+                    "3e881d1f-4ed5-4c67-ae61-2f90bb98e130",
+                    "e2b64ecf-6225-4997-91a7-ea33577155d7",
+                    "6a6c9061-fe85-443c-98a0-b7b47707137e",
+                    "36a423d6-865b-43d6-b360-c766ddb54a07",
+                    "dae0afe1-0f1c-4ac5-9b6d-85b3f33684d3",
+                    "2f42993e-2a34-4db7-aa93-b25e0785fbae",
+                    "158ad53c-511a-46df-bec5-e8a519c099ef"
+                ],
+                "subtitle": null,
+                "title": "Cheese Manousheh",
+                "uuid": "73d0ab5f-2804-4ff0-b8bb-7d86dc9ca739",
+                "displayType": null
+            }
+        },
+        "title": "The Lebanese Bakery",
+        "uuid": "af87897d-1c59-4ee0-aba3-e72f08959c31",
+        "categories": [
+            "₴",
+            "Ліванська",
+            "Близькосхідна",
+            "Середземноморська"
+        ],
+        "cuisineList": [
+            "Ліванська",
+            "Близькосхідна",
+            "Середземноморська"
+        ],
+        "priceBucket": "₴",
+        "etaRange": {
+            "text": "30–40 min",
+            "iconUrl": ""
+        },
+        "ratingBadge": {
+            "text": "<span><span style=\"font-family: inherit; color: #3a3a48;\">4.2 <img src=\"https://d1a3f4spazzrp4.cloudfront.net/static/images/Star_Black_Eats_3.png\" width=\"14\" height=\"14\" vertical-align=\"middle\"> </span><span style=\"font-family: inherit; color: #757575;\">(125)</span></span>"
+        },
+        "disclaimerBadge": {
+            "text": "<span style=\"font-family: inherit;\">Allergies, intolerances and dietary requirements: before ordering, please contact the restaurant directly and ask to speak to a member of staff who can assist if you require information about ingredients and help cater for your needs. For more information on food safety and hygiene, please visit the <a href=\"https://www.food.gov.uk/\" style=\"color:#61ad5f;\">Food Standards Agency</a></span>"
+        },
+        "fareBadge": null,
+        "fareInfo": {
+            "serviceFee": 30,
+            "serviceFeeCents": 3000
+        },
+        "promotion": null,
+        "shouldIndex": false,
+        "heroImageUrls": [
+            {
+                "url": "https://d1ralsognjng37.cloudfront.net/12e12482-ca51-4857-956f-17e117ec3812",
+                "width": 240
+            },
+            {
+                "url": "https://d1ralsognjng37.cloudfront.net/c87eecb5-1af3-41ff-81ae-c2ac5dcd101f",
+                "width": 550
+            },
+            {
+                "url": "https://d1ralsognjng37.cloudfront.net/578a52b0-97fa-4c12-8abf-372e74c3033d",
+                "width": 640
+            },
+            {
+                "url": "https://d1ralsognjng37.cloudfront.net/339f957e-6795-4d26-8728-d88abab49e72",
+                "width": 750
+            },
+            {
+                "url": "https://d1ralsognjng37.cloudfront.net/3cb6d638-e1f7-4229-8733-87ed0ddc9d13",
+                "width": 1080
+            },
+            {
+                "url": "https://d1ralsognjng37.cloudfront.net/adffd5ce-b47d-4473-b19c-028f15b46299",
+                "width": 2880
+            }
+        ],
+        "isOpen": true,
+        "currencyCode": "GBP",
+        "closedMessage": "Currently unavailable",
+        "location": {
+            "address": "Russell St, 34, London, England WC2B 5HA",
+            "streetAddress": "Russell St",
+            "city": "London",
+            "country": "GB",
+            "postalCode": "WC2B 5HA",
+            "region": "England",
+            "latitude": 51.513596,
+            "longitude": -0.120524
+        },
+        "isDeliveryThirdParty": false,
+        "hours": [
+            {
+                "dayRange": "Sunday",
+                "sectionHours": [
+                    {
+                        "startTime": 540,
+                        "endTime": 1260,
+                        "sectionTitle": ""
+                    }
+                ]
+            },
+            {
+                "dayRange": "Monday - Saturday",
+                "sectionHours": [
+                    {
+                        "startTime": 540,
+                        "endTime": 1320,
+                        "sectionTitle": ""
+                    }
+                ]
+            }
+        ],
+        "disableOrderInstruction": false,
+        "disableCheckoutInstruction": false,
+        "nuggets": [],
+        "isWithinDeliveryRange": false,
+        "slug": "the-lebanese-bakery",
+        "citySlug": "london",
+        "phoneNumber": "+442038839033",
+        "metaJson": "{\"@context\":\"http:\\u002F\\u002Fschema.org\",\"@type\":\"Restaurant\",\"@id\":\"https:\\u002F\\u002Fwww.ubereats.com\\u002Fen-UA\\u002Flondon\\u002Ffood-delivery\\u002Fthe-lebanese-bakery\\u002Fr4eJfRxZTuCro-cvCJWcMQ\\u002F\",\"name\":\"The Lebanese Bakery\",\"priceRange\":\"₴\",\"potentialAction\":{\"@type\":\"OrderAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\\u002F\\u002Fwww.ubereats.com\\u002Fen-UA\\u002Flondon\\u002Ffood-delivery\\u002Fthe-lebanese-bakery\\u002Fr4eJfRxZTuCro-cvCJWcMQ\\u002F?utm_campaign=order-action&utm_medium=organic\",\"inLanguage\":\"English\",\"actionPlatform\":[\"http:\\u002F\\u002Fschema.org\\u002FDesktopWebPlatform\",\"http:\\u002F\\u002Fschema.org\\u002FMobileWebPlatform\"]},\"deliveryMethod\":[\"http:\\u002F\\u002Fpurl.org\\u002Fgoodrelations\\u002Fv1#DeliveryModeOwnFleet\"]},\"address\":{\"@type\":\"PostalAddress\",\"addressLocality\":\"London\",\"addressRegion\":\"England\",\"postalCode\":\"WC2B 5HA\",\"addressCountry\":\"GB\",\"streetAddress\":\"Russell St\"},\"geo\":{\"@type\":\"GeoCoordinates\",\"latitude\":51.513596,\"longitude\":-0.120524}}",
+        "promoTrackings": [],
+        "suggestedPromotion": {
+            "text": "",
+            "promotionUuid": ""
+        },
+        "supportedDiningModes": [
+            {
+                "mode": "DELIVERY",
+                "title": "Delivery",
+                "isSelected": true,
+                "isAvailable": true
+            }
+        ],
+        "isPreview": false,
+        "pinnedInfo": null
+    }
+}

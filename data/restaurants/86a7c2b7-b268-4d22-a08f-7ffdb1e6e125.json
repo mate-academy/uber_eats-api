@@ -1,0 +1,2017 @@
+{
+    "status": "success",
+    "data": {
+        "sectionEntitiesMap": {
+            "99641bcd-c626-4baa-939e-b0973e928a84": {
+                "1d8b8c62-57b7-4e0f-9a0b-056f173080f3": {
+                    "description": "",
+                    "imageUrl": null,
+                    "price": 300,
+                    "title": "1 Piece Chicken and Chips",
+                    "uuid": "1d8b8c62-57b7-4e0f-9a0b-056f173080f3",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "endorsement": {
+                        "text": "Halal",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_check@3x.png"
+                    },
+                    "classifications": []
+                },
+                "35d8bf8b-353a-43ad-8699-acbe17346476": {
+                    "description": "",
+                    "imageUrl": null,
+                    "price": 150,
+                    "title": "Apple Pie",
+                    "uuid": "35d8bf8b-353a-43ad-8699-acbe17346476",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "cca65536-3c50-472f-826a-ba35d9db7631": {
+                    "description": "Fish burger with cheese, chips, and drink.",
+                    "imageUrl": null,
+                    "price": 650,
+                    "title": "Burger Meal 5",
+                    "uuid": "cca65536-3c50-472f-826a-ba35d9db7631",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "b208d48d-44c9-42ca-9959-05a3da0c144d": {
+                    "description": "",
+                    "imageUrl": null,
+                    "price": 580,
+                    "title": "Mixed Omelettes",
+                    "uuid": "b208d48d-44c9-42ca-9959-05a3da0c144d",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "7742bc71-d2f7-49f5-aa1d-6805faa87ad6": {
+                    "description": "Chicken or lamb doner wrap, salad, chips, and drink.",
+                    "imageUrl": null,
+                    "price": 960,
+                    "title": "Kebab Set Meal 1",
+                    "uuid": "7742bc71-d2f7-49f5-aa1d-6805faa87ad6",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "endorsement": {
+                        "text": "Halal",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_check@3x.png"
+                    },
+                    "classifications": []
+                },
+                "abc84a5c-b0ac-45f3-b76d-a17812e7e8ee": {
+                    "description": "",
+                    "imageUrl": null,
+                    "price": 280,
+                    "title": "Rice ",
+                    "uuid": "abc84a5c-b0ac-45f3-b76d-a17812e7e8ee",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "endorsement": {
+                        "text": "Vegetarian",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png"
+                    },
+                    "classifications": []
+                },
+                "51d99e1a-6258-472f-a4d6-c4594633382c": {
+                    "description": "Your choice of pitta or slice bread",
+                    "imageUrl": null,
+                    "price": 320,
+                    "title": "Tuna Sandwich",
+                    "uuid": "51d99e1a-6258-472f-a4d6-c4594633382c",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "49e27382-511a-4d7f-89f2-814954138a43": {
+                    "description": "",
+                    "imageUrl": null,
+                    "price": 250,
+                    "title": "Mixed Salad",
+                    "uuid": "49e27382-511a-4d7f-89f2-814954138a43",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "endorsement": {
+                        "text": "Vegetarian",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png"
+                    },
+                    "classifications": []
+                },
+                "29a31556-b4cc-41a0-8ee8-a24905251dac": {
+                    "description": "Quarter pounder burger with a fried egg & your choice of salad and cheese",
+                    "imageUrl": null,
+                    "price": 590,
+                    "title": "Quarter Pounder and Egg Burger",
+                    "uuid": "29a31556-b4cc-41a0-8ee8-a24905251dac",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "e43ee379-1e87-4c2b-a6c0-945f23200924": {
+                    "description": "",
+                    "imageUrl": null,
+                    "price": 350,
+                    "title": "6 Wings",
+                    "uuid": "e43ee379-1e87-4c2b-a6c0-945f23200924",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "endorsement": {
+                        "text": "Halal",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_check@3x.png"
+                    },
+                    "classifications": []
+                },
+                "d23f664e-308b-496e-9d64-506cbe77a582": {
+                    "description": "",
+                    "imageUrl": null,
+                    "price": 500,
+                    "title": "3 Pieces Chicken and Chips",
+                    "uuid": "d23f664e-308b-496e-9d64-506cbe77a582",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "endorsement": {
+                        "text": "Halal",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_check@3x.png"
+                    },
+                    "classifications": []
+                },
+                "b58827c8-9ed4-4bec-b8af-3b924ad669b2": {
+                    "description": "Half pounder burger with your choice of salad and cheese",
+                    "imageUrl": null,
+                    "price": 650,
+                    "title": "Half Pounder Burger",
+                    "uuid": "b58827c8-9ed4-4bec-b8af-3b924ad669b2",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "12d1bd90-3d3f-438b-b583-6d5c41ef5b2f": {
+                    "description": "",
+                    "imageUrl": null,
+                    "price": 750,
+                    "title": "Fish and Chips",
+                    "uuid": "12d1bd90-3d3f-438b-b583-6d5c41ef5b2f",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "bb346e2f-89f2-489a-897a-8f69810290fb": {
+                    "description": "Quarter pounder burger with your choice of salad and cheese",
+                    "imageUrl": null,
+                    "price": 550,
+                    "title": "Quarter Pounder Burger",
+                    "uuid": "bb346e2f-89f2-489a-897a-8f69810290fb",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "0282806a-9399-4f47-b423-528020769228": {
+                    "description": "7 pieces. Served with rice or chips, salad, pitta bread, and sauce.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/fd2fed74-ff0d-40ac-8446-0f962f6d882b",
+                    "price": 1000,
+                    "title": "Chicken Grilled Wings",
+                    "uuid": "0282806a-9399-4f47-b423-528020769228",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "endorsement": {
+                        "text": "Halal",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_check@3x.png"
+                    },
+                    "classifications": []
+                },
+                "780b9a8a-9972-4b2a-a92c-f6066c0f044b": {
+                    "description": "With hummus.",
+                    "imageUrl": null,
+                    "price": 700,
+                    "title": "Falafel Wrap Salad ",
+                    "uuid": "780b9a8a-9972-4b2a-a92c-f6066c0f044b",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "endorsement": {
+                        "text": "Vegetarian",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png"
+                    },
+                    "classifications": []
+                },
+                "1c503cfa-2c7c-4034-a216-a6d2d6d68726": {
+                    "description": "Kebab roll with salad, chips, and drink.",
+                    "imageUrl": null,
+                    "price": 950,
+                    "title": "Kebab Set Meal 5",
+                    "uuid": "1c503cfa-2c7c-4034-a216-a6d2d6d68726",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "11a7dc10-f265-47b6-8fdb-633c0927dbb2": {
+                    "description": "Served with salad, pita bread, and sauce.",
+                    "imageUrl": null,
+                    "price": 700,
+                    "title": "Chicken Fillet",
+                    "uuid": "11a7dc10-f265-47b6-8fdb-633c0927dbb2",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": "",
+                    "suspendUntil": 8640000000,
+                    "endorsement": {
+                        "text": "Halal",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_check@3x.png"
+                    },
+                    "classifications": []
+                },
+                "ffdcbfbd-b20d-407c-b9b5-2c4cfd03bdc3": {
+                    "description": "Rice or chips.",
+                    "imageUrl": null,
+                    "price": 800,
+                    "title": "Veggie Kebab",
+                    "uuid": "ffdcbfbd-b20d-407c-b9b5-2c4cfd03bdc3",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "endorsement": {
+                        "text": "Vegetarian",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png"
+                    },
+                    "classifications": []
+                },
+                "d0c40488-01b8-458f-a329-0d79d5ff1515": {
+                    "description": "",
+                    "imageUrl": null,
+                    "price": 400,
+                    "title": "6 Wings and Chips",
+                    "uuid": "d0c40488-01b8-458f-a329-0d79d5ff1515",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "endorsement": {
+                        "text": "Halal",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_check@3x.png"
+                    },
+                    "classifications": []
+                },
+                "fa93591e-22a1-4d0f-a65b-9cc631fa3d1a": {
+                    "description": "",
+                    "imageUrl": null,
+                    "price": 400,
+                    "title": "2 Pieces Chicken and Chips",
+                    "uuid": "fa93591e-22a1-4d0f-a65b-9cc631fa3d1a",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "endorsement": {
+                        "text": "Halal",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_check@3x.png"
+                    },
+                    "classifications": []
+                },
+                "108deddd-bd19-4f34-80fc-2503cfc6a284": {
+                    "description": "Chicken nuggets 6 pieces and drink.",
+                    "imageUrl": null,
+                    "price": 600,
+                    "title": "Chicken Meal 5",
+                    "uuid": "108deddd-bd19-4f34-80fc-2503cfc6a284",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "endorsement": {
+                        "text": "Halal",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_check@3x.png"
+                    },
+                    "classifications": []
+                },
+                "3a20993f-65dd-48e1-9a2f-a4816bd88d76": {
+                    "description": "Flat round piece of dough, topped with minced lamb, vegetables and herbs, with your choice of salad toppings.",
+                    "imageUrl": null,
+                    "price": 400,
+                    "title": "Lahmacun",
+                    "uuid": "3a20993f-65dd-48e1-9a2f-a4816bd88d76",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "96624181-020f-476f-a15a-20022858c09f": {
+                    "description": "Your choice of pitta or slice bread",
+                    "imageUrl": null,
+                    "price": 320,
+                    "title": "Chicken Sandwich",
+                    "uuid": "96624181-020f-476f-a15a-20022858c09f",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "c5245898-06f0-4365-a77a-f2f31791f9fb": {
+                    "description": "",
+                    "imageUrl": null,
+                    "price": 100,
+                    "title": "Garlic Sauce in Pot",
+                    "uuid": "c5245898-06f0-4365-a77a-f2f31791f9fb",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "endorsement": {
+                        "text": "Vegetarian",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png"
+                    },
+                    "classifications": []
+                },
+                "333e8318-901a-4b0f-8fc8-81415d766249": {
+                    "description": "Chef's special. 2 pieces lamb chops, chicken shish, your choice of kofte and salad.",
+                    "imageUrl": null,
+                    "price": 1400,
+                    "title": "Kebab Set Meal 8",
+                    "uuid": "333e8318-901a-4b0f-8fc8-81415d766249",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "endorsement": {
+                        "text": "Halal",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_check@3x.png"
+                    },
+                    "classifications": []
+                },
+                "ec64b852-4185-4494-934e-0e47a808c3d1": {
+                    "description": "",
+                    "imageUrl": null,
+                    "price": 150,
+                    "title": "Ginger Beer",
+                    "uuid": "ec64b852-4185-4494-934e-0e47a808c3d1",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "12c2c471-5a54-4442-81cd-4f7cecc0cc79": {
+                    "description": "5 pieces of lamb ribs, served with salad and pita bread",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/df31e6e5-5b9d-4166-884e-4f4fc1549985",
+                    "price": 1050,
+                    "title": "Lamb Ribs",
+                    "uuid": "12c2c471-5a54-4442-81cd-4f7cecc0cc79",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "endorsement": {
+                        "text": "Halal",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_check@3x.png"
+                    },
+                    "classifications": []
+                },
+                "6f5904b5-6cfc-440e-b7c2-4941d322e5e8": {
+                    "description": "Your choice of pitta or slice bread",
+                    "imageUrl": null,
+                    "price": 390,
+                    "title": "Cheese and Tomato Sandwich",
+                    "uuid": "6f5904b5-6cfc-440e-b7c2-4941d322e5e8",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "56e6c2a7-ccaf-4ca8-9408-0e5fb5cf9a65": {
+                    "description": "",
+                    "imageUrl": null,
+                    "price": 460,
+                    "title": "Pita Salad Tarama",
+                    "uuid": "56e6c2a7-ccaf-4ca8-9408-0e5fb5cf9a65",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "endorsement": {
+                        "text": "Vegetarian",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png"
+                    },
+                    "classifications": []
+                },
+                "a6eb8db1-9ace-4866-ac83-0ea71472bc3f": {
+                    "description": "",
+                    "imageUrl": null,
+                    "price": 360,
+                    "title": "Chips Salad",
+                    "uuid": "a6eb8db1-9ace-4866-ac83-0ea71472bc3f",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "endorsement": {
+                        "text": "Vegetarian",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png"
+                    },
+                    "classifications": []
+                },
+                "dabd7343-2b9f-485d-bfe5-ba2ae527e751": {
+                    "description": "1/4 pounder with cheese, chips, and drink.",
+                    "imageUrl": null,
+                    "price": 800,
+                    "title": "Burger Meal 1",
+                    "uuid": "dabd7343-2b9f-485d-bfe5-ba2ae527e751",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "796db21b-ee39-49cc-ab63-ac57572bf18c": {
+                    "description": "",
+                    "imageUrl": null,
+                    "price": 150,
+                    "title": "Can",
+                    "uuid": "796db21b-ee39-49cc-ab63-ac57572bf18c",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "edc970fb-d577-48d4-939d-9bf3158c05ea": {
+                    "description": "",
+                    "imageUrl": null,
+                    "price": 250,
+                    "title": "Vine Leaves",
+                    "uuid": "edc970fb-d577-48d4-939d-9bf3158c05ea",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "endorsement": {
+                        "text": "Vegetarian",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png"
+                    },
+                    "classifications": []
+                },
+                "3d57e847-caa9-4c53-a1ec-d0991a4eb75b": {
+                    "description": "",
+                    "imageUrl": null,
+                    "price": 460,
+                    "title": "Pita Salad Hummus",
+                    "uuid": "3d57e847-caa9-4c53-a1ec-d0991a4eb75b",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "endorsement": {
+                        "text": "Vegetarian",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png"
+                    },
+                    "classifications": []
+                },
+                "a0cfbc9f-0c20-4989-b9cf-ee0d16e41055": {
+                    "description": "",
+                    "imageUrl": null,
+                    "price": 400,
+                    "title": "Baklava",
+                    "uuid": "a0cfbc9f-0c20-4989-b9cf-ee0d16e41055",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "5d079d5d-bf9b-4be9-ae43-af49d69180e7": {
+                    "description": "Your choice of pitta or slice bread",
+                    "imageUrl": null,
+                    "price": 320,
+                    "title": "Corned Beef Sandwich",
+                    "uuid": "5d079d5d-bf9b-4be9-ae43-af49d69180e7",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "3cde8d0d-acb5-45f2-ade8-7d77a671dbb8": {
+                    "description": "",
+                    "imageUrl": null,
+                    "price": 500,
+                    "title": "Halloumi Salad in Pita",
+                    "uuid": "3cde8d0d-acb5-45f2-ade8-7d77a671dbb8",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "endorsement": {
+                        "text": "Vegetarian",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png"
+                    },
+                    "classifications": []
+                },
+                "31a7c226-32d5-418e-911c-a6edc6eca8c3": {
+                    "description": "",
+                    "imageUrl": null,
+                    "price": 350,
+                    "title": "Tarama Salata in Pot",
+                    "uuid": "31a7c226-32d5-418e-911c-a6edc6eca8c3",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "endorsement": {
+                        "text": "Vegetarian",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png"
+                    },
+                    "classifications": []
+                },
+                "637d38e4-e85c-48d3-98c3-e550233d48ec": {
+                    "description": "",
+                    "imageUrl": null,
+                    "price": 580,
+                    "title": "Spanish Omelettes",
+                    "uuid": "637d38e4-e85c-48d3-98c3-e550233d48ec",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "52d6f623-3bed-4621-b4ad-455b79b9c464": {
+                    "description": "",
+                    "imageUrl": null,
+                    "price": 150,
+                    "title": "Fanta",
+                    "uuid": "52d6f623-3bed-4621-b4ad-455b79b9c464",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "6e8bb070-883f-4398-a06b-76667111919b": {
+                    "description": "8 pieces.",
+                    "imageUrl": null,
+                    "price": 450,
+                    "title": "Chicken Nuggets",
+                    "uuid": "6e8bb070-883f-4398-a06b-76667111919b",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "endorsement": {
+                        "text": "Halal",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_check@3x.png"
+                    },
+                    "classifications": []
+                },
+                "71085cb1-e506-4736-b1ae-70a231e5fa13": {
+                    "description": "",
+                    "imageUrl": null,
+                    "price": 400,
+                    "title": "Rumbaba",
+                    "uuid": "71085cb1-e506-4736-b1ae-70a231e5fa13",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "54e224b0-6645-4ee9-a693-c00f091516e1": {
+                    "description": "",
+                    "imageUrl": null,
+                    "price": 430,
+                    "title": "Chicken Burger",
+                    "uuid": "54e224b0-6645-4ee9-a693-c00f091516e1",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "endorsement": {
+                        "text": "Halal",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_check@3x.png"
+                    },
+                    "classifications": []
+                },
+                "2df2a9d2-87df-4e2a-9f9e-96b8b276f87f": {
+                    "description": "",
+                    "imageUrl": null,
+                    "price": 150,
+                    "title": "Coca Cola",
+                    "uuid": "2df2a9d2-87df-4e2a-9f9e-96b8b276f87f",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "9a2c07ac-5651-42a0-a282-ae6c799b41b1": {
+                    "description": "",
+                    "imageUrl": null,
+                    "price": 350,
+                    "title": "Hummus in Pot",
+                    "uuid": "9a2c07ac-5651-42a0-a282-ae6c799b41b1",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "endorsement": {
+                        "text": "Vegetarian",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png"
+                    },
+                    "classifications": []
+                },
+                "99e6ce0e-0d6d-4b1d-b9af-459eaa70a021": {
+                    "description": "Served with salad, pita bread, and sauce.",
+                    "imageUrl": null,
+                    "price": 660,
+                    "title": "Lamb Kofte Kebab",
+                    "uuid": "99e6ce0e-0d6d-4b1d-b9af-459eaa70a021",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "endorsement": {
+                        "text": "Halal",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_check@3x.png"
+                    },
+                    "classifications": []
+                },
+                "e10990df-ee06-4409-a109-ef5b77461b78": {
+                    "description": "Your choice of pitta or slice bread",
+                    "imageUrl": null,
+                    "price": 390,
+                    "title": "Halloumi and Egg Sandwich",
+                    "uuid": "e10990df-ee06-4409-a109-ef5b77461b78",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "e98aabc2-ff31-441e-8400-de9c744ac3a8": {
+                    "description": "3 pieces chicken, 2 wings, chips, and drink.",
+                    "imageUrl": null,
+                    "price": 550,
+                    "title": "Chicken Meal 3",
+                    "uuid": "e98aabc2-ff31-441e-8400-de9c744ac3a8",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "endorsement": {
+                        "text": "Halal",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_check@3x.png"
+                    },
+                    "classifications": []
+                },
+                "29354cf5-ad41-4e33-b411-6acf531c403b": {
+                    "description": "",
+                    "imageUrl": null,
+                    "price": 500,
+                    "title": "Veggie burger ",
+                    "uuid": "29354cf5-ad41-4e33-b411-6acf531c403b",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "91c7b12f-5866-4755-954d-99e7a58ea7c5": {
+                    "description": "Quarter pounder burger with a fried egg & your choice of salad and cheese",
+                    "imageUrl": null,
+                    "price": 690,
+                    "title": "Half Pounder and Egg Burger",
+                    "uuid": "91c7b12f-5866-4755-954d-99e7a58ea7c5",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "2fca0637-7237-4dd4-b49f-7012affdcb42": {
+                    "description": "Chicken and lamb shish, served with salad, pita bread, and sauce.",
+                    "imageUrl": null,
+                    "price": 970,
+                    "title": "Mixed Shish",
+                    "uuid": "2fca0637-7237-4dd4-b49f-7012affdcb42",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "3488b549-e1e3-41bc-bc7c-fc6081e04bb0": {
+                    "description": "",
+                    "imageUrl": null,
+                    "price": 150,
+                    "title": "Coca Cola Zero",
+                    "uuid": "3488b549-e1e3-41bc-bc7c-fc6081e04bb0",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "5a7b6186-0f2f-4954-9f40-97688bb9f486": {
+                    "description": "",
+                    "imageUrl": null,
+                    "price": 700,
+                    "title": "Pitta bread with Falafel, Hummus and salad",
+                    "uuid": "5a7b6186-0f2f-4954-9f40-97688bb9f486",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "endorsement": {
+                        "text": "Vegetarian",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png"
+                    },
+                    "classifications": []
+                },
+                "f77c5df6-ca33-4751-8bd0-a08caa6c4410": {
+                    "description": "",
+                    "imageUrl": null,
+                    "price": 150,
+                    "title": "Dr Pepper",
+                    "uuid": "f77c5df6-ca33-4751-8bd0-a08caa6c4410",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "8eef91ed-8f69-4077-a91d-b75d06f8035f": {
+                    "description": "Mix meat, chips, and drink.",
+                    "imageUrl": null,
+                    "price": 880,
+                    "title": "Kebab Set Meal 4",
+                    "uuid": "8eef91ed-8f69-4077-a91d-b75d06f8035f",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "23d7bd39-107e-42fc-8d08-ab3d1b862f2f": {
+                    "description": "Meat and chips in a pita bread.",
+                    "imageUrl": null,
+                    "price": 830,
+                    "title": "Kebab Set Meal 3",
+                    "uuid": "23d7bd39-107e-42fc-8d08-ab3d1b862f2f",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "8d87e50c-8923-45ec-bc01-d7b05f9d6f4f": {
+                    "description": "Served with salad, pita bread, and sauce.",
+                    "imageUrl": null,
+                    "price": 700,
+                    "title": "Chicken Doner",
+                    "uuid": "8d87e50c-8923-45ec-bc01-d7b05f9d6f4f",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "endorsement": {
+                        "text": "Halal",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_check@3x.png"
+                    },
+                    "classifications": []
+                },
+                "b59198d1-ef5b-41c1-b854-a17792100af7": {
+                    "description": "2 pieces chicken, 2 wings, chips, and drink.",
+                    "imageUrl": null,
+                    "price": 450,
+                    "title": "Chicken Meal 2",
+                    "uuid": "b59198d1-ef5b-41c1-b854-a17792100af7",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "endorsement": {
+                        "text": "Halal",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_check@3x.png"
+                    },
+                    "classifications": []
+                },
+                "b8d32094-59e1-4cea-9037-e1ce8ec6a804": {
+                    "description": "With chips and drink.",
+                    "imageUrl": null,
+                    "price": 490,
+                    "title": "10 Pieces Onion Rings",
+                    "uuid": "b8d32094-59e1-4cea-9037-e1ce8ec6a804",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "endorsement": {
+                        "text": "Vegetarian",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png"
+                    },
+                    "classifications": []
+                },
+                "64bd6c4b-9e27-421d-a4be-2472d78811ca": {
+                    "description": "Chicken kofte, lamb shish, and lamb kofte. Served with salad, pita bread, and sauce.",
+                    "imageUrl": null,
+                    "price": 1400,
+                    "title": "Barbecue Special",
+                    "uuid": "64bd6c4b-9e27-421d-a4be-2472d78811ca",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "endorsement": {
+                        "text": "Halal",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_check@3x.png"
+                    },
+                    "classifications": []
+                },
+                "75e8e6a5-85e9-42b1-80df-f302ea71a788": {
+                    "description": "1/2 pounder with cheese, chips, and drink.",
+                    "imageUrl": null,
+                    "price": 900,
+                    "title": "Burger Meal 2",
+                    "uuid": "75e8e6a5-85e9-42b1-80df-f302ea71a788",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "9050ef3e-5b4f-460d-8d52-02d58a2fa138": {
+                    "description": "Your choice of pitta or slice bread",
+                    "imageUrl": null,
+                    "price": 320,
+                    "title": "Egg Sandwich",
+                    "uuid": "9050ef3e-5b4f-460d-8d52-02d58a2fa138",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "1efb4886-a322-454d-86f5-7e2823153b59": {
+                    "description": "",
+                    "imageUrl": null,
+                    "price": 150,
+                    "title": "Ayran",
+                    "uuid": "1efb4886-a322-454d-86f5-7e2823153b59",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "69a11228-b008-4deb-9965-67c2db21e1e8": {
+                    "description": "Doner Meat with rice and drink.",
+                    "imageUrl": null,
+                    "price": 860,
+                    "title": "Kebab Set Meal 6",
+                    "uuid": "69a11228-b008-4deb-9965-67c2db21e1e8",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "c7bdb02e-78cf-43c3-a011-d66a2ad087e1": {
+                    "description": "6 wings, chips, and drink.",
+                    "imageUrl": null,
+                    "price": 450,
+                    "title": "Chicken Meal 4",
+                    "uuid": "c7bdb02e-78cf-43c3-a011-d66a2ad087e1",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "endorsement": {
+                        "text": "Halal",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_check@3x.png"
+                    },
+                    "classifications": []
+                },
+                "e6a17b18-a20a-4b32-9c69-2cac5cf0fa9a": {
+                    "description": "",
+                    "imageUrl": null,
+                    "price": 150,
+                    "title": "Lilt",
+                    "uuid": "e6a17b18-a20a-4b32-9c69-2cac5cf0fa9a",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "12fbe104-9ec9-4a4a-8c08-e2532083b953": {
+                    "description": "",
+                    "imageUrl": null,
+                    "price": 150,
+                    "title": "Water",
+                    "uuid": "12fbe104-9ec9-4a4a-8c08-e2532083b953",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "8816cf69-1a07-4859-b0da-1ebdeedb7a46": {
+                    "description": "Veggie burger, cheese, chips, and drink.",
+                    "imageUrl": null,
+                    "price": 600,
+                    "title": "Burger Meal 4",
+                    "uuid": "8816cf69-1a07-4859-b0da-1ebdeedb7a46",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "85ba1d17-8f31-4271-b47c-69e915888d5c": {
+                    "description": "",
+                    "imageUrl": null,
+                    "price": 300,
+                    "title": "Cacik in Pot",
+                    "uuid": "85ba1d17-8f31-4271-b47c-69e915888d5c",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "endorsement": {
+                        "text": "Vegetarian",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png"
+                    },
+                    "classifications": []
+                },
+                "088b95b5-2883-4c28-b6b7-41ba3c531c4b": {
+                    "description": "",
+                    "imageUrl": null,
+                    "price": 150,
+                    "title": "Mirinda",
+                    "uuid": "088b95b5-2883-4c28-b6b7-41ba3c531c4b",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "cc3b2c8e-ffa2-46c2-9154-c4c6ab6f87d7": {
+                    "description": "",
+                    "imageUrl": null,
+                    "price": 100,
+                    "title": "Ribena",
+                    "uuid": "cc3b2c8e-ffa2-46c2-9154-c4c6ab6f87d7",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "48bdbf4f-1c20-432d-a71b-d42597522f51": {
+                    "description": "",
+                    "imageUrl": null,
+                    "price": 150,
+                    "title": "Pepsi",
+                    "uuid": "48bdbf4f-1c20-432d-a71b-d42597522f51",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "8cb95345-3258-4544-9f03-21cc48bbb45b": {
+                    "description": "Served with salad, pita bread, and sauce.",
+                    "imageUrl": null,
+                    "price": 750,
+                    "title": "Chicken Kofte Kebab",
+                    "uuid": "8cb95345-3258-4544-9f03-21cc48bbb45b",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "endorsement": {
+                        "text": "Halal",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_check@3x.png"
+                    },
+                    "classifications": []
+                },
+                "ded7710d-56f2-4ed6-8d5b-58bc347b8d30": {
+                    "description": "8 Pieces",
+                    "imageUrl": null,
+                    "price": 500,
+                    "title": "Scampi",
+                    "uuid": "ded7710d-56f2-4ed6-8d5b-58bc347b8d30",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "99c2aa5c-87e1-4d0c-811b-a2321e0bec4b": {
+                    "description": "Served with salad, pita bread, and sauce.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/fab9db94-228e-4841-a8ca-184640f8b7db",
+                    "price": 750,
+                    "title": "Chicken Shish Kebab",
+                    "uuid": "99c2aa5c-87e1-4d0c-811b-a2321e0bec4b",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "endorsement": {
+                        "text": "Halal",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_check@3x.png"
+                    },
+                    "classifications": []
+                },
+                "96bd9fd7-c153-4f3e-8d85-36979cde773e": {
+                    "description": "",
+                    "imageUrl": null,
+                    "price": 150,
+                    "title": "Rio",
+                    "uuid": "96bd9fd7-c153-4f3e-8d85-36979cde773e",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "b16699e6-4d0c-4517-bbc9-f6e67b4a3430": {
+                    "description": "Your choice of pitta or slice bread",
+                    "imageUrl": null,
+                    "price": 390,
+                    "title": "Halloumi and Salad Sandwich",
+                    "uuid": "b16699e6-4d0c-4517-bbc9-f6e67b4a3430",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "11a83b00-284f-4005-97e0-9e940680ab52": {
+                    "description": "Served with salad, pita bread, and sauce.",
+                    "imageUrl": null,
+                    "price": 750,
+                    "title": "Lamb Shish Kebab",
+                    "uuid": "11a83b00-284f-4005-97e0-9e940680ab52",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "endorsement": {
+                        "text": "Halal",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_check@3x.png"
+                    },
+                    "classifications": []
+                },
+                "61976984-3157-438a-b850-00c8dfdc49a3": {
+                    "description": "",
+                    "imageUrl": null,
+                    "price": 480,
+                    "title": "Cheese Omelettes",
+                    "uuid": "61976984-3157-438a-b850-00c8dfdc49a3",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "d6e26522-fffd-4383-9736-79b3afa652ec": {
+                    "description": "1 piece chicken, 2 wings, chips, and drink.",
+                    "imageUrl": null,
+                    "price": 350,
+                    "title": "Chicken Meal 1",
+                    "uuid": "d6e26522-fffd-4383-9736-79b3afa652ec",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "endorsement": {
+                        "text": "Halal",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_check@3x.png"
+                    },
+                    "classifications": []
+                },
+                "3efe22a8-97e3-4f43-af7b-5eba29e61c4e": {
+                    "description": "",
+                    "imageUrl": null,
+                    "price": 250,
+                    "title": "Sutlac",
+                    "uuid": "3efe22a8-97e3-4f43-af7b-5eba29e61c4e",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": "",
+                    "suspendUntil": 8640000000,
+                    "classifications": []
+                },
+                "1811386f-7134-4ca2-b26f-0407e60702a1": {
+                    "description": "",
+                    "imageUrl": null,
+                    "price": 350,
+                    "title": "Pita and Salad",
+                    "uuid": "1811386f-7134-4ca2-b26f-0407e60702a1",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "endorsement": {
+                        "text": "Vegetarian",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png"
+                    },
+                    "classifications": []
+                },
+                "72c454a7-60c9-4d58-9e96-44d66e787097": {
+                    "description": "",
+                    "imageUrl": null,
+                    "price": 350,
+                    "title": "Chips",
+                    "uuid": "72c454a7-60c9-4d58-9e96-44d66e787097",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "endorsement": {
+                        "text": "Vegetarian",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png"
+                    },
+                    "classifications": []
+                },
+                "392cd325-80b9-4042-91e1-abb69d56daac": {
+                    "description": "",
+                    "imageUrl": null,
+                    "price": 430,
+                    "title": "Fish Burger",
+                    "uuid": "392cd325-80b9-4042-91e1-abb69d56daac",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "d8ae4a78-6cb1-4f1e-9c31-ac1c6aaa4b12": {
+                    "description": "Chicken burger, chips, and drink.\n",
+                    "imageUrl": null,
+                    "price": 650,
+                    "title": "Burger Meal 3",
+                    "uuid": "d8ae4a78-6cb1-4f1e-9c31-ac1c6aaa4b12",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "endorsement": {
+                        "text": "Halal",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_check@3x.png"
+                    },
+                    "classifications": []
+                },
+                "f43a14d5-abf4-44ce-882b-f73fccc4cd47": {
+                    "description": "",
+                    "imageUrl": null,
+                    "price": 100,
+                    "title": "Lucozade",
+                    "uuid": "f43a14d5-abf4-44ce-882b-f73fccc4cd47",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "4ab1b62b-ae98-409b-8eaa-f2d15f7b5c11": {
+                    "description": "",
+                    "imageUrl": null,
+                    "price": 100,
+                    "title": "Chilli Sauce in Pot",
+                    "uuid": "4ab1b62b-ae98-409b-8eaa-f2d15f7b5c11",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "endorsement": {
+                        "text": "Vegetarian",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png"
+                    },
+                    "classifications": []
+                },
+                "fee484ad-8d2b-43dc-83ea-6d432f3085f4": {
+                    "description": "Lamb shish, chicken kofte, slices lamb doner, and chicken doner. Served with salad, pita bread, and sauce.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/40e01663-a884-4358-8687-a804c48005e4",
+                    "price": 1350,
+                    "title": "Mixed Grill",
+                    "uuid": "fee484ad-8d2b-43dc-83ea-6d432f3085f4",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "endorsement": {
+                        "text": "Halal",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_check@3x.png"
+                    },
+                    "classifications": []
+                },
+                "5d2cfac8-289b-405b-80a7-89b3414a1395": {
+                    "description": "Chicken and lamb kofte, served with salad, pita bread, and sauce.",
+                    "imageUrl": null,
+                    "price": 970,
+                    "title": "Mix Kofte",
+                    "uuid": "5d2cfac8-289b-405b-80a7-89b3414a1395",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "f68d2794-1911-4e27-8ad5-a269601130da": {
+                    "description": "",
+                    "imageUrl": null,
+                    "price": 150,
+                    "title": "Fanta Fruit Twist",
+                    "uuid": "f68d2794-1911-4e27-8ad5-a269601130da",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "5accc9b0-7197-4d13-bb0e-c0c36c1988f9": {
+                    "description": "",
+                    "imageUrl": null,
+                    "price": 400,
+                    "title": "Chips in Pita",
+                    "uuid": "5accc9b0-7197-4d13-bb0e-c0c36c1988f9",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "endorsement": {
+                        "text": "Vegetarian",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png"
+                    },
+                    "classifications": []
+                },
+                "0595690b-dbc4-42bd-8c20-eb250fbfd546": {
+                    "description": "",
+                    "imageUrl": null,
+                    "price": 450,
+                    "title": "Cheese Salad in Pita",
+                    "uuid": "0595690b-dbc4-42bd-8c20-eb250fbfd546",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "endorsement": {
+                        "text": "Vegetarian",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png"
+                    },
+                    "classifications": []
+                },
+                "d06b5db8-3e5e-447c-8ebe-49f19f76bc8a": {
+                    "description": "",
+                    "imageUrl": null,
+                    "price": 430,
+                    "title": "Plain Omelettes",
+                    "uuid": "d06b5db8-3e5e-447c-8ebe-49f19f76bc8a",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "f19011a3-cb81-4a3b-8e07-3958979094c4": {
+                    "description": "Served with salad, pita bread, and sauce.",
+                    "imageUrl": null,
+                    "price": 700,
+                    "title": "Lamb Doner",
+                    "uuid": "f19011a3-cb81-4a3b-8e07-3958979094c4",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "endorsement": {
+                        "text": "Halal",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_check@3x.png"
+                    },
+                    "classifications": []
+                },
+                "c47bfe18-3154-4706-8dc1-981a243f680f": {
+                    "description": "",
+                    "imageUrl": null,
+                    "price": 340,
+                    "title": "Chips and Cheese",
+                    "uuid": "c47bfe18-3154-4706-8dc1-981a243f680f",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "endorsement": {
+                        "text": "Vegetarian",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png"
+                    },
+                    "classifications": []
+                },
+                "17b58e45-9185-427a-86dc-ed6e1ed29fd0": {
+                    "description": "",
+                    "imageUrl": null,
+                    "price": 480,
+                    "title": "Mushroom Omelettes",
+                    "uuid": "17b58e45-9185-427a-86dc-ed6e1ed29fd0",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "1519be6b-e763-4006-a600-fcded9d63c6c": {
+                    "description": "",
+                    "imageUrl": null,
+                    "price": 800,
+                    "title": "Halloumi Falafel",
+                    "uuid": "1519be6b-e763-4006-a600-fcded9d63c6c",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "endorsement": {
+                        "text": "Vegetarian",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png"
+                    },
+                    "classifications": []
+                },
+                "99845189-09cf-4a3b-a60a-e626418eec73": {
+                    "description": "Served with salad, pita bread, and sauce.",
+                    "imageUrl": null,
+                    "price": 720,
+                    "title": "Mixed Doner",
+                    "uuid": "99845189-09cf-4a3b-a60a-e626418eec73",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "098af63d-a26d-4b0b-a9ae-525178dfd15d": {
+                    "description": "Served with salad, pita bread, and sauce.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/8e10c8eb-3139-403f-8359-25db7df03706",
+                    "price": 1400,
+                    "title": "Lamb Chops",
+                    "uuid": "098af63d-a26d-4b0b-a9ae-525178dfd15d",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "endorsement": {
+                        "text": "Halal",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_check@3x.png"
+                    },
+                    "classifications": []
+                },
+                "14bceb5c-217d-44c9-a74c-0bab10cc7b5c": {
+                    "description": "",
+                    "imageUrl": null,
+                    "price": 150,
+                    "title": "Diet Coca Cola",
+                    "uuid": "14bceb5c-217d-44c9-a74c-0bab10cc7b5c",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "73afcb43-bb1b-4362-9c16-ba3c4cfc0021": {
+                    "description": "Meat and chips with drink.",
+                    "imageUrl": null,
+                    "price": 900,
+                    "title": "Kebab Set Meal 2",
+                    "uuid": "73afcb43-bb1b-4362-9c16-ba3c4cfc0021",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "572671fa-c1c2-4f97-8165-596a82942ab3": {
+                    "description": "Iskender. Lamb doner or chicken doner served with tomato pure and yogurt.",
+                    "imageUrl": null,
+                    "price": 1000,
+                    "title": "Kebab Set Meal 7",
+                    "uuid": "572671fa-c1c2-4f97-8165-596a82942ab3",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "endorsement": {
+                        "text": "Halal",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_check@3x.png"
+                    },
+                    "classifications": []
+                }
+            }
+        },
+        "sections": [
+            {
+                "subsectionUuids": [
+                    "669732a8-8e74-4c9b-b73a-dce6281e2874",
+                    "f5e96a92-6158-40f1-a641-ce64132d19a1",
+                    "b1484898-020e-4723-8413-1cd0cef14ef6",
+                    "0f48607d-381c-4654-b8d9-0f92c9fcf8dd",
+                    "3c215138-2d93-4258-8d45-fd89ca1e5d4d",
+                    "4a5b55be-6a6d-4b5c-8676-d24b7e701d9b",
+                    "89aaade9-981f-4218-ab1f-02a00172aaa4",
+                    "80cea47b-c9f0-4353-8810-0ef584ba29d8",
+                    "af42b416-08bb-4417-b559-83ace2ccbd45",
+                    "3f3cca8d-d198-4b59-9713-b75612f41342",
+                    "def60d35-2e36-490b-ad9f-1440a1fda893",
+                    "c733ee7e-ca73-41af-a43f-615cd3ef1d87",
+                    "0949aa81-ab3b-4a6e-be68-ce45f8b86c74",
+                    "e600ee70-8aa0-4e35-965c-44ccbef0ed6a"
+                ],
+                "title": "Menu",
+                "subtitle": "8:00 AM – 3:00 AM",
+                "uuid": "99641bcd-c626-4baa-939e-b0973e928a84",
+                "isTop": true,
+                "isOnSale": true
+            }
+        ],
+        "subsectionsMap": {
+            "89aaade9-981f-4218-ab1f-02a00172aaa4": {
+                "itemUuids": [
+                    "54e224b0-6645-4ee9-a693-c00f091516e1",
+                    "6e8bb070-883f-4398-a06b-76667111919b",
+                    "1d8b8c62-57b7-4e0f-9a0b-056f173080f3",
+                    "fa93591e-22a1-4d0f-a65b-9cc631fa3d1a",
+                    "d23f664e-308b-496e-9d64-506cbe77a582",
+                    "e43ee379-1e87-4c2b-a6c0-945f23200924",
+                    "d0c40488-01b8-458f-a329-0d79d5ff1515"
+                ],
+                "subtitle": null,
+                "title": "Fried Chicken",
+                "uuid": "89aaade9-981f-4218-ab1f-02a00172aaa4",
+                "displayType": null
+            },
+            "c733ee7e-ca73-41af-a43f-615cd3ef1d87": {
+                "itemUuids": [
+                    "9050ef3e-5b4f-460d-8d52-02d58a2fa138",
+                    "5d079d5d-bf9b-4be9-ae43-af49d69180e7",
+                    "96624181-020f-476f-a15a-20022858c09f",
+                    "6f5904b5-6cfc-440e-b7c2-4941d322e5e8",
+                    "e10990df-ee06-4409-a109-ef5b77461b78",
+                    "b16699e6-4d0c-4517-bbc9-f6e67b4a3430",
+                    "51d99e1a-6258-472f-a4d6-c4594633382c"
+                ],
+                "subtitle": null,
+                "title": "Sandwiches",
+                "uuid": "c733ee7e-ca73-41af-a43f-615cd3ef1d87",
+                "displayType": null
+            },
+            "3f3cca8d-d198-4b59-9713-b75612f41342": {
+                "itemUuids": [
+                    "3a20993f-65dd-48e1-9a2f-a4816bd88d76"
+                ],
+                "subtitle": null,
+                "title": "Lahmacun",
+                "uuid": "3f3cca8d-d198-4b59-9713-b75612f41342",
+                "displayType": null
+            },
+            "def60d35-2e36-490b-ad9f-1440a1fda893": {
+                "itemUuids": [
+                    "d06b5db8-3e5e-447c-8ebe-49f19f76bc8a",
+                    "17b58e45-9185-427a-86dc-ed6e1ed29fd0",
+                    "61976984-3157-438a-b850-00c8dfdc49a3",
+                    "637d38e4-e85c-48d3-98c3-e550233d48ec",
+                    "b208d48d-44c9-42ca-9959-05a3da0c144d"
+                ],
+                "subtitle": null,
+                "title": "Omelettes",
+                "uuid": "def60d35-2e36-490b-ad9f-1440a1fda893",
+                "displayType": null
+            },
+            "0f48607d-381c-4654-b8d9-0f92c9fcf8dd": {
+                "itemUuids": [
+                    "72c454a7-60c9-4d58-9e96-44d66e787097",
+                    "c47bfe18-3154-4706-8dc1-981a243f680f",
+                    "1811386f-7134-4ca2-b26f-0407e60702a1",
+                    "3d57e847-caa9-4c53-a1ec-d0991a4eb75b",
+                    "56e6c2a7-ccaf-4ca8-9408-0e5fb5cf9a65",
+                    "9a2c07ac-5651-42a0-a282-ae6c799b41b1",
+                    "31a7c226-32d5-418e-911c-a6edc6eca8c3",
+                    "5accc9b0-7197-4d13-bb0e-c0c36c1988f9",
+                    "edc970fb-d577-48d4-939d-9bf3158c05ea",
+                    "49e27382-511a-4d7f-89f2-814954138a43",
+                    "abc84a5c-b0ac-45f3-b76d-a17812e7e8ee",
+                    "5a7b6186-0f2f-4954-9f40-97688bb9f486",
+                    "0595690b-dbc4-42bd-8c20-eb250fbfd546",
+                    "a6eb8db1-9ace-4866-ac83-0ea71472bc3f",
+                    "85ba1d17-8f31-4271-b47c-69e915888d5c",
+                    "4ab1b62b-ae98-409b-8eaa-f2d15f7b5c11",
+                    "c5245898-06f0-4365-a77a-f2f31791f9fb",
+                    "3cde8d0d-acb5-45f2-ade8-7d77a671dbb8",
+                    "1519be6b-e763-4006-a600-fcded9d63c6c",
+                    "ffdcbfbd-b20d-407c-b9b5-2c4cfd03bdc3",
+                    "780b9a8a-9972-4b2a-a92c-f6066c0f044b",
+                    "b8d32094-59e1-4cea-9037-e1ce8ec6a804",
+                    "29354cf5-ad41-4e33-b411-6acf531c403b"
+                ],
+                "subtitle": null,
+                "title": "Vegetarian",
+                "uuid": "0f48607d-381c-4654-b8d9-0f92c9fcf8dd",
+                "displayType": null
+            },
+            "af42b416-08bb-4417-b559-83ace2ccbd45": {
+                "itemUuids": [
+                    "12d1bd90-3d3f-438b-b583-6d5c41ef5b2f",
+                    "ded7710d-56f2-4ed6-8d5b-58bc347b8d30",
+                    "392cd325-80b9-4042-91e1-abb69d56daac"
+                ],
+                "subtitle": null,
+                "title": "Fish",
+                "uuid": "af42b416-08bb-4417-b559-83ace2ccbd45",
+                "displayType": null
+            },
+            "3c215138-2d93-4258-8d45-fd89ca1e5d4d": {
+                "itemUuids": [
+                    "bb346e2f-89f2-489a-897a-8f69810290fb",
+                    "29a31556-b4cc-41a0-8ee8-a24905251dac",
+                    "b58827c8-9ed4-4bec-b8af-3b924ad669b2",
+                    "91c7b12f-5866-4755-954d-99e7a58ea7c5"
+                ],
+                "subtitle": null,
+                "title": "Burgers",
+                "uuid": "3c215138-2d93-4258-8d45-fd89ca1e5d4d",
+                "displayType": null
+            },
+            "b0478234-9b7c-11e9-8ccb-2c600cda2e90": {
+                "itemUuids": [
+                    "99c2aa5c-87e1-4d0c-811b-a2321e0bec4b",
+                    "f19011a3-cb81-4a3b-8e07-3958979094c4"
+                ],
+                "subtitle": null,
+                "title": "Buy one get one free",
+                "uuid": "b0478234-9b7c-11e9-8ccb-2c600cda2e90",
+                "displayType": null
+            },
+            "0949aa81-ab3b-4a6e-be68-ce45f8b86c74": {
+                "itemUuids": [
+                    "71085cb1-e506-4736-b1ae-70a231e5fa13",
+                    "a0cfbc9f-0c20-4989-b9cf-ee0d16e41055",
+                    "3efe22a8-97e3-4f43-af7b-5eba29e61c4e",
+                    "35d8bf8b-353a-43ad-8699-acbe17346476"
+                ],
+                "subtitle": null,
+                "title": "Desserts",
+                "uuid": "0949aa81-ab3b-4a6e-be68-ce45f8b86c74",
+                "displayType": null
+            },
+            "4a5b55be-6a6d-4b5c-8676-d24b7e701d9b": {
+                "itemUuids": [
+                    "dabd7343-2b9f-485d-bfe5-ba2ae527e751",
+                    "75e8e6a5-85e9-42b1-80df-f302ea71a788",
+                    "d8ae4a78-6cb1-4f1e-9c31-ac1c6aaa4b12",
+                    "8816cf69-1a07-4859-b0da-1ebdeedb7a46",
+                    "cca65536-3c50-472f-826a-ba35d9db7631"
+                ],
+                "subtitle": null,
+                "title": "Burger Meals",
+                "uuid": "4a5b55be-6a6d-4b5c-8676-d24b7e701d9b",
+                "displayType": null
+            },
+            "b1484898-020e-4723-8413-1cd0cef14ef6": {
+                "itemUuids": [
+                    "7742bc71-d2f7-49f5-aa1d-6805faa87ad6",
+                    "73afcb43-bb1b-4362-9c16-ba3c4cfc0021",
+                    "23d7bd39-107e-42fc-8d08-ab3d1b862f2f",
+                    "8eef91ed-8f69-4077-a91d-b75d06f8035f",
+                    "1c503cfa-2c7c-4034-a216-a6d2d6d68726",
+                    "69a11228-b008-4deb-9965-67c2db21e1e8",
+                    "572671fa-c1c2-4f97-8165-596a82942ab3",
+                    "333e8318-901a-4b0f-8fc8-81415d766249"
+                ],
+                "subtitle": null,
+                "title": "Kebab Set Meals",
+                "uuid": "b1484898-020e-4723-8413-1cd0cef14ef6",
+                "displayType": null
+            },
+            "f5e96a92-6158-40f1-a641-ce64132d19a1": {
+                "itemUuids": [
+                    "8d87e50c-8923-45ec-bc01-d7b05f9d6f4f",
+                    "99c2aa5c-87e1-4d0c-811b-a2321e0bec4b",
+                    "8cb95345-3258-4544-9f03-21cc48bbb45b",
+                    "99845189-09cf-4a3b-a60a-e626418eec73",
+                    "11a7dc10-f265-47b6-8fdb-633c0927dbb2",
+                    "0282806a-9399-4f47-b423-528020769228"
+                ],
+                "subtitle": null,
+                "title": "Chicken Kebabs",
+                "uuid": "f5e96a92-6158-40f1-a641-ce64132d19a1",
+                "displayType": null
+            },
+            "e600ee70-8aa0-4e35-965c-44ccbef0ed6a": {
+                "itemUuids": [
+                    "796db21b-ee39-49cc-ab63-ac57572bf18c",
+                    "cc3b2c8e-ffa2-46c2-9154-c4c6ab6f87d7",
+                    "1efb4886-a322-454d-86f5-7e2823153b59",
+                    "12fbe104-9ec9-4a4a-8c08-e2532083b953",
+                    "f43a14d5-abf4-44ce-882b-f73fccc4cd47",
+                    "2df2a9d2-87df-4e2a-9f9e-96b8b276f87f",
+                    "52d6f623-3bed-4621-b4ad-455b79b9c464",
+                    "14bceb5c-217d-44c9-a74c-0bab10cc7b5c",
+                    "3488b549-e1e3-41bc-bc7c-fc6081e04bb0",
+                    "f77c5df6-ca33-4751-8bd0-a08caa6c4410",
+                    "088b95b5-2883-4c28-b6b7-41ba3c531c4b",
+                    "f68d2794-1911-4e27-8ad5-a269601130da",
+                    "96bd9fd7-c153-4f3e-8d85-36979cde773e",
+                    "e6a17b18-a20a-4b32-9c69-2cac5cf0fa9a",
+                    "48bdbf4f-1c20-432d-a71b-d42597522f51",
+                    "ec64b852-4185-4494-934e-0e47a808c3d1"
+                ],
+                "subtitle": null,
+                "title": "Drinks",
+                "uuid": "e600ee70-8aa0-4e35-965c-44ccbef0ed6a",
+                "displayType": null
+            },
+            "669732a8-8e74-4c9b-b73a-dce6281e2874": {
+                "itemUuids": [
+                    "11a83b00-284f-4005-97e0-9e940680ab52",
+                    "fee484ad-8d2b-43dc-83ea-6d432f3085f4",
+                    "12c2c471-5a54-4442-81cd-4f7cecc0cc79",
+                    "2fca0637-7237-4dd4-b49f-7012affdcb42",
+                    "f19011a3-cb81-4a3b-8e07-3958979094c4",
+                    "99e6ce0e-0d6d-4b1d-b9af-459eaa70a021",
+                    "098af63d-a26d-4b0b-a9ae-525178dfd15d",
+                    "64bd6c4b-9e27-421d-a4be-2472d78811ca",
+                    "5d2cfac8-289b-405b-80a7-89b3414a1395"
+                ],
+                "subtitle": null,
+                "title": "Lamb Kebabs",
+                "uuid": "669732a8-8e74-4c9b-b73a-dce6281e2874",
+                "displayType": null
+            },
+            "80cea47b-c9f0-4353-8810-0ef584ba29d8": {
+                "itemUuids": [
+                    "d6e26522-fffd-4383-9736-79b3afa652ec",
+                    "b59198d1-ef5b-41c1-b854-a17792100af7",
+                    "e98aabc2-ff31-441e-8400-de9c744ac3a8",
+                    "c7bdb02e-78cf-43c3-a011-d66a2ad087e1",
+                    "108deddd-bd19-4f34-80fc-2503cfc6a284"
+                ],
+                "subtitle": null,
+                "title": "Fried Chicken Meals",
+                "uuid": "80cea47b-c9f0-4353-8810-0ef584ba29d8",
+                "displayType": null
+            }
+        },
+        "title": "Capital Kebab Restaurant",
+        "uuid": "86a7c2b7-b268-4d22-a08f-7ffdb1e6e125",
+        "categories": [
+            "₴",
+            "Близькосхідна",
+            "Курка",
+            "Бургери",
+            "Для вегетаріанців"
+        ],
+        "cuisineList": [
+            "Близькосхідна",
+            "Курка",
+            "Бургери",
+            "Для вегетаріанців"
+        ],
+        "priceBucket": "₴",
+        "etaRange": {
+            "text": "30–40 min",
+            "iconUrl": ""
+        },
+        "ratingBadge": {
+            "text": "<span><span style=\"font-family: inherit; color: #3a3a48;\">4.1 <img src=\"https://d1a3f4spazzrp4.cloudfront.net/static/images/Star_Black_Eats_3.png\" width=\"14\" height=\"14\" vertical-align=\"middle\"> </span><span style=\"font-family: inherit; color: #757575;\">(200+)</span></span>"
+        },
+        "disclaimerBadge": {
+            "text": "<span style=\"font-family: inherit;\">Allergies, intolerances and dietary requirements: before ordering, please contact the restaurant directly and ask to speak to a member of staff who can assist if you require information about ingredients and help cater for your needs. For more information on food safety and hygiene, please visit the <a href=\"http://ratings.food.gov.uk/\" style=\"color:#61ad5f;\">Food Standards Agency</a></span>"
+        },
+        "fareBadge": null,
+        "fareInfo": {
+            "serviceFee": 30,
+            "serviceFeeCents": 3000
+        },
+        "promotion": null,
+        "shouldIndex": false,
+        "heroImageUrls": [
+            {
+                "url": "https://d1ralsognjng37.cloudfront.net/e11e3be7-03a5-4ac7-8549-aaa6309c792f.jpeg",
+                "width": 240
+            },
+            {
+                "url": "https://d1ralsognjng37.cloudfront.net/561c0d7e-3728-409c-be8e-82d74af36888.jpeg",
+                "width": 550
+            },
+            {
+                "url": "https://d1ralsognjng37.cloudfront.net/6e7c99c2-7ead-4c5e-af71-7557d8130b02.jpeg",
+                "width": 640
+            },
+            {
+                "url": "https://d1ralsognjng37.cloudfront.net/ce6fc5e5-a41d-4001-ab67-04cecc5372e1.jpeg",
+                "width": 750
+            },
+            {
+                "url": "https://d1ralsognjng37.cloudfront.net/b0dbe9dc-00ef-42ce-9fd0-8b7a777d563e.jpeg",
+                "width": 1080
+            },
+            {
+                "url": "https://d1ralsognjng37.cloudfront.net/46c29f4a-e3e6-43f3-bc2f-1da280aba31e.jpeg",
+                "width": 2880
+            }
+        ],
+        "isOpen": true,
+        "currencyCode": "GBP",
+        "closedMessage": "Currently unavailable",
+        "location": {
+            "address": "The Cut, 63, England SE1 8LL",
+            "streetAddress": "The Cut",
+            "city": "",
+            "country": "GB",
+            "postalCode": "SE1 8LL",
+            "region": "England",
+            "latitude": 51.5026749,
+            "longitude": -0.1079907
+        },
+        "isDeliveryThirdParty": false,
+        "hours": [
+            {
+                "dayRange": "Every Day",
+                "sectionHours": [
+                    {
+                        "startTime": 480,
+                        "endTime": 180,
+                        "sectionTitle": ""
+                    }
+                ]
+            }
+        ],
+        "disableOrderInstruction": false,
+        "disableCheckoutInstruction": false,
+        "nuggets": [],
+        "isWithinDeliveryRange": false,
+        "slug": "capital-kebab-restaurant",
+        "citySlug": "london",
+        "phoneNumber": "+447956280755",
+        "metaJson": "{\"@context\":\"http:\\u002F\\u002Fschema.org\",\"@type\":\"Restaurant\",\"@id\":\"https:\\u002F\\u002Fwww.ubereats.com\\u002Fen-UA\\u002Flondon\\u002Ffood-delivery\\u002Fcapital-kebab-restaurant\\u002FhqfCt7JoTSKgj3_9sebhJQ\\u002F\",\"name\":\"Capital Kebab Restaurant\",\"priceRange\":\"₴\",\"potentialAction\":{\"@type\":\"OrderAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\\u002F\\u002Fwww.ubereats.com\\u002Fen-UA\\u002Flondon\\u002Ffood-delivery\\u002Fcapital-kebab-restaurant\\u002FhqfCt7JoTSKgj3_9sebhJQ\\u002F?utm_campaign=order-action&utm_medium=organic\",\"inLanguage\":\"English\",\"actionPlatform\":[\"http:\\u002F\\u002Fschema.org\\u002FDesktopWebPlatform\",\"http:\\u002F\\u002Fschema.org\\u002FMobileWebPlatform\"]},\"deliveryMethod\":[\"http:\\u002F\\u002Fpurl.org\\u002Fgoodrelations\\u002Fv1#DeliveryModeOwnFleet\",\"http:\\u002F\\u002Fpurl.org\\u002Fgoodrelations\\u002Fv1#DeliveryModePickUp\"]},\"geo\":{\"@type\":\"GeoCoordinates\",\"latitude\":51.5026749,\"longitude\":-0.1079907}}",
+        "promoTrackings": [],
+        "suggestedPromotion": {
+            "text": "",
+            "promotionUuid": ""
+        },
+        "supportedDiningModes": [
+            {
+                "mode": "DELIVERY",
+                "title": "Delivery",
+                "isSelected": true,
+                "isAvailable": true
+            },
+            {
+                "mode": "PICKUP",
+                "title": "Pickup",
+                "isSelected": false,
+                "isAvailable": true
+            }
+        ],
+        "isPreview": false,
+        "pinnedInfo": null
+    }
+}

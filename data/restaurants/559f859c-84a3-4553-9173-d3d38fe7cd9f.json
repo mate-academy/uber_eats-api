@@ -1,0 +1,476 @@
+{
+    "status": "success",
+    "data": {
+        "sectionEntitiesMap": {
+            "eeabb58f-026a-4439-b295-f794b5ba6e41": {
+                "dee554b8-3cb3-4fdd-9d14-f1db0d96efc8": {
+                    "description": "Fajita in a bowl with no tortilla",
+                    "imageUrl": null,
+                    "price": 795,
+                    "title": "Naked Fajita",
+                    "uuid": "dee554b8-3cb3-4fdd-9d14-f1db0d96efc8",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "f5e35e1c-d5e6-4dca-a981-dd3c39ac9c10": {
+                    "description": "In Can",
+                    "imageUrl": null,
+                    "price": 130,
+                    "title": "Fanta",
+                    "uuid": "f5e35e1c-d5e6-4dca-a981-dd3c39ac9c10",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "2dc4abab-8258-442b-8f97-66ce7715f946": {
+                    "description": "",
+                    "imageUrl": null,
+                    "price": 70,
+                    "title": "Salsa",
+                    "uuid": "2dc4abab-8258-442b-8f97-66ce7715f946",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "51d11eaa-3ab2-4046-bd9b-8096c81703fa": {
+                    "description": "500ml",
+                    "imageUrl": null,
+                    "price": 130,
+                    "title": "Still water",
+                    "uuid": "51d11eaa-3ab2-4046-bd9b-8096c81703fa",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "9734ac18-5573-4a90-b5d4-b4a486f73fa4": {
+                    "description": "Two soft corn or flour tortillas, choice of meat, salsa, cheese or sour cream, and shredded iceberg lettuce.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/efee39fb-ea0a-405a-a504-7746d63fbb5c",
+                    "price": 695,
+                    "title": "Tacos",
+                    "uuid": "9734ac18-5573-4a90-b5d4-b4a486f73fa4",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "8430a1c6-cd56-4bf4-a5d7-14396d474ba5": {
+                    "description": "A soft and warm tortilla filled with choice of rice, beans, meat or vegetarian, salsa, cheese, and sour cream.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/26bb46db-c262-43da-98c4-958b8d6dc9b4",
+                    "price": 795,
+                    "title": "Burrito",
+                    "uuid": "8430a1c6-cd56-4bf4-a5d7-14396d474ba5",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "554c9b61-37e4-457f-b986-1261d08eb942": {
+                    "description": "",
+                    "imageUrl": null,
+                    "price": 100,
+                    "title": "Cheese",
+                    "uuid": "554c9b61-37e4-457f-b986-1261d08eb942",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "49bdecc2-a145-46c6-9d86-018852775643": {
+                    "description": "Mixed salad with avocado.",
+                    "imageUrl": null,
+                    "price": 375,
+                    "title": "Side Salad",
+                    "uuid": "49bdecc2-a145-46c6-9d86-018852775643",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "b4cc0822-e744-4a24-b0d4-bd2248221c1b": {
+                    "description": "\"Love it light? Add some sparkle to your day, minus the calories with Diet Coke\n \n Diet Coke is a sugar free, low calorie soft drink.\n No Sugar\n No Calories\n Gluten-free, dairy-free and nut-free\n Contains vegetables extracts and sweeteners\n \n Serve over ice with a slice of lime.\"",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/97f4793e-b822-44ca-be2e-56f69236e905.jpeg",
+                    "price": 130,
+                    "title": "Diet Coke 300ml",
+                    "uuid": "b4cc0822-e744-4a24-b0d4-bd2248221c1b",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "f03f2bb4-c9bb-4bfe-8742-3fc398a307e7": {
+                    "description": "A burrito in a bowl with no tortilla.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/3904ef0c-1636-4a59-89e6-5e7933665cda",
+                    "price": 795,
+                    "title": "Naked Burrito",
+                    "uuid": "f03f2bb4-c9bb-4bfe-8742-3fc398a307e7",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "32c0896c-7235-4b11-a22c-6f080be1cd44": {
+                    "description": "",
+                    "imageUrl": null,
+                    "price": 100,
+                    "title": "Sour Cream",
+                    "uuid": "32c0896c-7235-4b11-a22c-6f080be1cd44",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "cc53f34a-0a4d-4a66-837c-08882c08b603": {
+                    "description": "Chicken, beef, or pork.",
+                    "imageUrl": null,
+                    "price": 200,
+                    "title": "Extra Meat",
+                    "uuid": "cc53f34a-0a4d-4a66-837c-08882c08b603",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "ac6a07b4-5270-4396-ada3-7f3445b170bd": {
+                    "description": "",
+                    "imageUrl": null,
+                    "price": 200,
+                    "title": "Grilled Steak",
+                    "uuid": "ac6a07b4-5270-4396-ada3-7f3445b170bd",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "6f15b38f-9772-43ee-be10-8a793329e7b4": {
+                    "description": "",
+                    "imageUrl": null,
+                    "price": 150,
+                    "title": "Guacamole",
+                    "uuid": "6f15b38f-9772-43ee-be10-8a793329e7b4",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "2ff84d49-bc10-45ac-b850-d677c825ce75": {
+                    "description": "\"Coca-Cola Zero Sugar is the perfect drink for people who want all the taste of Coca‑Cola, without the sugar or calories.\n \n Coca-Cola Zero Sugar is a sugar free, low calorie soft drink with the great taste of original Coca-Cola.\n Zero sugar\n Zero Calories\n Contains vegetable extracts and sweeteners\n Gluten-free, dairy-free and nut-free\n \n Serve ice cold for maximum refreshment.\"",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/2c9076bd-1506-4edf-a78f-1940582ea979.jpeg",
+                    "price": 130,
+                    "title": "Coca-Cola Zero sugar 330ml",
+                    "uuid": "2ff84d49-bc10-45ac-b850-d677c825ce75",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "cd81e8bb-f2b1-43dd-945e-9034692e8ca8": {
+                    "description": "A flour tortilla filled with melted Monterey Jack cheese. Meat or veg and hot sauce to taste. Comes with lettuce, pico de gallo, and sour cream on the side.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/f9b0badb-e0a3-4625-a2a8-df11e16a0de0",
+                    "price": 795,
+                    "title": "Quesadilla",
+                    "uuid": "cd81e8bb-f2b1-43dd-945e-9034692e8ca8",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "878469db-d342-4185-93d5-977e6c46182f": {
+                    "description": "In can",
+                    "imageUrl": null,
+                    "price": 130,
+                    "title": "Perrier Sparkling water",
+                    "uuid": "878469db-d342-4185-93d5-977e6c46182f",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "c7892f22-55f9-46b7-9096-a5794fe015d4": {
+                    "description": "\"Coca-Cola Classic is the world's favourite soft drink and has been enjoyed since 1886.\n \n Great Coke taste\n Only natural flavours\n No added preservatives\n Gluten-free, dairy-free and nut-free\n \n Serve ice cold for maximum refreshment.\"",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/07ce9e84-e682-4c7c-89dd-927a899314d1.jpeg",
+                    "price": 130,
+                    "title": "Coca-Cola Original Taste 300ml",
+                    "uuid": "c7892f22-55f9-46b7-9096-a5794fe015d4",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "4343084c-e7c2-47fc-b71e-a2c850b92a09": {
+                    "description": "Meat or Vegetarian, with lettuce, pico de gallo , jalapenos , guacamole, cheese, sour cream and salsa of your choice.",
+                    "imageUrl": null,
+                    "price": 695,
+                    "title": "Mixed Salad",
+                    "uuid": "4343084c-e7c2-47fc-b71e-a2c850b92a09",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "2c8b5ca9-ebaa-455b-b418-43124d569742": {
+                    "description": "In Can",
+                    "imageUrl": null,
+                    "price": 130,
+                    "title": "Sprite",
+                    "uuid": "2c8b5ca9-ebaa-455b-b418-43124d569742",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                }
+            }
+        },
+        "sections": [
+            {
+                "subsectionUuids": [
+                    "f3283eaf-e698-4325-b26e-b511da67dfcd",
+                    "68edbb8f-9a27-4df4-ae56-755e273ae0ec",
+                    "65526add-85fb-42eb-b61b-a9e0d649aeef",
+                    "b0007acc-c846-4fd7-9fe6-72d1c2e59162"
+                ],
+                "title": "Menu",
+                "subtitle": "11:00 AM – 10:30 PM",
+                "uuid": "eeabb58f-026a-4439-b295-f794b5ba6e41",
+                "isTop": true,
+                "isOnSale": true
+            }
+        ],
+        "subsectionsMap": {
+            "f3283eaf-e698-4325-b26e-b511da67dfcd": {
+                "itemUuids": [
+                    "8430a1c6-cd56-4bf4-a5d7-14396d474ba5",
+                    "f03f2bb4-c9bb-4bfe-8742-3fc398a307e7",
+                    "dee554b8-3cb3-4fdd-9d14-f1db0d96efc8",
+                    "9734ac18-5573-4a90-b5d4-b4a486f73fa4",
+                    "cd81e8bb-f2b1-43dd-945e-9034692e8ca8",
+                    "4343084c-e7c2-47fc-b71e-a2c850b92a09"
+                ],
+                "subtitle": null,
+                "title": "Most Popular",
+                "uuid": "f3283eaf-e698-4325-b26e-b511da67dfcd",
+                "displayType": null
+            },
+            "65526add-85fb-42eb-b61b-a9e0d649aeef": {
+                "itemUuids": [
+                    "6f15b38f-9772-43ee-be10-8a793329e7b4",
+                    "2dc4abab-8258-442b-8f97-66ce7715f946",
+                    "cc53f34a-0a4d-4a66-837c-08882c08b603",
+                    "554c9b61-37e4-457f-b986-1261d08eb942",
+                    "32c0896c-7235-4b11-a22c-6f080be1cd44",
+                    "ac6a07b4-5270-4396-ada3-7f3445b170bd",
+                    "49bdecc2-a145-46c6-9d86-018852775643"
+                ],
+                "subtitle": null,
+                "title": "Sides",
+                "uuid": "65526add-85fb-42eb-b61b-a9e0d649aeef",
+                "displayType": null
+            },
+            "b0007acc-c846-4fd7-9fe6-72d1c2e59162": {
+                "itemUuids": [
+                    "c7892f22-55f9-46b7-9096-a5794fe015d4",
+                    "f5e35e1c-d5e6-4dca-a981-dd3c39ac9c10",
+                    "2c8b5ca9-ebaa-455b-b418-43124d569742",
+                    "51d11eaa-3ab2-4046-bd9b-8096c81703fa",
+                    "878469db-d342-4185-93d5-977e6c46182f",
+                    "2ff84d49-bc10-45ac-b850-d677c825ce75",
+                    "b4cc0822-e744-4a24-b0d4-bd2248221c1b"
+                ],
+                "subtitle": null,
+                "title": "Drink",
+                "uuid": "b0007acc-c846-4fd7-9fe6-72d1c2e59162",
+                "displayType": null
+            },
+            "68edbb8f-9a27-4df4-ae56-755e273ae0ec": {
+                "itemUuids": [
+                    "8430a1c6-cd56-4bf4-a5d7-14396d474ba5",
+                    "f03f2bb4-c9bb-4bfe-8742-3fc398a307e7",
+                    "dee554b8-3cb3-4fdd-9d14-f1db0d96efc8",
+                    "9734ac18-5573-4a90-b5d4-b4a486f73fa4",
+                    "cd81e8bb-f2b1-43dd-945e-9034692e8ca8",
+                    "4343084c-e7c2-47fc-b71e-a2c850b92a09"
+                ],
+                "subtitle": null,
+                "title": "Main Menu",
+                "uuid": "68edbb8f-9a27-4df4-ae56-755e273ae0ec",
+                "displayType": null
+            }
+        },
+        "title": "Taquitos",
+        "uuid": "559f859c-84a3-4553-9173-d3d38fe7cd9f",
+        "categories": [
+            "₴",
+            "Мексиканська"
+        ],
+        "cuisineList": [
+            "Мексиканська"
+        ],
+        "priceBucket": "₴",
+        "etaRange": {
+            "text": "35–45 min",
+            "iconUrl": ""
+        },
+        "ratingBadge": {
+            "text": "<span><span style=\"font-family: inherit; color: #3a3a48;\">4.4 <img src=\"https://d1a3f4spazzrp4.cloudfront.net/static/images/Star_Black_Eats_3.png\" width=\"14\" height=\"14\" vertical-align=\"middle\"> </span><span style=\"font-family: inherit; color: #757575;\">(137)</span></span>"
+        },
+        "disclaimerBadge": {
+            "text": "<span style=\"font-family: inherit;\">Allergies, intolerances and dietary requirements: before ordering, please contact the restaurant directly and ask to speak to a member of staff who can assist if you require information about ingredients and help cater for your needs. For more information on food safety and hygiene, please visit the <a href=\"http://ratings.food.gov.uk/\" style=\"color:#61ad5f;\">Food Standards Agency</a></span>"
+        },
+        "fareBadge": null,
+        "fareInfo": {
+            "serviceFee": 30,
+            "serviceFeeCents": 3000
+        },
+        "promotion": null,
+        "shouldIndex": false,
+        "heroImageUrls": [
+            {
+                "url": "https://duyt4h9nfnj50.cloudfront.net/resized/dedf822caf1d0a1b0acfe356fdc5261d-w240-91.jpg",
+                "width": 240
+            },
+            {
+                "url": "https://duyt4h9nfnj50.cloudfront.net/resized/dedf822caf1d0a1b0acfe356fdc5261d-w550-9f.jpg",
+                "width": 550
+            },
+            {
+                "url": "https://duyt4h9nfnj50.cloudfront.net/resized/dedf822caf1d0a1b0acfe356fdc5261d-w640-c1.jpg",
+                "width": 640
+            },
+            {
+                "url": "https://duyt4h9nfnj50.cloudfront.net/resized/dedf822caf1d0a1b0acfe356fdc5261d-w750-f5.jpg",
+                "width": 750
+            },
+            {
+                "url": "https://duyt4h9nfnj50.cloudfront.net/resized/dedf822caf1d0a1b0acfe356fdc5261d-w1080-6a.jpg",
+                "width": 1080
+            },
+            {
+                "url": "https://duyt4h9nfnj50.cloudfront.net/resized/dedf822caf1d0a1b0acfe356fdc5261d-w2880-58.jpg",
+                "width": 2880
+            }
+        ],
+        "isOpen": true,
+        "currencyCode": "GBP",
+        "closedMessage": "Currently unavailable",
+        "location": {
+            "address": "Sw1v 1dl, London, England SW1V 1DL",
+            "streetAddress": "SW1V 1DL",
+            "city": "London",
+            "country": "GB",
+            "postalCode": "SW1V 1DL",
+            "region": "England",
+            "latitude": 51.492576,
+            "longitude": -0.140043
+        },
+        "isDeliveryThirdParty": false,
+        "hours": [
+            {
+                "dayRange": "Sunday",
+                "sectionHours": [
+                    {
+                        "startTime": 660,
+                        "endTime": 1290,
+                        "sectionTitle": ""
+                    }
+                ]
+            },
+            {
+                "dayRange": "Monday - Saturday",
+                "sectionHours": [
+                    {
+                        "startTime": 660,
+                        "endTime": 1350,
+                        "sectionTitle": ""
+                    }
+                ]
+            }
+        ],
+        "disableOrderInstruction": false,
+        "disableCheckoutInstruction": false,
+        "nuggets": [],
+        "isWithinDeliveryRange": false,
+        "slug": "taquitos",
+        "citySlug": "london",
+        "phoneNumber": "+442078280231",
+        "metaJson": "{\"@context\":\"http:\\u002F\\u002Fschema.org\",\"@type\":\"Restaurant\",\"@id\":\"https:\\u002F\\u002Fwww.ubereats.com\\u002Fen-UA\\u002Flondon\\u002Ffood-delivery\\u002Ftaquitos\\u002FVZ-FnISjRVORc9PTj-fNnw\\u002F\",\"name\":\"Taquitos\",\"priceRange\":\"₴\",\"potentialAction\":{\"@type\":\"OrderAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\\u002F\\u002Fwww.ubereats.com\\u002Fen-UA\\u002Flondon\\u002Ffood-delivery\\u002Ftaquitos\\u002FVZ-FnISjRVORc9PTj-fNnw\\u002F?utm_campaign=order-action&utm_medium=organic\",\"inLanguage\":\"English\",\"actionPlatform\":[\"http:\\u002F\\u002Fschema.org\\u002FDesktopWebPlatform\",\"http:\\u002F\\u002Fschema.org\\u002FMobileWebPlatform\"]},\"deliveryMethod\":[\"http:\\u002F\\u002Fpurl.org\\u002Fgoodrelations\\u002Fv1#DeliveryModeOwnFleet\"]},\"address\":{\"@type\":\"PostalAddress\",\"addressLocality\":\"London\",\"addressRegion\":\"England\",\"postalCode\":\"SW1V 1DL\",\"addressCountry\":\"GB\",\"streetAddress\":\"SW1V 1DL\"},\"geo\":{\"@type\":\"GeoCoordinates\",\"latitude\":51.492576,\"longitude\":-0.140043}}",
+        "promoTrackings": [],
+        "suggestedPromotion": {
+            "text": "",
+            "promotionUuid": ""
+        },
+        "supportedDiningModes": [
+            {
+                "mode": "DELIVERY",
+                "title": "Delivery",
+                "isSelected": true,
+                "isAvailable": true
+            }
+        ],
+        "isPreview": false,
+        "pinnedInfo": null
+    }
+}

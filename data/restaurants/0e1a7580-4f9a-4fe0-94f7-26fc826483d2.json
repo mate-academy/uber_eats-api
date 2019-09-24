@@ -1,0 +1,657 @@
+{
+    "status": "success",
+    "data": {
+        "sectionEntitiesMap": {
+            "b28dfdee-b743-4ca8-9ddd-881ad2f7f48e": {},
+            "c4652e97-78cc-42d6-ba9a-c2ef78ba0c0a": {
+                "31747d61-f5e7-49cf-b99a-bbf00051de79": {
+                    "description": "Наваристий м'ясний бульйон з баранини та овочами (350г).",
+                    "imageUrl": "",
+                    "price": 10000,
+                    "title": "Чобан Шорбаси з бараниною",
+                    "uuid": "31747d61-f5e7-49cf-b99a-bbf00051de79",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "dd5f1c9b-74c2-475e-98ed-7bd1fc35da5f": {
+                    "description": "м'ясо, нут",
+                    "imageUrl": null,
+                    "price": 12000,
+                    "title": "Етлi нохут",
+                    "uuid": "dd5f1c9b-74c2-475e-98ed-7bd1fc35da5f",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "305f8b3c-138e-41bd-9a30-f5ab9b7c3a0a": {
+                    "description": "Страва з дрібно-нарубаного м'яса в тонко розкатаному тісті. Готується на пару (5 шт).",
+                    "imageUrl": "",
+                    "price": 12000,
+                    "title": "Манти ",
+                    "uuid": "305f8b3c-138e-41bd-9a30-f5ab9b7c3a0a",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "59c1f177-257a-44b2-ad3f-356af4d07d8f": {
+                    "description": "Традиційний кримськотатарський салат ізсоковитих помідорів,солодкої цибулі і ароматного базиліка (300г).",
+                    "imageUrl": "",
+                    "price": 9000,
+                    "title": "Шакароп",
+                    "uuid": "59c1f177-257a-44b2-ad3f-356af4d07d8f",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "aa89aa21-8dbf-4cf8-853c-9866c10c56d9": {
+                    "description": "180г",
+                    "imageUrl": "",
+                    "price": 15000,
+                    "title": "Люля-кебаб з телятини",
+                    "uuid": "aa89aa21-8dbf-4cf8-853c-9866c10c56d9",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "dd5ee5cd-562b-49eb-8465-de6950196c6f": {
+                    "description": "Запечені овочі(баклажан, перець болгарський, цибуля, гриби, морква, помідор) змішані з мікс салатом в соусі Сай (300г).",
+                    "imageUrl": "",
+                    "price": 12000,
+                    "title": "Інжир",
+                    "uuid": "dd5ee5cd-562b-49eb-8465-de6950196c6f",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "51f0d5fd-c469-429e-b8e6-af0af15e8ed7": {
+                    "description": "Суп із зеленою квасолею, яловичиною та овочами (350г).",
+                    "imageUrl": "",
+                    "price": 10000,
+                    "title": "Ешиль Бахла Шорбаси",
+                    "uuid": "51f0d5fd-c469-429e-b8e6-af0af15e8ed7",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "58f46b7c-dd2b-4b90-a306-f37e4edb46e8": {
+                    "description": "перець болгарьский, баклажан, яловичина ",
+                    "imageUrl": null,
+                    "price": 10000,
+                    "title": "Аджабсандал",
+                    "uuid": "58f46b7c-dd2b-4b90-a306-f37e4edb46e8",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "976dab4f-c47c-4d45-a872-3f5ddec41454": {
+                    "description": "холодний суп iз зеленню та м'ясом",
+                    "imageUrl": null,
+                    "price": 10000,
+                    "title": "Язма",
+                    "uuid": "976dab4f-c47c-4d45-a872-3f5ddec41454",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "932beae5-817b-4356-a8a4-f81a4f8f526a": {
+                    "description": "Страва у вигляді відварених виробів з тіста, начинкою з рубленого м'яса, посипане горіхом (250г).",
+                    "imageUrl": "",
+                    "price": 10500,
+                    "title": "Татар аш по-ханськи",
+                    "uuid": "932beae5-817b-4356-a8a4-f81a4f8f526a",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "7b09a157-8253-41fa-8ea8-b7322a8070ce": {
+                    "description": "Наваристий суп з яловочини з додаванням нута (350г).",
+                    "imageUrl": "",
+                    "price": 10000,
+                    "title": "Нохут Шорбаси",
+                    "uuid": "7b09a157-8253-41fa-8ea8-b7322a8070ce",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "8e06ecc5-56fa-4a08-8f8f-6c02468bfa93": {
+                    "description": "Огірок, помідор, цибул, перець,сир фета, маслини (350г).",
+                    "imageUrl": "",
+                    "price": 9000,
+                    "title": "Чобан",
+                    "uuid": "8e06ecc5-56fa-4a08-8f8f-6c02468bfa93",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "8cd4cb3e-052d-4f08-aff8-20fe3a5dfbcd": {
+                    "description": "Наваристий м'ясний бульйон з яловичини та овочами (350г).",
+                    "imageUrl": "",
+                    "price": 10000,
+                    "title": "Чобан Шорбаси з яловичиною",
+                    "uuid": "8cd4cb3e-052d-4f08-aff8-20fe3a5dfbcd",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "a20a1bfa-c0b9-41ca-81e2-521cb0e7e87c": {
+                    "description": "1шт",
+                    "imageUrl": "",
+                    "price": 4000,
+                    "title": "Чебурек",
+                    "uuid": "a20a1bfa-c0b9-41ca-81e2-521cb0e7e87c",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "ac8a1972-2a72-425f-8470-306595db6871": {
+                    "description": "100г",
+                    "imageUrl": "",
+                    "price": 10000,
+                    "title": "Шашлик з курки",
+                    "uuid": "ac8a1972-2a72-425f-8470-306595db6871",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "1ce9d5f9-dd50-4cc2-8173-aa76cfa0065e": {
+                    "description": "Яловича печінка в баранячій сітці (100г).",
+                    "imageUrl": "",
+                    "price": 12000,
+                    "title": "Джигер ",
+                    "uuid": "1ce9d5f9-dd50-4cc2-8173-aa76cfa0065e",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "b74ec0b4-e1e6-4fa6-b68a-26233bba3d79": {
+                    "description": "Рулет з мясною начинкою (1шт).",
+                    "imageUrl": "",
+                    "price": 9000,
+                    "title": "Бурма з мясною начинкою",
+                    "uuid": "b74ec0b4-e1e6-4fa6-b68a-26233bba3d79",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "ae146045-0e05-4587-90f1-8f85ab120bb4": {
+                    "description": "Смажена яловичина, помідор, перець, морква, лаваш (250г).",
+                    "imageUrl": "",
+                    "price": 10000,
+                    "title": "Ай-Петрі",
+                    "uuid": "ae146045-0e05-4587-90f1-8f85ab120bb4",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "fb18ca88-a631-43fa-a14e-8ba292e496b2": {
+                    "description": "Рулет з гарбузовою начинкою (1шт).",
+                    "imageUrl": "",
+                    "price": 6000,
+                    "title": "Бурма гарбузовою начинкою",
+                    "uuid": "fb18ca88-a631-43fa-a14e-8ba292e496b2",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": "",
+                    "suspendUntil": 8640000000,
+                    "classifications": []
+                },
+                "73187abb-8e53-4ddf-90bc-35ffc7197c1a": {
+                    "description": "холодний суп iз зеленню",
+                    "imageUrl": null,
+                    "price": 9000,
+                    "title": "Язма етсiз ",
+                    "uuid": "73187abb-8e53-4ddf-90bc-35ffc7197c1a",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "b6df3c7c-0234-48f5-b000-2d15dfb3880f": {
+                    "description": "Східна страва з рису з шматочками м'яса і спеціями (300г).",
+                    "imageUrl": "",
+                    "price": 11000,
+                    "title": "Плов ",
+                    "uuid": "b6df3c7c-0234-48f5-b000-2d15dfb3880f",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "b7aa0b4d-f346-4083-9753-5a6b3d3c6426": {
+                    "description": "Тушковані овочі з мясом (350г).",
+                    "imageUrl": "",
+                    "price": 12000,
+                    "title": "Димлама ",
+                    "uuid": "b7aa0b4d-f346-4083-9753-5a6b3d3c6426",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "7977f239-b125-472d-b3e2-eaa1af103a9b": {
+                    "description": "1шт",
+                    "imageUrl": "",
+                    "price": 4500,
+                    "title": "Янтик",
+                    "uuid": "7977f239-b125-472d-b3e2-eaa1af103a9b",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "c15e8644-00e5-454c-8a8f-ec45a679d590": {
+                    "description": "Домашня локшина з яловичиною та овочами (350г).",
+                    "imageUrl": "",
+                    "price": 10500,
+                    "title": "Лагман",
+                    "uuid": "c15e8644-00e5-454c-8a8f-ec45a679d590",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "70c15119-be0a-4499-9790-976b280f6b60": {
+                    "description": "Голубці з виноградного листя. Одне з найпопулярніших страв кримсько-татарської кухні (200г).",
+                    "imageUrl": "",
+                    "price": 10000,
+                    "title": "Япрак сармаси",
+                    "uuid": "70c15119-be0a-4499-9790-976b280f6b60",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "db8457f1-d8f5-45f1-8a92-e7e0db4b2198": {
+                    "description": "100г",
+                    "imageUrl": "",
+                    "price": 15000,
+                    "title": "Шашлик з яловичини",
+                    "uuid": "db8457f1-d8f5-45f1-8a92-e7e0db4b2198",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "27590960-c5a3-4722-8119-2ccac731ce97": {
+                    "description": "страва в тонко розкатоному тiстi з картоплею",
+                    "imageUrl": null,
+                    "price": 10000,
+                    "title": "Манти",
+                    "uuid": "27590960-c5a3-4722-8119-2ccac731ce97",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "5c65befa-6579-465d-9296-146e42d67b5a": {
+                    "description": "крем суп iз сочевицi",
+                    "imageUrl": null,
+                    "price": 6500,
+                    "title": "Мерджимек",
+                    "uuid": "5c65befa-6579-465d-9296-146e42d67b5a",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "547a6cf1-3f7f-4e41-8d6b-c0c138f86fc8": {
+                    "description": "Страва у вигляді відварених виробів з тіста, начинкою з рубленого м'яса (250г).",
+                    "imageUrl": "",
+                    "price": 10000,
+                    "title": "Татар Аш",
+                    "uuid": "547a6cf1-3f7f-4e41-8d6b-c0c138f86fc8",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                }
+            }
+        },
+        "sections": [
+            {
+                "subsectionUuids": [
+                    "99b62f8e-9411-4406-8bfd-f362756a965d",
+                    "642956fc-98c1-4a52-b1e2-5a108e459984",
+                    "34bb7b5d-a26d-4b80-a42b-2a5334424306",
+                    "3a4c9cad-a7f9-48a2-a1e0-28f70320e4f2"
+                ],
+                "title": "SWITCH LANGUAGE (UKR)",
+                "subtitle": "10:00 AM – 10:00 PM",
+                "uuid": "c4652e97-78cc-42d6-ba9a-c2ef78ba0c0a",
+                "isTop": true,
+                "isOnSale": true
+            },
+            {
+                "subsectionUuids": [],
+                "title": "SWITCH LANGUAGE (ENG)",
+                "subtitle": "10:00 AM – 10:00 PM",
+                "uuid": "b28dfdee-b743-4ca8-9ddd-881ad2f7f48e",
+                "isTop": false,
+                "isOnSale": true
+            }
+        ],
+        "subsectionsMap": {
+            "99b62f8e-9411-4406-8bfd-f362756a965d": {
+                "itemUuids": [
+                    "59c1f177-257a-44b2-ad3f-356af4d07d8f",
+                    "dd5ee5cd-562b-49eb-8465-de6950196c6f",
+                    "8e06ecc5-56fa-4a08-8f8f-6c02468bfa93",
+                    "ae146045-0e05-4587-90f1-8f85ab120bb4",
+                    "58f46b7c-dd2b-4b90-a306-f37e4edb46e8"
+                ],
+                "subtitle": "",
+                "title": "Cалати\t\t",
+                "uuid": "99b62f8e-9411-4406-8bfd-f362756a965d",
+                "displayType": null
+            },
+            "642956fc-98c1-4a52-b1e2-5a108e459984": {
+                "itemUuids": [
+                    "b6df3c7c-0234-48f5-b000-2d15dfb3880f",
+                    "305f8b3c-138e-41bd-9a30-f5ab9b7c3a0a",
+                    "70c15119-be0a-4499-9790-976b280f6b60",
+                    "b7aa0b4d-f346-4083-9753-5a6b3d3c6426",
+                    "547a6cf1-3f7f-4e41-8d6b-c0c138f86fc8",
+                    "932beae5-817b-4356-a8a4-f81a4f8f526a",
+                    "b74ec0b4-e1e6-4fa6-b68a-26233bba3d79",
+                    "fb18ca88-a631-43fa-a14e-8ba292e496b2",
+                    "a20a1bfa-c0b9-41ca-81e2-521cb0e7e87c",
+                    "7977f239-b125-472d-b3e2-eaa1af103a9b",
+                    "27590960-c5a3-4722-8119-2ccac731ce97",
+                    "dd5f1c9b-74c2-475e-98ed-7bd1fc35da5f"
+                ],
+                "subtitle": "",
+                "title": "Другі страви\t\t",
+                "uuid": "642956fc-98c1-4a52-b1e2-5a108e459984",
+                "displayType": null
+            },
+            "3a4c9cad-a7f9-48a2-a1e0-28f70320e4f2": {
+                "itemUuids": [
+                    "db8457f1-d8f5-45f1-8a92-e7e0db4b2198",
+                    "ac8a1972-2a72-425f-8470-306595db6871",
+                    "1ce9d5f9-dd50-4cc2-8173-aa76cfa0065e",
+                    "aa89aa21-8dbf-4cf8-853c-9866c10c56d9"
+                ],
+                "subtitle": "",
+                "title": "М'ясні страви",
+                "uuid": "3a4c9cad-a7f9-48a2-a1e0-28f70320e4f2",
+                "displayType": null
+            },
+            "34bb7b5d-a26d-4b80-a42b-2a5334424306": {
+                "itemUuids": [
+                    "51f0d5fd-c469-429e-b8e6-af0af15e8ed7",
+                    "31747d61-f5e7-49cf-b99a-bbf00051de79",
+                    "8cd4cb3e-052d-4f08-aff8-20fe3a5dfbcd",
+                    "7b09a157-8253-41fa-8ea8-b7322a8070ce",
+                    "c15e8644-00e5-454c-8a8f-ec45a679d590",
+                    "5c65befa-6579-465d-9296-146e42d67b5a",
+                    "976dab4f-c47c-4d45-a872-3f5ddec41454",
+                    "73187abb-8e53-4ddf-90bc-35ffc7197c1a"
+                ],
+                "subtitle": "",
+                "title": "Cупи\t\t",
+                "uuid": "34bb7b5d-a26d-4b80-a42b-2a5334424306",
+                "displayType": null
+            }
+        },
+        "title": "INJIR",
+        "uuid": "0e1a7580-4f9a-4fe0-94f7-26fc826483d2",
+        "categories": [
+            "₴",
+            "Східноєвропейська",
+            "Традиційна їжа",
+            "Близькосхідна"
+        ],
+        "cuisineList": [
+            "Східноєвропейська",
+            "Традиційна їжа",
+            "Близькосхідна"
+        ],
+        "priceBucket": "₴",
+        "etaRange": {
+            "text": "50–60 min",
+            "iconUrl": ""
+        },
+        "ratingBadge": {
+            "text": "<span><span style=\"font-family: inherit; color: #3a3a48;\">4.4 <img src=\"https://d1a3f4spazzrp4.cloudfront.net/static/images/Star_Black_Eats_3.png\" width=\"14\" height=\"14\" vertical-align=\"middle\"> </span><span style=\"font-family: inherit; color: #757575;\">(17)</span></span>"
+        },
+        "disclaimerBadge": null,
+        "fareBadge": null,
+        "fareInfo": {
+            "serviceFee": 30,
+            "serviceFeeCents": 3000
+        },
+        "promotion": null,
+        "shouldIndex": true,
+        "heroImageUrls": [
+            {
+                "url": "https://d1ralsognjng37.cloudfront.net/57024bff-d66e-4e37-8133-3313bc32b887",
+                "width": 240
+            },
+            {
+                "url": "https://d1ralsognjng37.cloudfront.net/58779a78-8cab-4470-a1e0-16be1af8137f",
+                "width": 550
+            },
+            {
+                "url": "https://d1ralsognjng37.cloudfront.net/730c3d5f-16dc-49e3-a4de-e391c08230d1",
+                "width": 640
+            },
+            {
+                "url": "https://d1ralsognjng37.cloudfront.net/d981944f-88a4-460d-a5c9-29635cd65a47",
+                "width": 750
+            },
+            {
+                "url": "https://d1ralsognjng37.cloudfront.net/df2f8ba6-1fe6-4946-8d0a-c67879bf51b3",
+                "width": 1080
+            },
+            {
+                "url": "https://d1ralsognjng37.cloudfront.net/532b91ae-7d38-4047-8578-e86441ba99df",
+                "width": 2880
+            }
+        ],
+        "isOpen": true,
+        "currencyCode": "UAH",
+        "closedMessage": "Currently unavailable",
+        "location": {
+            "address": "Yevhena Konovaltsia St, 15/3, Kyiv, 02000",
+            "streetAddress": "Yevhena Konovaltsia St, 15/3",
+            "city": "Kyiv",
+            "country": "UA",
+            "postalCode": "02000",
+            "region": "",
+            "latitude": 50.425206,
+            "longitude": 30.52431290000001
+        },
+        "isDeliveryThirdParty": false,
+        "hours": [
+            {
+                "dayRange": "Every Day",
+                "sectionHours": [
+                    {
+                        "startTime": 600,
+                        "endTime": 1320,
+                        "sectionTitle": "SWITCH LANGUAGE (UKR)"
+                    },
+                    {
+                        "startTime": 600,
+                        "endTime": 1320,
+                        "sectionTitle": "SWITCH LANGUAGE (ENG)"
+                    }
+                ]
+            }
+        ],
+        "disableOrderInstruction": false,
+        "disableCheckoutInstruction": false,
+        "nuggets": [],
+        "isWithinDeliveryRange": false,
+        "slug": "injir",
+        "citySlug": "kyiv",
+        "phoneNumber": "+380983661919",
+        "metaJson": "{\"@context\":\"http:\\u002F\\u002Fschema.org\",\"@type\":\"Restaurant\",\"@id\":\"https:\\u002F\\u002Fwww.ubereats.com\\u002Fen-UA\\u002Fkyiv\\u002Ffood-delivery\\u002Finjir\\u002FDhp1gE-aT-CU9yb8gmSD0g\\u002F\",\"name\":\"INJIR\",\"priceRange\":\"₴\",\"potentialAction\":{\"@type\":\"OrderAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\\u002F\\u002Fwww.ubereats.com\\u002Fen-UA\\u002Fkyiv\\u002Ffood-delivery\\u002Finjir\\u002FDhp1gE-aT-CU9yb8gmSD0g\\u002F?utm_campaign=order-action&utm_medium=organic\",\"inLanguage\":\"English\",\"actionPlatform\":[\"http:\\u002F\\u002Fschema.org\\u002FDesktopWebPlatform\",\"http:\\u002F\\u002Fschema.org\\u002FMobileWebPlatform\"]},\"deliveryMethod\":[\"http:\\u002F\\u002Fpurl.org\\u002Fgoodrelations\\u002Fv1#DeliveryModeOwnFleet\"]},\"address\":{\"@type\":\"PostalAddress\",\"addressLocality\":\"Kyiv\",\"addressRegion\":\"\",\"postalCode\":\"02000\",\"addressCountry\":\"UA\",\"streetAddress\":\"Yevhena Konovaltsia St, 15\\u002F3\"},\"geo\":{\"@type\":\"GeoCoordinates\",\"latitude\":50.425206,\"longitude\":30.52431290000001}}",
+        "promoTrackings": [],
+        "suggestedPromotion": {
+            "text": "",
+            "promotionUuid": ""
+        },
+        "supportedDiningModes": [
+            {
+                "mode": "DELIVERY",
+                "title": "Delivery",
+                "isSelected": true,
+                "isAvailable": true
+            }
+        ],
+        "isPreview": false,
+        "pinnedInfo": null
+    }
+}

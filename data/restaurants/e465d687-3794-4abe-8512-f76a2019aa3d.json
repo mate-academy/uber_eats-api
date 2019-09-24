@@ -1,0 +1,1832 @@
+{
+    "status": "success",
+    "data": {
+        "sectionEntitiesMap": {
+            "c4d99d50-09e5-4e73-8023-9835cdbf70ae": {
+                "6e2875d6-2444-4712-98c4-908d185ff139": {
+                    "description": "Lettuce and mayonnaise.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/2124463f-baef-4e70-8529-84e0494fd305.jpeg",
+                    "price": 300,
+                    "title": "Chicken Burger",
+                    "uuid": "6e2875d6-2444-4712-98c4-908d185ff139",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "4197a50e-baf8-4626-98ea-5bdff27c30cc": {
+                    "description": "330ml",
+                    "imageUrl": null,
+                    "price": 130,
+                    "title": "Fanta Orange",
+                    "uuid": "4197a50e-baf8-4626-98ea-5bdff27c30cc",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "d8d8226a-446d-4585-bfdc-34d075092b9b": {
+                    "description": "1/4pounder, cheese, onion, lettuce & pickle",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/f123a5df-7682-4618-84e8-2b5b82cca384.jpeg",
+                    "price": 380,
+                    "title": "Quarter Pounter",
+                    "uuid": "d8d8226a-446d-4585-bfdc-34d075092b9b",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "73a3e526-637f-4e2b-a383-453057ee6867": {
+                    "description": "",
+                    "imageUrl": "",
+                    "price": 480,
+                    "title": "Egg, Fried Slice, Mushroom, and Baked Bean",
+                    "uuid": "73a3e526-637f-4e2b-a383-453057ee6867",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "9b865f8b-285a-41c8-99b5-57fc39a5fdb2": {
+                    "description": null,
+                    "imageUrl": null,
+                    "price": 760,
+                    "title": "Mixed Vegetable Fried Rice With Egg",
+                    "uuid": "9b865f8b-285a-41c8-99b5-57fc39a5fdb2",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "6627c0dd-e361-4d42-9e61-7d4fe5481e18": {
+                    "description": "1/4 pounder, gilled chicken, bacon, saussage, egg, beans, and chips.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/c84df00b-e06f-4150-8e94-a366ea16accc.jpeg",
+                    "price": 1000,
+                    "title": "Brunch",
+                    "uuid": "6627c0dd-e361-4d42-9e61-7d4fe5481e18",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "2a5465dd-c11c-4601-88ee-6d360d84e843": {
+                    "description": null,
+                    "imageUrl": null,
+                    "price": 160,
+                    "title": "Yazoo Milkshake",
+                    "uuid": "2a5465dd-c11c-4601-88ee-6d360d84e843",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "d91e302a-5ce6-47aa-b82d-17077e817ac4": {
+                    "description": "onion, lettuce, cucumber, mayonese & sweet chili sauce ",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/56c96c07-1564-4a71-8414-ba6afb304756.jpeg",
+                    "price": 600,
+                    "title": "Crispy Fried Chicken Baguette ",
+                    "uuid": "d91e302a-5ce6-47aa-b82d-17077e817ac4",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "9b0b4439-9b3c-43e3-bf82-e4e6e9cdb2d9": {
+                    "description": null,
+                    "imageUrl": null,
+                    "price": 380,
+                    "title": "Tuna & Cucumber Baguette",
+                    "uuid": "9b0b4439-9b3c-43e3-bf82-e4e6e9cdb2d9",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "b7698e03-3245-4b37-bc4a-beecb464c968": {
+                    "description": null,
+                    "imageUrl": null,
+                    "price": 420,
+                    "title": "Sausage & Hash Brown Sandwich ",
+                    "uuid": "b7698e03-3245-4b37-bc4a-beecb464c968",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "80064077-a43f-4638-af81-ea3db0cfcdfe": {
+                    "description": "Boneless\nServed with light sweet soya sauce\n",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/8cc5f9c9-1d1d-4767-8652-b345b1927cce.jpeg",
+                    "price": 870,
+                    "title": "Hong Kong style Roast Duck ",
+                    "uuid": "80064077-a43f-4638-af81-ea3db0cfcdfe",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "0f589a2b-d6a3-4c31-a47c-8898f56aa8cc": {
+                    "description": null,
+                    "imageUrl": null,
+                    "price": 280,
+                    "title": "Sausage Sandwich",
+                    "uuid": "0f589a2b-d6a3-4c31-a47c-8898f56aa8cc",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "1a9d2dd6-4169-4c06-8b40-af66fe08e27c": {
+                    "description": "Sandwich",
+                    "imageUrl": null,
+                    "price": 280,
+                    "title": "Bacon Sandwich",
+                    "uuid": "1a9d2dd6-4169-4c06-8b40-af66fe08e27c",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "55a5117f-62d0-4225-abec-f648d68b390d": {
+                    "description": null,
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/aa0104eb-de02-4d23-9caa-4382a8edf447.jpeg",
+                    "price": 720,
+                    "title": "Honey & Black Pepper ",
+                    "uuid": "55a5117f-62d0-4225-abec-f648d68b390d",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "88b4094b-50f4-4cf9-b189-2f919dd6f7b5": {
+                    "description": "from",
+                    "imageUrl": "",
+                    "price": 360,
+                    "title": "On Toast",
+                    "uuid": "88b4094b-50f4-4cf9-b189-2f919dd6f7b5",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "b7acbd54-8d5e-431d-a7ca-caf8c5973eed": {
+                    "description": "330ml",
+                    "imageUrl": null,
+                    "price": 130,
+                    "title": "Coke",
+                    "uuid": "b7acbd54-8d5e-431d-a7ca-caf8c5973eed",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "2a8c8683-1b81-459d-bbc0-b1ce32f32210": {
+                    "description": null,
+                    "imageUrl": null,
+                    "price": 340,
+                    "title": "Sausage Baguette",
+                    "uuid": "2a8c8683-1b81-459d-bbc0-b1ce32f32210",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "88c548ec-10a9-4bed-a37d-7b83590a642d": {
+                    "description": "200ml",
+                    "imageUrl": null,
+                    "price": 120,
+                    "title": "Orange Juice",
+                    "uuid": "88c548ec-10a9-4bed-a37d-7b83590a642d",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "6ba01705-fef9-4c9a-97dd-b9ddf523ba99": {
+                    "description": "Maximum Taste, No Sugar. Bold in flavour and greatly invigorating. Delivered cold.\n",
+                    "imageUrl": null,
+                    "price": 130,
+                    "title": "Pepsi Max 330ml",
+                    "uuid": "6ba01705-fef9-4c9a-97dd-b9ddf523ba99",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "7882ae0b-f744-4a30-85f2-026d3801f152": {
+                    "description": null,
+                    "imageUrl": null,
+                    "price": 480,
+                    "title": "Bacon & Hash Brown Baguette",
+                    "uuid": "7882ae0b-f744-4a30-85f2-026d3801f152",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "1c30af65-dda0-4584-87ba-37c1881352ab": {
+                    "description": null,
+                    "imageUrl": null,
+                    "price": 360,
+                    "title": "Tuna Sweet Corn Baguette",
+                    "uuid": "1c30af65-dda0-4584-87ba-37c1881352ab",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "31e4eeeb-ad01-4064-99d8-2cbb9b020feb": {
+                    "description": "",
+                    "imageUrl": "",
+                    "price": 540,
+                    "title": "2 Scramble Eggs, Chips, and Salad",
+                    "uuid": "31e4eeeb-ad01-4064-99d8-2cbb9b020feb",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "6d0ab626-aad6-481c-8015-781e0c36ee93": {
+                    "description": "2 bacon, saussage, egg, baked beans, mushrooms, and tomato.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/7a6753e1-f8ba-4cb3-83a2-5cdd69085561.jpeg",
+                    "price": 800,
+                    "title": "Full English",
+                    "uuid": "6d0ab626-aad6-481c-8015-781e0c36ee93",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "06625993-6905-4b52-96c1-ffdfe05c94cd": {
+                    "description": "",
+                    "imageUrl": "",
+                    "price": 660,
+                    "title": "Gammon Steak, Egg, and Chips",
+                    "uuid": "06625993-6905-4b52-96c1-ffdfe05c94cd",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "ea04505e-7259-4bf4-9f62-5ee05a06129d": {
+                    "description": "from",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/411e8bfb-5aba-4cfd-89fb-b1bc909a3ce6.jpeg",
+                    "price": 460,
+                    "title": "Jacket Potato",
+                    "uuid": "ea04505e-7259-4bf4-9f62-5ee05a06129d",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "62a6d2d4-b886-463a-a30c-c75f602598a8": {
+                    "description": "",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/2c721f25-5a5b-44bd-83af-ee9008eb3b93.jpeg",
+                    "price": 720,
+                    "title": "Curry ",
+                    "uuid": "62a6d2d4-b886-463a-a30c-c75f602598a8",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "248dd509-8873-41ef-868c-20ac4587eea2": {
+                    "description": null,
+                    "imageUrl": null,
+                    "price": 400,
+                    "title": "Crab Stick Salad Sandwich",
+                    "uuid": "248dd509-8873-41ef-868c-20ac4587eea2",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "ff2c8390-b86b-4969-8fb2-6446317ec009": {
+                    "description": "380ml",
+                    "imageUrl": null,
+                    "price": 170,
+                    "title": "Lucozade Original",
+                    "uuid": "ff2c8390-b86b-4969-8fb2-6446317ec009",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "a0112778-e84c-4e40-b7d9-5f57a480042f": {
+                    "description": "330ml",
+                    "imageUrl": null,
+                    "price": 130,
+                    "title": "Dr Pepper",
+                    "uuid": "a0112778-e84c-4e40-b7d9-5f57a480042f",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "6637a615-5dd8-4b58-889f-c0ee2caa5c6a": {
+                    "description": null,
+                    "imageUrl": null,
+                    "price": 440,
+                    "title": "Sausage & Bacon Sandwich",
+                    "uuid": "6637a615-5dd8-4b58-889f-c0ee2caa5c6a",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "b5b154cb-b825-4e8c-b1e3-79377d6f0a8d": {
+                    "description": null,
+                    "imageUrl": null,
+                    "price": 550,
+                    "title": "Egg , Sausage And Bacon Baguette",
+                    "uuid": "b5b154cb-b825-4e8c-b1e3-79377d6f0a8d",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "ec0948b6-98ed-432a-908a-4fb91d8b6844": {
+                    "description": "marinated  with garlic, ginger, spice, onion & lemon grass",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/e4bc48dd-fa1d-4260-895f-2835366a2996.jpeg",
+                    "price": 800,
+                    "title": "Napelese style Roasted Chicken Leg ",
+                    "uuid": "ec0948b6-98ed-432a-908a-4fb91d8b6844",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "8a3eb782-5cb7-403a-8bfc-f535037150f6": {
+                    "description": null,
+                    "imageUrl": null,
+                    "price": 210,
+                    "title": "Fried Egg Sandwich",
+                    "uuid": "8a3eb782-5cb7-403a-8bfc-f535037150f6",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "7985ed95-c17a-4eb0-982d-64a5f74ea2ec": {
+                    "description": "2 saussage, 2 eggs, mushrooms, black puddings, and hash browns.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/44efac59-7840-4e3b-8057-f5f173b1153f.jpeg",
+                    "price": 900,
+                    "title": "Classic",
+                    "uuid": "7985ed95-c17a-4eb0-982d-64a5f74ea2ec",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "5ea63e33-27c9-403f-b8af-0a43e574b359": {
+                    "description": null,
+                    "imageUrl": null,
+                    "price": 530,
+                    "title": "Chicken & Salad Baguette",
+                    "uuid": "5ea63e33-27c9-403f-b8af-0a43e574b359",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "6b947c9c-309e-4430-916a-0c0f826ff44f": {
+                    "description": null,
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/2bf82f6a-1bbf-4fe7-8e15-c81e3e23658e.jpeg",
+                    "price": 710,
+                    "title": "Malaysian style Vegetable Curry ",
+                    "uuid": "6b947c9c-309e-4430-916a-0c0f826ff44f",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "47b7471e-2412-4ebc-be88-8af269acd03d": {
+                    "description": null,
+                    "imageUrl": null,
+                    "price": 260,
+                    "title": "Egg Mayonese Sandwich",
+                    "uuid": "47b7471e-2412-4ebc-be88-8af269acd03d",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "f58b0353-ad23-41d2-89b4-20d4d97bb5d9": {
+                    "description": "",
+                    "imageUrl": "",
+                    "price": 540,
+                    "title": "Corn Beef, Egg, and Chips",
+                    "uuid": "f58b0353-ad23-41d2-89b4-20d4d97bb5d9",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "2fbb2786-c2e8-4d0e-b168-ffca5a76530e": {
+                    "description": null,
+                    "imageUrl": null,
+                    "price": 270,
+                    "title": "Fried Egg Baguette",
+                    "uuid": "2fbb2786-c2e8-4d0e-b168-ffca5a76530e",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "49acbf05-7c39-44dd-a19b-8aec15baa05c": {
+                    "description": "500ml",
+                    "imageUrl": null,
+                    "price": 100,
+                    "title": "Still Water",
+                    "uuid": "49acbf05-7c39-44dd-a19b-8aec15baa05c",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "77436d74-fe05-4e33-a4a2-5532f00f7b6f": {
+                    "description": null,
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/ab047550-49b4-4ae3-a694-1b0834a536f7.jpeg",
+                    "price": 720,
+                    "title": "Sweet & Sour ",
+                    "uuid": "77436d74-fe05-4e33-a4a2-5532f00f7b6f",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "a3860b52-0e19-4b8f-bcb7-a4faecb208e7": {
+                    "description": "",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/3cb294f9-03d6-434f-82b0-cd2684f73b20.jpeg",
+                    "price": 790,
+                    "title": "Chicken Fried Noodle",
+                    "uuid": "a3860b52-0e19-4b8f-bcb7-a4faecb208e7",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "1c6d7785-064b-4be9-9c60-2c065cfff1f0": {
+                    "description": "380ml",
+                    "imageUrl": null,
+                    "price": 170,
+                    "title": "Lucozade Orange",
+                    "uuid": "1c6d7785-064b-4be9-9c60-2c065cfff1f0",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "e74f02f5-a641-4e75-b476-2b7a0263785d": {
+                    "description": null,
+                    "imageUrl": null,
+                    "price": 360,
+                    "title": "Egg & Bacon Sandwich",
+                    "uuid": "e74f02f5-a641-4e75-b476-2b7a0263785d",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "dd5f7034-4eff-4ea7-9d3a-e3c4c7ac6130": {
+                    "description": "Served with chips and salad.\nfrom",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/ab00cae5-2db4-4647-ac2d-a21415d90488.jpeg",
+                    "price": 530,
+                    "title": "Omelette , Chips & Salad",
+                    "uuid": "dd5f7034-4eff-4ea7-9d3a-e3c4c7ac6130",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "dfd95552-52b6-4248-a4d2-9447e2cfc1b5": {
+                    "description": "",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/f56141a6-76bd-4942-8019-af457f76b875.jpeg",
+                    "price": 790,
+                    "title": "BBQ Pork Fried Noodle",
+                    "uuid": "dfd95552-52b6-4248-a4d2-9447e2cfc1b5",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "89e4a1f6-5803-40e3-915b-a84cf008447e": {
+                    "description": null,
+                    "imageUrl": null,
+                    "price": 480,
+                    "title": "Sausage & Hash Brown Baugette",
+                    "uuid": "89e4a1f6-5803-40e3-915b-a84cf008447e",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "3072f828-57bf-4fdb-8a8e-0cd235de4046": {
+                    "description": "from",
+                    "imageUrl": "",
+                    "price": 240,
+                    "title": "Chips",
+                    "uuid": "3072f828-57bf-4fdb-8a8e-0cd235de4046",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "debcb9aa-5960-4dae-be84-954481b1b942": {
+                    "description": "onion, lettuce, cucumber, mayonese & sweet chili sauce",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/95b7c759-dd7a-4af9-8f26-bd7af8ab86dc.jpeg",
+                    "price": 600,
+                    "title": "Crispy Fried Pork Baguette",
+                    "uuid": "debcb9aa-5960-4dae-be84-954481b1b942",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "aa20ef25-ba1c-4940-a93b-a512b270335f": {
+                    "description": "",
+                    "imageUrl": "",
+                    "price": 760,
+                    "title": "Mix Vegetables Fried Noodle",
+                    "uuid": "aa20ef25-ba1c-4940-a93b-a512b270335f",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "007b5c86-9096-4072-938a-a01791a26d86": {
+                    "description": "330ml",
+                    "imageUrl": null,
+                    "price": 130,
+                    "title": "Diet Coke",
+                    "uuid": "007b5c86-9096-4072-938a-a01791a26d86",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "eebaac6d-4dc2-4724-ae60-97aacbe9beb1": {
+                    "description": null,
+                    "imageUrl": null,
+                    "price": 380,
+                    "title": "Ham Baguette",
+                    "uuid": "eebaac6d-4dc2-4724-ae60-97aacbe9beb1",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "7c4e257a-5591-47c2-a18c-2f98b60d8fe5": {
+                    "description": "The classic crisp lemon-lime drink. Delivered cold.",
+                    "imageUrl": null,
+                    "price": 130,
+                    "title": "7UP Regular 330ml",
+                    "uuid": "7c4e257a-5591-47c2-a18c-2f98b60d8fe5",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "2a5676d1-5e9a-4f46-8ca9-ef96d4f5e356": {
+                    "description": "350ml",
+                    "imageUrl": null,
+                    "price": 170,
+                    "title": "Red Bull",
+                    "uuid": "2a5676d1-5e9a-4f46-8ca9-ef96d4f5e356",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "c0451dd2-2921-4710-8f00-ca27281e846b": {
+                    "description": "Chicken, BBQ pork, onion, mushroom, and peas.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/4ef584dd-b38b-4adb-bac3-dd1380323378.jpeg",
+                    "price": 800,
+                    "title": "House Special Fried Rice",
+                    "uuid": "c0451dd2-2921-4710-8f00-ca27281e846b",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "caad1b90-a680-4f46-810f-4e68a76bd02c": {
+                    "description": "",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/b766a7da-caf6-46b8-9d3c-2092031d5ac4.jpeg",
+                    "price": 420,
+                    "title": "Chicken Nugget and Chips",
+                    "uuid": "caad1b90-a680-4f46-810f-4e68a76bd02c",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "ddb55366-614f-4e3d-b41f-bd739a9b3456": {
+                    "description": "",
+                    "imageUrl": "",
+                    "price": 750,
+                    "title": "Spaghetti Bolognese with Cheese",
+                    "uuid": "ddb55366-614f-4e3d-b41f-bd739a9b3456",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "58955ca7-a678-49b0-8f40-990c24947a48": {
+                    "description": "",
+                    "imageUrl": "",
+                    "price": 660,
+                    "title": "Spaghetti Bolognese",
+                    "uuid": "58955ca7-a678-49b0-8f40-990c24947a48",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "33bd34fd-77c0-4fe7-8e89-de1ea9ef993a": {
+                    "description": null,
+                    "imageUrl": null,
+                    "price": 430,
+                    "title": "Egg & Sausage Baguette",
+                    "uuid": "33bd34fd-77c0-4fe7-8e89-de1ea9ef993a",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "4cb2dbfe-28fe-4238-ae73-9ce2fd0305bd": {
+                    "description": "1/2 pounder, bacons, crispy onion, lettuce, tomato & pickle.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/842331c4-2785-4a70-8c02-234fae18864e.jpeg",
+                    "price": 720,
+                    "title": "Jumbo Burger",
+                    "uuid": "4cb2dbfe-28fe-4238-ae73-9ce2fd0305bd",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "f03ac4dd-f2ea-4515-bfde-739e1a3b8a57": {
+                    "description": "200ml",
+                    "imageUrl": null,
+                    "price": 120,
+                    "title": "Apple Juice",
+                    "uuid": "f03ac4dd-f2ea-4515-bfde-739e1a3b8a57",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "21d72887-2a28-42d7-89d6-c2667a35f2c1": {
+                    "description": null,
+                    "imageUrl": null,
+                    "price": 520,
+                    "title": "BBQ Pork Sandwich (Lettuce,Onion,Cucumber,Mayo & sweet chilli sauce )",
+                    "uuid": "21d72887-2a28-42d7-89d6-c2667a35f2c1",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "b20a6bc3-ef0f-416b-b9cf-df6ffbc74249": {
+                    "description": null,
+                    "imageUrl": null,
+                    "price": 300,
+                    "title": "Tuna Sweet Corn Sandwich",
+                    "uuid": "b20a6bc3-ef0f-416b-b9cf-df6ffbc74249",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "85c19ef6-7646-44ef-8e5e-d9945dc38e0d": {
+                    "description": null,
+                    "imageUrl": null,
+                    "price": 490,
+                    "title": "Sausage & Bacon Baguette",
+                    "uuid": "85c19ef6-7646-44ef-8e5e-d9945dc38e0d",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "081dca19-5b17-4341-842c-ae754539cc0b": {
+                    "description": "from",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/8d4db65e-65f9-4423-bfe1-e0d1c0608591.jpeg",
+                    "price": 380,
+                    "title": "Fresh Salad",
+                    "uuid": "081dca19-5b17-4341-842c-ae754539cc0b",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "b8b2b57d-addb-454a-9b25-8ff949aff809": {
+                    "description": "8 pieces.  ( served with sweet chili sauce )",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/eface43c-3f53-4799-a33a-20918faeb45b.jpeg",
+                    "price": 350,
+                    "title": "Veg Spring Roll",
+                    "uuid": "b8b2b57d-addb-454a-9b25-8ff949aff809",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "30a6a4c0-4f36-473d-846a-bd406c8d4928": {
+                    "description": null,
+                    "imageUrl": null,
+                    "price": 430,
+                    "title": "Egg & Bacon Baguette",
+                    "uuid": "30a6a4c0-4f36-473d-846a-bd406c8d4928",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "e019fa67-4d09-4394-96b6-7eb2dc56b6c7": {
+                    "description": null,
+                    "imageUrl": null,
+                    "price": 200,
+                    "title": "Cheese Sandwich ",
+                    "uuid": "e019fa67-4d09-4394-96b6-7eb2dc56b6c7",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "2c9f3711-0013-477c-aebc-e6ac571627be": {
+                    "description": "330ml",
+                    "imageUrl": null,
+                    "price": 130,
+                    "title": "Ginger Beer",
+                    "uuid": "2c9f3711-0013-477c-aebc-e6ac571627be",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "737bd03c-5ed3-49e2-a927-f248fa0b5ddf": {
+                    "description": null,
+                    "imageUrl": null,
+                    "price": 0,
+                    "title": "YOU OWN breakfast",
+                    "uuid": "737bd03c-5ed3-49e2-a927-f248fa0b5ddf",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "b27bd372-e2fd-4f87-bcaf-084973e15218": {
+                    "description": null,
+                    "imageUrl": null,
+                    "price": 330,
+                    "title": "Egg Mayonese Baguette",
+                    "uuid": "b27bd372-e2fd-4f87-bcaf-084973e15218",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "323016ce-6640-42c2-b7e4-906a75cc29e2": {
+                    "description": "",
+                    "imageUrl": "",
+                    "price": 960,
+                    "title": "Lamb Chop, Chips, and Salad",
+                    "uuid": "323016ce-6640-42c2-b7e4-906a75cc29e2",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "0647ec92-d06b-4450-9882-51d90943a164": {
+                    "description": null,
+                    "imageUrl": null,
+                    "price": 340,
+                    "title": "Bacon Baguette",
+                    "uuid": "0647ec92-d06b-4450-9882-51d90943a164",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "1590f236-37b0-4d16-8e18-08130edfbf31": {
+                    "description": "",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/bcbf602c-c805-4e5f-a1cd-a1cc85b83698.jpeg",
+                    "price": 420,
+                    "title": "Pie & Chips",
+                    "uuid": "1590f236-37b0-4d16-8e18-08130edfbf31",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "4fe8373f-6c0a-4400-9ee5-8d58079beeb4": {
+                    "description": "500ml",
+                    "imageUrl": null,
+                    "price": 100,
+                    "title": "Sparking Water",
+                    "uuid": "4fe8373f-6c0a-4400-9ee5-8d58079beeb4",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "4847daeb-1b42-4eea-b6aa-a6b511520bf7": {
+                    "description": null,
+                    "imageUrl": null,
+                    "price": 320,
+                    "title": "Ham Sandwich",
+                    "uuid": "4847daeb-1b42-4eea-b6aa-a6b511520bf7",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "bcc3a8d5-5695-4f5a-a8d2-52c762f7d979": {
+                    "description": null,
+                    "imageUrl": null,
+                    "price": 300,
+                    "title": "Corn Beef Sandwich",
+                    "uuid": "bcc3a8d5-5695-4f5a-a8d2-52c762f7d979",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "b2814147-b1b9-4fa6-b33c-b3b62ca2026f": {
+                    "description": "egg,tomato,onion, lettuce & mayonnaise",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/8436b32f-9aa9-482c-8ef0-e203c0dce334.jpeg",
+                    "price": 420,
+                    "title": "House Chicken Burger",
+                    "uuid": "b2814147-b1b9-4fa6-b33c-b3b62ca2026f",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "2a3fafe1-1f85-4f29-a870-b6583a8edd9f": {
+                    "description": "onion, lettuce, cucumber,  mayonnaise & sweet chili sauce",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/110bf0b5-440c-47b8-97df-a5321761a739.jpeg",
+                    "price": 600,
+                    "title": "BBQ Pork Baguette ",
+                    "uuid": "2a3fafe1-1f85-4f29-a870-b6583a8edd9f",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "a3f0f9da-372b-4f95-bd5d-d58b7c0cc434": {
+                    "description": null,
+                    "imageUrl": null,
+                    "price": 580,
+                    "title": "Grilled Chicken Baguette (lettuce,crispy onion & pickle)",
+                    "uuid": "a3f0f9da-372b-4f95-bd5d-d58b7c0cc434",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "8b105c50-f97b-491d-b6de-882f8de23126": {
+                    "description": null,
+                    "imageUrl": null,
+                    "price": 420,
+                    "title": "Bacon & Hash Brown Sandwich ",
+                    "uuid": "8b105c50-f97b-491d-b6de-882f8de23126",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "946bbd0e-6d46-43c1-9e7e-b22ee836ad83": {
+                    "description": null,
+                    "imageUrl": null,
+                    "price": 500,
+                    "title": "Grilled Chicken Sandwich (lettuce,crispy onion & pickle)",
+                    "uuid": "946bbd0e-6d46-43c1-9e7e-b22ee836ad83",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "a556f61c-77ee-45cf-a0e0-293acdca1a6e": {
+                    "description": null,
+                    "imageUrl": null,
+                    "price": 360,
+                    "title": "Egg&Sausage Sandwich",
+                    "uuid": "a556f61c-77ee-45cf-a0e0-293acdca1a6e",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "38ad5c63-edf1-4ff6-a8c7-68d8e268c561": {
+                    "description": "",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/52750279-6b5f-4ef4-aab8-cbca47c25465.jpeg",
+                    "price": 960,
+                    "title": "Pork Chop, Chips & Salad",
+                    "uuid": "38ad5c63-edf1-4ff6-a8c7-68d8e268c561",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "511a4744-b1c1-4c7b-b6fa-f215e5df7321": {
+                    "description": null,
+                    "imageUrl": null,
+                    "price": 320,
+                    "title": "Tuna & Cucumber Sandwich",
+                    "uuid": "511a4744-b1c1-4c7b-b6fa-f215e5df7321",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "b10d6101-6917-42da-a8b7-11e795625050": {
+                    "description": null,
+                    "imageUrl": null,
+                    "price": 480,
+                    "title": "Sardine, Onion & Cucumber Baguette",
+                    "uuid": "b10d6101-6917-42da-a8b7-11e795625050",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "d59a76f1-047a-458a-affa-c46f8cacd22b": {
+                    "description": null,
+                    "imageUrl": null,
+                    "price": 460,
+                    "title": "Crab Stick Salad Baguette",
+                    "uuid": "d59a76f1-047a-458a-affa-c46f8cacd22b",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "d8689c75-f6ad-4b21-91b5-f810697bae41": {
+                    "description": "2 bacon, saussage, egg, baked beans, and chips.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/2c65e3e9-dc17-426c-ad62-7211926d4273.jpeg",
+                    "price": 690,
+                    "title": "Ferraris Breakfast",
+                    "uuid": "d8689c75-f6ad-4b21-91b5-f810697bae41",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "7db46eb5-c6b2-45b9-9b8b-6ccbb2b4ca1c": {
+                    "description": "(1/4 burger,bacon,lettuce,tomato,crispy onion)",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/d4ea115c-1d69-4e47-9b8f-29ba95d460e4.jpeg",
+                    "price": 500,
+                    "title": "B.L.T Burger",
+                    "uuid": "7db46eb5-c6b2-45b9-9b8b-6ccbb2b4ca1c",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "a28b4f77-af89-4fef-be99-1b89ee167901": {
+                    "description": null,
+                    "imageUrl": null,
+                    "price": 450,
+                    "title": "Chicken & Salad Sandwich",
+                    "uuid": "a28b4f77-af89-4fef-be99-1b89ee167901",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "43f3aa77-c206-49e0-b7d6-d6b07a07caa8": {
+                    "description": "250ml",
+                    "imageUrl": null,
+                    "price": 130,
+                    "title": "Ribena",
+                    "uuid": "43f3aa77-c206-49e0-b7d6-d6b07a07caa8",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "fd47b88c-81de-4ccf-9d58-84d9013454d5": {
+                    "description": null,
+                    "imageUrl": null,
+                    "price": 420,
+                    "title": "Sardine, Onion & Cucumber Sandwich",
+                    "uuid": "fd47b88c-81de-4ccf-9d58-84d9013454d5",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "2c820f43-1730-4051-a0e5-10d1bf93e97b": {
+                    "description": null,
+                    "imageUrl": null,
+                    "price": 490,
+                    "title": "Egg , Sausage And Bacon Sandwich",
+                    "uuid": "2c820f43-1730-4051-a0e5-10d1bf93e97b",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "4d9b39f1-84ed-406f-b9a0-a0084429c2c7": {
+                    "description": null,
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/12154d18-e3be-47aa-837f-e7c0a2ae9ffc.jpeg",
+                    "price": 720,
+                    "title": "Black Bean & Chili",
+                    "uuid": "4d9b39f1-84ed-406f-b9a0-a0084429c2c7",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "78a818ff-8443-4b2f-b441-eccd0e2fb1b0": {
+                    "description": null,
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/faa6e927-373f-4cfe-817a-8b1e01f24478.jpeg",
+                    "price": 720,
+                    "title": "BBQ Pork - (Gravy)",
+                    "uuid": "78a818ff-8443-4b2f-b441-eccd0e2fb1b0",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "dcf0cfd7-4220-4e6b-99b2-37d6af27f422": {
+                    "description": null,
+                    "imageUrl": null,
+                    "price": 410,
+                    "title": "Ham & Cheese Baguette",
+                    "uuid": "dcf0cfd7-4220-4e6b-99b2-37d6af27f422",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "00740bf0-e216-41fb-9b27-e07f58bc581d": {
+                    "description": null,
+                    "imageUrl": null,
+                    "price": 360,
+                    "title": "Ham & Cheese Sandwich",
+                    "uuid": "00740bf0-e216-41fb-9b27-e07f58bc581d",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "f7617160-fcbf-4f10-ac5e-31033ace096f": {
+                    "description": "",
+                    "imageUrl": "",
+                    "price": 540,
+                    "title": "Ham, Egg, and Chips",
+                    "uuid": "f7617160-fcbf-4f10-ac5e-31033ace096f",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "8270ab4c-3e42-4f41-b024-dad36fbd0743": {
+                    "description": null,
+                    "imageUrl": null,
+                    "price": 260,
+                    "title": "Cheese Baguette",
+                    "uuid": "8270ab4c-3e42-4f41-b024-dad36fbd0743",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "08f99b52-8d81-4a9e-9e92-b4e98f95566f": {
+                    "description": "1/4 pounder, BBQ pork, crispy onion, lettuce, and sweet chili sauce.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/a3bcd058-f629-4682-9eb5-8f6925089dc4.jpeg",
+                    "price": 500,
+                    "title": "Ferraris Burger ",
+                    "uuid": "08f99b52-8d81-4a9e-9e92-b4e98f95566f",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "228d2375-9f10-4c73-97f0-e80773c6bc17": {
+                    "description": null,
+                    "imageUrl": null,
+                    "price": 350,
+                    "title": "Corn Beef Baguette",
+                    "uuid": "228d2375-9f10-4c73-97f0-e80773c6bc17",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                }
+            }
+        },
+        "sections": [
+            {
+                "subsectionUuids": [
+                    "b19d87d2-d9a6-42e9-ba74-e75a0d6ac8b9",
+                    "54df7a44-64e8-487a-835e-8649394afd9d",
+                    "a45ed2ca-961b-43e0-99a3-89881e1487f9",
+                    "9089c170-1c65-4256-975f-775b1d921dff",
+                    "5ed1a999-2425-41c6-9a93-bbf1209bfb0c",
+                    "3e4e1c8b-d865-4cad-8543-54ea18abad85",
+                    "22e04e55-5bc9-4d3f-91d8-8b9d857221a1",
+                    "d215f393-73fc-4eac-b645-476a72b037fb",
+                    "c22058e5-6575-43aa-a06b-1cf6b42281c2",
+                    "de96b422-2d14-411e-9e39-782dfdb413f1",
+                    "ec846bd3-d740-416f-9dfb-eaa63b1f9107"
+                ],
+                "title": "Menu",
+                "subtitle": "12:00 AM – 11:59 PM",
+                "uuid": "c4d99d50-09e5-4e73-8023-9835cdbf70ae",
+                "isTop": true,
+                "isOnSale": true
+            }
+        ],
+        "subsectionsMap": {
+            "5ed1a999-2425-41c6-9a93-bbf1209bfb0c": {
+                "itemUuids": [
+                    "08f99b52-8d81-4a9e-9e92-b4e98f95566f",
+                    "4cb2dbfe-28fe-4238-ae73-9ce2fd0305bd",
+                    "6e2875d6-2444-4712-98c4-908d185ff139",
+                    "b2814147-b1b9-4fa6-b33c-b3b62ca2026f",
+                    "7db46eb5-c6b2-45b9-9b8b-6ccbb2b4ca1c",
+                    "d8d8226a-446d-4585-bfdc-34d075092b9b"
+                ],
+                "subtitle": "",
+                "title": "Burger",
+                "uuid": "5ed1a999-2425-41c6-9a93-bbf1209bfb0c",
+                "displayType": null
+            },
+            "b19d87d2-d9a6-42e9-ba74-e75a0d6ac8b9": {
+                "itemUuids": [
+                    "d8689c75-f6ad-4b21-91b5-f810697bae41",
+                    "6d0ab626-aad6-481c-8015-781e0c36ee93",
+                    "7985ed95-c17a-4eb0-982d-64a5f74ea2ec",
+                    "6627c0dd-e361-4d42-9e61-7d4fe5481e18",
+                    "caad1b90-a680-4f46-810f-4e68a76bd02c",
+                    "73a3e526-637f-4e2b-a383-453057ee6867",
+                    "f7617160-fcbf-4f10-ac5e-31033ace096f",
+                    "f58b0353-ad23-41d2-89b4-20d4d97bb5d9",
+                    "31e4eeeb-ad01-4064-99d8-2cbb9b020feb",
+                    "88b4094b-50f4-4cf9-b189-2f919dd6f7b5",
+                    "3072f828-57bf-4fdb-8a8e-0cd235de4046",
+                    "737bd03c-5ed3-49e2-a927-f248fa0b5ddf"
+                ],
+                "subtitle": "",
+                "title": "All Day Breakfast",
+                "uuid": "b19d87d2-d9a6-42e9-ba74-e75a0d6ac8b9",
+                "displayType": null
+            },
+            "54df7a44-64e8-487a-835e-8649394afd9d": {
+                "itemUuids": [
+                    "62a6d2d4-b886-463a-a30c-c75f602598a8",
+                    "4d9b39f1-84ed-406f-b9a0-a0084429c2c7",
+                    "55a5117f-62d0-4225-abec-f648d68b390d",
+                    "77436d74-fe05-4e33-a4a2-5532f00f7b6f",
+                    "b8b2b57d-addb-454a-9b25-8ff949aff809",
+                    "c0451dd2-2921-4710-8f00-ca27281e846b",
+                    "aa20ef25-ba1c-4940-a93b-a512b270335f",
+                    "9b865f8b-285a-41c8-99b5-57fc39a5fdb2",
+                    "a3860b52-0e19-4b8f-bcb7-a4faecb208e7",
+                    "dfd95552-52b6-4248-a4d2-9447e2cfc1b5",
+                    "78a818ff-8443-4b2f-b441-eccd0e2fb1b0"
+                ],
+                "subtitle": null,
+                "title": "Chinese",
+                "uuid": "54df7a44-64e8-487a-835e-8649394afd9d",
+                "displayType": null
+            },
+            "a45ed2ca-961b-43e0-99a3-89881e1487f9": {
+                "itemUuids": [
+                    "2a3fafe1-1f85-4f29-a870-b6583a8edd9f",
+                    "d91e302a-5ce6-47aa-b82d-17077e817ac4",
+                    "debcb9aa-5960-4dae-be84-954481b1b942",
+                    "6b947c9c-309e-4430-916a-0c0f826ff44f",
+                    "80064077-a43f-4638-af81-ea3db0cfcdfe",
+                    "ec0948b6-98ed-432a-908a-4fb91d8b6844"
+                ],
+                "subtitle": null,
+                "title": "House Special",
+                "uuid": "a45ed2ca-961b-43e0-99a3-89881e1487f9",
+                "displayType": null
+            },
+            "22e04e55-5bc9-4d3f-91d8-8b9d857221a1": {
+                "itemUuids": [
+                    "ea04505e-7259-4bf4-9f62-5ee05a06129d"
+                ],
+                "subtitle": "",
+                "title": "Jacket Potato",
+                "uuid": "22e04e55-5bc9-4d3f-91d8-8b9d857221a1",
+                "displayType": null
+            },
+            "c22058e5-6575-43aa-a06b-1cf6b42281c2": {
+                "itemUuids": [
+                    "8270ab4c-3e42-4f41-b024-dad36fbd0743",
+                    "b27bd372-e2fd-4f87-bcaf-084973e15218",
+                    "1c30af65-dda0-4584-87ba-37c1881352ab",
+                    "9b0b4439-9b3c-43e3-bf82-e4e6e9cdb2d9",
+                    "eebaac6d-4dc2-4724-ae60-97aacbe9beb1",
+                    "dcf0cfd7-4220-4e6b-99b2-37d6af27f422",
+                    "5ea63e33-27c9-403f-b8af-0a43e574b359",
+                    "228d2375-9f10-4c73-97f0-e80773c6bc17",
+                    "d59a76f1-047a-458a-affa-c46f8cacd22b",
+                    "b10d6101-6917-42da-a8b7-11e795625050",
+                    "7882ae0b-f744-4a30-85f2-026d3801f152",
+                    "0647ec92-d06b-4450-9882-51d90943a164",
+                    "30a6a4c0-4f36-473d-846a-bd406c8d4928",
+                    "33bd34fd-77c0-4fe7-8e89-de1ea9ef993a",
+                    "b5b154cb-b825-4e8c-b1e3-79377d6f0a8d",
+                    "2fbb2786-c2e8-4d0e-b168-ffca5a76530e",
+                    "a3f0f9da-372b-4f95-bd5d-d58b7c0cc434",
+                    "85c19ef6-7646-44ef-8e5e-d9945dc38e0d",
+                    "89e4a1f6-5803-40e3-915b-a84cf008447e",
+                    "2a8c8683-1b81-459d-bbc0-b1ce32f32210"
+                ],
+                "subtitle": "",
+                "title": "Baguette",
+                "uuid": "c22058e5-6575-43aa-a06b-1cf6b42281c2",
+                "displayType": null
+            },
+            "d215f393-73fc-4eac-b645-476a72b037fb": {
+                "itemUuids": [
+                    "081dca19-5b17-4341-842c-ae754539cc0b"
+                ],
+                "subtitle": "",
+                "title": "Fresh Salad",
+                "uuid": "d215f393-73fc-4eac-b645-476a72b037fb",
+                "displayType": null
+            },
+            "3e4e1c8b-d865-4cad-8543-54ea18abad85": {
+                "itemUuids": [
+                    "dd5f7034-4eff-4ea7-9d3a-e3c4c7ac6130"
+                ],
+                "subtitle": "",
+                "title": "Omelette",
+                "uuid": "3e4e1c8b-d865-4cad-8543-54ea18abad85",
+                "displayType": null
+            },
+            "ec846bd3-d740-416f-9dfb-eaa63b1f9107": {
+                "itemUuids": [
+                    "b7acbd54-8d5e-431d-a7ca-caf8c5973eed",
+                    "7c4e257a-5591-47c2-a18c-2f98b60d8fe5",
+                    "4197a50e-baf8-4626-98ea-5bdff27c30cc",
+                    "007b5c86-9096-4072-938a-a01791a26d86",
+                    "49acbf05-7c39-44dd-a19b-8aec15baa05c",
+                    "4fe8373f-6c0a-4400-9ee5-8d58079beeb4",
+                    "43f3aa77-c206-49e0-b7d6-d6b07a07caa8",
+                    "88c548ec-10a9-4bed-a37d-7b83590a642d",
+                    "f03ac4dd-f2ea-4515-bfde-739e1a3b8a57",
+                    "a0112778-e84c-4e40-b7d9-5f57a480042f",
+                    "2c9f3711-0013-477c-aebc-e6ac571627be",
+                    "1c6d7785-064b-4be9-9c60-2c065cfff1f0",
+                    "ff2c8390-b86b-4969-8fb2-6446317ec009",
+                    "2a5676d1-5e9a-4f46-8ca9-ef96d4f5e356",
+                    "6ba01705-fef9-4c9a-97dd-b9ddf523ba99",
+                    "2a5465dd-c11c-4601-88ee-6d360d84e843"
+                ],
+                "subtitle": null,
+                "title": "Beverage",
+                "uuid": "ec846bd3-d740-416f-9dfb-eaa63b1f9107",
+                "displayType": null
+            },
+            "9089c170-1c65-4256-975f-775b1d921dff": {
+                "itemUuids": [
+                    "38ad5c63-edf1-4ff6-a8c7-68d8e268c561",
+                    "323016ce-6640-42c2-b7e4-906a75cc29e2",
+                    "06625993-6905-4b52-96c1-ffdfe05c94cd",
+                    "58955ca7-a678-49b0-8f40-990c24947a48",
+                    "ddb55366-614f-4e3d-b41f-bd739a9b3456",
+                    "1590f236-37b0-4d16-8e18-08130edfbf31"
+                ],
+                "subtitle": "",
+                "title": "Hot Meal",
+                "uuid": "9089c170-1c65-4256-975f-775b1d921dff",
+                "displayType": null
+            },
+            "de96b422-2d14-411e-9e39-782dfdb413f1": {
+                "itemUuids": [
+                    "946bbd0e-6d46-43c1-9e7e-b22ee836ad83",
+                    "21d72887-2a28-42d7-89d6-c2667a35f2c1",
+                    "2c820f43-1730-4051-a0e5-10d1bf93e97b",
+                    "a556f61c-77ee-45cf-a0e0-293acdca1a6e",
+                    "8a3eb782-5cb7-403a-8bfc-f535037150f6",
+                    "8b105c50-f97b-491d-b6de-882f8de23126",
+                    "1a9d2dd6-4169-4c06-8b40-af66fe08e27c",
+                    "e74f02f5-a641-4e75-b476-2b7a0263785d",
+                    "6637a615-5dd8-4b58-889f-c0ee2caa5c6a",
+                    "b7698e03-3245-4b37-bc4a-beecb464c968",
+                    "0f589a2b-d6a3-4c31-a47c-8898f56aa8cc",
+                    "e019fa67-4d09-4394-96b6-7eb2dc56b6c7",
+                    "a28b4f77-af89-4fef-be99-1b89ee167901",
+                    "bcc3a8d5-5695-4f5a-a8d2-52c762f7d979",
+                    "248dd509-8873-41ef-868c-20ac4587eea2",
+                    "47b7471e-2412-4ebc-be88-8af269acd03d",
+                    "00740bf0-e216-41fb-9b27-e07f58bc581d",
+                    "4847daeb-1b42-4eea-b6aa-a6b511520bf7",
+                    "fd47b88c-81de-4ccf-9d58-84d9013454d5",
+                    "511a4744-b1c1-4c7b-b6fa-f215e5df7321",
+                    "b20a6bc3-ef0f-416b-b9cf-df6ffbc74249"
+                ],
+                "subtitle": "",
+                "title": "Sandwich",
+                "uuid": "de96b422-2d14-411e-9e39-782dfdb413f1",
+                "displayType": null
+            }
+        },
+        "title": "Ferrari’s Snack Bar",
+        "uuid": "e465d687-3794-4abe-8512-f76a2019aa3d",
+        "categories": [
+            "₴",
+            "Сніданок і бранч",
+            "Сандвічі",
+            "Кафе",
+            "Китайська"
+        ],
+        "cuisineList": [
+            "Сніданок і бранч",
+            "Сандвічі",
+            "Кафе",
+            "Китайська"
+        ],
+        "priceBucket": "₴",
+        "etaRange": {
+            "text": "25–35 min",
+            "iconUrl": ""
+        },
+        "ratingBadge": {
+            "text": "<span><span style=\"font-family: inherit; color: #3a3a48;\">4.4 <img src=\"https://d1a3f4spazzrp4.cloudfront.net/static/images/Star_Black_Eats_3.png\" width=\"14\" height=\"14\" vertical-align=\"middle\"> </span><span style=\"font-family: inherit; color: #757575;\">(35)</span></span>"
+        },
+        "disclaimerBadge": {
+            "text": "<span style=\"font-family: inherit;\">Allergies, intolerances and dietary requirements: before ordering, please contact the restaurant directly and ask to speak to a member of staff who can assist if you require information about ingredients and help cater for your needs. For more information on food safety and hygiene, please visit the <a href=\"https://www.food.gov.uk/\" style=\"color:#61ad5f;\">Food Standards Agency</a>.</span>"
+        },
+        "fareBadge": null,
+        "fareInfo": {
+            "serviceFee": 30,
+            "serviceFeeCents": 3000
+        },
+        "promotion": null,
+        "shouldIndex": false,
+        "heroImageUrls": [
+            {
+                "url": "https://d1ralsognjng37.cloudfront.net/518132b7-9cc0-45d6-b5cd-4782c276aa75.jpeg",
+                "width": 240
+            },
+            {
+                "url": "https://d1ralsognjng37.cloudfront.net/fbf9ff85-6781-4ee0-9d3f-7f7c5f1f43bd.jpeg",
+                "width": 550
+            },
+            {
+                "url": "https://d1ralsognjng37.cloudfront.net/f5ce68b9-25ff-4ef5-8b3c-220eb7ad5ba4.jpeg",
+                "width": 640
+            },
+            {
+                "url": "https://d1ralsognjng37.cloudfront.net/7eb41432-1527-411a-a61c-d65144b1c23c.jpeg",
+                "width": 750
+            },
+            {
+                "url": "https://d1ralsognjng37.cloudfront.net/73d1cf58-e121-4517-a2e9-42f42acf5061.jpeg",
+                "width": 1080
+            },
+            {
+                "url": "https://d1ralsognjng37.cloudfront.net/d7de9df7-78a4-4243-8eb6-aa5e94a5d1cd.jpeg",
+                "width": 2880
+            }
+        ],
+        "isOpen": true,
+        "currencyCode": "GBP",
+        "closedMessage": "Currently unavailable",
+        "location": {
+            "address": "W Smithfield, 8, London, England EC1A 9JR",
+            "streetAddress": "W Smithfield, 8",
+            "city": "London",
+            "country": "GB",
+            "postalCode": "EC1A 9JR",
+            "region": "England",
+            "latitude": 51.5184953,
+            "longitude": -0.10193379999999999
+        },
+        "isDeliveryThirdParty": false,
+        "hours": [
+            {
+                "dayRange": "Sunday",
+                "sectionHours": [
+                    {
+                        "startTime": 1140,
+                        "endTime": 1439,
+                        "sectionTitle": ""
+                    }
+                ]
+            },
+            {
+                "dayRange": "Monday - Thursday",
+                "sectionHours": [
+                    {
+                        "startTime": 0,
+                        "endTime": 1439,
+                        "sectionTitle": ""
+                    }
+                ]
+            },
+            {
+                "dayRange": "Friday",
+                "sectionHours": [
+                    {
+                        "startTime": 0,
+                        "endTime": 1230,
+                        "sectionTitle": ""
+                    }
+                ]
+            },
+            {
+                "dayRange": "Saturday",
+                "sectionHours": [
+                    {
+                        "startTime": 510,
+                        "endTime": 780,
+                        "sectionTitle": ""
+                    }
+                ]
+            }
+        ],
+        "disableOrderInstruction": false,
+        "disableCheckoutInstruction": false,
+        "nuggets": [],
+        "isWithinDeliveryRange": false,
+        "slug": "ferraris-snack-bar",
+        "citySlug": "london",
+        "phoneNumber": "+442074899143",
+        "metaJson": "{\"@context\":\"http:\\u002F\\u002Fschema.org\",\"@type\":\"Restaurant\",\"@id\":\"https:\\u002F\\u002Fwww.ubereats.com\\u002Fen-UA\\u002Flondon\\u002Ffood-delivery\\u002Fferraris-snack-bar\\u002F5GXWhzeUSr6FEvdqIBmqPQ\\u002F\",\"name\":\"Ferrari’s Snack Bar\",\"priceRange\":\"₴\",\"potentialAction\":{\"@type\":\"OrderAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\\u002F\\u002Fwww.ubereats.com\\u002Fen-UA\\u002Flondon\\u002Ffood-delivery\\u002Fferraris-snack-bar\\u002F5GXWhzeUSr6FEvdqIBmqPQ\\u002F?utm_campaign=order-action&utm_medium=organic\",\"inLanguage\":\"English\",\"actionPlatform\":[\"http:\\u002F\\u002Fschema.org\\u002FDesktopWebPlatform\",\"http:\\u002F\\u002Fschema.org\\u002FMobileWebPlatform\"]},\"deliveryMethod\":[\"http:\\u002F\\u002Fpurl.org\\u002Fgoodrelations\\u002Fv1#DeliveryModeOwnFleet\"]},\"address\":{\"@type\":\"PostalAddress\",\"addressLocality\":\"London\",\"addressRegion\":\"England\",\"postalCode\":\"EC1A 9JR\",\"addressCountry\":\"GB\",\"streetAddress\":\"W Smithfield, 8\"},\"geo\":{\"@type\":\"GeoCoordinates\",\"latitude\":51.5184953,\"longitude\":-0.10193379999999999}}",
+        "promoTrackings": [],
+        "suggestedPromotion": {
+            "text": "",
+            "promotionUuid": ""
+        },
+        "supportedDiningModes": [
+            {
+                "mode": "DELIVERY",
+                "title": "Delivery",
+                "isSelected": true,
+                "isAvailable": true
+            }
+        ],
+        "isPreview": false,
+        "pinnedInfo": null
+    }
+}

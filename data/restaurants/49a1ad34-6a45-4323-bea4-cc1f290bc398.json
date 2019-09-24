@@ -1,0 +1,2786 @@
+{
+    "status": "success",
+    "data": {
+        "sectionEntitiesMap": {
+            "a26253ca-24ea-5479-8a30-cb86fd4ae682": {
+                "b640d27c-ae1a-5b17-bbb1-d6836193e6e6": {
+                    "description": "Try a delicious Vegan patty made with a mix of vegetables including red and green peppers, spinach, carrot and corn and cooked with chillies, garlic and a mix of herbs and spices. Try this tasty meat alternative today.",
+                    "imageUrl": null,
+                    "price": 729,
+                    "title": "Hot Signature Wrap - Vegan (V)",
+                    "uuid": "b640d27c-ae1a-5b17-bbb1-d6836193e6e6",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "endorsement": {
+                        "text": "Vegan",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png"
+                    },
+                    "classifications": []
+                },
+                "e02b7b87-7348-5334-8c6c-be02cc4e2b29": {
+                    "description": "",
+                    "imageUrl": "",
+                    "price": 90,
+                    "title": "Doritos Tangy Cheese",
+                    "uuid": "e02b7b87-7348-5334-8c6c-be02cc4e2b29",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "17cdcb3d-bb34-5977-a0b7-a2c9cb88f479": {
+                    "description": "Simple but definitely not boring! Our tender chicken breast strips work with any of our sauces and your choice of salad. Anything is possible.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/20cb4423-3983-44e2-ac2d-3fe087cc7f35.jpeg",
+                    "price": 525,
+                    "title": "Hot Salad Bowl - Chicken Breast",
+                    "uuid": "17cdcb3d-bb34-5977-a0b7-a2c9cb88f479",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "f95f6b17-74fc-5a2d-a046-461bc99128d3": {
+                    "description": "Nothing goes together quite like turkey breast and ham – simple and delicious. Try yours today with your favourite salad and the sauce of your choice. (Contains formed meat.)",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/dc9cbb0c-bdda-4095-8d08-ae26662a2c89.jpeg",
+                    "price": 470,
+                    "title": "Hot Salad Bowl - Turkey Breast & Ham",
+                    "uuid": "f95f6b17-74fc-5a2d-a046-461bc99128d3",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "0e24c227-59ee-5365-9c86-1b7569c192dd": {
+                    "description": "Nothing goes together quite like turkey breast and ham – simple and delicious. Try yours today with your favourite salad and the sauce of your choice. (Contains formed meat.)",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/0b55d3a6-f557-47da-905e-696d0becb6e9.jpeg",
+                    "price": 670,
+                    "title": "Footlong Cold Sub - Turkey Breast & Ham",
+                    "uuid": "0e24c227-59ee-5365-9c86-1b7569c192dd",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "81e0faad-51da-5c70-8b22-b5fada4fa3c3": {
+                    "description": "Bigger. Meatier. Tastier. This Italian classic is packed full of layers of pepperoni, salami and ham. There’s a reason why this is our most popular Sub! (Contains formed meat)",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/0cfc6229-5eae-493b-9e12-ea50a43356ba.jpeg",
+                    "price": 720,
+                    "title": "Footlong Toasted/Hot Sub -  Italian B.M.T.®",
+                    "uuid": "81e0faad-51da-5c70-8b22-b5fada4fa3c3",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "e25da5c2-bebf-5f62-afac-da3a2b1c2a3a": {
+                    "description": "Nothing goes together quite like turkey breast and ham – simple and delicious. Try yours today with your favourite salad and the sauce of your choice. (Contains formed meat.)",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/6727fac3-db7e-48d0-8902-6a7dfe3f5315.jpeg",
+                    "price": 470,
+                    "title": "Cold Salad Bowl - Turkey Breast & Ham",
+                    "uuid": "e25da5c2-bebf-5f62-afac-da3a2b1c2a3a",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "214879b0-881e-5d26-b230-2ea76140e71f": {
+                    "description": "Try a delicious Vegan patty made with a mix of vegetables including red and green peppers, spinach, carrot and corn and cooked with chillies, garlic and a mix of herbs and spices. Try this tasty meat alternative today.",
+                    "imageUrl": null,
+                    "price": 729,
+                    "title": "Cold Signature Wrap - Vegan (V)",
+                    "uuid": "214879b0-881e-5d26-b230-2ea76140e71f",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "endorsement": {
+                        "text": "Vegan",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png"
+                    },
+                    "classifications": []
+                },
+                "d160f239-4a23-586e-a7fc-8a5683303d65": {
+                    "description": "A classic! Add the salad of your choice and your favourite sauce to make our succulent Turkey Breast Sub extra special. (Contains formed meat.)",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/a6b5ac49-ae52-496e-b60e-495371bda889.jpeg",
+                    "price": 670,
+                    "title": "Footlong Cold Sub - Turkey Breast",
+                    "uuid": "d160f239-4a23-586e-a7fc-8a5683303d65",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "565b2ee7-bc43-5318-8a1c-ae66020103eb": {
+                    "description": "Try a delicious Vegan patty made with a mix of vegetables including red and green peppers, spinach, carrot and corn and cooked with chillies, garlic and a mix of herbs and spices. Try this tasty meat alternative today.",
+                    "imageUrl": null,
+                    "price": 570,
+                    "title": "Cold Salad Bowl - Vegan (V)",
+                    "uuid": "565b2ee7-bc43-5318-8a1c-ae66020103eb",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "endorsement": {
+                        "text": "Vegan",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png"
+                    },
+                    "classifications": []
+                },
+                "af966ad5-37e0-5948-9056-684ba1cf1b8e": {
+                    "description": "Try our rich and hearty Sub of tender chicken strips, bacon rashers, topped off with our Shredded Mozzarella/ Cheese blend.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/718e10ae-8644-42d6-bd8e-035427baf1d8.jpeg",
+                    "price": 800,
+                    "title": "Footlong Toasted/Hot Sub - Chicken & Bacon Melt",
+                    "uuid": "af966ad5-37e0-5948-9056-684ba1cf1b8e",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "424a3e4e-cf91-5c20-8e5e-ee2cc645a7da": {
+                    "description": "A pizza in a Sub… what more could you want? Tender chicken breast, spicy pepperoni, topped with rich marinara sauce and melted cheese. Bellissimo.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/5f434c3c-c1c6-455e-a907-64a8e5ca93b5.jpeg",
+                    "price": 775,
+                    "title": "Footlong Cold Sub - Chicken Pizziola",
+                    "uuid": "424a3e4e-cf91-5c20-8e5e-ee2cc645a7da",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "be50790e-d455-56ba-bca0-0e8f20979cfe": {
+                    "description": "",
+                    "imageUrl": null,
+                    "price": 729,
+                    "title": "Cold Signature Wrap - BBQ Chicken & Bacon",
+                    "uuid": "be50790e-d455-56ba-bca0-0e8f20979cfe",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "9699c776-5c3c-5ba4-a06f-d35c401f81d4": {
+                    "description": "",
+                    "imageUrl": "",
+                    "price": 80,
+                    "title": "1 Cookie",
+                    "uuid": "9699c776-5c3c-5ba4-a06f-d35c401f81d4",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "8cd9f984-b70f-5586-8f01-9c7c02a13846": {
+                    "description": "A classic! Add the salad of your choice and your favourite sauce to make our succulent Turkey Breast Sub extra special. (Contains formed meat.)",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/e2316d2a-e483-4ca9-b2cf-ebcc371011a2.jpeg",
+                    "price": 420,
+                    "title": "6-inch Toasted/Hot Sub - Turkey Breast",
+                    "uuid": "8cd9f984-b70f-5586-8f01-9c7c02a13846",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "4063d3c3-764c-551f-a311-0a284ff44047": {
+                    "description": "You’re in for a spicy kick with our Chicken Tikka Sub. Tender chicken breast strips coated in a fragrant tikka spice – no wonder it’s one of the nation’s favourites!",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/6f1d8ccd-e576-4a5a-96c8-1f28bbc32ebb.jpeg",
+                    "price": 700,
+                    "title": "Footlong Cold Sub - Chicken Tikka",
+                    "uuid": "4063d3c3-764c-551f-a311-0a284ff44047",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "7091b1f1-f0d1-5664-9b4a-2814fb25bd0f": {
+                    "description": "Featuring Multi-Seeded Wheat bread, sun-blush tomatoes, mixed colour peppers and topped with lots of gooey Mozzarella/Cheddar cheese\n",
+                    "imageUrl": null,
+                    "price": 374,
+                    "title": "6-Inch Toasted/Hot Sub -  Veggie Supreme Pizza Sub",
+                    "uuid": "7091b1f1-f0d1-5664-9b4a-2814fb25bd0f",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "4cd26c93-d985-5c17-a6a2-628930fe8785": {
+                    "description": "Try our rich and hearty Sub of tender chicken strips, bacon rashers, topped off with our Shredded Mozzarella/ Cheese blend.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/8b02517f-40f5-4f25-8d0b-e2164ff0706c.jpeg",
+                    "price": 550,
+                    "title": "6-inch Toasted/Hot Sub - Chicken & Bacon Melt",
+                    "uuid": "4cd26c93-d985-5c17-a6a2-628930fe8785",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "072da3c3-4170-564e-a4d2-5f98804a26a9": {
+                    "description": "Our classic Chicken Breast Sub has been given an Asian-inspired twist! Our succulent chicken strips covered in a sticky teriyaki glaze – we recommend adding the Sweet Onion sauce!",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/8ca37e0e-6d50-45e1-8d49-a422bae7881e.jpeg",
+                    "price": 510,
+                    "title": "6-inch Toasted/Hot Sub - Chicken Teriyaki",
+                    "uuid": "072da3c3-4170-564e-a4d2-5f98804a26a9",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "cd9c316d-0697-5107-9c54-49071be2e211": {
+                    "description": "Rotisserie-Style Chicken looks and tastes very different to our standard Chicken Breast strips. The Chicken Breast in Rotisserie-Style Chicken is marinated, seared and cooked in its own juices for a succulent, flavoursome product and the product is hand torn as part of the in-store preparation",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/3fcf620e-4f2a-4e11-9645-3cfb803d951b.jpeg",
+                    "price": 740,
+                    "title": "Footlong Toasted/Hot Sub -  Rotisserie-Style Chicken",
+                    "uuid": "cd9c316d-0697-5107-9c54-49071be2e211",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "bad5225d-3772-5915-b93a-a4792120949f": {
+                    "description": "Comes with Robinsons Fruit Shoot My-5 or water and includes Raspberry Bear Fruit Yoyo. Also includes free toy or activity.",
+                    "imageUrl": "",
+                    "price": 420,
+                    "title": "Toasted/Hot Kids' Pak - Chicken Breast",
+                    "uuid": "bad5225d-3772-5915-b93a-a4792120949f",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "5fa8ecb5-1264-5424-9f57-dfdfed07d414": {
+                    "description": "250 mL.",
+                    "imageUrl": "",
+                    "price": 130,
+                    "title": "Robinsons My-5 Blackcurrant",
+                    "uuid": "5fa8ecb5-1264-5424-9f57-dfdfed07d414",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "2296bae6-3514-52ec-a42c-f100fa85aa7d": {
+                    "description": "Comes with Robinsons Fruit Shoot My-5 or water and includes Raspberry Bear Fruit Yoyo. Also includes free toy or activity.",
+                    "imageUrl": "",
+                    "price": 420,
+                    "title": "Cold Kids' Pak - Turkey Breast",
+                    "uuid": "2296bae6-3514-52ec-a42c-f100fa85aa7d",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "88f310ef-d3bc-599e-9355-60be63b89bd7": {
+                    "description": "500 mL.",
+                    "imageUrl": "",
+                    "price": 150,
+                    "title": "Princes Gate Water",
+                    "uuid": "88f310ef-d3bc-599e-9355-60be63b89bd7",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "8d8b862f-69d0-5b69-bcbd-936140590a3d": {
+                    "description": "The Meatball Marinara is iconic to the Subway® brand. This favourite comes with tender meatballs smothered in a rich marinara sauce. For extra indulgence why not add some melted cheese?",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/d8b4efa4-ca3d-4ec3-971d-78724430ebf8.jpeg",
+                    "price": 700,
+                    "title": "Footlong Toasted/Hot Sub - Meatball Marinara",
+                    "uuid": "8d8b862f-69d0-5b69-bcbd-936140590a3d",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "d7e34f14-b4bc-548e-b416-675215478e9f": {
+                    "description": "Featuring the improved Roast Chicken Breast, Hickory Smoked BBQ sauce and topped with lots of gooey Mozzarella/Cheddar cheese\n",
+                    "imageUrl": null,
+                    "price": 499,
+                    "title": "6-Inch Toasted/Hot Sub -  BBQ Chicken Pizza",
+                    "uuid": "d7e34f14-b4bc-548e-b416-675215478e9f",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "7468dd34-45aa-59a1-88ad-421ce3309be8": {
+                    "description": "Try our rich and hearty Sub of tender chicken strips, bacon rashers, topped off with our Shredded Mozzarella/ Cheese blend.",
+                    "imageUrl": "",
+                    "price": 600,
+                    "title": "Hot Salad Bowl - Chicken & Bacon Melt",
+                    "uuid": "7468dd34-45aa-59a1-88ad-421ce3309be8",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "bce630fc-6fb8-5d6b-a92c-5c403b4f2317": {
+                    "description": "500 mL.",
+                    "imageUrl": "",
+                    "price": 180,
+                    "title": "7 Up Free",
+                    "uuid": "bce630fc-6fb8-5d6b-a92c-5c403b4f2317",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "859059ef-fe3c-50b2-8c04-6f8ca12234e5": {
+                    "description": "A ham sandwich is the ultimate lunchtime staple. Jazz it up with your choice of salad and your favourite sauce. (Contains formed meat.)",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/e5582924-4807-4f7c-8fe0-76f457f0e5fb.jpeg",
+                    "price": 420,
+                    "title": "6-inch Toasted/Hot Sub - Ham",
+                    "uuid": "859059ef-fe3c-50b2-8c04-6f8ca12234e5",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "f3cf3c31-bbb4-524b-9cd2-32b2dcedb2bd": {
+                    "description": "Rotisserie-Style Chicken looks and tastes very different to our standard Chicken Breast strips. The Chicken Breast in Rotisserie-Style Chicken is marinated, seared and cooked in its own juices for a succulent, flavoursome product and the product is hand torn as part of the in-store preparation",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/42be0ddd-4d14-4a4e-8f49-3748121a55a5.jpeg",
+                    "price": 490,
+                    "title": "6-inch Toasted/Hot Sub - Rotisserie-Style Chicken",
+                    "uuid": "f3cf3c31-bbb4-524b-9cd2-32b2dcedb2bd",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "c7a6b9ae-893c-5ef5-9bd2-a252d4a311f5": {
+                    "description": "Fish Fridays are everyday with our ‘pole and line’ Tuna Sub. It’s one of the nation’s favourite Subs, it could be yours too!",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/518e70a9-7d49-42f5-ab05-4d8481d3d158.jpeg",
+                    "price": 450,
+                    "title": "6-inch Toasted/Hot Sub - Tuna",
+                    "uuid": "c7a6b9ae-893c-5ef5-9bd2-a252d4a311f5",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "2a267157-d9b2-59d0-909d-27af58657b30": {
+                    "description": "Meat-free doesn’t have to be boring. With all the salad items you want and your favourite sauce, you’re onto 1 of your 5-a-day! (May come in contact with non-vegetarian items.)",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/87966933-8bf6-4422-94d0-05fba451b78c.jpeg",
+                    "price": 375,
+                    "title": "6-inch Toasted/Hot Sub - Veggie Delite®",
+                    "uuid": "2a267157-d9b2-59d0-909d-27af58657b30",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "111e36ef-568a-548b-af86-c4189ae027fb": {
+                    "description": "Ham is a lunchtime staple. Jazz it up with your choice of salad and your favourite sauce. (Contains formed meat.)",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/2f275032-845b-4410-8187-9b3ecb7e0887.jpeg",
+                    "price": 470,
+                    "title": "Hot Salad Bowl - Ham",
+                    "uuid": "111e36ef-568a-548b-af86-c4189ae027fb",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "a18648cf-c3bc-5324-ae7d-0a62e34f7c55": {
+                    "description": "A ham sandwich is the ultimate lunchtime staple. Jazz it up with your choice of salad and your favourite sauce. (Contains formed meat.)",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/09a03e2a-cf71-4ece-b143-a6db58f8f467.jpeg",
+                    "price": 670,
+                    "title": "Footlong Cold Sub - Ham",
+                    "uuid": "a18648cf-c3bc-5324-ae7d-0a62e34f7c55",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "c91cec93-45a4-54bd-9448-316e8cfe34a1": {
+                    "description": "Is there a better combination? Tender steak strips, complimented with onion and green peppers, topped with melted American-style cheese. These flavours can’t be beaten! (Contains formed meat. Made with shaved steak strips, contains peppers & onions.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/d90e9d64-169c-483e-a6d3-934dca1127e0.jpeg",
+                    "price": 550,
+                    "title": "6-inch Cold Sub - Steak & Cheese",
+                    "uuid": "c91cec93-45a4-54bd-9448-316e8cfe34a1",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "5b87e458-d04f-5aac-8033-88b0a2e4b623": {
+                    "description": "A ham sandwich is the ultimate lunchtime staple. Jazz it up with your choice of salad and your favourite sauce. (Contains formed meat.)",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/9db35a99-3383-45d0-9742-8c7284d06791.jpeg",
+                    "price": 420,
+                    "title": "6-inch Cold Sub - Ham",
+                    "uuid": "5b87e458-d04f-5aac-8033-88b0a2e4b623",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "d0d49a8b-1dba-53c6-9c6f-08aff6ce9259": {
+                    "description": "A classic! Add the salad of your choice and your favourite sauce to make our succulent Turkey Breast extra special. (Contains formed meat.)",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/83a8d487-0947-45c9-a522-a896c300149f.jpeg",
+                    "price": 470,
+                    "title": "Cold Salad Bowl - Turkey Breast",
+                    "uuid": "d0d49a8b-1dba-53c6-9c6f-08aff6ce9259",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "0731cf03-c068-5564-9a1e-3c632e229132": {
+                    "description": "",
+                    "imageUrl": "",
+                    "price": 90,
+                    "title": "Walkers Ready Salted",
+                    "uuid": "0731cf03-c068-5564-9a1e-3c632e229132",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "c8a63185-ad94-5907-820f-808a412164b2": {
+                    "description": "Rotisserie-Style Chicken looks and tastes very different to our standard Chicken Breast strips. The Chicken Breast in Rotisserie-Style Chicken is marinated, seared and cooked in its own juices for a succulent, flavoursome product and the product is hand torn as part of the in-store preparation",
+                    "imageUrl": "",
+                    "price": 540,
+                    "title": "Hot Salad Bowl - Rotisserie-Style Chicken",
+                    "uuid": "c8a63185-ad94-5907-820f-808a412164b2",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "96d6bb90-335c-5da6-a1e3-8c083d53aa11": {
+                    "description": "400 mL.",
+                    "imageUrl": "",
+                    "price": 180,
+                    "title": "Drench Peach and Mango",
+                    "uuid": "96d6bb90-335c-5da6-a1e3-8c083d53aa11",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "8d8b728d-98fb-5ab4-bc76-67eb615602a8": {
+                    "description": "Comes with Robinsons Fruit Shoot My-5 or water and includes Raspberry Bear Fruit Yoyo. Also includes free toy or activity.",
+                    "imageUrl": "",
+                    "price": 420,
+                    "title": "Toasted/Hot Kids' Pak - Turkey Breast",
+                    "uuid": "8d8b728d-98fb-5ab4-bc76-67eb615602a8",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "70e4878c-40aa-54b6-9997-25649647ca0b": {
+                    "description": "Featuring Multi-Seeded Wheat bread, sun-blush tomatoes, mixed colour peppers and topped with lots of gooey Mozzarella/Cheddar cheese\n",
+                    "imageUrl": null,
+                    "price": 624,
+                    "title": "Footlong Toasted/Hot Subs - Veggie Supreme Pizza Sub",
+                    "uuid": "70e4878c-40aa-54b6-9997-25649647ca0b",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "4c4fc063-3096-585f-bdc6-7052ae0eee98": {
+                    "description": "Comes with Robinsons Fruit Shoot My-5 or water and includes Raspberry Bear Fruit Yoyo. Also includes free toy or activity.",
+                    "imageUrl": "",
+                    "price": 420,
+                    "title": "Cold Kids' Pak - Ham",
+                    "uuid": "4c4fc063-3096-585f-bdc6-7052ae0eee98",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "267bd90c-08fb-542d-8b9d-f5378668e94e": {
+                    "description": "Bigger. Meatier. Tastier. This Italian classic is packed full of layers of pepperoni, salami and ham. There’s a reason why this is our most popular Sub! (Contains formed meat)",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/84ecc796-3e91-46f6-a7af-377407907eab.jpeg",
+                    "price": 470,
+                    "title": "6-inch Toasted/Hot Sub - Italian B.M.T.®",
+                    "uuid": "267bd90c-08fb-542d-8b9d-f5378668e94e",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "1cd6a243-f58f-5ee5-9675-0ad3a34659ad": {
+                    "description": "Simple but definitely not boring! Our tender chicken breast strips work with any of our sauces and your choice of salad. Anything is possible.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/5c20a7ee-83bd-452b-b6df-c0f4a2c1d2b0.jpeg",
+                    "price": 475,
+                    "title": "6-inch Toasted/Hot Sub - Chicken Breast",
+                    "uuid": "1cd6a243-f58f-5ee5-9675-0ad3a34659ad",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "4d1aba89-e172-576c-868c-e1f0fa291e94": {
+                    "description": "Fish Fridays are everyday with our ‘pole and line’ Tuna Sub. It’s one of the nation’s favourite Subs, it could be yours too!",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/0123c5e7-f6d6-4215-9344-ee7d75f6836a.jpeg",
+                    "price": 700,
+                    "title": "Footlong Toasted/Hot Sub -  Tuna",
+                    "uuid": "4d1aba89-e172-576c-868c-e1f0fa291e94",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "329c9a39-380c-551c-a7cf-cdfee6a8542d": {
+                    "description": "A Great way to spice up your day featuring the Chilli & Paprika bread chilli flakes and topped with lots of gooey Mozzarella/Cheddar cheese\n",
+                    "imageUrl": null,
+                    "price": 686,
+                    "title": "Footlong Toasted/Hot Subs - Spicy Pepperoni Pizza",
+                    "uuid": "329c9a39-380c-551c-a7cf-cdfee6a8542d",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "a49306c3-1168-5801-8572-3d08fac717ce": {
+                    "description": "Comes with Robinsons Fruit Shoot My-5 or water and includes Raspberry Bear Fruit Yoyo. Also includes free toy or activity.",
+                    "imageUrl": "",
+                    "price": 420,
+                    "title": "Cold Kids' Pak - Veggie Delite®",
+                    "uuid": "a49306c3-1168-5801-8572-3d08fac717ce",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "456bc922-b458-5a99-8e31-94742cf7b6ba": {
+                    "description": "A pizza in a Sub… what more could you want? Tender chicken breast, spicy pepperoni, topped with rich marinara sauce and melted cheese. Bellissimo.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/3ad550f6-9dff-43e0-9e75-1ab5334edd5b.jpeg",
+                    "price": 775,
+                    "title": "Footlong Toasted/Hot Sub - Chicken Pizziola",
+                    "uuid": "456bc922-b458-5a99-8e31-94742cf7b6ba",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "f7d44e3d-8258-5c51-be0d-958b6693e967": {
+                    "description": "This spice sensation Sub comes with the combination of pepperoni and salami. Add the sauce of your choice to make it your own!",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/dea348c7-be24-4c75-a4e5-6a89d1ff15c8.jpeg",
+                    "price": 670,
+                    "title": "Footlong Toasted/Hot Sub - Spicy Italian",
+                    "uuid": "f7d44e3d-8258-5c51-be0d-958b6693e967",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "2b09e0ce-4cce-5514-bb3c-faa5af1a2a9f": {
+                    "description": "",
+                    "imageUrl": null,
+                    "price": 486,
+                    "title": "Cold Salad Bowl - Thai Chicken Salad",
+                    "uuid": "2b09e0ce-4cce-5514-bb3c-faa5af1a2a9f",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "924681b2-77f9-5d95-acda-b1a391df4e6f": {
+                    "description": "Try a delicious Vegan patty made with a mix of vegetables including red and green peppers, spinach, carrot and corn and cooked with chillies, garlic and a mix of herbs and spices. Try this tasty meat alternative today.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/bf2b6d03-e207-45ef-b0fc-9ce4030d8893.jpeg",
+                    "price": 520,
+                    "title": "6-inch Cold Sub - Vegan (V)",
+                    "uuid": "924681b2-77f9-5d95-acda-b1a391df4e6f",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "endorsement": {
+                        "text": "Vegan",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png"
+                    },
+                    "classifications": []
+                },
+                "893ed9d9-5bac-594c-a4f6-27cbdc1a68bd": {
+                    "description": "Is there a better combination? Tender steak strips, complimented with onion and green peppers, topped with melted American-style cheese. These flavours can’t be beaten! (Contains formed meat. Made with shaved steak strips, contains peppers & onions.)",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/8d1737dd-7fe1-4f10-955f-b804ad7e7c6c.jpeg",
+                    "price": 800,
+                    "title": "Footlong Cold Sub - Steak & Cheese",
+                    "uuid": "893ed9d9-5bac-594c-a4f6-27cbdc1a68bd",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "76cb0802-d871-5398-9ade-95aa64e09d80": {
+                    "description": "Rotisserie-Style Chicken looks and tastes very different to our standard Chicken Breast strips. The Chicken Breast in Rotisserie-Style Chicken is marinated, seared and cooked in its own juices for a succulent, flavoursome product and the product is hand torn as part of the in-store preparation",
+                    "imageUrl": "",
+                    "price": 540,
+                    "title": "Cold Salad Bowl - Rotisserie-Style Chicken",
+                    "uuid": "76cb0802-d871-5398-9ade-95aa64e09d80",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "dcea5cbb-f949-5384-9a60-8e486b03b7df": {
+                    "description": "500 mL.",
+                    "imageUrl": "",
+                    "price": 180,
+                    "title": "Liptons Peach Iced Tea",
+                    "uuid": "dcea5cbb-f949-5384-9a60-8e486b03b7df",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "86c7a780-ae21-52cf-b26b-cd3790cf6dfb": {
+                    "description": "The Meatball Marinara is iconic to the Subway® brand. This favourite comes with tender meatballs smothered in a rich marinara sauce. For extra indulgence why not add some melted cheese?",
+                    "imageUrl": "",
+                    "price": 500,
+                    "title": "Hot Salad Bowl - Meatball Marinara",
+                    "uuid": "86c7a780-ae21-52cf-b26b-cd3790cf6dfb",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "b696adb3-529c-525c-bb6e-801be134265b": {
+                    "description": "Simple but definitely not boring! Our tender chicken breast strips work with any of our sauces and your choice of salad. Anything is possible.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/256c5dae-41a9-4392-83f6-2486b65b9ee8.jpeg",
+                    "price": 725,
+                    "title": "Footlong Cold Sub - Chicken Breast",
+                    "uuid": "b696adb3-529c-525c-bb6e-801be134265b",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "75c3c673-38d2-5d18-adf2-f87431d9d70a": {
+                    "description": "This cheesy favourite combines the flavours of turkey breast and ham with smoky bacon and topped off with melted American-style cheese. (Contains formed meat.)",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/cec4ab09-9663-4d79-a8a7-183feaff3459.jpeg",
+                    "price": 490,
+                    "title": "6-inch Toasted/Hot Sub - Subway Melt™",
+                    "uuid": "75c3c673-38d2-5d18-adf2-f87431d9d70a",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "d82d6c2d-ad77-546b-8463-373f5a5f09d2": {
+                    "description": "Comes with Robinsons Fruit Shoot My-5 or water and includes Raspberry Bear Fruit Yoyo. Also includes free toy or activity.",
+                    "imageUrl": "",
+                    "price": 420,
+                    "title": "Toasted/Hot Kids' Pak - Ham",
+                    "uuid": "d82d6c2d-ad77-546b-8463-373f5a5f09d2",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "e0047d69-644b-51a8-b874-1cad2d910946": {
+                    "description": "Is there a better combination? Tender steak strips, complimented with onion and green peppers, topped with melted American-style cheese. These flavours can’t be beaten! (Contains formed meat. Made with shaved steak strips, contains peppers & onions.)",
+                    "imageUrl": "",
+                    "price": 600,
+                    "title": "Cold Salad Bowl - Steak & Cheese",
+                    "uuid": "e0047d69-644b-51a8-b874-1cad2d910946",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "ae2fce2f-592a-58f6-a375-6dcb2ff53cd1": {
+                    "description": "Rotisserie-Style Chicken looks and tastes very different to our standard Chicken Breast strips. The Chicken Breast in Rotisserie-Style Chicken is marinated, seared and cooked in its own juices for a succulent, flavoursome product and the product is hand torn as part of the in-store preparation",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/8b1bc9f3-f8e1-467a-814f-c569e2111f57.jpeg",
+                    "price": 740,
+                    "title": "Footlong Cold Sub - Rotisserie-Style Chicken",
+                    "uuid": "ae2fce2f-592a-58f6-a375-6dcb2ff53cd1",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "cc68c3cd-b613-527e-b77b-b67b8df65768": {
+                    "description": "Our classic Chicken Breast Sub has been given an Asian-inspired twist! Our succulent chicken strips covered in a sticky teriyaki glaze – we recommend adding the Sweet Onion sauce!",
+                    "imageUrl": "",
+                    "price": 560,
+                    "title": "Cold Salad Bowl - Chicken Teriyaki",
+                    "uuid": "cc68c3cd-b613-527e-b77b-b67b8df65768",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "fb990069-0359-533b-8187-c29a6d95bfd9": {
+                    "description": "Fish Fridays are everyday with our ‘pole and line’ Tuna Sub. It’s one of the nation’s favourite Subs, it could be yours too!",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/4a9f1ef7-8352-4671-bfc2-dca6b4c049a0.jpeg",
+                    "price": 500,
+                    "title": "Cold Salad Bowl - Tuna",
+                    "uuid": "fb990069-0359-533b-8187-c29a6d95bfd9",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "8e8eda7d-ddc7-5cf5-8fbc-dbe5089c16e6": {
+                    "description": "Bigger. Meatier. Tastier. This Italian classic is packed full of layers of pepperoni, salami and ham. There’s a reason why this is our most popular Sub! (Contains formed meat)",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/79c42f75-c89e-4154-abb6-b6841796324b.jpeg",
+                    "price": 470,
+                    "title": "6-inch Cold Sub - Italian B.M.T.®",
+                    "uuid": "8e8eda7d-ddc7-5cf5-8fbc-dbe5089c16e6",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "803a7e95-7034-5a32-8e4a-7b1097c08803": {
+                    "description": "500 mL.",
+                    "imageUrl": "",
+                    "price": 180,
+                    "title": "Pepsi Max Cherry",
+                    "uuid": "803a7e95-7034-5a32-8e4a-7b1097c08803",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "efbfce53-3a46-554c-a0a0-68de6839e3ab": {
+                    "description": "Meat-free doesn’t have to be boring. With all the salad items you want and your favourite sauce, you’re onto 1 of your 5-a-day! (May come in contact with non-vegetarian items.)",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/a966019c-dd5b-4076-93e0-127cbf369094.jpeg",
+                    "price": 625,
+                    "title": "Footlong Cold Sub - Veggie Delite®",
+                    "uuid": "efbfce53-3a46-554c-a0a0-68de6839e3ab",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "c72dbc28-adde-5a5b-aadc-4bfb819f038c": {
+                    "description": "Is there a better combination? Tender steak strips, complimented with onion and green peppers, topped with melted American-style cheese. These flavours can’t be beaten! (Contains formed meat. Made with shaved steak strips, contains peppers & onions.)",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/ec6dfdb7-aa09-4b9f-a027-5dcda01acdd6.jpeg",
+                    "price": 800,
+                    "title": "Footlong Toasted/Hot Sub - Steak & Cheese",
+                    "uuid": "c72dbc28-adde-5a5b-aadc-4bfb819f038c",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "3efabe72-0037-5cc6-8a71-b535d32bbe05": {
+                    "description": "Our classic Chicken Breast Sub has been given an Asian-inspired twist! Our succulent chicken strips covered in a sticky teriyaki glaze – we recommend adding the Sweet Onion sauce!",
+                    "imageUrl": "",
+                    "price": 560,
+                    "title": "Hot Salad Bowl - Chicken Teriyaki",
+                    "uuid": "3efabe72-0037-5cc6-8a71-b535d32bbe05",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "78e2dbc3-a5f2-57ce-ac7e-227d51ce8e2e": {
+                    "description": "Is there a better combination? Tender steak strips, complimented with onion and green peppers, topped with melted American-style cheese. These flavours can’t be beaten! (Contains formed meat. Made with shaved steak strips, contains peppers & onions.)",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/b966c67a-1178-48ea-a98d-659d4e7491c8.jpeg",
+                    "price": 550,
+                    "title": "6-inch Toasted/Hot Sub - Steak & Cheese",
+                    "uuid": "78e2dbc3-a5f2-57ce-ac7e-227d51ce8e2e",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "82a1debb-87be-5984-9734-41f69210fe02": {
+                    "description": "",
+                    "imageUrl": null,
+                    "price": 729,
+                    "title": "Hot Signature Wrap - BBQ Chicken & Bacon",
+                    "uuid": "82a1debb-87be-5984-9734-41f69210fe02",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "ac2c7f34-1751-5c0c-b749-233bbb15c1d4": {
+                    "description": "Meat-free doesn’t have to be boring. With all the salad items you want and your favourite sauce, you’re onto 1 of your 5-a-day! (May come in contact with non-vegetarian items.)",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/6d2884f1-921d-4e46-8949-2a959a241236.jpeg",
+                    "price": 375,
+                    "title": "6-inch Cold Sub - Veggie Delite®",
+                    "uuid": "ac2c7f34-1751-5c0c-b749-233bbb15c1d4",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "0e990333-0535-5187-9720-90333e7476e9": {
+                    "description": "",
+                    "imageUrl": "",
+                    "price": 500,
+                    "title": "12 Cookies",
+                    "uuid": "0e990333-0535-5187-9720-90333e7476e9",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "e3343fd8-c4fb-59be-bae2-b060f15c9f5e": {
+                    "description": "500 mL.",
+                    "imageUrl": "",
+                    "price": 180,
+                    "title": "Mountain Dew Sugar Free",
+                    "uuid": "e3343fd8-c4fb-59be-bae2-b060f15c9f5e",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "26be0fd8-d4b9-548f-bb39-409f66d679b7": {
+                    "description": "A classic! Add the salad of your choice and your favourite sauce to make our succulent Turkey Breast extra special. (Contains formed meat.)",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/c1ccd72e-a574-4952-9bba-e1b6a2bfd0b7.jpeg",
+                    "price": 470,
+                    "title": "Hot Salad Bowl - Turkey Breast",
+                    "uuid": "26be0fd8-d4b9-548f-bb39-409f66d679b7",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "b89fa744-cb1e-5b0b-98ed-9bb0998f00cc": {
+                    "description": "Meat-free doesn’t have to be boring. With all the salad items you want and your favourite sauce, you’re onto 1 of your 5-a-day! (May come in contact with non-vegetarian items.)",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/29c73587-10e3-44dc-a65b-44605563ee0b.jpeg",
+                    "price": 625,
+                    "title": "Footlong Toasted/Hot Sub - Veggie Delite®",
+                    "uuid": "b89fa744-cb1e-5b0b-98ed-9bb0998f00cc",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "7441a427-3677-5fc2-89e2-11584640d584": {
+                    "description": "You’re in for a spicy kick with our Chicken Tikka Sub. Tender chicken breast strips coated in a fragrant tikka spice – no wonder it’s one of the nation’s favourites!",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/21f72eba-e3e9-4305-bbf2-02c8a64dea23.jpeg",
+                    "price": 450,
+                    "title": "6-inch Toasted/Hot Sub - Chicken Tikka",
+                    "uuid": "7441a427-3677-5fc2-89e2-11584640d584",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "7bf0ffb4-7b00-5ed2-bd9a-22c7b9bd7275": {
+                    "description": "This spice sensation comes with the combination of pepperoni and salami. Add the sauce of your choice to make it your own!",
+                    "imageUrl": "",
+                    "price": 470,
+                    "title": "Cold Salad Bowl - Spicy Italian",
+                    "uuid": "7bf0ffb4-7b00-5ed2-bd9a-22c7b9bd7275",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "c52c8a88-0abf-55bf-80d5-73ae5454f03f": {
+                    "description": "This spice sensation Sub comes with the combination of pepperoni and salami. Add the sauce of your choice to make it your own!",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/540da905-abf6-42f0-b1c5-aa8f9335736f.jpeg",
+                    "price": 420,
+                    "title": "6-inch Cold Sub - Spicy Italian",
+                    "uuid": "c52c8a88-0abf-55bf-80d5-73ae5454f03f",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "4d6d249a-198f-5c03-b340-2587e5b09728": {
+                    "description": "Meat-free doesn’t have to be boring. With all the salad items you want and your favourite sauce, you’re onto 1 of your 5-a-day! (May come in contact with non-vegetarian items.)",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/081748ab-b01c-4e2c-8dda-bb3e3f98268c.jpeg",
+                    "price": 425,
+                    "title": "Hot Salad Bowl - Veggie Delite®",
+                    "uuid": "4d6d249a-198f-5c03-b340-2587e5b09728",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "6c4164d4-5c1a-542c-b761-89d6baf8ea2d": {
+                    "description": "500 mL.",
+                    "imageUrl": "",
+                    "price": 180,
+                    "title": "Tango Orange",
+                    "uuid": "6c4164d4-5c1a-542c-b761-89d6baf8ea2d",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "31fa314d-c023-5e2d-af45-dee4fda112c4": {
+                    "description": "This platter combines the flavours of our low-fat Subs including Ham, Turkey Breast, Chicken Breast and Veggie Delite®. Go on, have another one. (Contains formed meat. May come in contact with non-vegetarian items.)",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/bf77fb03-85e0-4817-8dcd-3ccb2dbaf5a2.jpeg",
+                    "price": 2800,
+                    "title": "Lite Platter",
+                    "uuid": "31fa314d-c023-5e2d-af45-dee4fda112c4",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "dc9634a0-a4d3-5bad-a32b-08bf9bbfde79": {
+                    "description": "Take your Italian B.M.T® to the next level with New Ultimate Cheesy Garlic Bread. Your bread selection toasted with a Roasted Garlic & Parsley butter and loaded with melted Shredded Mozzarella Cheddar Blend.",
+                    "imageUrl": null,
+                    "price": 570,
+                    "title": "6-inch Toasted/Hot Sub - Ultimate Cheesy Garlic Bread Italian B.M.T.®",
+                    "uuid": "dc9634a0-a4d3-5bad-a32b-08bf9bbfde79",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "9c4724d6-5315-5dc4-850e-74c585ae9f18": {
+                    "description": "This spice sensation Sub comes with the combination of pepperoni and salami. Add the sauce of your choice to make it your own!",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/02b44bfa-41c4-4b7b-aa07-108d6fc42600.jpeg",
+                    "price": 420,
+                    "title": "6-inch Toasted/Hot Sub - Spicy Italian",
+                    "uuid": "9c4724d6-5315-5dc4-850e-74c585ae9f18",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "110871f1-ab5d-5a5a-8709-b3b60aebc769": {
+                    "description": "Our classic Chicken Breast Sub has been given an Asian-inspired twist! Our succulent chicken strips covered in a sticky teriyaki glaze – we recommend adding the Sweet Onion sauce!",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/3ef631fc-6b51-4d83-ab3b-5b3faf358afb.jpeg",
+                    "price": 760,
+                    "title": "Footlong Cold Sub - Chicken Teriyaki",
+                    "uuid": "110871f1-ab5d-5a5a-8709-b3b60aebc769",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "124e2c7b-8a38-5b21-af64-393e957f2d89": {
+                    "description": "This spice sensation comes with the combination of pepperoni and salami. Add the sauce of your choice to make it your own!",
+                    "imageUrl": "",
+                    "price": 470,
+                    "title": "Hot Salad Bowl - Spicy Italian",
+                    "uuid": "124e2c7b-8a38-5b21-af64-393e957f2d89",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "38d5eeca-f55e-5421-a9b0-e1fcc450fe45": {
+                    "description": "Bigger. Meatier. Tastier. This Italian classic is packed full of layers of pepperoni, salami and ham. (Contains formed meat.)",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/ba428020-2fe2-4d61-88ac-16f468d4fdbe.jpeg",
+                    "price": 520,
+                    "title": "Hot Salad Bowl - Italian B.M.T.®",
+                    "uuid": "38d5eeca-f55e-5421-a9b0-e1fcc450fe45",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "68e0fdee-67c1-5bc3-8263-fcf3e976ac74": {
+                    "description": "A pizza in a Sub… what more could you want? Tender chicken breast, spicy pepperoni, topped with rich marinara sauce and melted cheese. Bellissimo.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/5fca66d6-7c42-4d7f-9c64-128432309f31.jpeg",
+                    "price": 525,
+                    "title": "6-inch Toasted/Hot Sub - Chicken Pizziola",
+                    "uuid": "68e0fdee-67c1-5bc3-8263-fcf3e976ac74",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "1c5211f6-6fb4-5113-bbd6-8c77a88a19a5": {
+                    "description": "Fish Fridays are everyday with our ‘pole and line’ Tuna Sub. It’s one of the nation’s favourite Subs, it could be yours too!",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/f13000ac-6668-47c3-afab-3979e25bba23.jpeg",
+                    "price": 500,
+                    "title": "Hot Salad Bowl - Tuna",
+                    "uuid": "1c5211f6-6fb4-5113-bbd6-8c77a88a19a5",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "be95dd9e-7aeb-57a0-af8f-1dd2552c199a": {
+                    "description": "Comes with Robinsons Fruit Shoot My-5 or water and includes Raspberry Bear Fruit Yoyo. Also includes free toy or activity.",
+                    "imageUrl": "",
+                    "price": 420,
+                    "title": "Toasted/Hot Kids' Pak - Veggie Delite®",
+                    "uuid": "be95dd9e-7aeb-57a0-af8f-1dd2552c199a",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "3da71f8b-5844-55a0-a5ad-bf029cdb165b": {
+                    "description": "Nothing goes together quite like turkey breast and ham – simple and delicious. Try yours today with your favourite salad and the sauce of your choice. (Contains formed meat.)",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/fbfc624e-0c2e-4dfe-90a3-a17bbad1d492.jpeg",
+                    "price": 420,
+                    "title": "6-inch Toasted/Hot Sub - Turkey Breast & Ham",
+                    "uuid": "3da71f8b-5844-55a0-a5ad-bf029cdb165b",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "b74fd791-7d04-574d-9e98-ea1edc73256d": {
+                    "description": "Is there a better combination? Tender steak strips, complimented with onion and green peppers, topped with melted American-style cheese. These flavours can’t be beaten! (Contains formed meat. Made with shaved steak strips, contains peppers & onions.)",
+                    "imageUrl": "",
+                    "price": 600,
+                    "title": "Hot Salad Bowl - Steak & Cheese",
+                    "uuid": "b74fd791-7d04-574d-9e98-ea1edc73256d",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "5ec507e3-cf7e-5f39-a3a2-131650c4ba2a": {
+                    "description": "Take your Meatball Marinara to the next level with New Ultimate Cheesy Garlic Bread. Your bread selection toasted with a Roasted Garlic & Parsley butter and loaded with melted Shredded Mozzarella Cheddar Blend.",
+                    "imageUrl": null,
+                    "price": 550,
+                    "title": "6-inch Toasted/Hot Sub - Ultimate Cheesy Garlic Bread Meatball Marinara",
+                    "uuid": "5ec507e3-cf7e-5f39-a3a2-131650c4ba2a",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "ee29bb8d-30d0-525a-97b5-3d56cd5b45e6": {
+                    "description": "500 mL.",
+                    "imageUrl": "",
+                    "price": 180,
+                    "title": "Pepsi Max",
+                    "uuid": "ee29bb8d-30d0-525a-97b5-3d56cd5b45e6",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "5bb24de9-cfd5-5991-8ecc-1517369277d3": {
+                    "description": "Try a delicious Vegan patty made with a mix of vegetables including red and green peppers, spinach, carrot and corn and cooked with chillies, garlic and a mix of herbs and spices. Try this tasty meat alternative today.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/53cf18f5-06a3-46a5-97a0-5418a441162a.jpeg",
+                    "price": 770,
+                    "title": "Footlong Toasted/Hot Sub - Vegan (V)",
+                    "uuid": "5bb24de9-cfd5-5991-8ecc-1517369277d3",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "endorsement": {
+                        "text": "Vegan",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png"
+                    },
+                    "classifications": []
+                },
+                "9272f6cc-243e-5b78-8357-04213fbe57a4": {
+                    "description": "Fish Fridays are everyday with our ‘pole and line’ Tuna Sub. It’s one of the nation’s favourite Subs, it could be yours too!",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/e609e5d4-523d-42e4-98d9-f3fa68b29f63.jpeg",
+                    "price": 450,
+                    "title": "6-inch Cold Sub - Tuna",
+                    "uuid": "9272f6cc-243e-5b78-8357-04213fbe57a4",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "01c54687-4bae-585f-86b7-15da440cb0ff": {
+                    "description": "Our classic Chicken Breast Sub has been given an Asian-inspired twist! Our succulent chicken strips covered in a sticky teriyaki glaze – we recommend adding the Sweet Onion sauce!",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/dcebc5e8-14e6-41f8-b936-3248cc21ddf0.jpeg",
+                    "price": 510,
+                    "title": "6-inch Cold Sub - Chicken Teriyaki",
+                    "uuid": "01c54687-4bae-585f-86b7-15da440cb0ff",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 8640000000,
+                    "classifications": []
+                },
+                "122760f6-3c21-5460-a1cc-ae52226fc7ca": {
+                    "description": "Meat-free doesn’t have to be boring. With all the salad items you want and your favourite sauce, you’re onto 1 of your 5-a-day! (May come in contact with non-vegetarian items.)",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/74e07922-75ad-4a6f-bf32-a154cf6bce40.jpeg",
+                    "price": 425,
+                    "title": "Cold Salad Bowl - Veggie Delite®",
+                    "uuid": "122760f6-3c21-5460-a1cc-ae52226fc7ca",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "6f1dd8ac-0f8c-5f9f-ad08-ed1abf240ec2": {
+                    "description": "This spice sensation Sub comes with the combination of pepperoni and salami. Add the sauce of your choice to make it your own!",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/4e016ff5-c0c1-4fd7-9541-19068ad69126.jpeg",
+                    "price": 670,
+                    "title": "Footlong Cold Sub - Spicy Italian",
+                    "uuid": "6f1dd8ac-0f8c-5f9f-ad08-ed1abf240ec2",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "4ef88f7d-e83f-5832-8458-a7ec3c22c731": {
+                    "description": "A pizza… what more could you want? Tender chicken breast, spicy pepperoni, topped with rich marinara sauce and melted cheese. Bellissimo.",
+                    "imageUrl": "",
+                    "price": 575,
+                    "title": "Cold Salad Bowl - Chicken Pizziola",
+                    "uuid": "4ef88f7d-e83f-5832-8458-a7ec3c22c731",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "5f5147e4-60fd-5881-89f8-35cd19d7d9b0": {
+                    "description": "500 mL.",
+                    "imageUrl": "",
+                    "price": 180,
+                    "title": "Gatorade Blue",
+                    "uuid": "5f5147e4-60fd-5881-89f8-35cd19d7d9b0",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "14d6f52b-410e-503f-96ca-72f3eb13de90": {
+                    "description": "The Meatball Marinara is iconic to the Subway® brand. This favourite comes with tender meatballs smothered in a rich marinara sauce. For extra indulgence why not add some melted cheese?",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/f70e37d8-91ce-4893-b870-93068bb0bf18.jpeg",
+                    "price": 450,
+                    "title": "6-inch Toasted/Hot Sub - Meatball Marinara",
+                    "uuid": "14d6f52b-410e-503f-96ca-72f3eb13de90",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "85c04a76-4ce2-5ca2-9a8f-f5b579e2cddf": {
+                    "description": "Try a delicious Vegan patty made with a mix of vegetables including red and green peppers, spinach, carrot and corn and cooked with chillies, garlic and a mix of herbs and spices. Try this tasty meat alternative today.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/fabc7343-a902-4f3c-baf8-bb5babf973d1.jpeg",
+                    "price": 520,
+                    "title": "6-inch Toasted/Hot Sub - Vegan (V)",
+                    "uuid": "85c04a76-4ce2-5ca2-9a8f-f5b579e2cddf",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "endorsement": {
+                        "text": "Vegan",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png"
+                    },
+                    "classifications": []
+                },
+                "8efd8b15-35b2-5392-93b0-f3dfa01df6d5": {
+                    "description": "Simple but definitely not boring! Our tender chicken breast strips work with any of our sauces and your choice of salad. Anything is possible.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/1333956b-ec0e-4acc-9624-45fd603c7106.jpeg",
+                    "price": 475,
+                    "title": "6-inch Cold Sub - Chicken Breast",
+                    "uuid": "8efd8b15-35b2-5392-93b0-f3dfa01df6d5",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "2846de3d-3af6-5230-8dfc-e783e807c610": {
+                    "description": "A classic! Add the salad of your choice and your favourite sauce to make our succulent Turkey Breast Sub extra special. (Contains formed meat.)",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/61ccfe2a-c428-4d9b-9279-237348c552bf.jpeg",
+                    "price": 670,
+                    "title": "Footlong Toasted/Hot Sub - Turkey Breast",
+                    "uuid": "2846de3d-3af6-5230-8dfc-e783e807c610",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "51a7879c-a657-574e-9a09-c9bab17242d6": {
+                    "description": "",
+                    "imageUrl": "",
+                    "price": 150,
+                    "title": "3 Cookies",
+                    "uuid": "51a7879c-a657-574e-9a09-c9bab17242d6",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "4d3ea8ca-279b-53e3-8828-ee0f15976060": {
+                    "description": "A pizza… what more could you want? Tender chicken breast, spicy pepperoni, topped with rich marinara sauce and melted cheese. Bellissimo.",
+                    "imageUrl": "",
+                    "price": 575,
+                    "title": "Hot Salad Bowl - Chicken Pizziola",
+                    "uuid": "4d3ea8ca-279b-53e3-8828-ee0f15976060",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "f0f3258e-c9c3-5d31-9e98-2b8611588313": {
+                    "description": "Ham is a lunchtime staple. Jazz it up with your choice of salad and your favourite sauce. (Contains formed meat.)",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/461d2fb0-24c5-4948-b6df-7f287aa42162.jpeg",
+                    "price": 470,
+                    "title": "Cold Salad Bowl - Ham",
+                    "uuid": "f0f3258e-c9c3-5d31-9e98-2b8611588313",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "2f1f0e4e-c9ee-55ad-987c-58369b471bc0": {
+                    "description": "A tomato & basil wrap with succulent steak, Shredded Mozzarella/Cheddar cheese blend, guacamole, jalapeños & Chipotle Southwest sauce.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/02530ce2-045c-4269-894a-8f928d0d7f8d.jpeg",
+                    "price": 750,
+                    "title": "Hot Signature Wrap - Chipotle Southwest Steak & Cheese",
+                    "uuid": "2f1f0e4e-c9ee-55ad-987c-58369b471bc0",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "2fd836de-fc34-5a8e-b63d-9d9a32256bc6": {
+                    "description": "",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/7f09adc1-4154-4923-93e7-f5ed5217fe09.jpeg",
+                    "price": 486,
+                    "title": "Hot Salad Bowl - Thai Chicken Salad",
+                    "uuid": "2fd836de-fc34-5a8e-b63d-9d9a32256bc6",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "8291d70e-2085-59f4-b760-495664a267e5": {
+                    "description": "A Great way to spice up your day featuring the Chilli & Paprika bread chilli flakes and topped with lots of gooey Mozzarella/Cheddar cheese\n",
+                    "imageUrl": null,
+                    "price": 436,
+                    "title": "6-Inch Toasted/Hot Sub -  Spicy Pepperoni Pizza",
+                    "uuid": "8291d70e-2085-59f4-b760-495664a267e5",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "1a50ecd4-58bb-5c8a-bb20-fb4f0bd4ccfa": {
+                    "description": "Bigger. Meatier. Tastier. This Italian classic is packed full of layers of pepperoni, salami and ham. There’s a reason why this is our most popular Sub! (Contains formed meat)",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/f56f2a29-de3a-4714-950d-1f48d935faab.jpeg",
+                    "price": 720,
+                    "title": "Footlong Cold Sub - Italian B.M.T.®",
+                    "uuid": "1a50ecd4-58bb-5c8a-bb20-fb4f0bd4ccfa",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "d4e0f3f0-171b-564f-a2c6-aed4b12f56aa": {
+                    "description": "Nothing goes together quite like turkey breast and ham – simple and delicious. Try yours today with your favourite salad and the sauce of your choice. (Contains formed meat.)",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/5c3e604b-e2ca-407f-96cb-6de9babee717.jpeg",
+                    "price": 420,
+                    "title": "6-inch Cold Sub - Turkey Breast & Ham",
+                    "uuid": "d4e0f3f0-171b-564f-a2c6-aed4b12f56aa",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "2748a182-30f3-5e0b-80f2-330e65db2cd3": {
+                    "description": "Rotisserie-Style Chicken looks and tastes very different to our standard Chicken Breast strips. The Chicken Breast in Rotisserie-Style Chicken is marinated, seared and cooked in its own juices for a succulent, flavoursome product and the product is hand torn as part of the in-store preparation",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/70a35421-e753-4c57-8728-5a6770bf51c3.jpeg",
+                    "price": 490,
+                    "title": "6-inch Cold Sub - Rotisserie-Style Chicken",
+                    "uuid": "2748a182-30f3-5e0b-80f2-330e65db2cd3",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "9bf31b49-1a0f-5d0b-887e-ccf95cb39ff6": {
+                    "description": "A classic! Add the salad of your choice and your favourite sauce to make our succulent Turkey Breast Sub extra special. (Contains formed meat.)",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/766590f7-8d70-417e-bedd-91a5f0de78c8.jpeg",
+                    "price": 420,
+                    "title": "6-inch Cold Sub - Turkey Breast",
+                    "uuid": "9bf31b49-1a0f-5d0b-887e-ccf95cb39ff6",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "61cd7062-afe6-5930-a75d-e48f2a68666b": {
+                    "description": "",
+                    "imageUrl": "",
+                    "price": 90,
+                    "title": "Walkers Cheese & Onion",
+                    "uuid": "61cd7062-afe6-5930-a75d-e48f2a68666b",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "149ea730-105b-5157-8280-53b3f2f2d0fb": {
+                    "description": "You’re in for a spicy kick with our Chicken Tikka. Tender chicken breast strips coated in a fragrant tikka spice – no wonder it’s one of the nation’s favourites!",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/bcf1c470-26cd-4193-bb40-90273713f87e.jpeg",
+                    "price": 500,
+                    "title": "Cold Salad Bowl - Chicken Tikka",
+                    "uuid": "149ea730-105b-5157-8280-53b3f2f2d0fb",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "521f5cc3-5623-5b66-9f84-4663db247e98": {
+                    "description": "Comes with Robinsons Fruit Shoot My-5 or water and includes Raspberry Bear Fruit Yoyo. Also includes free toy or activity.",
+                    "imageUrl": "",
+                    "price": 420,
+                    "title": "Cold Kids' Pak - Chicken Breast",
+                    "uuid": "521f5cc3-5623-5b66-9f84-4663db247e98",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "61e80013-acdb-507c-a4d5-d7c24c3f2aed": {
+                    "description": "Our classic Chicken Breast Sub has been given an Asian-inspired twist! Our succulent chicken strips covered in a sticky teriyaki glaze – we recommend adding the Sweet Onion sauce!",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/4275b23a-bdca-4c29-ba79-ad7e3e6712a7.jpeg",
+                    "price": 760,
+                    "title": "Footlong Toasted/Hot Sub - Chicken Teriyaki",
+                    "uuid": "61e80013-acdb-507c-a4d5-d7c24c3f2aed",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "8adff8d1-f015-5aad-8263-08b8567c688e": {
+                    "description": "You can’t beat the classics and this platter has them all! Combining the flavours of Spicy Italian, Tuna, Chicken Breast and Veggie Delite®, you’re in for a feast. (May come in contact with non-vegetarian items.)",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/ff9fc9a7-5239-44a5-abf9-a06c97b57f9b.jpeg",
+                    "price": 2800,
+                    "title": "Classic Platter",
+                    "uuid": "8adff8d1-f015-5aad-8263-08b8567c688e",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "d40eb528-7716-571c-8cc5-9f373f1021da": {
+                    "description": "This cheesy favourite combines the flavours of turkey breast and ham with smoky bacon and topped off with melted American-style cheese. (Contains formed meat.)",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/b5c7292c-e44d-4688-ae68-6b2bae6b0244.jpeg",
+                    "price": 740,
+                    "title": "Footlong Toasted/Hot Sub - Subway Melt™",
+                    "uuid": "d40eb528-7716-571c-8cc5-9f373f1021da",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "88c2f5ad-8243-5c54-89ee-20006cf510da": {
+                    "description": "250 mL.",
+                    "imageUrl": "",
+                    "price": 190,
+                    "title": "Tropicana Orange Juice",
+                    "uuid": "88c2f5ad-8243-5c54-89ee-20006cf510da",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "b72f00c3-9f6e-5357-94b9-1e60aef11e9a": {
+                    "description": "Try a delicious Vegan patty made with a mix of vegetables including red and green peppers, spinach, carrot and corn and cooked with chillies, garlic and a mix of herbs and spices. Try this tasty meat alternative today.",
+                    "imageUrl": null,
+                    "price": 570,
+                    "title": "Hot Salad Bowl - Vegan (V)",
+                    "uuid": "b72f00c3-9f6e-5357-94b9-1e60aef11e9a",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "endorsement": {
+                        "text": "Vegan",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png"
+                    },
+                    "classifications": []
+                },
+                "e7c7079e-ccf0-56c3-a736-7336e0d919ad": {
+                    "description": "A pizza in a Sub… what more could you want? Tender chicken breast, spicy pepperoni, topped with rich marinara sauce and melted cheese. Bellissimo.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/20f642b1-df78-4bc6-82c5-f074fcea25ad.jpeg",
+                    "price": 525,
+                    "title": "6-inch Cold Sub - Chicken Pizziola",
+                    "uuid": "e7c7079e-ccf0-56c3-a736-7336e0d919ad",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "4ba03e44-f0b2-5fbf-bf4c-e81cf7d6be4e": {
+                    "description": "",
+                    "imageUrl": null,
+                    "price": 549,
+                    "title": "Cold Salad Bowl - Tuna Niçoise Salad",
+                    "uuid": "4ba03e44-f0b2-5fbf-bf4c-e81cf7d6be4e",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "f827a367-3d99-5a7a-b7e5-d68f96c4a878": {
+                    "description": "This cheesy favourite combines the flavours of turkey breast and ham with smoky bacon and topped off with melted American-style cheese. (Contains formed meat.)",
+                    "imageUrl": "",
+                    "price": 540,
+                    "title": "Hot Salad Bowl - Subway Melt™",
+                    "uuid": "f827a367-3d99-5a7a-b7e5-d68f96c4a878",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "2ffaaf8f-9075-538b-8400-0b8be7ac2a74": {
+                    "description": "Simple but definitely not boring! Our tender chicken breast strips work with any of our sauces and your choice of salad. Anything is possible.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/132a3dd6-28fb-4701-b45b-33b0ff4df956.jpeg",
+                    "price": 725,
+                    "title": "Footlong Toasted/Hot Sub - Chicken Breast",
+                    "uuid": "2ffaaf8f-9075-538b-8400-0b8be7ac2a74",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "84deb476-ddc2-5a12-9aab-9dd28ef633e5": {
+                    "description": "A tomato & basil wrap with succulent steak, Shredded Mozzarella/Cheddar cheese blend, guacamole, jalapeños & Chipotle Southwest sauce.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/2394c0a0-b52d-43ea-ac35-bf22f3041d27.jpeg",
+                    "price": 750,
+                    "title": "Cold Signature Wrap - Chipotle Southwest Steak & Cheese",
+                    "uuid": "84deb476-ddc2-5a12-9aab-9dd28ef633e5",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "2a73cd7d-26a6-5a37-8c58-ce2fb9c97b27": {
+                    "description": "Meat, meat and more meat. This platter is packed full of Italian B.M.T.®, Turkey Breast and Ham, Chicken Breast and Ham. (Contains formed meat)",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/d83a7279-ca74-4669-a408-c68df43da325.jpeg",
+                    "price": 2800,
+                    "title": "Meat Feast Platter",
+                    "uuid": "2a73cd7d-26a6-5a37-8c58-ce2fb9c97b27",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "c7d69a54-ec6a-5be3-82f1-11a552a2ea07": {
+                    "description": "500 mL.",
+                    "imageUrl": "",
+                    "price": 180,
+                    "title": "Robinsons Refresh'd Rasberry and Apple",
+                    "uuid": "c7d69a54-ec6a-5be3-82f1-11a552a2ea07",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "a09d1889-c12f-545c-90f0-074d57c39f6d": {
+                    "description": "Take your Italian B.M.T® to the next level with New Ultimate Cheesy Garlic Bread. Your bread selection toasted with a Roasted Garlic & Parsley butter and loaded with melted Shredded Mozzarella Cheddar Blend.",
+                    "imageUrl": null,
+                    "price": 920,
+                    "title": "Footlong Toasted/Hot Sub - Ultimate Cheesy Garlic Bread Italian B.M.T.®",
+                    "uuid": "a09d1889-c12f-545c-90f0-074d57c39f6d",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "5a3f174d-36ad-5060-9bd6-b492a2a559c0": {
+                    "description": "Featuring the improved Roast Chicken Breast, Hickory Smoked BBQ sauce and topped with lots of gooey Mozzarella/Cheddar cheese\n",
+                    "imageUrl": null,
+                    "price": 749,
+                    "title": "Footlong Toasted/Hot Subs - BBQ Chicken Pizza",
+                    "uuid": "5a3f174d-36ad-5060-9bd6-b492a2a559c0",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "eef52d81-6708-57e6-b627-6c6e35e6a5f1": {
+                    "description": "Simple but definitely not boring! Our tender chicken breast strips work with any of our sauces and your choice of salad. Anything is possible.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/d06849d1-8af7-41c5-a7d4-3769bbf1ad19.jpeg",
+                    "price": 525,
+                    "title": "Cold Salad Bowl - Chicken Breast",
+                    "uuid": "eef52d81-6708-57e6-b627-6c6e35e6a5f1",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "537cb301-9e7e-5019-93de-64bfcbe115d4": {
+                    "description": "A ham sandwich is the ultimate lunchtime staple. Jazz it up with your choice of salad and your favourite sauce. (Contains formed meat.)",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/3fdcf1ee-9b5f-465d-954c-84b7d498ea3e.jpeg",
+                    "price": 670,
+                    "title": "Footlong Toasted/Hot Sub - Ham",
+                    "uuid": "537cb301-9e7e-5019-93de-64bfcbe115d4",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "f54dba9a-10ff-5918-bfd2-e6e31beed5c6": {
+                    "description": "You’re in for a spicy kick with our Chicken Tikka Sub. Tender chicken breast strips coated in a fragrant tikka spice – no wonder it’s one of the nation’s favourites!",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/8d4f3136-06ec-427a-9d43-5cbfc8048adc.jpeg",
+                    "price": 700,
+                    "title": "Footlong Toasted/Hot Sub - Chicken Tikka",
+                    "uuid": "f54dba9a-10ff-5918-bfd2-e6e31beed5c6",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "0f62eb95-30e6-5543-a241-f4916b50a077": {
+                    "description": "You’re in for a spicy kick with our Chicken Tikka Sub. Tender chicken breast strips coated in a fragrant tikka spice – no wonder it’s one of the nation’s favourites!",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/0847ab8b-5374-44fd-9a20-f124ff52879e.jpeg",
+                    "price": 450,
+                    "title": "6-inch Cold Sub - Chicken Tikka",
+                    "uuid": "0f62eb95-30e6-5543-a241-f4916b50a077",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "c76db417-f3e6-5813-b81b-fa66dd431598": {
+                    "description": "Nothing goes together quite like turkey breast and ham – simple and delicious. Try yours today with your favourite salad and the sauce of your choice. (Contains formed meat.)",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/76009d00-46de-4547-aef3-24515cb105c9.jpeg",
+                    "price": 670,
+                    "title": "Footlong Toasted/Hot Sub - Turkey Breast & Ham",
+                    "uuid": "c76db417-f3e6-5813-b81b-fa66dd431598",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "8d4c2efb-4198-58bf-b91c-a1ddebfa522c": {
+                    "description": "In our Veggie and Vegan Platter, you’ll get a mixture of Veggie Delite® and our Vegan Patty. Meat-free doesn’t mean taste-free. (May come in contact with non-vegetarian items.)",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/9fde5351-b89d-4944-9458-8c0c8b3c282a.jpeg",
+                    "price": 2500,
+                    "title": "Veggie and Vegan Platter",
+                    "uuid": "8d4c2efb-4198-58bf-b91c-a1ddebfa522c",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "7ac2dc54-0d1e-5197-b11a-e2f6f5cda4a1": {
+                    "description": "Fish Fridays are everyday with our ‘pole and line’ Tuna Sub. It’s one of the nation’s favourite Subs, it could be yours too!",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/4036fb3a-cf68-4095-8cc4-a59552b44f0a.jpeg",
+                    "price": 700,
+                    "title": "Footlong Cold Sub - Tuna",
+                    "uuid": "7ac2dc54-0d1e-5197-b11a-e2f6f5cda4a1",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "aba19a28-90d6-5a9f-a9aa-d01e38554b32": {
+                    "description": "",
+                    "imageUrl": "",
+                    "price": 90,
+                    "title": "Bear Yo Yo",
+                    "uuid": "aba19a28-90d6-5a9f-a9aa-d01e38554b32",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "bd423925-bfb4-5d1e-9df2-51b9faa3b64d": {
+                    "description": "375 mL.",
+                    "imageUrl": "",
+                    "price": 180,
+                    "title": "Pepsi",
+                    "uuid": "bd423925-bfb4-5d1e-9df2-51b9faa3b64d",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "d37a63a9-daa0-5b97-a4e2-f1afbbd4b9a6": {
+                    "description": "Take your Meatball Marinara to the next level with New Ultimate Cheesy Garlic Bread. Your bread selection toasted with a Roasted Garlic & Parsley butter and loaded with melted Shredded Mozzarella Cheddar Blend.",
+                    "imageUrl": null,
+                    "price": 900,
+                    "title": "Footlong Toasted/Hot Sub - Ultimate Cheesy Garlic Bread Meatball Marinara",
+                    "uuid": "d37a63a9-daa0-5b97-a4e2-f1afbbd4b9a6",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "2031cc34-5860-505a-951b-795fec5d3ea8": {
+                    "description": "Try a delicious Vegan patty made with a mix of vegetables including red and green peppers, spinach, carrot and corn and cooked with chillies, garlic and a mix of herbs and spices. Try this tasty meat alternative today.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/fa117888-a8d1-4367-adf2-770cc961f530.jpeg",
+                    "price": 770,
+                    "title": "Footlong Cold Sub - Vegan (V)",
+                    "uuid": "2031cc34-5860-505a-951b-795fec5d3ea8",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "endorsement": {
+                        "text": "Vegan",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png"
+                    },
+                    "classifications": []
+                },
+                "e6be7503-e1d0-574c-9d0b-36a744c6118d": {
+                    "description": "You’re in for a spicy kick with our Chicken Tikka. Tender chicken breast strips coated in a fragrant tikka spice – no wonder it’s one of the nation’s favourites!",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/0c4c5d6c-153f-4cdb-b413-e188158cfcea.jpeg",
+                    "price": 500,
+                    "title": "Hot Salad Bowl - Chicken Tikka",
+                    "uuid": "e6be7503-e1d0-574c-9d0b-36a744c6118d",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "d494fa50-14e3-5147-8991-146394c3b1d2": {
+                    "description": "Bigger. Meatier. Tastier. This Italian classic is packed full of layers of pepperoni, salami and ham. (Contains formed meat.)",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/9ba88b46-0e99-430b-97e1-51fd92cba295.jpeg",
+                    "price": 520,
+                    "title": "Cold Salad Bowl - Italian B.M.T.®",
+                    "uuid": "d494fa50-14e3-5147-8991-146394c3b1d2",
+                    "nutritionalInfo": {
+                        "allergens": [
+                            ""
+                        ],
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                }
+            }
+        },
+        "sections": [
+            {
+                "subsectionUuids": [
+                    "79a1287f-7026-5f82-b343-13a565764d6f",
+                    "bf23a16e-7ca5-5fb6-998c-3939797ac448",
+                    "986232cf-19e0-58f6-96ec-9f000de20cce",
+                    "9b316248-0981-5e73-8ecc-7b00caa0d494",
+                    "7d0280a3-44ea-50ba-a8b8-d0f0f7129c3d",
+                    "35dfd5dc-2c2a-57ab-986f-5f3a44a0c6fe",
+                    "5d72576f-9578-5e47-adfb-6e56ec0d3dd2",
+                    "2ee125ba-ff5c-50da-9f3f-7f471c93a92e",
+                    "d40f55a4-a3b3-5e39-a499-e72ad0344171",
+                    "55ca5917-d9a0-5460-950c-0aafe4410755",
+                    "17144292-65c6-5dd2-b39e-a59c232cfd38",
+                    "9a53bce5-7a3d-5867-8efc-de3284a40f08",
+                    "fbf50cf3-8e4e-5175-8f2a-05f2c1bf4c82",
+                    "e71e541a-3f90-5c64-ba55-4722adcf8c60"
+                ],
+                "title": "Menu",
+                "subtitle": "7:00 AM – 11:59 PM",
+                "uuid": "a26253ca-24ea-5479-8a30-cb86fd4ae682",
+                "isTop": true,
+                "isOnSale": true
+            }
+        ],
+        "subsectionsMap": {
+            "7d0280a3-44ea-50ba-a8b8-d0f0f7129c3d": {
+                "itemUuids": [
+                    "2f1f0e4e-c9ee-55ad-987c-58369b471bc0",
+                    "82a1debb-87be-5984-9734-41f69210fe02",
+                    "b640d27c-ae1a-5b17-bbb1-d6836193e6e6"
+                ],
+                "subtitle": "",
+                "title": "Hot Signature Wraps",
+                "uuid": "7d0280a3-44ea-50ba-a8b8-d0f0f7129c3d",
+                "displayType": null
+            },
+            "79a1287f-7026-5f82-b343-13a565764d6f": {
+                "itemUuids": [
+                    "f3cf3c31-bbb4-524b-9cd2-32b2dcedb2bd",
+                    "267bd90c-08fb-542d-8b9d-f5378668e94e",
+                    "14d6f52b-410e-503f-96ca-72f3eb13de90",
+                    "c7a6b9ae-893c-5ef5-9bd2-a252d4a311f5",
+                    "9c4724d6-5315-5dc4-850e-74c585ae9f18",
+                    "78e2dbc3-a5f2-57ce-ac7e-227d51ce8e2e",
+                    "072da3c3-4170-564e-a4d2-5f98804a26a9",
+                    "75c3c673-38d2-5d18-adf2-f87431d9d70a",
+                    "4cd26c93-d985-5c17-a6a2-628930fe8785",
+                    "68e0fdee-67c1-5bc3-8263-fcf3e976ac74",
+                    "7441a427-3677-5fc2-89e2-11584640d584",
+                    "859059ef-fe3c-50b2-8c04-6f8ca12234e5",
+                    "8cd9f984-b70f-5586-8f01-9c7c02a13846",
+                    "1cd6a243-f58f-5ee5-9675-0ad3a34659ad",
+                    "3da71f8b-5844-55a0-a5ad-bf029cdb165b",
+                    "2a267157-d9b2-59d0-909d-27af58657b30",
+                    "85c04a76-4ce2-5ca2-9a8f-f5b579e2cddf",
+                    "dc9634a0-a4d3-5bad-a32b-08bf9bbfde79",
+                    "5ec507e3-cf7e-5f39-a3a2-131650c4ba2a",
+                    "d7e34f14-b4bc-548e-b416-675215478e9f",
+                    "8291d70e-2085-59f4-b760-495664a267e5",
+                    "7091b1f1-f0d1-5664-9b4a-2814fb25bd0f"
+                ],
+                "subtitle": "",
+                "title": "6-inch Toasted/Hot Subs",
+                "uuid": "79a1287f-7026-5f82-b343-13a565764d6f",
+                "displayType": null
+            },
+            "35dfd5dc-2c2a-57ab-986f-5f3a44a0c6fe": {
+                "itemUuids": [
+                    "84deb476-ddc2-5a12-9aab-9dd28ef633e5",
+                    "be50790e-d455-56ba-bca0-0e8f20979cfe",
+                    "214879b0-881e-5d26-b230-2ea76140e71f"
+                ],
+                "subtitle": "",
+                "title": "Cold Signature Wraps",
+                "uuid": "35dfd5dc-2c2a-57ab-986f-5f3a44a0c6fe",
+                "displayType": null
+            },
+            "17144292-65c6-5dd2-b39e-a59c232cfd38": {
+                "itemUuids": [
+                    "521f5cc3-5623-5b66-9f84-4663db247e98",
+                    "4c4fc063-3096-585f-bdc6-7052ae0eee98",
+                    "2296bae6-3514-52ec-a42c-f100fa85aa7d",
+                    "a49306c3-1168-5801-8572-3d08fac717ce"
+                ],
+                "subtitle": "",
+                "title": "Cold Kids' Pak",
+                "uuid": "17144292-65c6-5dd2-b39e-a59c232cfd38",
+                "displayType": null
+            },
+            "5d72576f-9578-5e47-adfb-6e56ec0d3dd2": {
+                "itemUuids": [
+                    "c8a63185-ad94-5907-820f-808a412164b2",
+                    "38d5eeca-f55e-5421-a9b0-e1fcc450fe45",
+                    "86c7a780-ae21-52cf-b26b-cd3790cf6dfb",
+                    "1c5211f6-6fb4-5113-bbd6-8c77a88a19a5",
+                    "124e2c7b-8a38-5b21-af64-393e957f2d89",
+                    "b74fd791-7d04-574d-9e98-ea1edc73256d",
+                    "3efabe72-0037-5cc6-8a71-b535d32bbe05",
+                    "f827a367-3d99-5a7a-b7e5-d68f96c4a878",
+                    "7468dd34-45aa-59a1-88ad-421ce3309be8",
+                    "4d3ea8ca-279b-53e3-8828-ee0f15976060",
+                    "e6be7503-e1d0-574c-9d0b-36a744c6118d",
+                    "111e36ef-568a-548b-af86-c4189ae027fb",
+                    "26be0fd8-d4b9-548f-bb39-409f66d679b7",
+                    "17cdcb3d-bb34-5977-a0b7-a2c9cb88f479",
+                    "f95f6b17-74fc-5a2d-a046-461bc99128d3",
+                    "4d6d249a-198f-5c03-b340-2587e5b09728",
+                    "b72f00c3-9f6e-5357-94b9-1e60aef11e9a",
+                    "2fd836de-fc34-5a8e-b63d-9d9a32256bc6"
+                ],
+                "subtitle": "",
+                "title": "Hot Salad Bowls",
+                "uuid": "5d72576f-9578-5e47-adfb-6e56ec0d3dd2",
+                "displayType": null
+            },
+            "2ee125ba-ff5c-50da-9f3f-7f471c93a92e": {
+                "itemUuids": [
+                    "76cb0802-d871-5398-9ade-95aa64e09d80",
+                    "d494fa50-14e3-5147-8991-146394c3b1d2",
+                    "fb990069-0359-533b-8187-c29a6d95bfd9",
+                    "7bf0ffb4-7b00-5ed2-bd9a-22c7b9bd7275",
+                    "e0047d69-644b-51a8-b874-1cad2d910946",
+                    "cc68c3cd-b613-527e-b77b-b67b8df65768",
+                    "4ef88f7d-e83f-5832-8458-a7ec3c22c731",
+                    "149ea730-105b-5157-8280-53b3f2f2d0fb",
+                    "f0f3258e-c9c3-5d31-9e98-2b8611588313",
+                    "d0d49a8b-1dba-53c6-9c6f-08aff6ce9259",
+                    "eef52d81-6708-57e6-b627-6c6e35e6a5f1",
+                    "e25da5c2-bebf-5f62-afac-da3a2b1c2a3a",
+                    "122760f6-3c21-5460-a1cc-ae52226fc7ca",
+                    "565b2ee7-bc43-5318-8a1c-ae66020103eb",
+                    "2b09e0ce-4cce-5514-bb3c-faa5af1a2a9f",
+                    "4ba03e44-f0b2-5fbf-bf4c-e81cf7d6be4e"
+                ],
+                "subtitle": "",
+                "title": "Cold Salad Bowls",
+                "uuid": "2ee125ba-ff5c-50da-9f3f-7f471c93a92e",
+                "displayType": null
+            },
+            "986232cf-19e0-58f6-96ec-9f000de20cce": {
+                "itemUuids": [
+                    "cd9c316d-0697-5107-9c54-49071be2e211",
+                    "81e0faad-51da-5c70-8b22-b5fada4fa3c3",
+                    "8d8b862f-69d0-5b69-bcbd-936140590a3d",
+                    "4d1aba89-e172-576c-868c-e1f0fa291e94",
+                    "f7d44e3d-8258-5c51-be0d-958b6693e967",
+                    "c72dbc28-adde-5a5b-aadc-4bfb819f038c",
+                    "61e80013-acdb-507c-a4d5-d7c24c3f2aed",
+                    "d40eb528-7716-571c-8cc5-9f373f1021da",
+                    "af966ad5-37e0-5948-9056-684ba1cf1b8e",
+                    "456bc922-b458-5a99-8e31-94742cf7b6ba",
+                    "f54dba9a-10ff-5918-bfd2-e6e31beed5c6",
+                    "537cb301-9e7e-5019-93de-64bfcbe115d4",
+                    "2846de3d-3af6-5230-8dfc-e783e807c610",
+                    "2ffaaf8f-9075-538b-8400-0b8be7ac2a74",
+                    "c76db417-f3e6-5813-b81b-fa66dd431598",
+                    "b89fa744-cb1e-5b0b-98ed-9bb0998f00cc",
+                    "5bb24de9-cfd5-5991-8ecc-1517369277d3",
+                    "a09d1889-c12f-545c-90f0-074d57c39f6d",
+                    "d37a63a9-daa0-5b97-a4e2-f1afbbd4b9a6",
+                    "5a3f174d-36ad-5060-9bd6-b492a2a559c0",
+                    "329c9a39-380c-551c-a7cf-cdfee6a8542d",
+                    "70e4878c-40aa-54b6-9997-25649647ca0b"
+                ],
+                "subtitle": "",
+                "title": "Footlong Toasted/Hot Subs",
+                "uuid": "986232cf-19e0-58f6-96ec-9f000de20cce",
+                "displayType": null
+            },
+            "9b316248-0981-5e73-8ecc-7b00caa0d494": {
+                "itemUuids": [
+                    "ae2fce2f-592a-58f6-a375-6dcb2ff53cd1",
+                    "1a50ecd4-58bb-5c8a-bb20-fb4f0bd4ccfa",
+                    "7ac2dc54-0d1e-5197-b11a-e2f6f5cda4a1",
+                    "6f1dd8ac-0f8c-5f9f-ad08-ed1abf240ec2",
+                    "893ed9d9-5bac-594c-a4f6-27cbdc1a68bd",
+                    "110871f1-ab5d-5a5a-8709-b3b60aebc769",
+                    "424a3e4e-cf91-5c20-8e5e-ee2cc645a7da",
+                    "4063d3c3-764c-551f-a311-0a284ff44047",
+                    "a18648cf-c3bc-5324-ae7d-0a62e34f7c55",
+                    "d160f239-4a23-586e-a7fc-8a5683303d65",
+                    "b696adb3-529c-525c-bb6e-801be134265b",
+                    "0e24c227-59ee-5365-9c86-1b7569c192dd",
+                    "efbfce53-3a46-554c-a0a0-68de6839e3ab",
+                    "2031cc34-5860-505a-951b-795fec5d3ea8"
+                ],
+                "subtitle": "",
+                "title": "Footlong Cold Subs",
+                "uuid": "9b316248-0981-5e73-8ecc-7b00caa0d494",
+                "displayType": null
+            },
+            "bf23a16e-7ca5-5fb6-998c-3939797ac448": {
+                "itemUuids": [
+                    "2748a182-30f3-5e0b-80f2-330e65db2cd3",
+                    "8e8eda7d-ddc7-5cf5-8fbc-dbe5089c16e6",
+                    "9272f6cc-243e-5b78-8357-04213fbe57a4",
+                    "c52c8a88-0abf-55bf-80d5-73ae5454f03f",
+                    "c91cec93-45a4-54bd-9448-316e8cfe34a1",
+                    "01c54687-4bae-585f-86b7-15da440cb0ff",
+                    "e7c7079e-ccf0-56c3-a736-7336e0d919ad",
+                    "0f62eb95-30e6-5543-a241-f4916b50a077",
+                    "5b87e458-d04f-5aac-8033-88b0a2e4b623",
+                    "9bf31b49-1a0f-5d0b-887e-ccf95cb39ff6",
+                    "8efd8b15-35b2-5392-93b0-f3dfa01df6d5",
+                    "d4e0f3f0-171b-564f-a2c6-aed4b12f56aa",
+                    "ac2c7f34-1751-5c0c-b749-233bbb15c1d4",
+                    "924681b2-77f9-5d95-acda-b1a391df4e6f"
+                ],
+                "subtitle": "",
+                "title": "6-inch Cold Subs",
+                "uuid": "bf23a16e-7ca5-5fb6-998c-3939797ac448",
+                "displayType": null
+            },
+            "55ca5917-d9a0-5460-950c-0aafe4410755": {
+                "itemUuids": [
+                    "bad5225d-3772-5915-b93a-a4792120949f",
+                    "d82d6c2d-ad77-546b-8463-373f5a5f09d2",
+                    "8d8b728d-98fb-5ab4-bc76-67eb615602a8",
+                    "be95dd9e-7aeb-57a0-af8f-1dd2552c199a"
+                ],
+                "subtitle": "",
+                "title": "Toasted/Hot Kids' Pak",
+                "uuid": "55ca5917-d9a0-5460-950c-0aafe4410755",
+                "displayType": null
+            },
+            "d40f55a4-a3b3-5e39-a499-e72ad0344171": {
+                "itemUuids": [
+                    "8adff8d1-f015-5aad-8263-08b8567c688e",
+                    "8d4c2efb-4198-58bf-b91c-a1ddebfa522c",
+                    "31fa314d-c023-5e2d-af45-dee4fda112c4",
+                    "2a73cd7d-26a6-5a37-8c58-ce2fb9c97b27"
+                ],
+                "subtitle": "",
+                "title": "Platter Subs",
+                "uuid": "d40f55a4-a3b3-5e39-a499-e72ad0344171",
+                "displayType": null
+            },
+            "9a53bce5-7a3d-5867-8efc-de3284a40f08": {
+                "itemUuids": [
+                    "0731cf03-c068-5564-9a1e-3c632e229132",
+                    "61cd7062-afe6-5930-a75d-e48f2a68666b",
+                    "e02b7b87-7348-5334-8c6c-be02cc4e2b29"
+                ],
+                "subtitle": "",
+                "title": "Crisps",
+                "uuid": "9a53bce5-7a3d-5867-8efc-de3284a40f08",
+                "displayType": null
+            },
+            "fbf50cf3-8e4e-5175-8f2a-05f2c1bf4c82": {
+                "itemUuids": [
+                    "bd423925-bfb4-5d1e-9df2-51b9faa3b64d",
+                    "ee29bb8d-30d0-525a-97b5-3d56cd5b45e6",
+                    "803a7e95-7034-5a32-8e4a-7b1097c08803",
+                    "6c4164d4-5c1a-542c-b761-89d6baf8ea2d",
+                    "e3343fd8-c4fb-59be-bae2-b060f15c9f5e",
+                    "bce630fc-6fb8-5d6b-a92c-5c403b4f2317",
+                    "5f5147e4-60fd-5881-89f8-35cd19d7d9b0",
+                    "c7d69a54-ec6a-5be3-82f1-11a552a2ea07",
+                    "dcea5cbb-f949-5384-9a60-8e486b03b7df",
+                    "96d6bb90-335c-5da6-a1e3-8c083d53aa11",
+                    "88f310ef-d3bc-599e-9355-60be63b89bd7",
+                    "88c2f5ad-8243-5c54-89ee-20006cf510da",
+                    "5fa8ecb5-1264-5424-9f57-dfdfed07d414"
+                ],
+                "subtitle": "",
+                "title": "Drinks",
+                "uuid": "fbf50cf3-8e4e-5175-8f2a-05f2c1bf4c82",
+                "displayType": null
+            },
+            "e71e541a-3f90-5c64-ba55-4722adcf8c60": {
+                "itemUuids": [
+                    "9699c776-5c3c-5ba4-a06f-d35c401f81d4",
+                    "51a7879c-a657-574e-9a09-c9bab17242d6",
+                    "0e990333-0535-5187-9720-90333e7476e9",
+                    "aba19a28-90d6-5a9f-a9aa-d01e38554b32"
+                ],
+                "subtitle": "",
+                "title": "Desserts",
+                "uuid": "e71e541a-3f90-5c64-ba55-4722adcf8c60",
+                "displayType": null
+            }
+        },
+        "title": "Subway (Cowcross Street)",
+        "uuid": "49a1ad34-6a45-4323-bea4-cc1f290bc398",
+        "categories": [
+            "₴",
+            "Сандвічі",
+            "Сніданок і бранч",
+            "Салати",
+            "Здорова їжа"
+        ],
+        "cuisineList": [
+            "Сандвічі",
+            "Сніданок і бранч",
+            "Салати",
+            "Здорова їжа"
+        ],
+        "priceBucket": "₴",
+        "etaRange": {
+            "text": "25–35 min",
+            "iconUrl": ""
+        },
+        "ratingBadge": {
+            "text": "<span><span style=\"font-family: inherit; color: #3a3a48;\">4.1 <img src=\"https://d1a3f4spazzrp4.cloudfront.net/static/images/Star_Black_Eats_3.png\" width=\"14\" height=\"14\" vertical-align=\"middle\"> </span><span style=\"font-family: inherit; color: #757575;\">(36)</span></span>"
+        },
+        "disclaimerBadge": {
+            "text": "<span style=\"font-family: inherit;\">For information about our ingredients please click here for allergen and nutritional information: <a href=\"https://www.subway.com/en-GB/MenuNutrition/Nutrition\" style=\"color:#61ad5f;\">https://www.subway.com/en GB/MenuNutrition/Nutrition</a>. For more information on food safety and hygiene, please visit the Food Standards Agency on http://ratings.food.gov.uk/. Please note that customers cannot collect or redeem Subcard points when placing an order through third party delivery platforms. Currently, Subcard points can only be collected or redeemed when purchasing directly in store.</span>"
+        },
+        "fareBadge": null,
+        "fareInfo": {
+            "serviceFee": 30,
+            "serviceFeeCents": 3000
+        },
+        "promotion": null,
+        "shouldIndex": false,
+        "heroImageUrls": [
+            {
+                "url": "https://d1ralsognjng37.cloudfront.net/fd09ed7f-0c0c-4042-8946-7b9d3e6e5d82.jpeg",
+                "width": 240
+            },
+            {
+                "url": "https://d1ralsognjng37.cloudfront.net/4cf09810-5d56-4295-9c46-4e977fed4bf8.jpeg",
+                "width": 550
+            },
+            {
+                "url": "https://d1ralsognjng37.cloudfront.net/e5382fc5-b56e-4975-b3c1-f5d17e3dfbde.jpeg",
+                "width": 640
+            },
+            {
+                "url": "https://d1ralsognjng37.cloudfront.net/0eab6bc4-5ef2-4008-90e1-a042b0adb6a4.jpeg",
+                "width": 750
+            },
+            {
+                "url": "https://d1ralsognjng37.cloudfront.net/4e5cf917-8208-488d-98a3-0d694139019c.jpeg",
+                "width": 1080
+            },
+            {
+                "url": "https://d1ralsognjng37.cloudfront.net/ef06089c-5e99-42d8-9c16-608a3ebcb7de.jpeg",
+                "width": 2880
+            }
+        ],
+        "isOpen": true,
+        "currencyCode": "GBP",
+        "closedMessage": "Currently unavailable",
+        "location": {
+            "address": "4 Cowcross Street, London, London, London EC1M 6DR",
+            "streetAddress": "4 Cowcross Street",
+            "city": "London",
+            "country": "GB",
+            "postalCode": "EC1M 6DR",
+            "region": "London",
+            "latitude": 51.52013820000001,
+            "longitude": -0.10224209999999999
+        },
+        "isDeliveryThirdParty": false,
+        "hours": [
+            {
+                "dayRange": "Sunday",
+                "sectionHours": [
+                    {
+                        "startTime": 0,
+                        "endTime": 1439,
+                        "sectionTitle": "Menu"
+                    }
+                ]
+            },
+            {
+                "dayRange": "Monday",
+                "sectionHours": [
+                    {
+                        "startTime": 0,
+                        "endTime": 60,
+                        "sectionTitle": "Menu"
+                    },
+                    {
+                        "startTime": 420,
+                        "endTime": 1439,
+                        "sectionTitle": "Menu"
+                    }
+                ]
+            },
+            {
+                "dayRange": "Tuesday - Thursday",
+                "sectionHours": [
+                    {
+                        "startTime": 420,
+                        "endTime": 1439,
+                        "sectionTitle": "Menu"
+                    },
+                    {
+                        "startTime": 0,
+                        "endTime": 60,
+                        "sectionTitle": "Menu"
+                    }
+                ]
+            },
+            {
+                "dayRange": "Friday",
+                "sectionHours": [
+                    {
+                        "startTime": 420,
+                        "endTime": 1439,
+                        "sectionTitle": "Menu"
+                    }
+                ]
+            },
+            {
+                "dayRange": "Saturday",
+                "sectionHours": [
+                    {
+                        "startTime": 0,
+                        "endTime": 1439,
+                        "sectionTitle": "Menu"
+                    }
+                ]
+            }
+        ],
+        "disableOrderInstruction": false,
+        "disableCheckoutInstruction": false,
+        "nuggets": [],
+        "isWithinDeliveryRange": false,
+        "slug": "subway-cowcross-street",
+        "citySlug": "london",
+        "phoneNumber": "+442074902625",
+        "metaJson": "{\"@context\":\"http:\\u002F\\u002Fschema.org\",\"@type\":\"Restaurant\",\"@id\":\"https:\\u002F\\u002Fwww.ubereats.com\\u002Fen-UA\\u002Flondon\\u002Ffood-delivery\\u002Fsubway-cowcross-street\\u002FSaGtNGpFQyO-pMwfKQvDmA\\u002F\",\"name\":\"Subway (Cowcross Street)\",\"priceRange\":\"₴\",\"potentialAction\":{\"@type\":\"OrderAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\\u002F\\u002Fwww.ubereats.com\\u002Fen-UA\\u002Flondon\\u002Ffood-delivery\\u002Fsubway-cowcross-street\\u002FSaGtNGpFQyO-pMwfKQvDmA\\u002F?utm_campaign=order-action&utm_medium=organic\",\"inLanguage\":\"English\",\"actionPlatform\":[\"http:\\u002F\\u002Fschema.org\\u002FDesktopWebPlatform\",\"http:\\u002F\\u002Fschema.org\\u002FMobileWebPlatform\"]},\"deliveryMethod\":[\"http:\\u002F\\u002Fpurl.org\\u002Fgoodrelations\\u002Fv1#DeliveryModeOwnFleet\"]},\"address\":{\"@type\":\"PostalAddress\",\"addressLocality\":\"London\",\"addressRegion\":\"London\",\"postalCode\":\"EC1M 6DR\",\"addressCountry\":\"GB\",\"streetAddress\":\"4 Cowcross Street\"},\"geo\":{\"@type\":\"GeoCoordinates\",\"latitude\":51.52013820000001,\"longitude\":-0.10224209999999999}}",
+        "promoTrackings": [],
+        "suggestedPromotion": {
+            "text": "",
+            "promotionUuid": ""
+        },
+        "supportedDiningModes": [
+            {
+                "mode": "DELIVERY",
+                "title": "Delivery",
+                "isSelected": true,
+                "isAvailable": true
+            }
+        ],
+        "isPreview": false,
+        "pinnedInfo": null
+    }
+}

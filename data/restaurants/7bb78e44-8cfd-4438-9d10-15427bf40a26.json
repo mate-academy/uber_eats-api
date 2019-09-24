@@ -1,0 +1,2040 @@
+{
+    "status": "success",
+    "data": {
+        "sectionEntitiesMap": {
+            "bdf272d4-e503-410a-9f5f-07600f561909": {
+                "98edad8d-190a-4938-ac5c-388dd0049154": {
+                    "description": "Stir-fried with vegetables and oyster sauce.",
+                    "imageUrl": null,
+                    "price": 895,
+                    "title": "Beef Stir Fried Oyster Sauce (Pad Nam Mon Hoy)",
+                    "uuid": "98edad8d-190a-4938-ac5c-388dd0049154",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "88a05ed8-67a8-4683-ab34-975d14ea4b20": {
+                    "description": "Mixed vegetable and glass noodles spring rolls served with sweet chilli sauce.",
+                    "imageUrl": null,
+                    "price": 495,
+                    "title": "Vegetable Spring Roll",
+                    "uuid": "88a05ed8-67a8-4683-ab34-975d14ea4b20",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "a697c8e6-ab79-4c72-b627-bfb77cd16da9": {
+                    "description": "Sirloin beef served on fresh salad with Thai herbs and seasoned with spicy dressing.",
+                    "imageUrl": null,
+                    "price": 995,
+                    "title": "Yum Nua (Sirloin Beef Salad)",
+                    "uuid": "a697c8e6-ab79-4c72-b627-bfb77cd16da9",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "4f7a7e53-2627-45fb-87da-19e7f8be78d0": {
+                    "description": "Mixed vegetables, Thai sweet and sour sauce, stir-fried with your choice of meat.",
+                    "imageUrl": null,
+                    "price": 795,
+                    "title": "Vegetable Stir Fried Sweet And Sour (Pad Priew Wan) ",
+                    "uuid": "4f7a7e53-2627-45fb-87da-19e7f8be78d0",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "d8edd409-aed7-4606-9591-cd2ce82e2403": {
+                    "description": "Stir-fried with vegetables and oyster sauce.",
+                    "imageUrl": null,
+                    "price": 895,
+                    "title": "Chicken Stir Fried Oyster Sauce (Pad Nam Mon Hoy)",
+                    "uuid": "d8edd409-aed7-4606-9591-cd2ce82e2403",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "c6be723f-5d00-4527-82be-61e6e722c770": {
+                    "description": "Sirloin of steak beef lightly grilled cooked in coconut cream, presented relatively dry\nand garnished with shredded lime leaves.",
+                    "imageUrl": null,
+                    "price": 1195,
+                    "title": "Panang Nua Yang",
+                    "uuid": "c6be723f-5d00-4527-82be-61e6e722c770",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "2cd3ba94-2a5a-4215-9d01-484fe74383ea": {
+                    "description": "Stir-fried flat noodles, seasoned with egg, soya sauce, broccoli and vegetables.",
+                    "imageUrl": null,
+                    "price": 1095,
+                    "title": "Seafood Pad See Iew",
+                    "uuid": "2cd3ba94-2a5a-4215-9d01-484fe74383ea",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "27b31724-a756-4adc-88db-386a8d941262": {
+                    "description": "Stir-fried thin rice noodles, seasoned with egg, curry powder, bean sprouts, soya sauce and vegetables.",
+                    "imageUrl": null,
+                    "price": 895,
+                    "title": "Chicken Singapore Noodle",
+                    "uuid": "27b31724-a756-4adc-88db-386a8d941262",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "a7cac316-bfb3-45dc-beff-92bba3e11e2c": {
+                    "description": "Stir-fried flat noodles, seasoned with egg, soya sauce, broccoli and vegetables.",
+                    "imageUrl": null,
+                    "price": 895,
+                    "title": "Beef Pad See Iew",
+                    "uuid": "a7cac316-bfb3-45dc-beff-92bba3e11e2c",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "db8d88b0-6e71-4fc8-9c92-87ab3e8b2155": {
+                    "description": "Mixed vegetables, Thai sweet and sour sauce, stir-fried with your choice of meat.",
+                    "imageUrl": null,
+                    "price": 895,
+                    "title": "Chicken Stir Fried Sweet And Sour (Pad Priew Wan)",
+                    "uuid": "db8d88b0-6e71-4fc8-9c92-87ab3e8b2155",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "e9853dad-9f65-4062-8de3-2093c644043a": {
+                    "description": "Rice noodles cooked with egg, bean sprouts, carrots, peanuts and spring onions with our own special sauce.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/3c9a72c5-88a5-4387-81b9-3fbafcebf7ac",
+                    "price": 995,
+                    "title": "Prawns Pad Thai",
+                    "uuid": "e9853dad-9f65-4062-8de3-2093c644043a",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "0add8eee-22af-4c27-9b69-238078e36630": {
+                    "description": "Sharing for two people.",
+                    "imageUrl": null,
+                    "price": 4000,
+                    "title": "Set Menu A",
+                    "uuid": "0add8eee-22af-4c27-9b69-238078e36630",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "f92acfdb-3cb5-44b8-851e-f483ef862d7f": {
+                    "description": "Thai Jasmine rice.",
+                    "imageUrl": null,
+                    "price": 250,
+                    "title": "Steamed Rice",
+                    "uuid": "f92acfdb-3cb5-44b8-851e-f483ef862d7f",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "f6ee2ea4-98c2-46a8-abfa-0b303fe24ff8": {
+                    "description": "Green curry is cooked in coconut milk with fresh green chilli paste, bamboo shoots and aubergine.",
+                    "imageUrl": null,
+                    "price": 795,
+                    "title": "Vegetable Green Curry (Kang Kiew Wan)",
+                    "uuid": "f6ee2ea4-98c2-46a8-abfa-0b303fe24ff8",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "endorsement": {
+                        "text": "Vegetarian",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png"
+                    },
+                    "classifications": []
+                },
+                "2dfe500f-cd63-4ebe-9177-c015267b93b7": {
+                    "description": " Stir-fried Ginger (Pad Khing).",
+                    "imageUrl": null,
+                    "price": 795,
+                    "title": "Vegetable Stir-fried Ginger (Pad Khing)",
+                    "uuid": "2dfe500f-cd63-4ebe-9177-c015267b93b7",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "33e74c47-f0be-4ff2-9a7d-b80d06208331": {
+                    "description": "Stir-fried flat noodles with onion, long green bean and chillies.",
+                    "imageUrl": null,
+                    "price": 895,
+                    "title": "Chicken Pad Kee Mao",
+                    "uuid": "33e74c47-f0be-4ff2-9a7d-b80d06208331",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "ac70ef7d-ee03-4ea8-8422-36563be7941b": {
+                    "description": "Stir-fried with vegetables and oyster sauce.",
+                    "imageUrl": null,
+                    "price": 795,
+                    "title": "Vegetable Stir Fried Oyster Sauce (Pad Nam Mon Hoy)",
+                    "uuid": "ac70ef7d-ee03-4ea8-8422-36563be7941b",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "c245f3ae-356b-4091-bdfb-3b77230a4853": {
+                    "description": "The traditional creamy coconut milk soup, spiced with galangal, lemongrass, lime leaves and chilli paste topped with chilli oil and fried shallot",
+                    "imageUrl": null,
+                    "price": 595,
+                    "title": "Tom Kha Soup",
+                    "uuid": "c245f3ae-356b-4091-bdfb-3b77230a4853",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "endorsement": {
+                        "text": "Vegetarian Option",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png"
+                    },
+                    "classifications": []
+                },
+                "9e143fff-f5c1-4e54-bf17-88409e86ba1c": {
+                    "description": "Riched red curry sauce with bamboo shoots, lime leaves and aubergine.",
+                    "imageUrl": null,
+                    "price": 895,
+                    "title": "Chicken Red Curry (Kang Phed)",
+                    "uuid": "9e143fff-f5c1-4e54-bf17-88409e86ba1c",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "75173cb4-fe35-4072-84be-4322a6b6020e": {
+                    "description": "Slices of roasted duck breast smothered in a sweet tamarind sauce and topped with\ndry shallots.",
+                    "imageUrl": null,
+                    "price": 995,
+                    "title": "Ped Makahm (Tamarind Duck)",
+                    "uuid": "75173cb4-fe35-4072-84be-4322a6b6020e",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "3bd5bcc0-f39b-4e13-902f-0b11626598d1": {
+                    "description": "",
+                    "imageUrl": null,
+                    "price": 295,
+                    "title": "Prawn Cracker",
+                    "uuid": "3bd5bcc0-f39b-4e13-902f-0b11626598d1",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "80e8a446-2bb1-4d26-a43a-da7c58f92a25": {
+                    "description": "Green curry with fresh green chilli and coconut milk with sweet basil leaves.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/8f21d031-2581-4803-8328-006c88db26d7",
+                    "price": 995,
+                    "title": "Kang Kiew Wan (Green Curry)",
+                    "uuid": "80e8a446-2bb1-4d26-a43a-da7c58f92a25",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "endorsement": {
+                        "text": "Vegetarian Option",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png"
+                    },
+                    "classifications": []
+                },
+                "b4bac2e0-135f-470b-b709-88bb5e8b2736": {
+                    "description": "",
+                    "imageUrl": null,
+                    "price": 295,
+                    "title": "Beers",
+                    "uuid": "b4bac2e0-135f-470b-b709-88bb5e8b2736",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "c7f546d4-8883-4a1d-bf9a-072e474e8908": {
+                    "description": "Cooked in coconut milk, presented relatively dry and garnished with shredded limeleaves. This curry has mild and rich taste.",
+                    "imageUrl": null,
+                    "price": 795,
+                    "title": "Vegetable Panang Curry",
+                    "uuid": "c7f546d4-8883-4a1d-bf9a-072e474e8908",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "endorsement": {
+                        "text": "Vegetarian",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png"
+                    },
+                    "classifications": []
+                },
+                "cdaea5ab-3737-4b51-b69f-37957263d65f": {
+                    "description": "Slightly deep-fried sweet corn cake served with sweet chilli sauce.",
+                    "imageUrl": null,
+                    "price": 495,
+                    "title": "Corn Cake (Tod Mun Khow Pod)",
+                    "uuid": "cdaea5ab-3737-4b51-b69f-37957263d65f",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "endorsement": {
+                        "text": "Vegetarian",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png"
+                    },
+                    "classifications": []
+                },
+                "aa080de2-b778-4f38-84ef-f5becece0936": {
+                    "description": " Stir-fried Ginger (Pad Khing).",
+                    "imageUrl": null,
+                    "price": 895,
+                    "title": "Beef Stir-fried Ginger (Pad Khing)",
+                    "uuid": "aa080de2-b778-4f38-84ef-f5becece0936",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "5ede7ae7-662c-4a5e-b1d2-040f4d2db7b5": {
+                    "description": " Stir-fried Ginger (Pad Khing).",
+                    "imageUrl": null,
+                    "price": 995,
+                    "title": "Duck Stir-fried Ginger (Pad Khing)",
+                    "uuid": "5ede7ae7-662c-4a5e-b1d2-040f4d2db7b5",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "e165764e-bf43-487e-aa75-0c091e63a841": {
+                    "description": "Stir-fried mixed vegetables with oyster sauce. Perfect as a share side order.",
+                    "imageUrl": null,
+                    "price": 645,
+                    "title": "Pad Pak",
+                    "uuid": "e165764e-bf43-487e-aa75-0c091e63a841",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "95acde2d-3aca-4a49-a949-cafc95f6ee61": {
+                    "description": "Minced chicken, seasoned with Thai herbs, ground rice, chilli powder, fish sauce, and lime juice.",
+                    "imageUrl": null,
+                    "price": 895,
+                    "title": "Larb Gai (Northern Style Salad)",
+                    "uuid": "95acde2d-3aca-4a49-a949-cafc95f6ee61",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "ce7b98e0-a403-4278-92c8-c0d065c1fabe": {
+                    "description": "Marinated and seasoned prawn spring rolls served with sweet chilli sauce.",
+                    "imageUrl": null,
+                    "price": 595,
+                    "title": "Prawn Spring Roll",
+                    "uuid": "ce7b98e0-a403-4278-92c8-c0d065c1fabe",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "fcb01117-eeec-46df-bb33-21fe69d1881c": {
+                    "description": "Steamed sea bass cooked in spicy chilli sauce and lime sauce.",
+                    "imageUrl": null,
+                    "price": 1395,
+                    "title": "Sea Bass With Lemon and Chilli (Pla Nung Ma Now)",
+                    "uuid": "fcb01117-eeec-46df-bb33-21fe69d1881c",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "c5f56d76-0e7a-4d89-98aa-f97b03c8f29a": {
+                    "description": "Riched red curry sauce with bamboo shoots, lime leaves and aubergine.",
+                    "imageUrl": null,
+                    "price": 795,
+                    "title": "Vegetable Red Curry (Kang Phed)",
+                    "uuid": "c5f56d76-0e7a-4d89-98aa-f97b03c8f29a",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "9ec68455-5b62-497e-a56e-5fe8cf4709f3": {
+                    "description": "Stir-fried with vegetables and oyster sauce.",
+                    "imageUrl": null,
+                    "price": 995,
+                    "title": "Prawn Stir Fried Oyster Sauce (Pad Nam Mon Hoy)",
+                    "uuid": "9ec68455-5b62-497e-a56e-5fe8cf4709f3",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "2eeea0a8-d32d-4195-a93c-0c0334fbd116": {
+                    "description": "Skewered chicken well marinated and char-grilled served with peanut sauce.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/9576d4a8-b6ca-4a5f-9529-057658315df9",
+                    "price": 595,
+                    "title": "Satay Chicken",
+                    "uuid": "2eeea0a8-d32d-4195-a93c-0c0334fbd116",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "a27ee459-3ebf-4682-b00e-072c427216a6": {
+                    "description": "Stir fried rice with egg and garlic.",
+                    "imageUrl": null,
+                    "price": 295,
+                    "title": "Garlic Rice",
+                    "uuid": "a27ee459-3ebf-4682-b00e-072c427216a6",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "c7d286e1-5880-405d-9f28-89d3d665e177": {
+                    "description": "Green curry is cooked in coconut milk with fresh green chilli paste, bamboo shoots and aubergine.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/d38ce31b-0685-4f8e-b681-f8ebff00086c",
+                    "price": 995,
+                    "title": "Prawn Green Curry (Kang Kiew Wan)",
+                    "uuid": "c7d286e1-5880-405d-9f28-89d3d665e177",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "0b8caa46-abe6-49e2-a97f-46fd2ef6dcc4": {
+                    "description": "Green curry is cooked in coconut milk with fresh green chilli paste, bamboo shoots and aubergine.",
+                    "imageUrl": null,
+                    "price": 1095,
+                    "title": "Seafood Green Curry (Kang Kiew Wan)",
+                    "uuid": "0b8caa46-abe6-49e2-a97f-46fd2ef6dcc4",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "a2c47e45-58fd-4416-a649-9a55d112e2bc": {
+                    "description": "A famous skewered of chicken well marinated and char-grilled serve with satay peanut sauce.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/e1aa8d9b-fa09-4cab-913a-9b0401a193d9",
+                    "price": 595,
+                    "title": "Satay Chicken",
+                    "uuid": "a2c47e45-58fd-4416-a649-9a55d112e2bc",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "51dd36c2-4c46-4a97-8c86-14935d09f14c": {
+                    "description": "Medium-hot stir fried lamb with Krachai (wild- ginger root) young pepper corns,\nonions, long green beans and fresh chillies.",
+                    "imageUrl": null,
+                    "price": 1095,
+                    "title": "Chilli Lamb",
+                    "uuid": "51dd36c2-4c46-4a97-8c86-14935d09f14c",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "893ee40e-b88d-479c-95da-63200605538f": {
+                    "description": "Stir fried broccoli in oyster sauce.",
+                    "imageUrl": null,
+                    "price": 645,
+                    "title": "Pad Broccoli",
+                    "uuid": "893ee40e-b88d-479c-95da-63200605538f",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "065c77fd-fd36-4242-8202-db26f15f98d3": {
+                    "description": "Stir-fried flat noodles with onion, long green bean and chillies.",
+                    "imageUrl": null,
+                    "price": 795,
+                    "title": "Vegetable Pad Kee Mao",
+                    "uuid": "065c77fd-fd36-4242-8202-db26f15f98d3",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "9ff2e920-a81a-4923-b1fc-5de060ae78cc": {
+                    "description": "Cooked in coconut milk, presented relatively dry and garnished with shredded limeleaves. This curry has mild and rich taste.",
+                    "imageUrl": null,
+                    "price": 895,
+                    "title": "Chicken Panang Curry",
+                    "uuid": "9ff2e920-a81a-4923-b1fc-5de060ae78cc",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "504c6011-68bd-48f2-8bed-728f65045bf4": {
+                    "description": "Stir-fried thin rice noodles, seasoned with egg, curry powder, bean sprouts, soya sauce and vegetables.",
+                    "imageUrl": null,
+                    "price": 795,
+                    "title": "Vegetable Singapore Noodles",
+                    "uuid": "504c6011-68bd-48f2-8bed-728f65045bf4",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "1d948a16-4bb3-4dab-b5a2-1fd746a201ff": {
+                    "description": "Deep-fried squid with garlic, salt and pepper served with Thai creamy sauce.",
+                    "imageUrl": null,
+                    "price": 625,
+                    "title": "Squid Tod",
+                    "uuid": "1d948a16-4bb3-4dab-b5a2-1fd746a201ff",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "bdbe522c-97bd-4fb4-9bcf-85848e80ca36": {
+                    "description": "Mild curry from the south of Thailand cooked in rich coconut milk with massaman paste, onions, potatoes and topped with cashew nuts.",
+                    "imageUrl": null,
+                    "price": 795,
+                    "title": "Mussaman Curry",
+                    "uuid": "bdbe522c-97bd-4fb4-9bcf-85848e80ca36",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "endorsement": {
+                        "text": "Vegetarian",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png"
+                    },
+                    "classifications": []
+                },
+                "ed1e65e0-ce0a-48b6-8565-88deaf1ee2b3": {
+                    "description": "Stir-fried flat noodles with onion, long green bean and chillies.",
+                    "imageUrl": null,
+                    "price": 895,
+                    "title": "Beef Pad Kee Mao",
+                    "uuid": "ed1e65e0-ce0a-48b6-8565-88deaf1ee2b3",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "3a19eec4-1c2c-469e-be2c-044ee5ada859": {
+                    "description": "Deep-fried prawn and chicken Dim Sum served with sweet chilli sauce.",
+                    "imageUrl": null,
+                    "price": 595,
+                    "title": "Deep Fried Dim Sum (Kah Nom Jeeb Tod)",
+                    "uuid": "3a19eec4-1c2c-469e-be2c-044ee5ada859",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "2846403b-2d79-4604-a362-f5604ca3b65f": {
+                    "description": " Stir-fried Ginger (Pad Khing).",
+                    "imageUrl": null,
+                    "price": 895,
+                    "title": "Chicken Stir-fried Ginger (Pad Khing)",
+                    "uuid": "2846403b-2d79-4604-a362-f5604ca3b65f",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "6282ce27-aa5f-4186-bddc-bac0811c0d69": {
+                    "description": "Stir fried pad choi with oyster sauce.",
+                    "imageUrl": null,
+                    "price": 645,
+                    "title": "Pad Choi",
+                    "uuid": "6282ce27-aa5f-4186-bddc-bac0811c0d69",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "1ea30e2d-bcbe-4b6a-8476-80ac06115715": {
+                    "description": "Stir-fried flat noodles with onion, long green bean and chillies.",
+                    "imageUrl": null,
+                    "price": 995,
+                    "title": "Prawn Pad Kee Mao",
+                    "uuid": "1ea30e2d-bcbe-4b6a-8476-80ac06115715",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "fc03dba2-cc55-4956-b185-d54cbf07adac": {
+                    "description": "Try as a side instead of rice. Thai Thai special with spring onion and bean sprouts.",
+                    "imageUrl": null,
+                    "price": 495,
+                    "title": "Plain Noodles (Side Order)",
+                    "uuid": "fc03dba2-cc55-4956-b185-d54cbf07adac",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "30e88a7a-3f23-42c0-a66b-962d9b5c5112": {
+                    "description": "Stir-fried flat noodles, seasoned with egg, soya sauce, broccoli and vegetables.",
+                    "imageUrl": null,
+                    "price": 995,
+                    "title": "Prawn Pad See Iew",
+                    "uuid": "30e88a7a-3f23-42c0-a66b-962d9b5c5112",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "89900ac9-a5d4-4f1c-b895-8258c91b53c5": {
+                    "description": "Riched red curry sauce with bamboo shoots, lime leaves and aubergine.",
+                    "imageUrl": null,
+                    "price": 895,
+                    "title": "Beef Red Curry (Kang Phed)",
+                    "uuid": "89900ac9-a5d4-4f1c-b895-8258c91b53c5",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "5b402b9c-aad2-4084-9223-831693e54298": {
+                    "description": "Deep fried Japanese mixed vegetables Dim Sum served with light dark sauce.",
+                    "imageUrl": null,
+                    "price": 595,
+                    "title": "Crispy Gyoza Dumplings",
+                    "uuid": "5b402b9c-aad2-4084-9223-831693e54298",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "71e13505-bdd0-4a46-996c-ccfba8e32343": {
+                    "description": "A light dish stir-fried with shredded ginger, spring onion and mushrooms.",
+                    "imageUrl": null,
+                    "price": 995,
+                    "title": "Prawn Stir-fried Ginger (Pad Khing)",
+                    "uuid": "71e13505-bdd0-4a46-996c-ccfba8e32343",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "5c4afcb0-1131-4bc6-8357-50e480203988": {
+                    "description": "Marinated minced prawn deep fried on toast served with sweet chilli sauce.",
+                    "imageUrl": null,
+                    "price": 595,
+                    "title": "Prawn on Toast (Kah Nom Pung Na Goong)",
+                    "uuid": "5c4afcb0-1131-4bc6-8357-50e480203988",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "2a75827e-31ce-4b40-9dcb-02f17180b3e5": {
+                    "description": "The famous slow – cooked dice beef in massamun curry serve with onions, potatoes, cashew nuts, and cinnamons.",
+                    "imageUrl": null,
+                    "price": 1095,
+                    "title": "Stewed Beef Massamun Curry",
+                    "uuid": "2a75827e-31ce-4b40-9dcb-02f17180b3e5",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "2c6b496e-f08f-437a-905f-14b8b2852948": {
+                    "description": "Riched red curry sauce with bamboo shoots, lime leaves and aubergine.",
+                    "imageUrl": null,
+                    "price": 995,
+                    "title": "Prawn Red Curry (Kang Phed)",
+                    "uuid": "2c6b496e-f08f-437a-905f-14b8b2852948",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "693be521-6b11-43f9-a59a-10f3226aa613": {
+                    "description": "Stir-fried Thai rice noodle with egg, bean sprouts, spring onions, and peanut in housesauce.",
+                    "imageUrl": null,
+                    "price": 895,
+                    "title": "Chicken Pad Thai",
+                    "uuid": "693be521-6b11-43f9-a59a-10f3226aa613",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "0caafd68-81da-404b-a9fc-eb03ec1d0b19": {
+                    "description": " Stir-fried Ginger (Pad Khing).",
+                    "imageUrl": null,
+                    "price": 1095,
+                    "title": "Seafood Stir-fried Ginger (Pad Khing)",
+                    "uuid": "0caafd68-81da-404b-a9fc-eb03ec1d0b19",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "872457cb-51c1-4316-9d09-60d42308306a": {
+                    "description": "Prawn crackers (also called prawn flavored chips and shrimps chips) make a great snack food for both kids and adults. Their texture and flavor goes very well with a beer.",
+                    "imageUrl": null,
+                    "price": 295,
+                    "title": "Prawn Crackers",
+                    "uuid": "872457cb-51c1-4316-9d09-60d42308306a",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "d1363fad-eeff-4e81-aca1-0a56831c9041": {
+                    "description": "Stir-fried with cashew nuts cooked in oyster sauce.",
+                    "imageUrl": null,
+                    "price": 1095,
+                    "title": "Seafood Stir Fried Cashew Nuts (Pad Med Ma Muang)",
+                    "uuid": "d1363fad-eeff-4e81-aca1-0a56831c9041",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "55f21159-9aa5-44f4-971a-96c6dbbef6e0": {
+                    "description": "Stir-fried flat noodles with onion, long green bean and chillies.",
+                    "imageUrl": null,
+                    "price": 1095,
+                    "title": "Seafood Pad Kee Mao",
+                    "uuid": "55f21159-9aa5-44f4-971a-96c6dbbef6e0",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "0a0550ab-fd24-4987-bc2b-982c48d32b1f": {
+                    "description": "Stir-fried Thai rice noodle with egg, bean sprouts, spring onions, and peanut in house\nsauce.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/c12b308a-44cc-4f74-8122-1af7bb9d24fb",
+                    "price": 995,
+                    "title": "Prawn Pad Thai",
+                    "uuid": "0a0550ab-fd24-4987-bc2b-982c48d32b1f",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "4ed46264-59a9-42e6-9a1e-37f86791fc54": {
+                    "description": "Stir-fried flat noodles, seasoned with egg, soya sauce, broccoli and vegetables.",
+                    "imageUrl": null,
+                    "price": 795,
+                    "title": "Vegetable Pad See Iew",
+                    "uuid": "4ed46264-59a9-42e6-9a1e-37f86791fc54",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "46f4abb9-6a1e-4c06-a2f3-3f81f42f8110": {
+                    "description": "A combination of chicken satay, prawn on toast, prawn spring roll, vegetable spring roll, samosa and Thai fish cake.\nPer Person.",
+                    "imageUrl": null,
+                    "price": 795,
+                    "title": "Thai Thai Mixed Platter",
+                    "uuid": "46f4abb9-6a1e-4c06-a2f3-3f81f42f8110",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "135a5cf5-3593-4b19-87ed-3399a16ecd47": {
+                    "description": "Slices roast duck cooked in coconut milk with pineapple, cherry tomatoes and red pepper.",
+                    "imageUrl": null,
+                    "price": 995,
+                    "title": "Duck Curry (Kang Ped Yang)",
+                    "uuid": "135a5cf5-3593-4b19-87ed-3399a16ecd47",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "f9ebb661-7fdd-4c38-ae81-f9fb554d8444": {
+                    "description": "Deep fried sea bass with Thai sweet chilli sauce.",
+                    "imageUrl": null,
+                    "price": 1395,
+                    "title": "Sea Bass With Thai Sweet Chilli (Pla Sam Rod)",
+                    "uuid": "f9ebb661-7fdd-4c38-ae81-f9fb554d8444",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "f26c6ec1-93e1-4580-992f-1e0e68666ace": {
+                    "description": "Stir-fried Thai rice noodle with egg, bean sprouts, spring onions, and peanut in housesauce.",
+                    "imageUrl": null,
+                    "price": 795,
+                    "title": "Vegetable Pad Thai",
+                    "uuid": "f26c6ec1-93e1-4580-992f-1e0e68666ace",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "6e95939a-ea6e-44c1-9984-12cf4a4539aa": {
+                    "description": "Stir-fried thin rice noodles, seasoned with egg, curry powder, bean sprouts, soya sauce and vegetables.",
+                    "imageUrl": null,
+                    "price": 995,
+                    "title": "Prawn Singapore Noodles",
+                    "uuid": "6e95939a-ea6e-44c1-9984-12cf4a4539aa",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "b0fa6fd9-2b17-4ac2-a3ba-b8e791aa1264": {
+                    "description": "Glutinous rice.",
+                    "imageUrl": null,
+                    "price": 295,
+                    "title": "Sticky Rice",
+                    "uuid": "b0fa6fd9-2b17-4ac2-a3ba-b8e791aa1264",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "6c100634-20f6-4389-b4f7-e4e896ce6acf": {
+                    "description": "Aromatic crispy duck served with steamed pancake, cucumber, spring onion and hoisin sauce.",
+                    "imageUrl": null,
+                    "price": 945,
+                    "title": "Aromatic Crispy Duck (Quarter)",
+                    "uuid": "6c100634-20f6-4389-b4f7-e4e896ce6acf",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "38294340-f489-4b5a-a11b-768797245e89": {
+                    "description": "Marinated prawns with bread crumbs deep fried in light butter served with Thai creamy sauce.",
+                    "imageUrl": null,
+                    "price": 595,
+                    "title": "Prawn Tempura",
+                    "uuid": "38294340-f489-4b5a-a11b-768797245e89",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "0faaab60-58b6-4b50-95cf-6ce642809fc7": {
+                    "description": "Stir fried scallops, prawns, mussels and fishes in a rich lemongrass, garlic, young\npepper corn and black pepper paste.",
+                    "imageUrl": null,
+                    "price": 1095,
+                    "title": "Mixed Seafood Pad Cha (Talay Pad Cha)",
+                    "uuid": "0faaab60-58b6-4b50-95cf-6ce642809fc7",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "c64bf284-e293-4b8d-921d-026829a24e03": {
+                    "description": "Mixed vegetables, Thai sweet and sour sauce, stir-fried with your choice of meat.",
+                    "imageUrl": null,
+                    "price": 995,
+                    "title": "Prawn Stir Fried Sweet And Sour (Pad Priew Wan)",
+                    "uuid": "c64bf284-e293-4b8d-921d-026829a24e03",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "630bd27d-e928-4640-981a-ed0cb4f8f500": {
+                    "description": "Stir-fried with vegetables and oyster sauce.",
+                    "imageUrl": null,
+                    "price": 1095,
+                    "title": "Seafood Stir Fried Oyster Sauce (Pad Nam Mon Hoy)",
+                    "uuid": "630bd27d-e928-4640-981a-ed0cb4f8f500",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "4f7a26a4-7bae-4bb5-ae35-ec880e4d8fd9": {
+                    "description": "Mixed vegetables, Thai sweet and sour sauce, stir-fried with your choice of meat.",
+                    "imageUrl": null,
+                    "price": 1095,
+                    "title": "Seafood Stir Fried Sweet And Sour (Pad Priew Wan)",
+                    "uuid": "4f7a26a4-7bae-4bb5-ae35-ec880e4d8fd9",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "9bf3bf28-fbb3-415a-aa89-627a8e6d0f01": {
+                    "description": "",
+                    "imageUrl": null,
+                    "price": 100,
+                    "title": "Soda Cans",
+                    "uuid": "9bf3bf28-fbb3-415a-aa89-627a8e6d0f01",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "e28e1459-0215-4200-a8df-d7023be79422": {
+                    "description": "Stir-fried flat noodles, seasoned with egg, soya sauce, broccoli and vegetables.",
+                    "imageUrl": null,
+                    "price": 895,
+                    "title": "Chicken Pad See Iew",
+                    "uuid": "e28e1459-0215-4200-a8df-d7023be79422",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "4b7f2ab1-5635-4120-8f53-055c3aefcabb": {
+                    "description": "Cooked in coconut milk, presented relatively dry and garnished with shredded limeleaves. This curry has mild and rich taste.",
+                    "imageUrl": null,
+                    "price": 1095,
+                    "title": "Seafood Panang Curry",
+                    "uuid": "4b7f2ab1-5635-4120-8f53-055c3aefcabb",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "00c135ac-8705-4229-88ff-83f0e793ed6a": {
+                    "description": "Jasmine rice mixed with coconut milk.",
+                    "imageUrl": null,
+                    "price": 295,
+                    "title": "Coconut Rice",
+                    "uuid": "00c135ac-8705-4229-88ff-83f0e793ed6a",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "abdb8f51-91c7-42e5-8a56-1c9707e42f02": {
+                    "description": "The famous Thai spicy and sour soup with lemongrass galangal and fresh herbs",
+                    "imageUrl": null,
+                    "price": 595,
+                    "title": "Tom Yam Soup",
+                    "uuid": "abdb8f51-91c7-42e5-8a56-1c9707e42f02",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "endorsement": {
+                        "text": "Vegetarian Option",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png"
+                    },
+                    "classifications": []
+                },
+                "1ca254fa-2ed5-4af3-9b28-feb93b970bec": {
+                    "description": "Northern style green papaya salad is a spicy salad made from shredded unripe papaya with palm sugar, tomatoes, tamarind, fresh chilli, lime juice and topped with cashew nut.",
+                    "imageUrl": null,
+                    "price": 845,
+                    "title": "Som Tam",
+                    "uuid": "1ca254fa-2ed5-4af3-9b28-feb93b970bec",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "3dbf3f6b-3712-4967-89b7-27f7fb208f1c": {
+                    "description": "Stir-fried thin rice noodles, seasoned with egg, curry powder, bean sprouts, soya sauce and vegetables.",
+                    "imageUrl": null,
+                    "price": 895,
+                    "title": "Beef Singapore Noodle",
+                    "uuid": "3dbf3f6b-3712-4967-89b7-27f7fb208f1c",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "06cb7f85-1d47-4da5-a4d8-d1443685ee8b": {
+                    "description": "Merlot Reserva, Echeverri, Chile for 2 glasses (Bottle 375ml)",
+                    "imageUrl": null,
+                    "price": 999,
+                    "title": "Red Wine",
+                    "uuid": "06cb7f85-1d47-4da5-a4d8-d1443685ee8b",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "349c955c-32a7-464c-946a-395a09dea860": {
+                    "description": "Stir-fried with onion, fresh chilli and Thai holy basil leaves",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/c27ce0b1-960f-445d-bfdc-8da328263b7a",
+                    "price": 695,
+                    "title": "Pad Bai Krapow",
+                    "uuid": "349c955c-32a7-464c-946a-395a09dea860",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "endorsement": {
+                        "text": "Vegetarian Option",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png"
+                    },
+                    "classifications": []
+                },
+                "15ef16eb-a6d1-4fee-ad70-9dac5ace03a6": {
+                    "description": "Marinated and seasoned duck spring rolls served with hoisin sauce.",
+                    "imageUrl": null,
+                    "price": 595,
+                    "title": "Duck Spring Rolls (Por Pia Ped)",
+                    "uuid": "15ef16eb-a6d1-4fee-ad70-9dac5ace03a6",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "7e4baa62-6346-4b57-b382-449d76a0f35c": {
+                    "description": "Deep-fried sweet potatoes with sesame on butter served with sweet chilli sauce.",
+                    "imageUrl": null,
+                    "price": 495,
+                    "title": "Sweet Potato Sesame",
+                    "uuid": "7e4baa62-6346-4b57-b382-449d76a0f35c",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "endorsement": {
+                        "text": "Vegetarian",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png"
+                    },
+                    "classifications": []
+                },
+                "ef6f0bdd-17bd-420c-9ab6-a448a256cd66": {
+                    "description": "Sauvignon Blanc, Echeverria, Chile for 2 glasses\nBottle 375ml.",
+                    "imageUrl": null,
+                    "price": 999,
+                    "title": "White Wine",
+                    "uuid": "ef6f0bdd-17bd-420c-9ab6-a448a256cd66",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "ca6f37d8-0047-4fc3-a4fb-bd2564052ed8": {
+                    "description": "Cooked in coconut milk, presented relatively dry and garnished with shredded lime\nleaves. This curry has mild and rich taste.",
+                    "imageUrl": null,
+                    "price": 995,
+                    "title": "Prawn Panang Curry",
+                    "uuid": "ca6f37d8-0047-4fc3-a4fb-bd2564052ed8",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "8a809269-48f5-4c03-93e1-734909f389ae": {
+                    "description": "Stir-fried Thai rice noodle with egg, bean sprouts, spring onions, and peanut in housesauce.",
+                    "imageUrl": null,
+                    "price": 895,
+                    "title": "Beef Pad Thai",
+                    "uuid": "8a809269-48f5-4c03-93e1-734909f389ae",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "a3ad8358-ae52-4dac-a232-5525054611cc": {
+                    "description": "Fragrant rice stir fried egg with spring onion.",
+                    "imageUrl": null,
+                    "price": 295,
+                    "title": "Egg Fried Rice",
+                    "uuid": "a3ad8358-ae52-4dac-a232-5525054611cc",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "9f309fc6-96ae-42b0-bd08-723bfac89457": {
+                    "description": "Stir-fried with onion, fresh chilli and Thai holy basil leaves.",
+                    "imageUrl": null,
+                    "price": 895,
+                    "title": "Chicken Stir Fried With Chilli And Basil (Pad Bai Krapow)",
+                    "uuid": "9f309fc6-96ae-42b0-bd08-723bfac89457",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "ec48e3c0-3a6c-4b01-8a57-bb100be92e17": {
+                    "description": "Grilled marinate chicken thigh served with sweet chilli sauce and tamarind sauce.",
+                    "imageUrl": null,
+                    "price": 995,
+                    "title": "Grilled Chicken",
+                    "uuid": "ec48e3c0-3a6c-4b01-8a57-bb100be92e17",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "85eb896d-d177-4b43-9eef-a9bdcbe4c25e": {
+                    "description": "Stir-fried with cashew nuts cooked in oyster sauce.",
+                    "imageUrl": null,
+                    "price": 895,
+                    "title": "Chicken Stir Fried Cashew Nuts (Pad Med Ma Muang)",
+                    "uuid": "85eb896d-d177-4b43-9eef-a9bdcbe4c25e",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "c686cb85-e362-4f0a-96fc-383b952c60be": {
+                    "description": "Stir-fried Thai rice noodle with egg, bean sprouts, spring onions, and peanut in housesauce.",
+                    "imageUrl": null,
+                    "price": 1095,
+                    "title": "Seafood Pad Thai",
+                    "uuid": "c686cb85-e362-4f0a-96fc-383b952c60be",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "65f9eb1b-d2b1-407a-98de-ebec69519349": {
+                    "description": "Crispy Duck Salad, seasoned with fresh variety of Thai herbs, ground rice, fish sauce, lime juice and chilli powder.",
+                    "imageUrl": null,
+                    "price": 995,
+                    "title": "Larb Ped",
+                    "uuid": "65f9eb1b-d2b1-407a-98de-ebec69519349",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "07a68825-65cf-4d69-aa8c-8c1bbf9c40a0": {
+                    "description": "Stir-fried with onion, fresh chilli and Thai holy basil leaves.",
+                    "imageUrl": "https://d1ralsognjng37.cloudfront.net/68d5b40d-2d99-4807-9365-9087dc688bea",
+                    "price": 995,
+                    "title": "Prawn Stir Fried With Chilli And Basil (Pad Bai Krapow)",
+                    "uuid": "07a68825-65cf-4d69-aa8c-8c1bbf9c40a0",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "cccb1dfe-0a8a-4c23-8a28-6ed25dee0e95": {
+                    "description": "A selection of mixed vegetable deep-fried on light batter served with sweet chilli sauce.",
+                    "imageUrl": null,
+                    "price": 495,
+                    "title": "Vegetable Tempura",
+                    "uuid": "cccb1dfe-0a8a-4c23-8a28-6ed25dee0e95",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "endorsement": {
+                        "text": "Vegetarian",
+                        "iconUrl": "https://uber-test.s3.amazonaws.com/badge_healthy@3x.png"
+                    },
+                    "classifications": []
+                },
+                "0ba79512-e9f8-457e-8f9a-2694bac73aca": {
+                    "description": "Steamed sea bass with soya sauce, spring onions and ginger.",
+                    "imageUrl": null,
+                    "price": 1395,
+                    "title": "Sea Bass With Ginger (Pla Nung Khing)",
+                    "uuid": "0ba79512-e9f8-457e-8f9a-2694bac73aca",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "e60679a9-a631-4f57-a905-f05f308849eb": {
+                    "description": "Cooked in coconut milk, presented relatively dry and garnished with shredded limeleaves. This curry has mild and rich taste.",
+                    "imageUrl": null,
+                    "price": 895,
+                    "title": "Beef Panang Curry",
+                    "uuid": "e60679a9-a631-4f57-a905-f05f308849eb",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "c2c31f2e-100f-4a07-bb9f-d2be0234c245": {
+                    "description": "Green curry is cooked in coconut milk with fresh green chilli paste, bamboo shoots and aubergine.",
+                    "imageUrl": null,
+                    "price": 895,
+                    "title": "Beef Green Curry (Kang Kiew Wan)",
+                    "uuid": "c2c31f2e-100f-4a07-bb9f-d2be0234c245",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "41416d92-17f4-4f8b-a9e9-886856b98855": {
+                    "description": "Stir-fried with onion, fresh chilli and Thai holy basil leaves.",
+                    "imageUrl": null,
+                    "price": 795,
+                    "title": "Vegetable Stir Fried With Chilli And Basil (Pad Bai Krapow)",
+                    "uuid": "41416d92-17f4-4f8b-a9e9-886856b98855",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "046b4e3d-2952-4e6e-881c-e9efb8783a79": {
+                    "description": "Sharing for two people.",
+                    "imageUrl": null,
+                    "price": 4000,
+                    "title": "Set Menu B",
+                    "uuid": "046b4e3d-2952-4e6e-881c-e9efb8783a79",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "5bbeeb5e-f3e5-4aab-a56c-a85bf2834cc3": {
+                    "description": "Mixed vegetables, Thai sweet and sour sauce, stir-fried with your choice of meat.",
+                    "imageUrl": null,
+                    "price": 895,
+                    "title": "Beef Stir Fried Sweet And Sour (Pad Priew Wan)",
+                    "uuid": "5bbeeb5e-f3e5-4aab-a56c-a85bf2834cc3",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "6a28dc6b-2f60-4967-86bf-3d6c6eeaa523": {
+                    "description": "Deep fried sea bass topped with Chu-Chee curry and creamy coconut milk, garnished with shredded lime leaves.",
+                    "imageUrl": null,
+                    "price": 1395,
+                    "title": "Sea Bass With Chu-Chee Curry (Pla Chu Chee)",
+                    "uuid": "6a28dc6b-2f60-4967-86bf-3d6c6eeaa523",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "503234e8-2bde-44a8-9268-c82af54791d4": {
+                    "description": "Stir-fried with onion, fresh chilli and Thai holy basil leaves.",
+                    "imageUrl": null,
+                    "price": 895,
+                    "title": "Beef Stir Fried With Chilli And Basil (Pad Bai Krapow)",
+                    "uuid": "503234e8-2bde-44a8-9268-c82af54791d4",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "550edb4d-7b65-4e9a-b896-9f97d2002fa7": {
+                    "description": "Riched red curry sauce with bamboo shoots, lime leaves and aubergine.",
+                    "imageUrl": null,
+                    "price": 1095,
+                    "title": "Seafood Red Curry (Kang Phed)",
+                    "uuid": "550edb4d-7b65-4e9a-b896-9f97d2002fa7",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "239569a9-cac4-4f03-9c35-05b5b69b0838": {
+                    "description": "Wok fried rice with mixed seafood, cashew nuts, egg, pineapple, raisins, spring\nonions, butter and curry powder.",
+                    "imageUrl": null,
+                    "price": 1095,
+                    "title": "Mixed Seafod Pineapple Fried Rice",
+                    "uuid": "239569a9-cac4-4f03-9c35-05b5b69b0838",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "d2f5ee9c-d23f-4593-ab10-6907035b844f": {
+                    "description": "Stir-fried with onion, fresh chilli and Thai holy basil leaves.",
+                    "imageUrl": null,
+                    "price": 1095,
+                    "title": "Seafood Stir Fried With Chilli And Basil (Pad Bai Krapow)",
+                    "uuid": "d2f5ee9c-d23f-4593-ab10-6907035b844f",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "fc025c9a-f623-4fcb-887d-39f065899ecf": {
+                    "description": "Stir-fried with cashew nuts cooked in oyster sauce.",
+                    "imageUrl": null,
+                    "price": 895,
+                    "title": "Beef Stir Fried Cashew Nuts (Pad Med Ma Muang)",
+                    "uuid": "fc025c9a-f623-4fcb-887d-39f065899ecf",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "d3be5347-9cd4-4fd9-81ea-d3e5500c31b4": {
+                    "description": "Steamed prawn and chicken Dim Sum served with light dark sauce.",
+                    "imageUrl": null,
+                    "price": 595,
+                    "title": "Steamed Dim Sum (Kah Nom Jeep)",
+                    "uuid": "d3be5347-9cd4-4fd9-81ea-d3e5500c31b4",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "5644f47c-7063-4aa4-8b0d-e1e369422455": {
+                    "description": "A combination of vegetable spring roll, corn cake, vegetable tempura, vegetable gyoza, and samosa.\nPer Person.",
+                    "imageUrl": null,
+                    "price": 695,
+                    "title": "Thai Thai Mixed Vegetable Platter",
+                    "uuid": "5644f47c-7063-4aa4-8b0d-e1e369422455",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "9a39fb63-9755-404a-99a8-54267c9fb186": {
+                    "description": "Green curry is cooked in coconut milk with fresh green chilli paste, bamboo shoots and aubergine.",
+                    "imageUrl": null,
+                    "price": 895,
+                    "title": "Chicken Green Curry (Kang Kiew Wan)",
+                    "uuid": "9a39fb63-9755-404a-99a8-54267c9fb186",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                },
+                "a873ed30-bbf2-49bb-8100-a8cff51e7cab": {
+                    "description": "Stir-fried with cashew nuts cooked in oyster sauce.",
+                    "imageUrl": null,
+                    "price": 995,
+                    "title": "Prawn Stir Fried Cashew Nuts (Pad Med Ma Muang)",
+                    "uuid": "a873ed30-bbf2-49bb-8100-a8cff51e7cab",
+                    "nutritionalInfo": {
+                        "allergens": "",
+                        "displayString": ""
+                    },
+                    "suspendReason": null,
+                    "suspendUntil": 0,
+                    "classifications": []
+                }
+            }
+        },
+        "sections": [
+            {
+                "subsectionUuids": [
+                    "2be66083-01b5-481b-8ed6-3f1aa18cfeb6",
+                    "8cf060b4-7ba1-4ca7-8d7a-0b7f3b599a0c",
+                    "969cc166-9cf2-4c69-b4e3-282ea7b93dfe",
+                    "c0f139b1-5f96-4eff-a4ff-67adfcfe45c2",
+                    "e9d4a3b4-e798-43aa-81bb-f49821b0f11a",
+                    "053ece59-a689-4e95-9fcb-1aa16d5dab39",
+                    "819524d0-b4e7-40b1-98e1-d6aed9748fd2",
+                    "9e057cd6-3a96-4b28-a0f1-895f94615114",
+                    "a143aff8-daad-4620-a3ee-31babcd6c325",
+                    "e776c8c5-fd5d-4e8d-88dc-eb3354720e87",
+                    "922e182e-c138-4f5e-a24a-8eedcaa23eee",
+                    "dc3fd9fb-8755-4688-bd18-6e1f73e3031b",
+                    "9c1045fc-dc61-41a1-9cef-489fcde0a81f",
+                    "11f1044f-8fb6-4275-a64a-48c19fd7c67d"
+                ],
+                "title": "Menu",
+                "subtitle": "5:00 PM – 10:45 PM",
+                "uuid": "bdf272d4-e503-410a-9f5f-07600f561909",
+                "isTop": true,
+                "isOnSale": false
+            }
+        ],
+        "subsectionsMap": {
+            "dc3fd9fb-8755-4688-bd18-6e1f73e3031b": {
+                "itemUuids": [
+                    "f92acfdb-3cb5-44b8-851e-f483ef862d7f",
+                    "00c135ac-8705-4229-88ff-83f0e793ed6a",
+                    "a3ad8358-ae52-4dac-a232-5525054611cc",
+                    "b0fa6fd9-2b17-4ac2-a3ba-b8e791aa1264",
+                    "a27ee459-3ebf-4682-b00e-072c427216a6"
+                ],
+                "subtitle": null,
+                "title": "Rice",
+                "uuid": "dc3fd9fb-8755-4688-bd18-6e1f73e3031b",
+                "displayType": null
+            },
+            "c0f139b1-5f96-4eff-a4ff-67adfcfe45c2": {
+                "itemUuids": [
+                    "0add8eee-22af-4c27-9b69-238078e36630",
+                    "046b4e3d-2952-4e6e-881c-e9efb8783a79"
+                ],
+                "subtitle": null,
+                "title": "Set Menus",
+                "uuid": "c0f139b1-5f96-4eff-a4ff-67adfcfe45c2",
+                "displayType": null
+            },
+            "9c1045fc-dc61-41a1-9cef-489fcde0a81f": {
+                "itemUuids": [
+                    "9bf3bf28-fbb3-415a-aa89-627a8e6d0f01"
+                ],
+                "subtitle": null,
+                "title": "Drinks",
+                "uuid": "9c1045fc-dc61-41a1-9cef-489fcde0a81f",
+                "displayType": null
+            },
+            "11f1044f-8fb6-4275-a64a-48c19fd7c67d": {
+                "itemUuids": [
+                    "b4bac2e0-135f-470b-b709-88bb5e8b2736",
+                    "06cb7f85-1d47-4da5-a4d8-d1443685ee8b",
+                    "ef6f0bdd-17bd-420c-9ab6-a448a256cd66"
+                ],
+                "subtitle": null,
+                "title": "Beer & Wine",
+                "uuid": "11f1044f-8fb6-4275-a64a-48c19fd7c67d",
+                "displayType": null
+            },
+            "922e182e-c138-4f5e-a24a-8eedcaa23eee": {
+                "itemUuids": [
+                    "e165764e-bf43-487e-aa75-0c091e63a841",
+                    "893ee40e-b88d-479c-95da-63200605538f",
+                    "6282ce27-aa5f-4186-bddc-bac0811c0d69"
+                ],
+                "subtitle": null,
+                "title": "Vegetables Side Dishes",
+                "uuid": "922e182e-c138-4f5e-a24a-8eedcaa23eee",
+                "displayType": null
+            },
+            "9e057cd6-3a96-4b28-a0f1-895f94615114": {
+                "itemUuids": [
+                    "0a0550ab-fd24-4987-bc2b-982c48d32b1f",
+                    "30e88a7a-3f23-42c0-a66b-962d9b5c5112",
+                    "1ea30e2d-bcbe-4b6a-8476-80ac06115715",
+                    "6e95939a-ea6e-44c1-9984-12cf4a4539aa",
+                    "fc03dba2-cc55-4956-b185-d54cbf07adac",
+                    "3dbf3f6b-3712-4967-89b7-27f7fb208f1c",
+                    "55f21159-9aa5-44f4-971a-96c6dbbef6e0",
+                    "33e74c47-f0be-4ff2-9a7d-b80d06208331",
+                    "065c77fd-fd36-4242-8202-db26f15f98d3",
+                    "ed1e65e0-ce0a-48b6-8565-88deaf1ee2b3",
+                    "4ed46264-59a9-42e6-9a1e-37f86791fc54",
+                    "c686cb85-e362-4f0a-96fc-383b952c60be",
+                    "f26c6ec1-93e1-4580-992f-1e0e68666ace",
+                    "693be521-6b11-43f9-a59a-10f3226aa613",
+                    "2cd3ba94-2a5a-4215-9d01-484fe74383ea",
+                    "8a809269-48f5-4c03-93e1-734909f389ae",
+                    "e28e1459-0215-4200-a8df-d7023be79422",
+                    "27b31724-a756-4adc-88db-386a8d941262",
+                    "a7cac316-bfb3-45dc-beff-92bba3e11e2c",
+                    "504c6011-68bd-48f2-8bed-728f65045bf4"
+                ],
+                "subtitle": null,
+                "title": "Noodles",
+                "uuid": "9e057cd6-3a96-4b28-a0f1-895f94615114",
+                "displayType": null
+            },
+            "e9d4a3b4-e798-43aa-81bb-f49821b0f11a": {
+                "itemUuids": [
+                    "51dd36c2-4c46-4a97-8c86-14935d09f14c",
+                    "2a75827e-31ce-4b40-9dcb-02f17180b3e5",
+                    "0faaab60-58b6-4b50-95cf-6ce642809fc7",
+                    "c6be723f-5d00-4527-82be-61e6e722c770",
+                    "239569a9-cac4-4f03-9c35-05b5b69b0838",
+                    "75173cb4-fe35-4072-84be-4322a6b6020e",
+                    "ec48e3c0-3a6c-4b01-8a57-bb100be92e17"
+                ],
+                "subtitle": null,
+                "title": "Chef's Recommended Dishes",
+                "uuid": "e9d4a3b4-e798-43aa-81bb-f49821b0f11a",
+                "displayType": null
+            },
+            "8cf060b4-7ba1-4ca7-8d7a-0b7f3b599a0c": {
+                "itemUuids": [
+                    "872457cb-51c1-4316-9d09-60d42308306a"
+                ],
+                "subtitle": null,
+                "title": "Appetizers",
+                "uuid": "8cf060b4-7ba1-4ca7-8d7a-0b7f3b599a0c",
+                "displayType": null
+            },
+            "2be66083-01b5-481b-8ed6-3f1aa18cfeb6": {
+                "itemUuids": [
+                    "80e8a446-2bb1-4d26-a43a-da7c58f92a25",
+                    "2eeea0a8-d32d-4195-a93c-0c0334fbd116",
+                    "349c955c-32a7-464c-946a-395a09dea860",
+                    "e9853dad-9f65-4062-8de3-2093c644043a"
+                ],
+                "subtitle": null,
+                "title": "Most Popular",
+                "uuid": "2be66083-01b5-481b-8ed6-3f1aa18cfeb6",
+                "displayType": null
+            },
+            "a143aff8-daad-4620-a3ee-31babcd6c325": {
+                "itemUuids": [
+                    "0ba79512-e9f8-457e-8f9a-2694bac73aca",
+                    "f9ebb661-7fdd-4c38-ae81-f9fb554d8444",
+                    "6a28dc6b-2f60-4967-86bf-3d6c6eeaa523",
+                    "fcb01117-eeec-46df-bb33-21fe69d1881c"
+                ],
+                "subtitle": null,
+                "title": "Fish",
+                "uuid": "a143aff8-daad-4620-a3ee-31babcd6c325",
+                "displayType": null
+            },
+            "969cc166-9cf2-4c69-b4e3-282ea7b93dfe": {
+                "itemUuids": [
+                    "46f4abb9-6a1e-4c06-a2f3-3f81f42f8110",
+                    "5644f47c-7063-4aa4-8b0d-e1e369422455",
+                    "6c100634-20f6-4389-b4f7-e4e896ce6acf",
+                    "a2c47e45-58fd-4416-a649-9a55d112e2bc",
+                    "38294340-f489-4b5a-a11b-768797245e89",
+                    "d3be5347-9cd4-4fd9-81ea-d3e5500c31b4",
+                    "1d948a16-4bb3-4dab-b5a2-1fd746a201ff",
+                    "5c4afcb0-1131-4bc6-8357-50e480203988",
+                    "3a19eec4-1c2c-469e-be2c-044ee5ada859",
+                    "88a05ed8-67a8-4683-ab34-975d14ea4b20",
+                    "cccb1dfe-0a8a-4c23-8a28-6ed25dee0e95",
+                    "5b402b9c-aad2-4084-9223-831693e54298",
+                    "cdaea5ab-3737-4b51-b69f-37957263d65f",
+                    "3bd5bcc0-f39b-4e13-902f-0b11626598d1",
+                    "7e4baa62-6346-4b57-b382-449d76a0f35c",
+                    "ce7b98e0-a403-4278-92c8-c0d065c1fabe",
+                    "15ef16eb-a6d1-4fee-ad70-9dac5ace03a6"
+                ],
+                "subtitle": null,
+                "title": "Starters",
+                "uuid": "969cc166-9cf2-4c69-b4e3-282ea7b93dfe",
+                "displayType": null
+            },
+            "819524d0-b4e7-40b1-98e1-d6aed9748fd2": {
+                "itemUuids": [
+                    "c7d286e1-5880-405d-9f28-89d3d665e177",
+                    "2c6b496e-f08f-437a-905f-14b8b2852948",
+                    "ca6f37d8-0047-4fc3-a4fb-bd2564052ed8",
+                    "bdbe522c-97bd-4fb4-9bcf-85848e80ca36",
+                    "135a5cf5-3593-4b19-87ed-3399a16ecd47",
+                    "9ff2e920-a81a-4923-b1fc-5de060ae78cc",
+                    "4b7f2ab1-5635-4120-8f53-055c3aefcabb",
+                    "e60679a9-a631-4f57-a905-f05f308849eb",
+                    "c7f546d4-8883-4a1d-bf9a-072e474e8908",
+                    "c2c31f2e-100f-4a07-bb9f-d2be0234c245",
+                    "89900ac9-a5d4-4f1c-b895-8258c91b53c5",
+                    "f6ee2ea4-98c2-46a8-abfa-0b303fe24ff8",
+                    "550edb4d-7b65-4e9a-b896-9f97d2002fa7",
+                    "9e143fff-f5c1-4e54-bf17-88409e86ba1c",
+                    "0b8caa46-abe6-49e2-a97f-46fd2ef6dcc4",
+                    "c5f56d76-0e7a-4d89-98aa-f97b03c8f29a",
+                    "9a39fb63-9755-404a-99a8-54267c9fb186"
+                ],
+                "subtitle": null,
+                "title": "Thai Curries",
+                "uuid": "819524d0-b4e7-40b1-98e1-d6aed9748fd2",
+                "displayType": null
+            },
+            "053ece59-a689-4e95-9fcb-1aa16d5dab39": {
+                "itemUuids": [
+                    "07a68825-65cf-4d69-aa8c-8c1bbf9c40a0",
+                    "9ec68455-5b62-497e-a56e-5fe8cf4709f3",
+                    "a873ed30-bbf2-49bb-8100-a8cff51e7cab",
+                    "c64bf284-e293-4b8d-921d-026829a24e03",
+                    "71e13505-bdd0-4a46-996c-ccfba8e32343",
+                    "d2f5ee9c-d23f-4593-ab10-6907035b844f",
+                    "d1363fad-eeff-4e81-aca1-0a56831c9041",
+                    "98edad8d-190a-4938-ac5c-388dd0049154",
+                    "db8d88b0-6e71-4fc8-9c92-87ab3e8b2155",
+                    "630bd27d-e928-4640-981a-ed0cb4f8f500",
+                    "d8edd409-aed7-4606-9591-cd2ce82e2403",
+                    "85eb896d-d177-4b43-9eef-a9bdcbe4c25e",
+                    "fc025c9a-f623-4fcb-887d-39f065899ecf",
+                    "5ede7ae7-662c-4a5e-b1d2-040f4d2db7b5",
+                    "9f309fc6-96ae-42b0-bd08-723bfac89457",
+                    "5bbeeb5e-f3e5-4aab-a56c-a85bf2834cc3",
+                    "4f7a7e53-2627-45fb-87da-19e7f8be78d0",
+                    "41416d92-17f4-4f8b-a9e9-886856b98855",
+                    "ac70ef7d-ee03-4ea8-8422-36563be7941b",
+                    "2846403b-2d79-4604-a362-f5604ca3b65f",
+                    "503234e8-2bde-44a8-9268-c82af54791d4",
+                    "0caafd68-81da-404b-a9fc-eb03ec1d0b19",
+                    "aa080de2-b778-4f38-84ef-f5becece0936",
+                    "2dfe500f-cd63-4ebe-9177-c015267b93b7",
+                    "4f7a26a4-7bae-4bb5-ae35-ec880e4d8fd9"
+                ],
+                "subtitle": null,
+                "title": "Stir Fried Dishes",
+                "uuid": "053ece59-a689-4e95-9fcb-1aa16d5dab39",
+                "displayType": null
+            },
+            "e776c8c5-fd5d-4e8d-88dc-eb3354720e87": {
+                "itemUuids": [
+                    "abdb8f51-91c7-42e5-8a56-1c9707e42f02",
+                    "c245f3ae-356b-4091-bdfb-3b77230a4853",
+                    "a697c8e6-ab79-4c72-b627-bfb77cd16da9",
+                    "95acde2d-3aca-4a49-a949-cafc95f6ee61",
+                    "1ca254fa-2ed5-4af3-9b28-feb93b970bec",
+                    "65f9eb1b-d2b1-407a-98de-ebec69519349"
+                ],
+                "subtitle": null,
+                "title": "Soups and Salads",
+                "uuid": "e776c8c5-fd5d-4e8d-88dc-eb3354720e87",
+                "displayType": null
+            }
+        },
+        "title": "Thai Thai Restaurant",
+        "uuid": "7bb78e44-8cfd-4438-9d10-15427bf40a26",
+        "categories": [
+            "₴",
+            "Азіатська",
+            "Тайська",
+            "Noodles"
+        ],
+        "cuisineList": [
+            "Азіатська",
+            "Тайська",
+            "Noodles"
+        ],
+        "priceBucket": "₴",
+        "etaRange": null,
+        "ratingBadge": {
+            "text": "<span><span style=\"font-family: inherit; color: #3a3a48;\">4.2 <img src=\"https://d1a3f4spazzrp4.cloudfront.net/static/images/Star_Black_Eats_3.png\" width=\"14\" height=\"14\" vertical-align=\"middle\"> </span><span style=\"font-family: inherit; color: #757575;\">(69)</span></span>"
+        },
+        "disclaimerBadge": {
+            "text": "<span style=\"font-family: inherit;\">Allergies, intolerances and dietary requirements: before ordering, please contact the restaurant directly and ask to speak to a member of staff who can assist if you require information about ingredients and help cater for your needs. For more information on food safety and hygiene, please visit the <a href=\"http://ratings.food.gov.uk/\" style=\"color:#61ad5f;\">Food Standards Agency</a></span>"
+        },
+        "fareBadge": null,
+        "fareInfo": {
+            "serviceFeeCents": null
+        },
+        "promotion": null,
+        "shouldIndex": false,
+        "heroImageUrls": [
+            {
+                "url": "https://duyt4h9nfnj50.cloudfront.net/resized/fc5f9ffa73b94c9e56c5291497522d39-w240-b4.jpg",
+                "width": 240
+            },
+            {
+                "url": "https://duyt4h9nfnj50.cloudfront.net/resized/fc5f9ffa73b94c9e56c5291497522d39-w550-dd.jpg",
+                "width": 550
+            },
+            {
+                "url": "https://duyt4h9nfnj50.cloudfront.net/resized/fc5f9ffa73b94c9e56c5291497522d39-w640-51.jpg",
+                "width": 640
+            },
+            {
+                "url": "https://duyt4h9nfnj50.cloudfront.net/resized/fc5f9ffa73b94c9e56c5291497522d39-w750-75.jpg",
+                "width": 750
+            },
+            {
+                "url": "https://duyt4h9nfnj50.cloudfront.net/resized/fc5f9ffa73b94c9e56c5291497522d39-w1080-93.jpg",
+                "width": 1080
+            },
+            {
+                "url": "https://duyt4h9nfnj50.cloudfront.net/resized/fc5f9ffa73b94c9e56c5291497522d39-w2880-8b.jpg",
+                "width": 2880
+            }
+        ],
+        "isOpen": false,
+        "currencyCode": "GBP",
+        "closedMessage": "Opens at 5:00 PM",
+        "location": {
+            "address": "Thai Thai Restaurant, London, England EC1V 9BD",
+            "streetAddress": "Thai Thai Restaurant",
+            "city": "London",
+            "country": "GB",
+            "postalCode": "EC1V 9BD",
+            "region": "England",
+            "latitude": 51.524735,
+            "longitude": -0.093134
+        },
+        "isDeliveryThirdParty": false,
+        "hours": [
+            {
+                "dayRange": "Sunday",
+                "sectionHours": [
+                    {
+                        "startTime": 1020,
+                        "endTime": 1350,
+                        "sectionTitle": "Menu"
+                    }
+                ]
+            },
+            {
+                "dayRange": "Monday - Friday",
+                "sectionHours": [
+                    {
+                        "startTime": 720,
+                        "endTime": 900,
+                        "sectionTitle": "Menu"
+                    },
+                    {
+                        "startTime": 1020,
+                        "endTime": 1365,
+                        "sectionTitle": "Menu"
+                    }
+                ]
+            },
+            {
+                "dayRange": "Saturday",
+                "sectionHours": [
+                    {
+                        "startTime": 1020,
+                        "endTime": 1365,
+                        "sectionTitle": "Menu"
+                    }
+                ]
+            }
+        ],
+        "disableOrderInstruction": false,
+        "disableCheckoutInstruction": false,
+        "nuggets": [],
+        "isWithinDeliveryRange": false,
+        "slug": "thai-thai-restaurant",
+        "citySlug": "london",
+        "phoneNumber": "+442074905230",
+        "metaJson": "{\"@context\":\"http:\\u002F\\u002Fschema.org\",\"@type\":\"Restaurant\",\"@id\":\"https:\\u002F\\u002Fwww.ubereats.com\\u002Fen-UA\\u002Flondon\\u002Ffood-delivery\\u002Fthai-thai-restaurant\\u002Fe7eORIz9RDidEBVCe_QKJg\\u002F\",\"name\":\"Thai Thai Restaurant\",\"priceRange\":\"₴\",\"potentialAction\":{\"@type\":\"OrderAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\\u002F\\u002Fwww.ubereats.com\\u002Fen-UA\\u002Flondon\\u002Ffood-delivery\\u002Fthai-thai-restaurant\\u002Fe7eORIz9RDidEBVCe_QKJg\\u002F?utm_campaign=order-action&utm_medium=organic\",\"inLanguage\":\"English\",\"actionPlatform\":[\"http:\\u002F\\u002Fschema.org\\u002FDesktopWebPlatform\",\"http:\\u002F\\u002Fschema.org\\u002FMobileWebPlatform\"]},\"deliveryMethod\":[\"http:\\u002F\\u002Fpurl.org\\u002Fgoodrelations\\u002Fv1#DeliveryModeOwnFleet\"]},\"address\":{\"@type\":\"PostalAddress\",\"addressLocality\":\"London\",\"addressRegion\":\"England\",\"postalCode\":\"EC1V 9BD\",\"addressCountry\":\"GB\",\"streetAddress\":\"Thai Thai Restaurant\"},\"geo\":{\"@type\":\"GeoCoordinates\",\"latitude\":51.524735,\"longitude\":-0.093134}}",
+        "promoTrackings": [],
+        "suggestedPromotion": {
+            "text": "",
+            "promotionUuid": ""
+        },
+        "supportedDiningModes": [
+            {
+                "mode": "DELIVERY",
+                "title": "Delivery",
+                "isSelected": true,
+                "isAvailable": true
+            }
+        ],
+        "isPreview": false,
+        "pinnedInfo": null
+    }
+}
